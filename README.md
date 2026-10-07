@@ -57,4 +57,7 @@ npm run check      # same validation, but fails if a generated file is stale
 
 ## Licensing
 
-Each pack declares its own `license` in its manifest, and `source` says where the content came from. Only add content you wrote yourself or content whose license allows redistribution.
+- **Code** (`scripts/`, `schema/`, `.github/`) is under the [MIT License](LICENSE).
+- **Content** (`vocabulary/`, `grammar/`, `catalog/`) written by the Alavo contributors is dedicated to the public domain under [CC0 1.0](LICENSE-CONTENT).
+
+Each pack also declares its own `license` in its manifest, and `source` says where the content came from. A pack taken from another source keeps that source's license. Only add content you wrote yourself or content whose license allows redistribution. By opening a pull request you agree that your contribution is released under the license that covers the files you changed.

@@ -1,6 +1,7 @@
 {
   "name": "alavo-library",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "description": "Open learning content for Alavo, organized by language pair.",
   "scripts": {
