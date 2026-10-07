@@ -15,6 +15,7 @@ Every change follows the same loop: edit files, run `npm run build`, commit the 
   "description": "Words for airports, hotels and getting around.",
   "category": "travel",
   "level": "A2",
+  "order": 1,
   "sourceLang": "en",
   "targetLang": "vi",
   "version": "1.0.0",
@@ -57,6 +58,7 @@ Only `word` is required, plus at least one of `definition` or `translation`. `ex
   "description": "Talk about things that already happened.",
   "category": "tenses",
   "level": "A2",
+  "order": 1,
   "sourceLang": "en",
   "targetLang": "vi",
   "version": "1.0.0",
@@ -114,6 +116,12 @@ A fill-in-the-blank exercise marks the gap with `___` in the prompt and lists ev
   "explanation": "Watch ends in -ch, so it takes -es: watches."
 }
 ```
+
+## Order of packs and lessons
+
+Learners see packs from easiest to hardest, so every manifest has an `order` number (1 or higher). The catalog sorts packs of the same type first by `level` (A1 to C2, then `mixed`), then by `order`, then by `id`. Two packs of the same type and level cannot share an `order`, and the build fails if they do. Numbering is per language pair, because each pair has its own folder and its own catalog, so `en-vi` and `en-ja` can order the same topics differently.
+
+Lessons inside a grammar course are shown in the order of the `lessons` array in the manifest, so write them in the order you want them taught.
 
 ## Link related packs
 
