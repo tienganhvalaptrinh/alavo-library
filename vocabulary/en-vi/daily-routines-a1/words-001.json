@@ -1,0 +1,62 @@
+[
+  {
+    "word": "alarm",
+    "phonetic": "/əˈlɑːrm/",
+    "definition": "a device that makes a loud sound to wake you up",
+    "translation": "đồng hồ báo thức",
+    "exampleSentence": "My alarm rings at six.",
+    "exampleTranslation": "Đồng hồ báo thức của tôi reo lúc sáu giờ.",
+    "pos": "noun",
+    "difficultyLevel": "A1"
+  },
+  {
+    "word": "wake up",
+    "phonetic": "/weɪk ʌp/",
+    "definition": "to stop sleeping",
+    "translation": "thức dậy",
+    "exampleSentence": "I wake up at six every morning.",
+    "exampleTranslation": "Tôi thức dậy lúc sáu giờ mỗi sáng.",
+    "pos": "verb",
+    "difficultyLevel": "A1"
+  },
+  {
+    "word": "shower",
+    "phonetic": "/ˈʃaʊər/",
+    "definition": "a wash under falling water",
+    "translation": "việc tắm vòi sen",
+    "exampleSentence": "He takes a shower every morning.",
+    "exampleTranslation": "Anh ấy tắm vòi sen mỗi sáng.",
+    "pos": "noun",
+    "difficultyLevel": "A1"
+  },
+  {
+    "word": "brush",
+    "phonetic": "/brʌʃ/",
+    "definition": "to clean something with a brush",
+    "translation": "chải, đánh (răng)",
+    "exampleSentence": "I brush my teeth after breakfast.",
+    "exampleTranslation": "Tôi đánh răng sau bữa sáng.",
+    "pos": "verb",
+    "difficultyLevel": "A1"
+  },
+  {
+    "word": "breakfast",
+    "phonetic": "/ˈbrekfəst/",
+    "definition": "the first meal of the day",
+    "translation": "bữa sáng",
+    "exampleSentence": "She has breakfast at seven.",
+    "exampleTranslation": "Cô ấy ăn sáng lúc bảy giờ.",
+    "pos": "noun",
+    "difficultyLevel": "A1"
+  },
+  {
+    "word": "commute",
+    "phonetic": "/kəˈmjuːt/",
+    "definition": "to travel regularly between home and work or school",
+    "translation": "đi làm, đi học hằng ngày",
+    "exampleSentence": "I commute to work by bus.",
+    "exampleTranslation": "Tôi đi làm bằng xe buýt.",
+    "pos": "verb",
+    "difficultyLevel": "A2"
+  }
+]

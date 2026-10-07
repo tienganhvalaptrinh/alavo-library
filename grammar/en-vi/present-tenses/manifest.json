@@ -1,0 +1,46 @@
+{
+  "id": "present-tenses",
+  "type": "grammar",
+  "title": "Present tenses",
+  "description": "Hai thì hiện tại đầu tiên: hiện tại đơn và hiện tại tiếp diễn.",
+  "category": "tenses",
+  "level": "A1",
+  "sourceLang": "en",
+  "targetLang": "vi",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "source": "Written by the Alavo team",
+  "relatedPacks": [
+    {
+      "type": "vocabulary",
+      "id": "daily-routines-a1"
+    }
+  ],
+  "lessonCount": 2,
+  "lessons": [
+    {
+      "id": "present-simple",
+      "title": "Thì hiện tại đơn",
+      "level": "A1",
+      "path": "present-simple/lesson.md",
+      "sha256": "8fe6b3e03903c6b95a3e05b41803766d1f745100a9f11b4e72152c9e8b8ce77a",
+      "exercises": {
+        "path": "present-simple/exercises.json",
+        "count": 4,
+        "sha256": "335fe407b0550625828685286a2caadb3d57a67fb9f5de9fb7d4ee2261d69437"
+      }
+    },
+    {
+      "id": "present-continuous",
+      "title": "Thì hiện tại tiếp diễn",
+      "level": "A1",
+      "path": "present-continuous/lesson.md",
+      "sha256": "1573a3dc7598d43b13ed33b42d4c41298f34fee049c812db783eb7ecc9f405cb",
+      "exercises": {
+        "path": "present-continuous/exercises.json",
+        "count": 4,
+        "sha256": "a36ae93f33c501967279feae0bb7db92c17bd81612e5f375d769d64afcf33503"
+      }
+    }
+  ]
+}

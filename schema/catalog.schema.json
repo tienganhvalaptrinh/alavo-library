@@ -1,0 +1,54 @@
+{
+  "$id": "catalog.schema.json",
+  "type": "array",
+  "items": {
+    "oneOf": [
+      {
+        "allOf": [{ "$ref": "common.schema.json#/$defs/packHeader" }],
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["manifest", "wordCount"],
+        "properties": {
+          "id": {},
+          "type": { "const": "vocabulary" },
+          "title": {},
+          "description": {},
+          "category": {},
+          "level": {},
+          "sourceLang": {},
+          "targetLang": {},
+          "version": {},
+          "license": {},
+          "source": {},
+          "coverUrl": {},
+          "relatedPacks": {},
+          "manifest": { "type": "string", "pattern": "^vocabulary/.+/manifest\\.json$" },
+          "wordCount": { "type": "integer", "minimum": 1 }
+        }
+      },
+      {
+        "allOf": [{ "$ref": "common.schema.json#/$defs/packHeader" }],
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["manifest", "lessonCount"],
+        "properties": {
+          "id": {},
+          "type": { "const": "grammar" },
+          "title": {},
+          "description": {},
+          "category": {},
+          "level": {},
+          "sourceLang": {},
+          "targetLang": {},
+          "version": {},
+          "license": {},
+          "source": {},
+          "coverUrl": {},
+          "relatedPacks": {},
+          "manifest": { "type": "string", "pattern": "^grammar/.+/manifest\\.json$" },
+          "lessonCount": { "type": "integer", "minimum": 1 }
+        }
+      }
+    ]
+  }
+}

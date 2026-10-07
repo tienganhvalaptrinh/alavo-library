@@ -1,0 +1,44 @@
+[
+  {
+    "id": "present-tenses",
+    "type": "grammar",
+    "title": "Present tenses",
+    "description": "Hai thì hiện tại đầu tiên: hiện tại đơn và hiện tại tiếp diễn.",
+    "category": "tenses",
+    "level": "A1",
+    "sourceLang": "en",
+    "targetLang": "vi",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "source": "Written by the Alavo team",
+    "relatedPacks": [
+      {
+        "type": "vocabulary",
+        "id": "daily-routines-a1"
+      }
+    ],
+    "manifest": "grammar/en-vi/present-tenses/manifest.json",
+    "lessonCount": 2
+  },
+  {
+    "id": "daily-routines-a1",
+    "type": "vocabulary",
+    "title": "Daily routines",
+    "description": "Everyday words for talking about your morning, your day and your evening.",
+    "category": "daily-life",
+    "level": "A1",
+    "sourceLang": "en",
+    "targetLang": "vi",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "source": "Written by the Alavo team",
+    "relatedPacks": [
+      {
+        "type": "grammar",
+        "id": "present-tenses"
+      }
+    ],
+    "manifest": "vocabulary/en-vi/daily-routines-a1/manifest.json",
+    "wordCount": 12
+  }
+]

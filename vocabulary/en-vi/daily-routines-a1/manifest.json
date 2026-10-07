@@ -1,0 +1,32 @@
+{
+  "id": "daily-routines-a1",
+  "type": "vocabulary",
+  "title": "Daily routines",
+  "description": "Everyday words for talking about your morning, your day and your evening.",
+  "category": "daily-life",
+  "level": "A1",
+  "sourceLang": "en",
+  "targetLang": "vi",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "source": "Written by the Alavo team",
+  "relatedPacks": [
+    {
+      "type": "grammar",
+      "id": "present-tenses"
+    }
+  ],
+  "wordCount": 12,
+  "files": [
+    {
+      "path": "words-001.json",
+      "count": 6,
+      "sha256": "60675b8cd1ce09838681665bc874bdec89f9196202a9f232c28fe748873af714"
+    },
+    {
+      "path": "words-002.json",
+      "count": 6,
+      "sha256": "7e623c525cc2fd742fee03bf197886750012f33f60d65587a6e2271c8f4d3616"
+    }
+  ]
+}

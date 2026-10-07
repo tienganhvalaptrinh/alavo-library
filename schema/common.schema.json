@@ -1,0 +1,77 @@
+{
+  "$id": "common.schema.json",
+  "$defs": {
+    "langCode": {
+      "type": "string",
+      "pattern": "^[a-z]{2,3}(-[A-Za-z0-9]+)*$"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "maxLength": 64
+    },
+    "cefrLevel": {
+      "enum": ["A1", "A2", "B1", "B2", "C1", "C2"]
+    },
+    "packLevel": {
+      "enum": ["A1", "A2", "B1", "B2", "C1", "C2", "mixed"]
+    },
+    "semver": {
+      "type": "string",
+      "pattern": "^(0|[1-9]\\d*)\\.(0|[1-9]\\d*)\\.(0|[1-9]\\d*)$"
+    },
+    "sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "httpsUrl": {
+      "type": "string",
+      "pattern": "^https://",
+      "maxLength": 500
+    },
+    "relatedPack": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["type", "id"],
+      "properties": {
+        "type": { "enum": ["vocabulary", "grammar"] },
+        "id": { "$ref": "#/$defs/slug" }
+      }
+    },
+    "packHeader": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "title",
+        "description",
+        "category",
+        "level",
+        "sourceLang",
+        "targetLang",
+        "version",
+        "license",
+        "source"
+      ],
+      "properties": {
+        "id": { "$ref": "#/$defs/slug" },
+        "type": { "enum": ["vocabulary", "grammar"] },
+        "title": { "type": "string", "minLength": 1, "maxLength": 80 },
+        "description": { "type": "string", "minLength": 1, "maxLength": 300 },
+        "category": { "$ref": "#/$defs/slug" },
+        "level": { "$ref": "#/$defs/packLevel" },
+        "sourceLang": { "$ref": "#/$defs/langCode" },
+        "targetLang": { "$ref": "#/$defs/langCode" },
+        "version": { "$ref": "#/$defs/semver" },
+        "license": { "type": "string", "minLength": 1, "maxLength": 40 },
+        "source": { "type": "string", "minLength": 1, "maxLength": 300 },
+        "coverUrl": { "$ref": "#/$defs/httpsUrl" },
+        "relatedPacks": {
+          "type": "array",
+          "maxItems": 10,
+          "items": { "$ref": "#/$defs/relatedPack" }
+        }
+      }
+    }
+  }
+}

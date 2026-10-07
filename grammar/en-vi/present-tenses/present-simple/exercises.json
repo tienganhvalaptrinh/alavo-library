@@ -1,0 +1,32 @@
+[
+  {
+    "id": "goes-to-school",
+    "type": "choice",
+    "prompt": "She ___ to school every day.",
+    "options": ["go", "goes", "going"],
+    "answer": 1,
+    "explanation": "She là ngôi thứ ba số ít nên động từ thêm -es: goes."
+  },
+  {
+    "id": "they-dont-like",
+    "type": "choice",
+    "prompt": "They ___ like coffee.",
+    "options": ["don't", "doesn't", "isn't"],
+    "answer": 0,
+    "explanation": "They đi với do not (don't). Does not chỉ dùng cho he, she, it."
+  },
+  {
+    "id": "he-watches-tv",
+    "type": "fill-blank",
+    "prompt": "He ___ (watch) TV in the evening.",
+    "answers": ["watches"],
+    "explanation": "Watch tận cùng -ch nên thêm -es: watches."
+  },
+  {
+    "id": "do-you-speak",
+    "type": "fill-blank",
+    "prompt": "___ you speak English?",
+    "answers": ["Do"],
+    "explanation": "Câu hỏi với you dùng Do ở đầu câu."
+  }
+]

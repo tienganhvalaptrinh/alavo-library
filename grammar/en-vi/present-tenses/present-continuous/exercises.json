@@ -1,0 +1,37 @@
+[
+  {
+    "id": "baby-sleeping",
+    "type": "choice",
+    "prompt": "Look! The baby ___.",
+    "options": ["sleeps", "is sleeping", "sleep"],
+    "answer": 1,
+    "explanation": "Look! báo hiệu việc đang xảy ra ngay lúc nói nên dùng is sleeping."
+  },
+  {
+    "id": "reading-now",
+    "type": "choice",
+    "prompt": "I ___ a book at the moment.",
+    "options": ["read", "am reading", "reads"],
+    "answer": 1,
+    "explanation": "At the moment chỉ việc đang diễn ra, dùng am reading."
+  },
+  {
+    "id": "making-dinner",
+    "type": "fill-blank",
+    "prompt": "She is ___ (make) dinner now.",
+    "answers": ["making"],
+    "explanation": "Make tận cùng -e nên bỏ e rồi thêm -ing: making."
+  },
+  {
+    "id": "know-the-answer",
+    "type": "choice",
+    "prompt": "Which sentence is correct?",
+    "options": [
+      "I am knowing the answer.",
+      "I know the answer.",
+      "I knowing the answer."
+    ],
+    "answer": 1,
+    "explanation": "Know là động từ chỉ trạng thái nên dùng hiện tại đơn, không dùng -ing."
+  }
+]
