@@ -1,0 +1,62 @@
+[
+  {
+    "word": "lunch",
+    "phonetic": "/lʌntʃ/",
+    "definition": "the meal eaten in the middle of the day",
+    "translation": "bữa trưa",
+    "exampleSentence": "We have lunch at noon.",
+    "exampleTranslation": "Chúng tôi ăn trưa lúc giữa trưa.",
+    "pos": "noun",
+    "difficultyLevel": "A1"
+  },
+  {
+    "word": "homework",
+    "phonetic": "/ˈhoʊmwɜːrk/",
+    "definition": "schoolwork that a student does at home",
+    "translation": "bài tập về nhà",
+    "exampleSentence": "I do my homework after dinner.",
+    "exampleTranslation": "Tôi làm bài tập về nhà sau bữa tối.",
+    "pos": "noun",
+    "difficultyLevel": "A1"
+  },
+  {
+    "word": "dinner",
+    "phonetic": "/ˈdɪnər/",
+    "definition": "the main meal of the day, usually eaten in the evening",
+    "translation": "bữa tối",
+    "exampleSentence": "My family has dinner together.",
+    "exampleTranslation": "Gia đình tôi ăn tối cùng nhau.",
+    "pos": "noun",
+    "difficultyLevel": "A1"
+  },
+  {
+    "word": "tidy",
+    "phonetic": "/ˈtaɪdi/",
+    "definition": "to make a place neat by putting things where they belong",
+    "translation": "dọn dẹp cho gọn gàng",
+    "exampleSentence": "I tidy my room on Sundays.",
+    "exampleTranslation": "Tôi dọn phòng vào các ngày Chủ nhật.",
+    "pos": "verb",
+    "difficultyLevel": "A2"
+  },
+  {
+    "word": "laundry",
+    "phonetic": "/ˈlɔːndri/",
+    "definition": "clothes that need washing or have just been washed",
+    "translation": "quần áo cần giặt",
+    "exampleSentence": "She does the laundry on Saturday.",
+    "exampleTranslation": "Cô ấy giặt quần áo vào thứ Bảy.",
+    "pos": "noun",
+    "difficultyLevel": "A2"
+  },
+  {
+    "word": "sleep",
+    "phonetic": "/sliːp/",
+    "definition": "to rest with your eyes closed and your mind switched off",
+    "translation": "ngủ",
+    "exampleSentence": "I go to bed and sleep at ten.",
+    "exampleTranslation": "Tôi đi ngủ lúc mười giờ.",
+    "pos": "verb",
+    "difficultyLevel": "A1"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "alavo-library",
+  "private": true,
+  "type": "module",
+  "description": "Open learning content for Alavo, organized by language pair.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/build.mjs --check"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1"
+  }
+}

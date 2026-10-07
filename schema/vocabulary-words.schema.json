@@ -1,0 +1,23 @@
+{
+  "$id": "vocabulary-words.schema.json",
+  "type": "array",
+  "minItems": 1,
+  "maxItems": 2000,
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["word"],
+    "anyOf": [{ "required": ["definition"] }, { "required": ["translation"] }],
+    "properties": {
+      "word": { "type": "string", "pattern": "\\S", "maxLength": 100 },
+      "phonetic": { "type": "string", "maxLength": 100 },
+      "definition": { "type": "string", "maxLength": 500 },
+      "translation": { "type": "string", "maxLength": 300 },
+      "exampleSentence": { "type": "string", "maxLength": 500 },
+      "exampleTranslation": { "type": "string", "maxLength": 500 },
+      "pos": { "type": "string", "pattern": "^[a-z][a-z ]*$", "maxLength": 30 },
+      "difficultyLevel": { "$ref": "common.schema.json#/$defs/cefrLevel" },
+      "audioUrl": { "$ref": "common.schema.json#/$defs/httpsUrl" }
+    }
+  }
+}

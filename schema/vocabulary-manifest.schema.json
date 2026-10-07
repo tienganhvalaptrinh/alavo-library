@@ -1,0 +1,37 @@
+{
+  "$id": "vocabulary-manifest.schema.json",
+  "allOf": [{ "$ref": "common.schema.json#/$defs/packHeader" }],
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["wordCount", "files"],
+  "properties": {
+    "id": {},
+    "type": { "const": "vocabulary" },
+    "title": {},
+    "description": {},
+    "category": {},
+    "level": {},
+    "sourceLang": {},
+    "targetLang": {},
+    "version": {},
+    "license": {},
+    "source": {},
+    "coverUrl": {},
+    "relatedPacks": {},
+    "wordCount": { "type": "integer", "minimum": 1 },
+    "files": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["path", "count", "sha256"],
+        "properties": {
+          "path": { "type": "string", "pattern": "^words-\\d{3}\\.json$" },
+          "count": { "type": "integer", "minimum": 1, "maximum": 2000 },
+          "sha256": { "$ref": "common.schema.json#/$defs/sha256" }
+        }
+      }
+    }
+  }
+}
