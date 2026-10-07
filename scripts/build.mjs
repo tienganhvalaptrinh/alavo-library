@@ -38,7 +38,7 @@ const ajv = loadSchemas();
 main();
 
 function main() {
-  const manifests = findPacks().map(buildPack);
+  const manifests = findPacks().map(buildPack).filter(Boolean);
   manifests.forEach(({ pack, manifest }) => writeJson(`${pack.dir}/manifest.json`, manifest));
   manifests.filter(({ pack }) => pack.type === 'vocabulary').forEach(writeVocabularyReadme);
   const catalogs = buildCatalogs(manifests);
@@ -77,6 +77,7 @@ function findPacks() {
 
 function buildPack(pack) {
   const authored = readJson(`${pack.dir}/manifest.json`);
+  if (authored === null) return null;
   checkHeaderMatchesFolder(pack, authored);
   const generated = pack.type === 'vocabulary' ? buildVocabulary(pack) : buildGrammar(pack, authored);
   const manifest = { ...pickKeys(authored, HEADER_KEYS), ...generated };
@@ -275,7 +276,7 @@ function writeText(path, content) {
 
 function readJson(path) {
   try {
-    return JSON.parse(readFileSync(path, 'utf8'));
+    return JSON.parse(readFileSync(path, 'utf8').replace(/^﻿/, ''));
   } catch (error) {
     errors.push(`${path}: ${error.message}`);
     return null;
