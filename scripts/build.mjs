@@ -15,6 +15,7 @@ const HEADER_KEYS = [
   'description',
   'category',
   'level',
+  'order',
   'sourceLang',
   'targetLang',
   'version',
@@ -23,6 +24,7 @@ const HEADER_KEYS = [
   'coverUrl',
   'relatedPacks',
 ];
+const LEVEL_RANK = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2', 'mixed'];
 const WORDS_FILE = /^words-\d{3}\.json$/;
 const FORBIDDEN_MARKUP = /<\s*(script|iframe|object|embed)/i;
 const EXAMPLE_BLOCK = /^::: example\n([\s\S]*?)\n:::$/gm;
@@ -185,10 +187,33 @@ function buildCatalogs(manifests) {
     byPair[pack.pair].push(toCatalogEntry(pack, manifest));
   });
   Object.entries(byPair).forEach(([pair, entries]) => {
-    entries.sort((a, b) => a.type.localeCompare(b.type) || a.id.localeCompare(b.id));
+    entries.sort(compareCatalogEntries);
+    flagDuplicateOrders(pair, entries);
     validate('catalog', entries, `catalog/${pair}.json`);
   });
   return byPair;
+}
+
+function compareCatalogEntries(a, b) {
+  return (
+    a.type.localeCompare(b.type) ||
+    LEVEL_RANK.indexOf(a.level) - LEVEL_RANK.indexOf(b.level) ||
+    a.order - b.order ||
+    a.id.localeCompare(b.id)
+  );
+}
+
+function flagDuplicateOrders(pair, entries) {
+  const seen = new Map();
+  entries.forEach((entry) => {
+    const key = `${entry.type}|${entry.level}|${entry.order}`;
+    if (seen.has(key)) {
+      errors.push(
+        `${pair}: "${seen.get(key)}" and "${entry.id}" share ${entry.type} level ${entry.level} order ${entry.order}`,
+      );
+    }
+    seen.set(key, entry.id);
+  });
 }
 
 function toCatalogEntry(pack, manifest) {

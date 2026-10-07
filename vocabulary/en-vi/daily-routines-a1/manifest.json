@@ -5,6 +5,7 @@
   "description": "Everyday words for talking about your morning, your day and your evening.",
   "category": "daily-life",
   "level": "A1",
+  "order": 1,
   "sourceLang": "en",
   "targetLang": "vi",
   "version": "1.0.0",
