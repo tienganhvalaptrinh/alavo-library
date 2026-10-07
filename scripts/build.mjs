@@ -43,6 +43,7 @@ function main() {
   manifests.filter(({ pack }) => pack.type === 'vocabulary').forEach(writeVocabularyReadme);
   const catalogs = buildCatalogs(manifests);
   Object.entries(catalogs).forEach(([pair, entries]) => writeJson(`catalog/${pair}.json`, entries));
+  writeJson('catalog/index.json', buildCatalogIndex(catalogs));
   flagStaleCatalogs(Object.keys(catalogs));
   report();
 }
@@ -226,10 +227,26 @@ function toCatalogEntry(pack, manifest) {
   return { ...header, manifest: manifestPath, ...size };
 }
 
+function buildCatalogIndex(catalogs) {
+  const index = Object.entries(catalogs)
+    .sort(([a], [b]) => a.localeCompare(b))
+    .map(([pair, entries]) => ({
+      pair,
+      sourceLang: entries[0].sourceLang,
+      targetLang: entries[0].targetLang,
+      catalog: `catalog/${pair}.json`,
+      vocabulary: entries.filter((entry) => entry.type === 'vocabulary').length,
+      grammar: entries.filter((entry) => entry.type === 'grammar').length,
+    }));
+  validate('catalog-index', index, 'catalog/index.json');
+  return index;
+}
+
 function flagStaleCatalogs(pairs) {
   if (!existsSync('catalog')) return;
   readdirSync('catalog')
-    .filter((name) => name.endsWith('.json') && !pairs.includes(name.slice(0, -5)))
+    .filter((name) => name.endsWith('.json') && name !== 'index.json')
+    .filter((name) => !pairs.includes(name.slice(0, -5)))
     .forEach((name) => outdated.push(`catalog/${name} has no packs`));
 }
 

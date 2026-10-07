@@ -1,0 +1,17 @@
+{
+  "$id": "catalog-index.schema.json",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["pair", "sourceLang", "targetLang", "catalog", "vocabulary", "grammar"],
+    "properties": {
+      "pair": { "type": "string", "minLength": 3 },
+      "sourceLang": { "$ref": "common.schema.json#/$defs/langCode" },
+      "targetLang": { "$ref": "common.schema.json#/$defs/langCode" },
+      "catalog": { "type": "string", "pattern": "^catalog/.+\\.json$" },
+      "vocabulary": { "type": "integer", "minimum": 0 },
+      "grammar": { "type": "integer", "minimum": 0 }
+    }
+  }
+}
