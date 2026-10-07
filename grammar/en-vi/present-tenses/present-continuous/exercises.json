@@ -33,5 +33,19 @@
     ],
     "answer": 1,
     "explanation": "Know là động từ chỉ trạng thái nên dùng hiện tại đơn, không dùng -ing."
+  },
+  {
+    "id": "translate-cooking",
+    "type": "translate",
+    "prompt": "Bây giờ cô ấy đang nấu bữa tối.",
+    "answers": [
+      "She is cooking dinner now.",
+      "She's cooking dinner now.",
+      "Now she is cooking dinner.",
+      "Now she's cooking dinner.",
+      "She is making dinner now.",
+      "She's making dinner now."
+    ],
+    "explanation": "Việc đang diễn ra ngay lúc nói dùng am/is/are + V-ing: is cooking."
   }
 ]

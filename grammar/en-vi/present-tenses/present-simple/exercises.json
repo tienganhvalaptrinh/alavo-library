@@ -28,5 +28,18 @@
     "prompt": "___ you speak English?",
     "answers": ["Do"],
     "explanation": "Câu hỏi với you dùng Do ở đầu câu."
+  },
+  {
+    "id": "translate-wake-up",
+    "type": "translate",
+    "prompt": "Tôi thức dậy lúc sáu giờ mỗi ngày.",
+    "answers": [
+      "I wake up at six every day.",
+      "I wake up at 6 every day.",
+      "I get up at six every day.",
+      "I get up at 6 every day.",
+      "Every day I wake up at six."
+    ],
+    "explanation": "Thói quen hằng ngày dùng hiện tại đơn: I wake up. Giờ đi với at."
   }
 ]

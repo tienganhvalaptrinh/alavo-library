@@ -90,7 +90,7 @@ The first line is the sentence being learned, the second line is its translation
 
 ### Exercise format
 
-`exercises.json` is an array. The app compares fill-in answers after trimming spaces and ignoring upper or lower case. There are two exercise types.
+`exercises.json` is an array. When the learner types an answer (fill-in or translate), the app compares it after trimming spaces, collapsing repeated spaces, ignoring upper or lower case, and ignoring punctuation at the end of the sentence. There are three exercise types.
 
 A multiple choice exercise gives `options` and the zero-based index of the right one in `answer`:
 
@@ -114,6 +114,18 @@ A fill-in-the-blank exercise marks the gap with `___` in the prompt and lists ev
   "prompt": "He ___ (watch) TV in the evening.",
   "answers": ["watches"],
   "explanation": "Watch ends in -ch, so it takes -es: watches."
+}
+```
+
+A translate exercise asks the learner to translate a sentence from their own language into the language being learned. The `prompt` is written in the learner's language (the second code of the pair) and `answers` lists every accepted translation in the language being learned. Include each natural way to say it, such as the contracted form (`She's cooking`) and close synonyms, because only listed answers count as correct:
+
+```json
+{
+  "id": "translate-cooking",
+  "type": "translate",
+  "prompt": "Bây giờ cô ấy đang nấu bữa tối.",
+  "answers": ["She is cooking dinner now.", "She's cooking dinner now."],
+  "explanation": "An action happening right now uses am/is/are + V-ing: is cooking."
 }
 ```
 
