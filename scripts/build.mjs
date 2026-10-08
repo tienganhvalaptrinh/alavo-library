@@ -38,11 +38,12 @@ const ajv = loadSchemas();
 main();
 
 function main() {
-  const manifests = findPacks().map(buildPack);
+  const manifests = findPacks().map(buildPack).filter(Boolean);
   manifests.forEach(({ pack, manifest }) => writeJson(`${pack.dir}/manifest.json`, manifest));
   manifests.filter(({ pack }) => pack.type === 'vocabulary').forEach(writeVocabularyReadme);
   const catalogs = buildCatalogs(manifests);
   Object.entries(catalogs).forEach(([pair, entries]) => writeJson(`catalog/${pair}.json`, entries));
+  writeJson('catalog/index.json', buildCatalogIndex(catalogs));
   flagStaleCatalogs(Object.keys(catalogs));
   report();
 }
@@ -76,6 +77,7 @@ function findPacks() {
 
 function buildPack(pack) {
   const authored = readJson(`${pack.dir}/manifest.json`);
+  if (authored === null) return null;
   checkHeaderMatchesFolder(pack, authored);
   const generated = pack.type === 'vocabulary' ? buildVocabulary(pack) : buildGrammar(pack, authored);
   const manifest = { ...pickKeys(authored, HEADER_KEYS), ...generated };
@@ -226,10 +228,26 @@ function toCatalogEntry(pack, manifest) {
   return { ...header, manifest: manifestPath, ...size };
 }
 
+function buildCatalogIndex(catalogs) {
+  const index = Object.entries(catalogs)
+    .sort(([a], [b]) => a.localeCompare(b))
+    .map(([pair, entries]) => ({
+      pair,
+      sourceLang: entries[0].sourceLang,
+      targetLang: entries[0].targetLang,
+      catalog: `catalog/${pair}.json`,
+      vocabulary: entries.filter((entry) => entry.type === 'vocabulary').length,
+      grammar: entries.filter((entry) => entry.type === 'grammar').length,
+    }));
+  validate('catalog-index', index, 'catalog/index.json');
+  return index;
+}
+
 function flagStaleCatalogs(pairs) {
   if (!existsSync('catalog')) return;
   readdirSync('catalog')
-    .filter((name) => name.endsWith('.json') && !pairs.includes(name.slice(0, -5)))
+    .filter((name) => name.endsWith('.json') && name !== 'index.json')
+    .filter((name) => !pairs.includes(name.slice(0, -5)))
     .forEach((name) => outdated.push(`catalog/${name} has no packs`));
 }
 
@@ -258,7 +276,7 @@ function writeText(path, content) {
 
 function readJson(path) {
   try {
-    return JSON.parse(readFileSync(path, 'utf8'));
+    return JSON.parse(readFileSync(path, 'utf8').replace(/^﻿/, ''));
   } catch (error) {
     errors.push(`${path}: ${error.message}`);
     return null;

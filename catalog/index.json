@@ -1,0 +1,10 @@
+[
+  {
+    "pair": "en-vi",
+    "sourceLang": "en",
+    "targetLang": "vi",
+    "catalog": "catalog/en-vi.json",
+    "vocabulary": 1,
+    "grammar": 1
+  }
+]

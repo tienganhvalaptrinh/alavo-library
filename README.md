@@ -12,13 +12,14 @@ Open learning content for [Alavo](https://chromewebstore.google.com/detail/alavo
 - **Language pair**: two language codes joined by a dash, `<source>-<target>`. `en-vi` means "learning English, explained in Vietnamese". The first code is the language being learned, the second is the learner's own language.
 - **Pack**: one folder holding one vocabulary pack or one grammar course.
 - **Manifest**: the `manifest.json` file inside a pack. It describes the pack (title, level, version) and lists the files that belong to it.
-- **Catalog**: `catalog/<pair>.json`, a list with one short entry per pack in that language pair.
+- **Catalog**: `catalog/<pair>.json`, a list with one short entry per pack in that language pair. `catalog/index.json` lists the pairs themselves, so a reader can tell which catalogs exist without guessing file names.
 - **CEFR level**: the standard scale for language ability, from `A1` (beginner) to `C2` (near native).
 
 ## Folder layout
 
 ```
 catalog/
+  index.json                       generated: the language pairs the library has packs for
   en-vi.json                       generated, do not edit by hand
 vocabulary/
   en-vi/
