@@ -1,0 +1,452 @@
+[
+  {
+    "word": "broaden",
+    "phonetic": "/ˈbrɔːdn/",
+    "definition": "to make something wider or to include more things or people",
+    "translation": "mở rộng",
+    "exampleSentence": "Our company plans to broaden its product range next year.",
+    "exampleTranslation": "Công ty chúng tôi dự định mở rộng dòng sản phẩm vào năm sau.",
+    "pos": "verb"
+  },
+  {
+    "word": "bulb",
+    "phonetic": "/bʌlb/",
+    "definition": "a glass part that gives light when electricity goes through it; a light bulb",
+    "translation": "bóng đèn",
+    "exampleSentence": "Please replace the bulb in the meeting room because it stopped working.",
+    "exampleTranslation": "Vui lòng thay bóng đèn trong phòng họp vì nó đã không còn sáng.",
+    "pos": "noun"
+  },
+  {
+    "word": "by-law",
+    "phonetic": "/ˈbaɪˌlɔː/",
+    "definition": "a rule made by an organization or local authority to control its own members or activities",
+    "translation": "điều lệ, quy định nội bộ",
+    "exampleSentence": "According to the by-law, all members must pay their fees every year.",
+    "exampleTranslation": "Theo điều lệ, tất cả thành viên phải đóng phí hằng năm.",
+    "pos": "noun"
+  },
+  {
+    "word": "cheer",
+    "phonetic": "/tʃɪr/",
+    "definition": "to shout to show support or happiness",
+    "translation": "cổ vũ, reo hò",
+    "exampleSentence": "Staff gathered in the lobby to cheer for the winning team.",
+    "exampleTranslation": "Nhân viên tập trung ở sảnh để cổ vũ cho đội chiến thắng.",
+    "pos": "verb"
+  },
+  {
+    "word": "complication",
+    "phonetic": "/ˌkɑːmplɪˈkeɪʃn/",
+    "definition": "a new problem that makes a situation more difficult",
+    "translation": "vấn đề phát sinh, sự phức tạp",
+    "exampleSentence": "A shipping complication delayed the delivery of our order by two days.",
+    "exampleTranslation": "Một vấn đề phát sinh trong vận chuyển đã làm đơn hàng của chúng tôi giao trễ hai ngày.",
+    "pos": "noun"
+  },
+  {
+    "word": "considerate",
+    "phonetic": "/kənˈsɪdərət/",
+    "definition": "thinking about other people's feelings and needs",
+    "translation": "chu đáo, biết quan tâm đến người khác",
+    "exampleSentence": "It was considerate of Minh to book a quiet room for the interview.",
+    "exampleTranslation": "Minh thật chu đáo khi đặt một phòng yên tĩnh cho buổi phỏng vấn.",
+    "pos": "adjective"
+  },
+  {
+    "word": "daytime",
+    "phonetic": "/ˈdeɪtaɪm/",
+    "definition": "the part of the day when it is light, between sunrise and sunset",
+    "translation": "ban ngày",
+    "exampleSentence": "The office is busy during the daytime, but very quiet at night.",
+    "exampleTranslation": "Văn phòng rất đông vào ban ngày nhưng rất yên tĩnh vào ban đêm.",
+    "pos": "noun"
+  },
+  {
+    "word": "decoration",
+    "phonetic": "/ˌdekəˈreɪʃn/",
+    "definition": "something that is added to a place to make it look nicer",
+    "translation": "đồ trang trí, sự trang trí",
+    "exampleSentence": "We hung colorful decorations in the lobby for the company anniversary.",
+    "exampleTranslation": "Chúng tôi treo đồ trang trí nhiều màu trong sảnh nhân dịp kỷ niệm thành lập công ty.",
+    "pos": "noun"
+  },
+  {
+    "word": "discard",
+    "phonetic": "/dɪˈskɑːrd/",
+    "definition": "to throw something away because you no longer need it",
+    "translation": "vứt bỏ, loại bỏ",
+    "exampleSentence": "Please discard all expired coupons before the store opens.",
+    "exampleTranslation": "Vui lòng bỏ tất cả phiếu giảm giá hết hạn trước khi cửa hàng mở cửa.",
+    "pos": "verb"
+  },
+  {
+    "word": "drastically",
+    "phonetic": "/ˈdræstɪkli/",
+    "definition": "in a very strong or extreme way",
+    "translation": "mạnh, đáng kể, quyết liệt",
+    "exampleSentence": "Sales dropped drastically after the main competitor lowered its prices.",
+    "exampleTranslation": "Doanh số giảm mạnh sau khi đối thủ cạnh tranh chính hạ giá.",
+    "pos": "adverb"
+  },
+  {
+    "word": "erase",
+    "phonetic": "/ɪˈreɪs/",
+    "definition": "to remove writing, marks or data so that it cannot be seen",
+    "translation": "xóa, xóa bỏ",
+    "exampleSentence": "Please erase the notes from the whiteboard before the next meeting starts.",
+    "exampleTranslation": "Vui lòng xóa các ghi chú trên bảng trắng trước khi cuộc họp tiếp theo bắt đầu.",
+    "pos": "verb"
+  },
+  {
+    "word": "explorer",
+    "phonetic": "/ɪkˈsplɔːrər/",
+    "definition": "a person who travels to places that are new or unknown to learn about them",
+    "translation": "nhà thám hiểm",
+    "exampleSentence": "The museum has a new exhibit about a famous polar explorer.",
+    "exampleTranslation": "Bảo tàng có một triển lãm mới về một nhà thám hiểm vùng cực nổi tiếng.",
+    "pos": "noun"
+  },
+  {
+    "word": "factual",
+    "phonetic": "/ˈfæktʃuəl/",
+    "definition": "based on facts and true information",
+    "translation": "dựa trên sự thật, xác thực",
+    "exampleSentence": "The report must be factual and include only information we can check.",
+    "exampleTranslation": "Báo cáo phải dựa trên sự thật và chỉ gồm những thông tin chúng ta có thể kiểm chứng.",
+    "pos": "adjective"
+  },
+  {
+    "word": "fixture",
+    "phonetic": "/ˈfɪkstʃər/",
+    "definition": "a piece of equipment fixed permanently in a building, such as a light or a sink",
+    "translation": "thiết bị lắp cố định trong nhà",
+    "exampleSentence": "The bathroom fixtures, such as sinks and taps, are included in the rent.",
+    "exampleTranslation": "Các thiết bị cố định trong phòng tắm, như bồn rửa và vòi nước, đã được tính trong tiền thuê.",
+    "pos": "noun"
+  },
+  {
+    "word": "footwear",
+    "phonetic": "/ˈfʊtwer/",
+    "definition": "things that people wear on their feet, such as shoes and boots",
+    "translation": "giày dép",
+    "exampleSentence": "Our store sells a wide range of comfortable footwear for work.",
+    "exampleTranslation": "Cửa hàng chúng tôi bán nhiều loại giày dép thoải mái để đi làm.",
+    "pos": "noun"
+  },
+  {
+    "word": "genre",
+    "phonetic": "/ˈʒɑːnrə/",
+    "definition": "a type of art, music, film or writing with a particular style",
+    "translation": "thể loại",
+    "exampleSentence": "The bookstore arranges its novels by genre, such as mystery or romance.",
+    "exampleTranslation": "Hiệu sách sắp xếp tiểu thuyết theo thể loại, chẳng hạn như trinh thám hoặc lãng mạn.",
+    "pos": "noun"
+  },
+  {
+    "word": "gymnasium",
+    "phonetic": "/dʒɪmˈneɪziəm/",
+    "definition": "a large room or building with equipment for exercise and sports",
+    "translation": "phòng tập thể dục, nhà thi đấu",
+    "exampleSentence": "The hotel has a swimming pool and a modern gymnasium for guests.",
+    "exampleTranslation": "Khách sạn có hồ bơi và phòng tập thể dục hiện đại dành cho khách.",
+    "pos": "noun"
+  },
+  {
+    "word": "hereby",
+    "phonetic": "/hɪrˈbaɪ/",
+    "definition": "by this statement or document; used in formal or legal writing",
+    "translation": "bằng văn bản này, theo đây",
+    "exampleSentence": "I hereby confirm that I have read and accepted the terms of the contract.",
+    "exampleTranslation": "Tôi xin xác nhận bằng văn bản này rằng tôi đã đọc và chấp nhận các điều khoản của hợp đồng.",
+    "pos": "adverb"
+  },
+  {
+    "word": "hesitation",
+    "phonetic": "/ˌhezɪˈteɪʃn/",
+    "definition": "a short pause before you do or say something because you are not sure",
+    "translation": "sự do dự, sự ngập ngừng",
+    "exampleSentence": "The manager signed the contract without any hesitation.",
+    "exampleTranslation": "Giám đốc đã ký hợp đồng mà không hề do dự.",
+    "pos": "noun"
+  },
+  {
+    "word": "homemade",
+    "phonetic": "/ˌhoʊmˈmeɪd/",
+    "definition": "made at home, not bought in a store",
+    "translation": "tự làm ở nhà, làm tại nhà",
+    "exampleSentence": "The cafe is famous for its homemade soup and fresh bread.",
+    "exampleTranslation": "Quán cà phê nổi tiếng với món súp tự nấu và bánh mì tươi.",
+    "pos": "adjective"
+  },
+  {
+    "word": "hospitality",
+    "phonetic": "/ˌhɑːspɪˈtæləti/",
+    "definition": "friendly and generous treatment of guests; also the hotel and restaurant business",
+    "translation": "lòng hiếu khách, ngành dịch vụ khách sạn",
+    "exampleSentence": "Guests praised the hotel staff for their warm hospitality.",
+    "exampleTranslation": "Khách khen nhân viên khách sạn vì sự hiếu khách nhiệt tình.",
+    "pos": "noun"
+  },
+  {
+    "word": "incoming",
+    "phonetic": "/ˈɪnkʌmɪŋ/",
+    "definition": "arriving or coming in",
+    "translation": "đến, gửi đến, mới nhận",
+    "exampleSentence": "The receptionist answers all incoming calls during business hours.",
+    "exampleTranslation": "Nhân viên lễ tân trả lời tất cả cuộc gọi đến trong giờ làm việc.",
+    "pos": "adjective"
+  },
+  {
+    "word": "induction",
+    "phonetic": "/ɪnˈdʌkʃn/",
+    "definition": "the process of introducing a new employee to a job and the company",
+    "translation": "buổi định hướng nhân viên mới, sự kết nạp",
+    "exampleSentence": "All new employees must attend an induction session on their first day.",
+    "exampleTranslation": "Tất cả nhân viên mới phải tham dự buổi định hướng vào ngày đầu tiên.",
+    "pos": "noun"
+  },
+  {
+    "word": "inspiration",
+    "phonetic": "/ˌɪnspəˈreɪʃn/",
+    "definition": "a person or thing that gives you ideas or the wish to do something",
+    "translation": "nguồn cảm hứng, cảm hứng",
+    "exampleSentence": "Our founder was the inspiration for the new training program.",
+    "exampleTranslation": "Người sáng lập của chúng tôi là nguồn cảm hứng cho chương trình đào tạo mới.",
+    "pos": "noun"
+  },
+  {
+    "word": "intently",
+    "phonetic": "/ɪnˈtentli/",
+    "definition": "with full attention and great interest",
+    "translation": "chăm chú, tập trung cao độ",
+    "exampleSentence": "The staff listened intently as the director explained the new policy.",
+    "exampleTranslation": "Nhân viên chăm chú lắng nghe khi giám đốc giải thích chính sách mới.",
+    "pos": "adverb"
+  },
+  {
+    "word": "mower",
+    "phonetic": "/ˈmoʊər/",
+    "definition": "a machine used to cut grass",
+    "translation": "máy cắt cỏ",
+    "exampleSentence": "The gardener uses a mower to keep the hotel lawn short.",
+    "exampleTranslation": "Người làm vườn dùng máy cắt cỏ để giữ cho bãi cỏ của khách sạn luôn được cắt ngắn.",
+    "pos": "noun"
+  },
+  {
+    "word": "nutrition",
+    "phonetic": "/nuːˈtrɪʃn/",
+    "definition": "the food you eat and how it affects your health; the study of this",
+    "translation": "dinh dưỡng",
+    "exampleSentence": "Good nutrition helps employees stay healthy and work better.",
+    "exampleTranslation": "Dinh dưỡng tốt giúp nhân viên khỏe mạnh và làm việc hiệu quả hơn.",
+    "pos": "noun"
+  },
+  {
+    "word": "restatement",
+    "phonetic": "/ˌriːˈsteɪtmənt/",
+    "definition": "a statement that says something again in different words",
+    "translation": "sự diễn đạt lại, lời phát biểu lại",
+    "exampleSentence": "The last paragraph is a restatement of the main idea in the first one.",
+    "exampleTranslation": "Đoạn cuối là sự diễn đạt lại ý chính ở đoạn đầu.",
+    "pos": "noun"
+  },
+  {
+    "word": "sedan",
+    "phonetic": "/sɪˈdæn/",
+    "definition": "a car with a closed body, four doors and a separate trunk",
+    "translation": "xe sedan, xe bốn chỗ",
+    "exampleSentence": "We rented a sedan for our three-day business trip.",
+    "exampleTranslation": "Chúng tôi đã thuê một chiếc xe sedan cho chuyến công tác ba ngày.",
+    "pos": "noun"
+  },
+  {
+    "word": "sunscreen",
+    "phonetic": "/ˈsʌnskriːn/",
+    "definition": "a cream you put on your skin to protect it from the sun",
+    "translation": "kem chống nắng",
+    "exampleSentence": "The resort gives guests free sunscreen at the pool entrance.",
+    "exampleTranslation": "Khu nghỉ dưỡng tặng khách kem chống nắng miễn phí ở lối vào hồ bơi.",
+    "pos": "noun"
+  },
+  {
+    "word": "wellness",
+    "phonetic": "/ˈwelnəs/",
+    "definition": "the state of being in good health, especially through healthy habits",
+    "translation": "sức khỏe, sự khỏe mạnh",
+    "exampleSentence": "The company offers a wellness program that includes yoga classes.",
+    "exampleTranslation": "Công ty có chương trình chăm sóc sức khỏe bao gồm các lớp yoga.",
+    "pos": "noun"
+  },
+  {
+    "word": "workbook",
+    "phonetic": "/ˈwɜːrkbʊk/",
+    "definition": "a book with exercises and spaces for writing answers",
+    "translation": "sách bài tập",
+    "exampleSentence": "Each trainee receives a workbook with practice questions on the first day.",
+    "exampleTranslation": "Mỗi học viên nhận một cuốn sách bài tập có câu hỏi luyện tập vào ngày đầu tiên.",
+    "pos": "noun"
+  },
+  {
+    "word": "bookcase",
+    "phonetic": "/ˈbʊkkeɪs/",
+    "definition": "a piece of furniture with shelves for books",
+    "translation": "giá sách, tủ sách",
+    "exampleSentence": "The office manager ordered a tall bookcase for the reading area.",
+    "exampleTranslation": "Quản lý văn phòng đã đặt mua một giá sách cao cho khu vực đọc sách.",
+    "pos": "noun"
+  },
+  {
+    "word": "cleanliness",
+    "phonetic": "/ˈklenlinəs/",
+    "definition": "the state of being clean",
+    "translation": "sự sạch sẽ, vệ sinh",
+    "exampleSentence": "Customers often choose a hotel based on its cleanliness.",
+    "exampleTranslation": "Khách hàng thường chọn khách sạn dựa vào mức độ sạch sẽ của nó.",
+    "pos": "noun"
+  },
+  {
+    "word": "contestant",
+    "phonetic": "/kənˈtestənt/",
+    "definition": "a person who takes part in a competition",
+    "translation": "thí sinh, người dự thi",
+    "exampleSentence": "Each contestant has five minutes to present a business idea.",
+    "exampleTranslation": "Mỗi thí sinh có năm phút để trình bày một ý tưởng kinh doanh.",
+    "pos": "noun"
+  },
+  {
+    "word": "ethics",
+    "phonetic": "/ˈeθɪks/",
+    "definition": "moral rules about what is right and wrong, especially at work",
+    "translation": "đạo đức, đạo đức nghề nghiệp",
+    "exampleSentence": "All employees must follow the company's code of ethics.",
+    "exampleTranslation": "Tất cả nhân viên phải tuân thủ quy tắc đạo đức của công ty.",
+    "pos": "noun"
+  },
+  {
+    "word": "healthful",
+    "phonetic": "/ˈhelθfəl/",
+    "definition": "good for your health",
+    "translation": "tốt cho sức khỏe, lành mạnh",
+    "exampleSentence": "The cafeteria now serves healthful meals with less sugar and salt.",
+    "exampleTranslation": "Căng tin giờ phục vụ các bữa ăn tốt cho sức khỏe với ít đường và muối hơn.",
+    "pos": "adjective"
+  },
+  {
+    "word": "inefficient",
+    "phonetic": "/ˌɪnɪˈfɪʃnt/",
+    "definition": "wasting time, money or effort; not working well",
+    "translation": "kém hiệu quả, thiếu hiệu quả",
+    "exampleSentence": "The old filing system is slow and inefficient.",
+    "exampleTranslation": "Hệ thống lưu trữ hồ sơ cũ chậm và kém hiệu quả.",
+    "pos": "adjective"
+  },
+  {
+    "word": "liter",
+    "phonetic": "/ˈliːtər/",
+    "definition": "a unit for measuring liquids",
+    "translation": "lít",
+    "exampleSentence": "The machine uses about one liter of water for each cleaning cycle.",
+    "exampleTranslation": "Máy sử dụng khoảng một lít nước cho mỗi chu trình làm sạch.",
+    "pos": "noun"
+  },
+  {
+    "word": "recession",
+    "phonetic": "/rɪˈseʃn/",
+    "definition": "a period when the economy is weak and many businesses lose money",
+    "translation": "suy thoái kinh tế",
+    "exampleSentence": "Many small shops had to close during the recession last year.",
+    "exampleTranslation": "Nhiều cửa hàng nhỏ đã phải đóng cửa trong thời kỳ suy thoái năm ngoái.",
+    "pos": "noun"
+  },
+  {
+    "word": "timeline",
+    "phonetic": "/ˈtaɪmlaɪn/",
+    "definition": "a plan or list showing when things will happen or the order of events",
+    "translation": "tiến độ, lộ trình thời gian",
+    "exampleSentence": "The project manager shared a timeline with all the key dates.",
+    "exampleTranslation": "Quản lý dự án đã chia sẻ tiến độ cùng tất cả các mốc thời gian quan trọng.",
+    "pos": "noun"
+  },
+  {
+    "word": "unreliable",
+    "phonetic": "/ˌʌnrɪˈlaɪəbl/",
+    "definition": "not able to be trusted or depended on",
+    "translation": "không đáng tin cậy",
+    "exampleSentence": "We changed suppliers because the old one was unreliable.",
+    "exampleTranslation": "Chúng tôi đổi nhà cung cấp vì nhà cung cấp cũ không đáng tin cậy.",
+    "pos": "adjective"
+  },
+  {
+    "word": "acclaim",
+    "phonetic": "/əˈkleɪm/",
+    "definition": "strong public praise or approval",
+    "translation": "sự ca ngợi, sự hoan nghênh",
+    "exampleSentence": "The new product received great acclaim from critics and customers.",
+    "exampleTranslation": "Sản phẩm mới nhận được nhiều lời ca ngợi từ giới phê bình và khách hàng.",
+    "pos": "noun"
+  },
+  {
+    "word": "chronic",
+    "phonetic": "/ˈkrɑːnɪk/",
+    "definition": "lasting a long time or happening again and again",
+    "translation": "mãn tính, kéo dài, triền miên",
+    "exampleSentence": "The factory has a chronic shortage of skilled workers.",
+    "exampleTranslation": "Nhà máy bị thiếu hụt kéo dài công nhân có tay nghề.",
+    "pos": "adjective"
+  },
+  {
+    "word": "deteriorate",
+    "phonetic": "/dɪˈtɪriəreɪt/",
+    "definition": "to become worse",
+    "translation": "xấu đi, suy giảm",
+    "exampleSentence": "Road conditions may deteriorate quickly if the heavy rain continues.",
+    "exampleTranslation": "Tình trạng đường sá có thể xấu đi nhanh chóng nếu mưa lớn tiếp tục.",
+    "pos": "verb"
+  },
+  {
+    "word": "resemble",
+    "phonetic": "/rɪˈzembl/",
+    "definition": "to look like or be similar to someone or something",
+    "translation": "giống, trông giống",
+    "exampleSentence": "The new store layout will resemble the one in our main branch.",
+    "exampleTranslation": "Cách bố trí cửa hàng mới sẽ giống cách bố trí ở chi nhánh chính của chúng tôi.",
+    "pos": "verb"
+  },
+  {
+    "word": "unauthorized",
+    "phonetic": "/ʌnˈɔːθəraɪzd/",
+    "definition": "done or used without official permission",
+    "translation": "không được phép, trái phép, không có thẩm quyền",
+    "exampleSentence": "Unauthorized people are not allowed to enter the server room.",
+    "exampleTranslation": "Người không có thẩm quyền không được vào phòng máy chủ.",
+    "pos": "adjective"
+  },
+  {
+    "word": "violate",
+    "phonetic": "/ˈvaɪəleɪt/",
+    "definition": "to break a rule, law or agreement",
+    "translation": "vi phạm",
+    "exampleSentence": "Employees who violate the safety rules may face disciplinary action.",
+    "exampleTranslation": "Nhân viên vi phạm quy định an toàn có thể bị xử lý kỷ luật.",
+    "pos": "verb"
+  },
+  {
+    "word": "unplug",
+    "phonetic": "/ʌnˈplʌɡ/",
+    "definition": "to pull a plug out of an electrical socket",
+    "translation": "rút phích cắm",
+    "exampleSentence": "Please unplug the printer before you clean it.",
+    "exampleTranslation": "Vui lòng rút phích cắm máy in trước khi lau chùi.",
+    "pos": "verb"
+  },
+  {
+    "word": "videoconference",
+    "phonetic": "/ˈvɪdioʊˌkɑːnfərəns/",
+    "definition": "a meeting held over the internet where people can see and hear each other",
+    "translation": "cuộc họp trực tuyến qua video, hội nghị truyền hình",
+    "exampleSentence": "We will hold a videoconference with our overseas partners on Monday.",
+    "exampleTranslation": "Chúng tôi sẽ tổ chức một cuộc họp video với các đối tác nước ngoài vào thứ Hai.",
+    "pos": "noun"
+  }
+]

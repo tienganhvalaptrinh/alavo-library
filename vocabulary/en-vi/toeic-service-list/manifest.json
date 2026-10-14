@@ -1,0 +1,82 @@
+{
+  "id": "toeic-service-list",
+  "type": "vocabulary",
+  "title": "TOEIC Service List",
+  "description": "The 1,250 words that appear most often in TOEIC test materials, ordered by rank, with Vietnamese meanings and examples.",
+  "category": "toeic",
+  "level": "mixed",
+  "order": 2,
+  "sourceLang": "en",
+  "targetLang": "vi",
+  "version": "1.0.0",
+  "license": "CC-BY-SA-4.0",
+  "source": "Word list: TOEIC Service List 1.2 by Charles Browne and Brent Culligan (https://www.newgeneralservicelist.com/toeic-service-list), CC BY-SA 4.0. Phonetics, definitions, translations and examples written by the Alavo team.",
+  "wordCount": 1250,
+  "files": [
+    {
+      "path": "words-001.json",
+      "count": 100,
+      "sha256": "2ecec3203a826f34b7489b59a36a9a64a40dabb49edd93e4a990df23432617cd"
+    },
+    {
+      "path": "words-002.json",
+      "count": 100,
+      "sha256": "d28d35f0dde278c313c4a0ffb684717a932e93ab8463525ce58e3acd4d7f01fb"
+    },
+    {
+      "path": "words-003.json",
+      "count": 100,
+      "sha256": "e88da97186abfd503438cba01db46ac79ca4a8707992039adf4ae8651e598a9c"
+    },
+    {
+      "path": "words-004.json",
+      "count": 100,
+      "sha256": "fc512dd433d1e48e712af7bf6f2058abd694eb0063f9dd6e24aa2754cb7cef3b"
+    },
+    {
+      "path": "words-005.json",
+      "count": 100,
+      "sha256": "c7e805502103f8dc26cf49461a3d00f19736b234f0108ad9e4c8809f83af9faa"
+    },
+    {
+      "path": "words-006.json",
+      "count": 100,
+      "sha256": "18e5eab5d1069f7af4b492b09c82d285561ec1cdb53cdf4fba3bf6a9436f8a25"
+    },
+    {
+      "path": "words-007.json",
+      "count": 100,
+      "sha256": "be94975b75f81dfcde0988604592855175e18323c2eb40287cd46ccdd04eda73"
+    },
+    {
+      "path": "words-008.json",
+      "count": 100,
+      "sha256": "def0447cacfab77545b499ca3971b9284fa106f02586b983818ad5e9681cf15f"
+    },
+    {
+      "path": "words-009.json",
+      "count": 100,
+      "sha256": "43e5f433c0fcc3975df8c4113acbc649d0aad121da2bc681b4b05c5a7faa4fb1"
+    },
+    {
+      "path": "words-010.json",
+      "count": 100,
+      "sha256": "7d6a03ea9ed0eabcd8220dbad91393bdf0f1064d669393ef473cf5333cfc8827"
+    },
+    {
+      "path": "words-011.json",
+      "count": 100,
+      "sha256": "a5214bada990c956f33e65344f199cfb0c80f29ca7c507405e179bc7c8628596"
+    },
+    {
+      "path": "words-012.json",
+      "count": 100,
+      "sha256": "c756feead64d58637bd57b164cf807441c0ccbd70b2ebd901e44e869ddea6575"
+    },
+    {
+      "path": "words-013.json",
+      "count": 50,
+      "sha256": "b85754d3b1c62c9bc7e9ebd13238349772bcf55693e4963a032ba7afd11e71fc"
+    }
+  ]
+}

@@ -1,0 +1,902 @@
+[
+  {
+    "word": "debit",
+    "phonetic": "/ˈdɛbɪt/",
+    "definition": "an entry in an account showing money taken out",
+    "translation": "khoản ghi nợ, khoản trừ tiền",
+    "exampleSentence": "The bank statement shows a debit of fifty dollars for the monthly service fee.",
+    "exampleTranslation": "Sao kê ngân hàng cho thấy một khoản ghi nợ năm mươi đô la cho phí dịch vụ hàng tháng.",
+    "pos": "noun"
+  },
+  {
+    "word": "delicate",
+    "phonetic": "/ˈdɛlɪkət/",
+    "definition": "easy to break or damage, so it must be handled with care",
+    "translation": "mỏng manh, dễ vỡ",
+    "exampleSentence": "Please pack the delicate glassware carefully before the movers load the truck.",
+    "exampleTranslation": "Vui lòng đóng gói cẩn thận đồ thủy tinh dễ vỡ trước khi nhân viên vận chuyển chất lên xe tải.",
+    "pos": "adjective"
+  },
+  {
+    "word": "dependence",
+    "phonetic": "/dɪˈpɛndəns/",
+    "definition": "the state of needing someone or something to survive or work well",
+    "translation": "sự phụ thuộc, sự lệ thuộc",
+    "exampleSentence": "The company wants to reduce its dependence on a single supplier.",
+    "exampleTranslation": "Công ty muốn giảm sự phụ thuộc vào một nhà cung cấp duy nhất.",
+    "pos": "noun"
+  },
+  {
+    "word": "distraction",
+    "phonetic": "/dɪˈstrækʃən/",
+    "definition": "something that takes your attention away from what you are doing",
+    "translation": "sự xao nhãng, thứ gây mất tập trung",
+    "exampleSentence": "Noisy phone calls are a major distraction in our open office.",
+    "exampleTranslation": "Những cuộc gọi ồn ào là thứ gây mất tập trung lớn trong văn phòng mở của chúng tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "downsize",
+    "phonetic": "/ˈdaʊnˌsaɪz/",
+    "definition": "to make a company smaller by reducing the number of workers",
+    "translation": "cắt giảm quy mô, cắt giảm nhân sự",
+    "exampleSentence": "The firm had to downsize its staff after sales dropped last year.",
+    "exampleTranslation": "Công ty phải cắt giảm nhân sự sau khi doanh số sụt giảm vào năm ngoái.",
+    "pos": "verb"
+  },
+  {
+    "word": "elephant",
+    "phonetic": "/ˈɛləfənt/",
+    "definition": "A very large grey animal with a long trunk and big ears",
+    "translation": "con voi",
+    "exampleSentence": "Many tourists travel to the national park to see a wild elephant.",
+    "exampleTranslation": "Nhiều du khách đến công viên quốc gia để xem một con voi hoang dã.",
+    "pos": "noun"
+  },
+  {
+    "word": "enthusiasm",
+    "phonetic": "/ɪnˈθuziˌæzəm/",
+    "definition": "A strong feeling of interest and excitement about something",
+    "translation": "sự nhiệt tình, sự hào hứng",
+    "exampleSentence": "The new trainee showed great enthusiasm during the first team meeting.",
+    "exampleTranslation": "Thực tập sinh mới đã thể hiện sự nhiệt tình lớn trong buổi họp nhóm đầu tiên.",
+    "pos": "noun"
+  },
+  {
+    "word": "enthusiast",
+    "phonetic": "/ɪnˈθuziˌæst/",
+    "definition": "A person who is very interested in a particular activity or subject",
+    "translation": "người đam mê, người hâm mộ",
+    "exampleSentence": "The store offers special discounts for camera enthusiasts this weekend.",
+    "exampleTranslation": "Cửa hàng có giảm giá đặc biệt cho những người đam mê máy ảnh vào cuối tuần này.",
+    "pos": "noun"
+  },
+  {
+    "word": "evident",
+    "phonetic": "/ˈɛvɪdənt/",
+    "definition": "clear and easy to see or understand",
+    "translation": "rõ ràng, hiển nhiên",
+    "exampleSentence": "It was evident from the sales report that the new campaign was working.",
+    "exampleTranslation": "Báo cáo doanh số cho thấy rõ ràng rằng chiến dịch mới đang hiệu quả.",
+    "pos": "adjective"
+  },
+  {
+    "word": "flexibility",
+    "phonetic": "/ˌflɛksəˈbɪləti/",
+    "definition": "the ability to change or adapt easily to new situations",
+    "translation": "tính linh hoạt, sự linh hoạt",
+    "exampleSentence": "Our manager values flexibility when employees plan their weekly schedules.",
+    "exampleTranslation": "Quản lý của chúng tôi coi trọng sự linh hoạt khi nhân viên lập lịch làm việc hàng tuần.",
+    "pos": "noun"
+  },
+  {
+    "word": "flextime",
+    "phonetic": "/ˈflɛkstaɪm/",
+    "definition": "A system that lets workers choose their start and finish times within set limits",
+    "translation": "giờ làm việc linh hoạt",
+    "exampleSentence": "Many employees prefer flextime because it helps them avoid rush hour traffic.",
+    "exampleTranslation": "Nhiều nhân viên thích giờ làm việc linh hoạt vì nó giúp họ tránh giờ cao điểm.",
+    "pos": "noun"
+  },
+  {
+    "word": "fortunately",
+    "phonetic": "/ˈfɔrtʃənətli/",
+    "definition": "by good luck; used to say that something good happened",
+    "translation": "may mắn là, may thay",
+    "exampleSentence": "Fortunately, the delayed flight still arrived before the start of the conference.",
+    "exampleTranslation": "May mắn là chuyến bay bị hoãn vẫn đến trước khi hội nghị bắt đầu.",
+    "pos": "adverb"
+  },
+  {
+    "word": "freighter",
+    "phonetic": "/ˈfreɪtər/",
+    "definition": "A large ship or plane that carries goods instead of passengers",
+    "translation": "tàu chở hàng, máy bay chở hàng",
+    "exampleSentence": "The freighter will deliver the machinery to the port next Monday.",
+    "exampleTranslation": "Tàu chở hàng sẽ giao máy móc đến cảng vào thứ Hai tới.",
+    "pos": "noun"
+  },
+  {
+    "word": "generator",
+    "phonetic": "/ˈdʒɛnəˌreɪtər/",
+    "definition": "A machine that produces electricity",
+    "translation": "máy phát điện",
+    "exampleSentence": "The hotel used a backup generator during the power outage.",
+    "exampleTranslation": "Khách sạn đã dùng máy phát điện dự phòng trong lúc mất điện.",
+    "pos": "noun"
+  },
+  {
+    "word": "hallway",
+    "phonetic": "/ˈhɔlˌweɪ/",
+    "definition": "A long narrow space inside a building with doors to rooms on each side",
+    "translation": "hành lang",
+    "exampleSentence": "Please do not leave boxes in the hallway because they block the emergency exit.",
+    "exampleTranslation": "Vui lòng không để thùng hàng ở hành lang vì chúng chặn lối thoát hiểm.",
+    "pos": "noun"
+  },
+  {
+    "word": "hamburger",
+    "phonetic": "/ˈhæmˌbɜrɡər/",
+    "definition": "A flat round piece of cooked ground beef served in a bread roll",
+    "translation": "bánh mì kẹp thịt, bánh hăm-bơ-gơ",
+    "exampleSentence": "The cafeteria sells a hamburger and a drink for a low lunch price.",
+    "exampleTranslation": "Căng tin bán bánh mì kẹp thịt kèm đồ uống với giá bữa trưa thấp.",
+    "pos": "noun"
+  },
+  {
+    "word": "hazard",
+    "phonetic": "/ˈhæzərd/",
+    "definition": "something that may cause danger or harm",
+    "translation": "mối nguy hiểm, nguy cơ",
+    "exampleSentence": "A wet floor is a safety hazard, so please put up a warning sign.",
+    "exampleTranslation": "Sàn ướt là mối nguy hiểm về an toàn, vì vậy hãy đặt biển cảnh báo.",
+    "pos": "noun"
+  },
+  {
+    "word": "homeowner",
+    "phonetic": "/ˈhoʊmˌoʊnər/",
+    "definition": "A person who owns the home they live in",
+    "translation": "chủ nhà, người sở hữu nhà",
+    "exampleSentence": "Homeowners should check their insurance policy every year to make sure it covers repairs.",
+    "exampleTranslation": "Chủ nhà nên kiểm tra hợp đồng bảo hiểm mỗi năm để chắc rằng nó chi trả cho việc sửa chữa.",
+    "pos": "noun"
+  },
+  {
+    "word": "imperative",
+    "phonetic": "/ɪmˈpɛrətɪv/",
+    "definition": "extremely important and needing action right away",
+    "translation": "cấp thiết, bắt buộc, vô cùng quan trọng",
+    "exampleSentence": "It is imperative that we submit the tax forms before the deadline.",
+    "exampleTranslation": "Việc chúng ta nộp các biểu mẫu thuế trước hạn chót là vô cùng quan trọng.",
+    "pos": "adjective"
+  },
+  {
+    "word": "inflate",
+    "phonetic": "/ɪnˈfleɪt/",
+    "definition": "to fill something with air so that it gets bigger",
+    "translation": "bơm phồng, bơm căng",
+    "exampleSentence": "Please inflate the tires before the delivery van leaves the warehouse.",
+    "exampleTranslation": "Vui lòng bơm lốp xe trước khi xe tải giao hàng rời khỏi kho.",
+    "pos": "verb"
+  },
+  {
+    "word": "insert",
+    "phonetic": "/ɪnˈsɜrt/",
+    "definition": "to put something into another thing",
+    "translation": "cho vào, nhét vào, chèn vào",
+    "exampleSentence": "Insert your card into the machine, then enter your PIN to withdraw cash.",
+    "exampleTranslation": "Hãy đưa thẻ vào máy, sau đó nhập mã PIN để rút tiền mặt.",
+    "pos": "verb"
+  },
+  {
+    "word": "lecturer",
+    "phonetic": "/ˈlɛktʃərər/",
+    "definition": "A person who teaches at a university or gives talks to groups",
+    "translation": "giảng viên, diễn giả",
+    "exampleSentence": "The guest lecturer will speak about marketing at the training session tomorrow.",
+    "exampleTranslation": "Giảng viên khách mời sẽ nói về tiếp thị tại buổi đào tạo vào ngày mai.",
+    "pos": "noun"
+  },
+  {
+    "word": "meaningful",
+    "phonetic": "/ˈminɪŋfəl/",
+    "definition": "having a clear purpose or value; important",
+    "translation": "có ý nghĩa",
+    "exampleSentence": "The survey gave us meaningful feedback that helped us improve our service.",
+    "exampleTranslation": "Cuộc khảo sát cho chúng tôi những phản hồi có ý nghĩa giúp cải thiện dịch vụ.",
+    "pos": "adjective"
+  },
+  {
+    "word": "memorize",
+    "phonetic": "/ˈmɛməˌraɪz/",
+    "definition": "to learn something so well that you can remember it without notes",
+    "translation": "ghi nhớ, học thuộc",
+    "exampleSentence": "New employees must memorize the safety rules before they start work.",
+    "exampleTranslation": "Nhân viên mới phải ghi nhớ các quy tắc an toàn trước khi bắt đầu làm việc.",
+    "pos": "verb"
+  },
+  {
+    "word": "merchant",
+    "phonetic": "/ˈmɜrtʃənt/",
+    "definition": "A person or business that buys and sells goods",
+    "translation": "thương nhân, người buôn bán",
+    "exampleSentence": "The local merchant offered a discount on large orders of office supplies.",
+    "exampleTranslation": "Thương nhân địa phương giảm giá cho các đơn đặt hàng văn phòng phẩm số lượng lớn.",
+    "pos": "noun"
+  },
+  {
+    "word": "modification",
+    "phonetic": "/ˌmɑdəfəˈkeɪʃən/",
+    "definition": "A small change made to improve something or make it suitable",
+    "translation": "sự sửa đổi, sự điều chỉnh",
+    "exampleSentence": "The client requested a modification to the original design of the brochure.",
+    "exampleTranslation": "Khách hàng yêu cầu điều chỉnh thiết kế ban đầu của tờ rơi.",
+    "pos": "noun"
+  },
+  {
+    "word": "occupant",
+    "phonetic": "/ˈɑkjəpənt/",
+    "definition": "A person who lives in or uses a room, building or vehicle",
+    "translation": "người ở, cư dân, người sử dụng",
+    "exampleSentence": "Every occupant of the apartment building must keep the fire exits clear.",
+    "exampleTranslation": "Mọi cư dân của tòa nhà chung cư phải giữ lối thoát hiểm thông thoáng.",
+    "pos": "noun"
+  },
+  {
+    "word": "overcharge",
+    "phonetic": "/ˌoʊvərˈtʃɑrdʒ/",
+    "definition": "to ask a customer to pay too much money",
+    "translation": "tính giá quá cao, tính quá tiền",
+    "exampleSentence": "Customers complained that the repair shop overcharged them for a simple job.",
+    "exampleTranslation": "Các khách hàng phàn nàn rằng cửa hàng sửa chữa đã tính quá tiền của họ cho một việc đơn giản.",
+    "pos": "verb"
+  },
+  {
+    "word": "oversee",
+    "phonetic": "/ˌoʊvərˈsi/",
+    "definition": "to watch and manage a job or group of workers to make sure it is done well",
+    "translation": "giám sát, trông coi",
+    "exampleSentence": "Ms. Park will oversee the construction of the new office building.",
+    "exampleTranslation": "Cô Park sẽ giám sát việc xây dựng tòa nhà văn phòng mới.",
+    "pos": "verb"
+  },
+  {
+    "word": "petition",
+    "phonetic": "/pəˈtɪʃən/",
+    "definition": "A written request signed by many people asking an authority to take action",
+    "translation": "đơn kiến nghị, bản kiến nghị",
+    "exampleSentence": "Residents signed a petition asking the city to build a new bus stop.",
+    "exampleTranslation": "Cư dân đã ký đơn kiến nghị yêu cầu thành phố xây một trạm xe buýt mới.",
+    "pos": "noun"
+  },
+  {
+    "word": "pillow",
+    "phonetic": "/ˈpɪloʊ/",
+    "definition": "A soft bag you rest your head on in bed",
+    "translation": "cái gối",
+    "exampleSentence": "Guests may request an extra pillow at the front desk of the hotel.",
+    "exampleTranslation": "Khách có thể yêu cầu thêm một chiếc gối tại quầy lễ tân của khách sạn.",
+    "pos": "noun"
+  },
+  {
+    "word": "popcorn",
+    "phonetic": "/ˈpɑpˌkɔrn/",
+    "definition": "corn heated until it bursts, eaten as a snack",
+    "translation": "bắp rang, bỏng ngô",
+    "exampleSentence": "We bought a large bag of popcorn before the movie started.",
+    "exampleTranslation": "Chúng tôi đã mua một túi bắp rang lớn trước khi phim bắt đầu.",
+    "pos": "noun"
+  },
+  {
+    "word": "pottery",
+    "phonetic": "/ˈpɑtəri/",
+    "definition": "pots, bowls and other objects made from baked clay, or the craft of making them",
+    "translation": "đồ gốm, nghề làm gốm",
+    "exampleSentence": "The gift shop sells handmade pottery made by local artists.",
+    "exampleTranslation": "Cửa hàng quà tặng bán đồ gốm thủ công do các nghệ nhân địa phương làm ra.",
+    "pos": "noun"
+  },
+  {
+    "word": "professionally",
+    "phonetic": "/prəˈfɛʃənəli/",
+    "definition": "in a way that shows skill, good manners and good work habits",
+    "translation": "một cách chuyên nghiệp",
+    "exampleSentence": "The receptionist handled the complaint from the angry caller very professionally.",
+    "exampleTranslation": "Nhân viên lễ tân đã xử lý lời phàn nàn của người gọi đang tức giận một cách rất chuyên nghiệp.",
+    "pos": "adverb"
+  },
+  {
+    "word": "publicize",
+    "phonetic": "/ˈpʌbləˌsaɪz/",
+    "definition": "to make something known to many people, especially through advertising",
+    "translation": "quảng bá, công bố rộng rãi",
+    "exampleSentence": "We will publicize the grand opening on social media and local radio.",
+    "exampleTranslation": "Chúng tôi sẽ quảng bá lễ khai trương trên mạng xã hội và đài phát thanh địa phương.",
+    "pos": "verb"
+  },
+  {
+    "word": "ray",
+    "phonetic": "/reɪ/",
+    "definition": "A thin line of light or heat, especially from the sun",
+    "translation": "tia sáng, tia nắng",
+    "exampleSentence": "A ray of sunlight came through the window and lit up the conference room.",
+    "exampleTranslation": "Một tia nắng chiếu qua cửa sổ và làm sáng phòng họp.",
+    "pos": "noun"
+  },
+  {
+    "word": "redecorate",
+    "phonetic": "/ˌriˈdɛkəˌreɪt/",
+    "definition": "to change the paint, wallpaper or furniture of a room or building",
+    "translation": "trang trí lại, sơn sửa lại",
+    "exampleSentence": "The hotel will close for a week to redecorate the lobby.",
+    "exampleTranslation": "Khách sạn sẽ đóng cửa một tuần để trang trí lại sảnh.",
+    "pos": "verb"
+  },
+  {
+    "word": "refinery",
+    "phonetic": "/rɪˈfaɪnəri/",
+    "definition": "A factory that cleans raw materials such as oil or sugar",
+    "translation": "nhà máy lọc dầu, nhà máy tinh chế",
+    "exampleSentence": "The oil refinery employs over two thousand workers in the region.",
+    "exampleTranslation": "Nhà máy lọc dầu thuê hơn hai nghìn công nhân trong khu vực.",
+    "pos": "noun"
+  },
+  {
+    "word": "refresh",
+    "phonetic": "/rɪˈfrɛʃ/",
+    "definition": "to make someone feel less tired and give them new energy",
+    "translation": "làm sảng khoái, làm tươi mới",
+    "exampleSentence": "A short walk outside can refresh you before the long afternoon meeting.",
+    "exampleTranslation": "Đi dạo ngắn bên ngoài có thể giúp bạn sảng khoái trước buổi họp dài vào buổi chiều.",
+    "pos": "verb"
+  },
+  {
+    "word": "refundable",
+    "phonetic": "/rɪˈfʌndəbəl/",
+    "definition": "able to be paid back to you if you cancel or return something",
+    "translation": "có thể hoàn tiền",
+    "exampleSentence": "This airline ticket is refundable up to twenty-four hours before departure.",
+    "exampleTranslation": "Vé máy bay này có thể hoàn tiền đến hai mươi bốn giờ trước giờ khởi hành.",
+    "pos": "adjective"
+  },
+  {
+    "word": "reimbursement",
+    "phonetic": "/ˌriɪmˈbɜrsmənt/",
+    "definition": "money paid back to you for something you spent",
+    "translation": "sự hoàn trả chi phí, khoản tiền hoàn lại",
+    "exampleSentence": "Please attach your receipts to the form to receive reimbursement for travel expenses.",
+    "exampleTranslation": "Vui lòng đính kèm biên lai vào biểu mẫu để được hoàn trả chi phí đi lại.",
+    "pos": "noun"
+  },
+  {
+    "word": "reliability",
+    "phonetic": "/rɪˌlaɪəˈbɪləti/",
+    "definition": "the quality of being dependable and working well every time",
+    "translation": "độ tin cậy, sự đáng tin cậy",
+    "exampleSentence": "Customers choose our delivery service because of its speed and reliability.",
+    "exampleTranslation": "Khách hàng chọn dịch vụ giao hàng của chúng tôi nhờ tốc độ và độ tin cậy.",
+    "pos": "noun"
+  },
+  {
+    "word": "reluctant",
+    "phonetic": "/rɪˈlʌktənt/",
+    "definition": "not willing to do something and slow to do it",
+    "translation": "miễn cưỡng, ngần ngại",
+    "exampleSentence": "Many staff members were reluctant to try the new software at first.",
+    "exampleTranslation": "Ban đầu nhiều nhân viên ngần ngại dùng thử phần mềm mới.",
+    "pos": "adjective"
+  },
+  {
+    "word": "sewer",
+    "phonetic": "/ˈsuər/",
+    "definition": "an underground pipe that carries waste water away from buildings",
+    "translation": "cống thoát nước, ống cống",
+    "exampleSentence": "Workers are repairing a broken sewer under the main street.",
+    "exampleTranslation": "Công nhân đang sửa một ống cống bị vỡ dưới đường chính.",
+    "pos": "noun"
+  },
+  {
+    "word": "skate",
+    "phonetic": "/skeɪt/",
+    "definition": "to move over ice or a smooth surface on skates",
+    "translation": "trượt băng, trượt patin",
+    "exampleSentence": "Many people skate in the park near our office after work.",
+    "exampleTranslation": "Nhiều người trượt patin trong công viên gần văn phòng chúng tôi sau giờ làm.",
+    "pos": "verb"
+  },
+  {
+    "word": "skateboard",
+    "phonetic": "/ˈskeɪtˌbɔrd/",
+    "definition": "A short board with four wheels that you stand on and ride",
+    "translation": "ván trượt",
+    "exampleSentence": "The sports shop sells each skateboard together with a helmet for safety.",
+    "exampleTranslation": "Cửa hàng thể thao bán mỗi chiếc ván trượt kèm một chiếc mũ bảo hiểm để đảm bảo an toàn.",
+    "pos": "noun"
+  },
+  {
+    "word": "sleepy",
+    "phonetic": "/ˈslipi/",
+    "definition": "feeling tired and ready to sleep",
+    "translation": "buồn ngủ",
+    "exampleSentence": "Drivers who feel sleepy should stop and rest at the next station.",
+    "exampleTranslation": "Tài xế cảm thấy buồn ngủ nên dừng lại nghỉ ở trạm kế tiếp.",
+    "pos": "adjective"
+  },
+  {
+    "word": "tailor",
+    "phonetic": "/ˈteɪlər/",
+    "definition": "to change something so that it fits the needs of a particular person or group",
+    "translation": "điều chỉnh cho phù hợp, thiết kế riêng",
+    "exampleSentence": "We tailor each training program to the needs of our clients.",
+    "exampleTranslation": "Chúng tôi điều chỉnh từng chương trình đào tạo cho phù hợp với nhu cầu của khách hàng.",
+    "pos": "verb"
+  },
+  {
+    "word": "termination",
+    "phonetic": "/ˌtɜrməˈneɪʃən/",
+    "definition": "the act of ending something, such as a contract or a job",
+    "translation": "sự chấm dứt, việc kết thúc",
+    "exampleSentence": "The contract includes a clause about early termination by either side.",
+    "exampleTranslation": "Hợp đồng có một điều khoản về việc chấm dứt sớm từ phía mỗi bên.",
+    "pos": "noun"
+  },
+  {
+    "word": "theft",
+    "phonetic": "/θɛft/",
+    "definition": "the crime of taking something that belongs to someone else",
+    "translation": "vụ trộm, hành vi trộm cắp",
+    "exampleSentence": "The company installed cameras to help prevent theft in the warehouse.",
+    "exampleTranslation": "Công ty đã lắp camera để giúp ngăn ngừa trộm cắp trong nhà kho.",
+    "pos": "noun"
+  },
+  {
+    "word": "thunderstorm",
+    "phonetic": "/ˈθʌndərˌstɔrm/",
+    "definition": "A storm with heavy rain, strong wind, thunder and lightning",
+    "translation": "cơn giông, bão có sấm sét",
+    "exampleSentence": "The outdoor concert was canceled because of a severe thunderstorm.",
+    "exampleTranslation": "Buổi hòa nhạc ngoài trời bị hủy vì một cơn giông dữ dội.",
+    "pos": "noun"
+  },
+  {
+    "word": "transmission",
+    "phonetic": "/trænzˈmɪʃən/",
+    "definition": "the act of sending a message, signal or data from one place to another",
+    "translation": "sự truyền, việc truyền tín hiệu",
+    "exampleSentence": "A problem with the transmission of data delayed the online meeting.",
+    "exampleTranslation": "Sự cố trong việc truyền dữ liệu đã làm chậm cuộc họp trực tuyến.",
+    "pos": "noun"
+  },
+  {
+    "word": "transmit",
+    "phonetic": "/trænzˈmɪt/",
+    "definition": "to send a message, signal or data from one place to another",
+    "translation": "truyền, gửi",
+    "exampleSentence": "The system will transmit the daily sales figures to the head office.",
+    "exampleTranslation": "Hệ thống sẽ truyền số liệu bán hàng hằng ngày đến trụ sở chính.",
+    "pos": "verb"
+  },
+  {
+    "word": "unused",
+    "phonetic": "/ʌnˈjuzd/",
+    "definition": "not yet used, or not being used",
+    "translation": "chưa sử dụng, không dùng đến",
+    "exampleSentence": "You can return any unused items within thirty days for a full refund.",
+    "exampleTranslation": "Bạn có thể trả lại mọi mặt hàng chưa sử dụng trong vòng ba mươi ngày để được hoàn tiền đầy đủ.",
+    "pos": "adjective"
+  },
+  {
+    "word": "waive",
+    "phonetic": "/weɪv/",
+    "definition": "to choose not to ask for a fee or not to follow a rule",
+    "translation": "miễn (phí), bỏ qua (quy định)",
+    "exampleSentence": "The hotel agreed to waive the late checkout fee for loyal guests.",
+    "exampleTranslation": "Khách sạn đồng ý miễn khoản phí trả phòng muộn cho khách hàng thân thiết.",
+    "pos": "verb"
+  },
+  {
+    "word": "yen",
+    "phonetic": "/jɛn/",
+    "definition": "the basic unit of money in Japan",
+    "translation": "yên Nhật",
+    "exampleSentence": "The hotel room costs about twelve thousand yen per night.",
+    "exampleTranslation": "Phòng khách sạn có giá khoảng mười hai nghìn yên một đêm.",
+    "pos": "noun"
+  },
+  {
+    "word": "activate",
+    "phonetic": "/ˈæktəˌveɪt/",
+    "definition": "to make something start working",
+    "translation": "kích hoạt",
+    "exampleSentence": "Please call this number to activate your new credit card.",
+    "exampleTranslation": "Vui lòng gọi số này để kích hoạt thẻ tín dụng mới của bạn.",
+    "pos": "verb"
+  },
+  {
+    "word": "additionally",
+    "phonetic": "/əˈdɪʃənəli/",
+    "definition": "also; used to add another piece of information",
+    "translation": "ngoài ra, thêm vào đó",
+    "exampleSentence": "Additionally, all visitors must sign in at the front desk.",
+    "exampleTranslation": "Ngoài ra, tất cả khách đến thăm phải đăng ký tại quầy lễ tân.",
+    "pos": "adverb"
+  },
+  {
+    "word": "affirmative",
+    "phonetic": "/əˈfɜrmətɪv/",
+    "definition": "meaning yes; agreeing or positive",
+    "translation": "khẳng định, đồng ý",
+    "exampleSentence": "We received an affirmative reply from the supplier this morning.",
+    "exampleTranslation": "Sáng nay chúng tôi nhận được phản hồi đồng ý từ nhà cung cấp.",
+    "pos": "adjective"
+  },
+  {
+    "word": "baker",
+    "phonetic": "/ˈbeɪkər/",
+    "definition": "A person who makes and sells bread, cakes and similar food",
+    "translation": "thợ làm bánh",
+    "exampleSentence": "The baker starts work at four in the morning to prepare fresh bread.",
+    "exampleTranslation": "Thợ làm bánh bắt đầu làm việc lúc bốn giờ sáng để chuẩn bị bánh mì tươi.",
+    "pos": "noun"
+  },
+  {
+    "word": "brainstorm",
+    "phonetic": "/ˈbreɪnˌstɔrm/",
+    "definition": "to think of many new ideas quickly, usually in a group",
+    "translation": "động não, cùng nghĩ ý tưởng",
+    "exampleSentence": "Let's brainstorm some ideas for the new advertising campaign this afternoon.",
+    "exampleTranslation": "Chiều nay chúng ta hãy cùng động não để tìm ý tưởng cho chiến dịch quảng cáo mới.",
+    "pos": "verb"
+  },
+  {
+    "word": "cage",
+    "phonetic": "/keɪdʒ/",
+    "definition": "A box or space with metal bars where animals or birds are kept",
+    "translation": "cái lồng, chuồng",
+    "exampleSentence": "The pet shop keeps the birds in a large cage near the window.",
+    "exampleTranslation": "Cửa hàng thú cưng nuôi những con chim trong một chiếc lồng lớn gần cửa sổ.",
+    "pos": "noun"
+  },
+  {
+    "word": "cinema",
+    "phonetic": "/ˈsɪnəmə/",
+    "definition": "A place where people go to watch films",
+    "translation": "rạp chiếu phim, rạp phim",
+    "exampleSentence": "The new cinema near the station shows films from around the world.",
+    "exampleTranslation": "Rạp chiếu phim mới gần ga chiếu các bộ phim từ khắp nơi trên thế giới.",
+    "pos": "noun"
+  },
+  {
+    "word": "collaboration",
+    "phonetic": "/kəˌlæbəˈreɪʃən/",
+    "definition": "the act of working together with others to do something",
+    "translation": "sự hợp tác, sự cộng tác",
+    "exampleSentence": "The project succeeded thanks to close collaboration between the design and sales teams.",
+    "exampleTranslation": "Dự án thành công nhờ sự hợp tác chặt chẽ giữa nhóm thiết kế và nhóm bán hàng.",
+    "pos": "noun"
+  },
+  {
+    "word": "condominium",
+    "phonetic": "/ˌkɑndəˈmɪniəm/",
+    "definition": "A building with many apartments owned by different people, or one of those apartments",
+    "translation": "căn hộ chung cư, chung cư",
+    "exampleSentence": "Minh bought a condominium close to the city center last year.",
+    "exampleTranslation": "Minh đã mua một căn hộ chung cư gần trung tâm thành phố vào năm ngoái.",
+    "pos": "noun"
+  },
+  {
+    "word": "consecutive",
+    "phonetic": "/kənˈsɛkjətɪv/",
+    "definition": "following one after another without a break",
+    "translation": "liên tiếp, liên tục",
+    "exampleSentence": "Our sales have increased for three consecutive months.",
+    "exampleTranslation": "Doanh số của chúng tôi đã tăng trong ba tháng liên tiếp.",
+    "pos": "adjective"
+  },
+  {
+    "word": "cordless",
+    "phonetic": "/ˈkɔrdləs/",
+    "definition": "working without an electric cord or cable",
+    "translation": "không dây",
+    "exampleSentence": "The technician used a cordless drill to fix the shelves quickly.",
+    "exampleTranslation": "Kỹ thuật viên đã dùng máy khoan không dây để gắn các kệ một cách nhanh chóng.",
+    "pos": "adjective"
+  },
+  {
+    "word": "deluxe",
+    "phonetic": "/dəˈlʌks/",
+    "definition": "of very high quality and more comfortable than the standard type",
+    "translation": "sang trọng, cao cấp",
+    "exampleSentence": "Guests can upgrade to a deluxe room with an ocean view.",
+    "exampleTranslation": "Khách có thể nâng cấp lên phòng cao cấp có tầm nhìn ra biển.",
+    "pos": "adjective"
+  },
+  {
+    "word": "desirable",
+    "phonetic": "/dɪˈzaɪrəbəl/",
+    "definition": "worth having or wanting; attractive",
+    "translation": "đáng mong muốn, hấp dẫn",
+    "exampleSentence": "Strong communication skills are desirable for this customer service position.",
+    "exampleTranslation": "Kỹ năng giao tiếp tốt là điều đáng mong muốn đối với vị trí chăm sóc khách hàng này.",
+    "pos": "adjective"
+  },
+  {
+    "word": "discrepancy",
+    "phonetic": "/dɪˈskrɛpənsi/",
+    "definition": "A difference between things that should be the same",
+    "translation": "sự chênh lệch, sự không khớp",
+    "exampleSentence": "The accountant found a discrepancy between the invoice and the payment record.",
+    "exampleTranslation": "Kế toán đã phát hiện một sự chênh lệch giữa hóa đơn và hồ sơ thanh toán.",
+    "pos": "noun"
+  },
+  {
+    "word": "dispatch",
+    "phonetic": "/dɪˈspætʃ/",
+    "definition": "to send someone or something to a place for a purpose",
+    "translation": "gửi đi, điều động",
+    "exampleSentence": "We will dispatch your order as soon as the payment is confirmed.",
+    "exampleTranslation": "Chúng tôi sẽ gửi đơn hàng của bạn đi ngay khi thanh toán được xác nhận.",
+    "pos": "verb"
+  },
+  {
+    "word": "drawback",
+    "phonetic": "/ˈdrɔˌbæk/",
+    "definition": "A disadvantage or problem that makes something less attractive",
+    "translation": "nhược điểm, bất lợi",
+    "exampleSentence": "The main drawback of this laptop is its short battery life.",
+    "exampleTranslation": "Nhược điểm chính của chiếc laptop này là thời lượng pin ngắn.",
+    "pos": "noun"
+  },
+  {
+    "word": "dull",
+    "phonetic": "/dʌl/",
+    "definition": "not interesting or exciting",
+    "translation": "nhàm chán, tẻ nhạt",
+    "exampleSentence": "Many attendees found the long presentation dull and left early.",
+    "exampleTranslation": "Nhiều người tham dự thấy bài thuyết trình dài thật nhàm chán nên ra về sớm.",
+    "pos": "adjective"
+  },
+  {
+    "word": "economically",
+    "phonetic": "/ˌɛkəˈnɑmɪkli/",
+    "definition": "in a way that relates to money, trade and the economy",
+    "translation": "về mặt kinh tế",
+    "exampleSentence": "The new plant is economically important to the small town.",
+    "exampleTranslation": "Nhà máy mới quan trọng về mặt kinh tế đối với thị trấn nhỏ.",
+    "pos": "adverb"
+  },
+  {
+    "word": "evenly",
+    "phonetic": "/ˈivənli/",
+    "definition": "in a smooth or equal way, with each part the same",
+    "translation": "một cách đều đặn, đồng đều",
+    "exampleSentence": "Please spread the cost evenly among all the departments.",
+    "exampleTranslation": "Vui lòng chia đều chi phí cho tất cả các phòng ban.",
+    "pos": "adverb"
+  },
+  {
+    "word": "excellence",
+    "phonetic": "/ˈɛksələns/",
+    "definition": "the quality of being extremely good",
+    "translation": "sự xuất sắc, sự ưu tú",
+    "exampleSentence": "The company won an award for excellence in customer service.",
+    "exampleTranslation": "Công ty đã giành giải thưởng về sự xuất sắc trong dịch vụ khách hàng.",
+    "pos": "noun"
+  },
+  {
+    "word": "exclusively",
+    "phonetic": "/ɪkˈsklusɪvli/",
+    "definition": "only for one person or group, and no others",
+    "translation": "chỉ dành riêng, độc quyền",
+    "exampleSentence": "This offer is available exclusively to members of our loyalty program.",
+    "exampleTranslation": "Ưu đãi này chỉ dành riêng cho thành viên chương trình khách hàng thân thiết của chúng tôi.",
+    "pos": "adverb"
+  },
+  {
+    "word": "farewell",
+    "phonetic": "/ˌfɛrˈwɛl/",
+    "definition": "an act of saying goodbye, especially to someone who is leaving",
+    "translation": "lời chia tay, buổi tiễn biệt",
+    "exampleSentence": "Colleagues gathered to say a warm farewell to the retiring director.",
+    "exampleTranslation": "Các đồng nghiệp tụ họp để gửi lời chia tay ấm áp đến giám đốc sắp nghỉ hưu.",
+    "pos": "noun"
+  },
+  {
+    "word": "fatigue",
+    "phonetic": "/fəˈtiɡ/",
+    "definition": "A feeling of being extremely tired",
+    "translation": "sự mệt mỏi, sự kiệt sức",
+    "exampleSentence": "Long flights can cause fatigue, so travelers should rest after arrival.",
+    "exampleTranslation": "Các chuyến bay dài có thể gây mệt mỏi nên hành khách cần nghỉ ngơi sau khi đến nơi.",
+    "pos": "noun"
+  },
+  {
+    "word": "fiscal",
+    "phonetic": "/ˈfɪskəl/",
+    "definition": "relating to government money, taxes or a company's financial year",
+    "translation": "thuộc tài chính, thuộc tài khóa",
+    "exampleSentence": "The company expects higher profits in the next fiscal year.",
+    "exampleTranslation": "Công ty kỳ vọng lợi nhuận cao hơn trong năm tài chính tới.",
+    "pos": "adjective"
+  },
+  {
+    "word": "fleet",
+    "phonetic": "/flit/",
+    "definition": "A group of vehicles, ships or planes owned by one company",
+    "translation": "đội xe, đội tàu, đội bay",
+    "exampleSentence": "The delivery company added ten electric vans to its fleet this year.",
+    "exampleTranslation": "Công ty giao hàng đã bổ sung mười xe tải điện vào đội xe của mình trong năm nay.",
+    "pos": "noun"
+  },
+  {
+    "word": "flour",
+    "phonetic": "/ˈflaʊər/",
+    "definition": "A fine powder made from wheat, used to make bread and cakes",
+    "translation": "bột mì",
+    "exampleSentence": "The bakery orders fifty kilograms of flour every week.",
+    "exampleTranslation": "Tiệm bánh đặt năm mươi ki-lô-gam bột mì mỗi tuần.",
+    "pos": "noun"
+  },
+  {
+    "word": "fog",
+    "phonetic": "/fɔɡ/",
+    "definition": "thick cloud near the ground that makes it hard to see",
+    "translation": "sương mù",
+    "exampleSentence": "Heavy fog delayed several flights at the airport this morning.",
+    "exampleTranslation": "Sương mù dày đặc đã làm chậm nhiều chuyến bay tại sân bay sáng nay.",
+    "pos": "noun"
+  },
+  {
+    "word": "formally",
+    "phonetic": "/ˈfɔrməli/",
+    "definition": "in an official or serious way, following rules",
+    "translation": "một cách chính thức, trang trọng",
+    "exampleSentence": "The company will formally announce the merger at next week's press conference.",
+    "exampleTranslation": "Công ty sẽ chính thức công bố vụ sáp nhập tại buổi họp báo tuần tới.",
+    "pos": "adverb"
+  },
+  {
+    "word": "gram",
+    "phonetic": "/ɡræm/",
+    "definition": "A unit of weight; one thousandth of a kilogram",
+    "translation": "gam",
+    "exampleSentence": "This package weighs five hundred grams, so the shipping fee is low.",
+    "exampleTranslation": "Gói hàng này nặng năm trăm gam nên phí vận chuyển thấp.",
+    "pos": "noun"
+  },
+  {
+    "word": "handbook",
+    "phonetic": "/ˈhændˌbʊk/",
+    "definition": "A small book with instructions or rules about how to do something",
+    "translation": "sổ tay, cẩm nang",
+    "exampleSentence": "New employees receive a handbook that explains company rules and benefits.",
+    "exampleTranslation": "Nhân viên mới nhận được một cuốn sổ tay giải thích nội quy và quyền lợi của công ty.",
+    "pos": "noun"
+  },
+  {
+    "word": "headphone",
+    "phonetic": "/ˈhɛdˌfoʊn/",
+    "definition": "A small speaker worn over or in the ear to listen to sound privately",
+    "translation": "tai nghe",
+    "exampleSentence": "Please wear headphones when you watch videos in the shared office.",
+    "exampleTranslation": "Vui lòng đeo tai nghe khi xem video trong văn phòng chung.",
+    "pos": "noun"
+  },
+  {
+    "word": "heater",
+    "phonetic": "/ˈhitər/",
+    "definition": "A machine that makes a room or water warm",
+    "translation": "máy sưởi, lò sưởi",
+    "exampleSentence": "Please turn off the heater before you leave the meeting room.",
+    "exampleTranslation": "Vui lòng tắt máy sưởi trước khi bạn rời phòng họp.",
+    "pos": "noun"
+  },
+  {
+    "word": "helmet",
+    "phonetic": "/ˈhɛlmət/",
+    "definition": "A hard hat that protects your head",
+    "translation": "mũ bảo hiểm, mũ bảo hộ",
+    "exampleSentence": "Workers must wear a helmet whenever they enter the construction area.",
+    "exampleTranslation": "Công nhân phải đội mũ bảo hộ mỗi khi vào khu vực xây dựng.",
+    "pos": "noun"
+  },
+  {
+    "word": "hiker",
+    "phonetic": "/ˈhaɪkər/",
+    "definition": "A person who goes for long walks in the countryside or mountains",
+    "translation": "người đi bộ đường dài",
+    "exampleSentence": "The park office gives each hiker a map and a safety guide.",
+    "exampleTranslation": "Văn phòng công viên phát cho mỗi người đi bộ đường dài một bản đồ và hướng dẫn an toàn.",
+    "pos": "noun"
+  },
+  {
+    "word": "homeless",
+    "phonetic": "/ˈhoʊmləs/",
+    "definition": "having no place to live",
+    "translation": "vô gia cư, không nhà cửa",
+    "exampleSentence": "The charity provides meals for homeless people every Friday evening.",
+    "exampleTranslation": "Tổ chức từ thiện cung cấp bữa ăn cho người vô gia cư vào mỗi tối thứ Sáu.",
+    "pos": "adjective"
+  },
+  {
+    "word": "lighter",
+    "phonetic": "/ˈlaɪtər/",
+    "definition": "weighing less than something else",
+    "translation": "nhẹ hơn",
+    "exampleSentence": "This new suitcase is lighter than the old one, so it is easier to carry.",
+    "exampleTranslation": "Chiếc vali mới này nhẹ hơn chiếc cũ nên dễ mang hơn.",
+    "pos": "adjective"
+  },
+  {
+    "word": "loudly",
+    "phonetic": "/ˈlaʊdli/",
+    "definition": "in a way that makes a lot of noise",
+    "translation": "một cách ồn ào, to tiếng",
+    "exampleSentence": "Please do not talk loudly on the phone in the library.",
+    "exampleTranslation": "Vui lòng không nói chuyện điện thoại to tiếng trong thư viện.",
+    "pos": "adverb"
+  },
+  {
+    "word": "loyalty",
+    "phonetic": "/ˈlɔɪəlti/",
+    "definition": "the quality of staying faithful and supporting someone or something",
+    "translation": "lòng trung thành, sự trung thành",
+    "exampleSentence": "The store offers a discount card to reward customer loyalty.",
+    "exampleTranslation": "Cửa hàng phát thẻ giảm giá để thưởng cho lòng trung thành của khách hàng.",
+    "pos": "noun"
+  },
+  {
+    "word": "microwave",
+    "phonetic": "/ˈmaɪkrəˌweɪv/",
+    "definition": "A kitchen machine that heats or cooks food quickly",
+    "translation": "lò vi sóng",
+    "exampleSentence": "Employees can heat their lunch in the microwave in the break room.",
+    "exampleTranslation": "Nhân viên có thể hâm nóng bữa trưa trong lò vi sóng ở phòng nghỉ.",
+    "pos": "noun"
+  },
+  {
+    "word": "misidentify",
+    "phonetic": "/ˌmɪsaɪˈdɛntəˌfaɪ/",
+    "definition": "to wrongly say that someone or something is another person or thing",
+    "translation": "nhận dạng sai, nhận nhầm",
+    "exampleSentence": "The system may misidentify a product if the barcode is damaged.",
+    "exampleTranslation": "Hệ thống có thể nhận dạng sai sản phẩm nếu mã vạch bị hỏng.",
+    "pos": "verb"
+  },
+  {
+    "word": "neat",
+    "phonetic": "/nit/",
+    "definition": "clean, tidy and well arranged",
+    "translation": "gọn gàng, ngăn nắp",
+    "exampleSentence": "Please keep your desk neat and clear of papers at the end of the day.",
+    "exampleTranslation": "Vui lòng giữ bàn làm việc gọn gàng, không để giấy tờ vào cuối ngày.",
+    "pos": "adjective"
+  },
+  {
+    "word": "nomination",
+    "phonetic": "/ˌnɑməˈneɪʃən/",
+    "definition": "the act of officially suggesting someone for a job, prize or position",
+    "translation": "sự đề cử, việc đề cử",
+    "exampleSentence": "Lan received a nomination for the employee of the year award.",
+    "exampleTranslation": "Lan được đề cử cho giải thưởng nhân viên của năm.",
+    "pos": "noun"
+  },
+  {
+    "word": "officially",
+    "phonetic": "/əˈfɪʃəli/",
+    "definition": "in a formal way, by someone in authority",
+    "translation": "một cách chính thức, chính thức",
+    "exampleSentence": "The new branch will officially open to the public on Monday.",
+    "exampleTranslation": "Chi nhánh mới sẽ chính thức mở cửa đón khách vào thứ Hai.",
+    "pos": "adverb"
+  },
+  {
+    "word": "outfit",
+    "phonetic": "/ˈaʊtˌfɪt/",
+    "definition": "A set of clothes worn together for a particular occasion",
+    "translation": "bộ quần áo, trang phục",
+    "exampleSentence": "Ms. Park chose a smart outfit for the job interview on Friday.",
+    "exampleTranslation": "Cô Park đã chọn một bộ trang phục lịch sự cho buổi phỏng vấn xin việc vào thứ Sáu.",
+    "pos": "noun"
+  }
+]

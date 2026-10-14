@@ -30,5 +30,21 @@
     "source": "Written by the Alavo team. The word list and its order follow the PHaVE List (Garnier & Schmitt, 2015); definitions, translations and examples are original.",
     "manifest": "vocabulary/en-vi/phrasal-verbs-top-150/manifest.json",
     "wordCount": 150
+  },
+  {
+    "id": "toeic-service-list",
+    "type": "vocabulary",
+    "title": "TOEIC Service List",
+    "description": "The 1,250 words that appear most often in TOEIC test materials, ordered by rank, with Vietnamese meanings and examples.",
+    "category": "toeic",
+    "level": "mixed",
+    "order": 2,
+    "sourceLang": "en",
+    "targetLang": "vi",
+    "version": "1.0.0",
+    "license": "CC-BY-SA-4.0",
+    "source": "Word list: TOEIC Service List 1.2 by Charles Browne and Brent Culligan (https://www.newgeneralservicelist.com/toeic-service-list), CC BY-SA 4.0. Phonetics, definitions, translations and examples written by the Alavo team.",
+    "manifest": "vocabulary/en-vi/toeic-service-list/manifest.json",
+    "wordCount": 1250
   }
 ]

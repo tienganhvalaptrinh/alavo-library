@@ -1,0 +1,902 @@
+[
+  {
+    "word": "exit",
+    "phonetic": "/ˈɛɡzɪt/",
+    "definition": "to leave a place such as a room, building or vehicle",
+    "translation": "ra khỏi, rời khỏi",
+    "exampleSentence": "Please exit the building through the side door when the alarm sounds.",
+    "exampleTranslation": "Vui lòng ra khỏi tòa nhà bằng cửa phụ khi chuông báo động vang lên.",
+    "pos": "verb"
+  },
+  {
+    "word": "attendee",
+    "phonetic": "/ˌætɛnˈdi/",
+    "definition": "a person who is present at a meeting, conference or event",
+    "translation": "người tham dự",
+    "exampleSentence": "Each attendee will receive a name tag and a program at the registration desk.",
+    "exampleTranslation": "Mỗi người tham dự sẽ nhận được một thẻ tên và một chương trình tại bàn đăng ký.",
+    "pos": "noun"
+  },
+  {
+    "word": "cruise",
+    "phonetic": "/kruz/",
+    "definition": "a holiday trip on a large ship that visits several places",
+    "translation": "chuyến du lịch trên tàu biển, chuyến du thuyền",
+    "exampleSentence": "The company offered employees a seven-day cruise as a reward for record sales.",
+    "exampleTranslation": "Công ty tặng nhân viên một chuyến du lịch tàu biển bảy ngày để thưởng cho doanh số kỷ lục.",
+    "pos": "noun"
+  },
+  {
+    "word": "birthday",
+    "phonetic": "/ˈbɜrθˌdeɪ/",
+    "definition": "the day each year when you celebrate the date you were born",
+    "translation": "sinh nhật, ngày sinh",
+    "exampleSentence": "We bought a cake to celebrate Ms. Park's birthday in the office.",
+    "exampleTranslation": "Chúng tôi mua một chiếc bánh để mừng sinh nhật của cô Park tại văn phòng.",
+    "pos": "noun"
+  },
+  {
+    "word": "café",
+    "phonetic": "/kæˈfeɪ/",
+    "definition": "a small restaurant that serves coffee, tea, cold drinks and light meals",
+    "translation": "quán cà phê, tiệm cà phê",
+    "exampleSentence": "Lan met the client at a quiet café near the train station.",
+    "exampleTranslation": "Lan gặp khách hàng tại một quán cà phê yên tĩnh gần ga tàu.",
+    "pos": "noun"
+  },
+  {
+    "word": "comprehension",
+    "phonetic": "/ˌkɑmprɪˈhɛnʃən/",
+    "definition": "the ability to understand something",
+    "translation": "khả năng hiểu, sự hiểu",
+    "exampleSentence": "The test includes a reading comprehension section with several short business emails.",
+    "exampleTranslation": "Bài kiểm tra có phần đọc hiểu gồm vài email kinh doanh ngắn.",
+    "pos": "noun"
+  },
+  {
+    "word": "mall",
+    "phonetic": "/mɔl/",
+    "definition": "a large building with many stores and restaurants inside",
+    "translation": "trung tâm thương mại",
+    "exampleSentence": "The new shopping mall opens next month and will have more than two hundred stores.",
+    "exampleTranslation": "Trung tâm thương mại mới sẽ khai trương vào tháng sau và có hơn hai trăm cửa hàng.",
+    "pos": "noun"
+  },
+  {
+    "word": "medication",
+    "phonetic": "/ˌmɛdɪˈkeɪʃən/",
+    "definition": "medicine that a doctor gives you to treat an illness",
+    "translation": "thuốc, thuốc điều trị",
+    "exampleSentence": "Employees who take medication at work should keep it in a safe place.",
+    "exampleTranslation": "Nhân viên uống thuốc tại nơi làm việc nên cất thuốc ở chỗ an toàn.",
+    "pos": "noun"
+  },
+  {
+    "word": "recycle",
+    "phonetic": "/riˈsaɪkəl/",
+    "definition": "to process used materials such as paper or plastic so they can be used again",
+    "translation": "tái chế",
+    "exampleSentence": "Our office recycles all paper, plastic bottles and old printer cartridges.",
+    "exampleTranslation": "Văn phòng chúng tôi tái chế toàn bộ giấy, chai nhựa và hộp mực máy in cũ.",
+    "pos": "verb"
+  },
+  {
+    "word": "renew",
+    "phonetic": "/rɪˈnu/",
+    "definition": "to continue something such as a contract, license or membership for a new period",
+    "translation": "gia hạn, tái tục",
+    "exampleSentence": "You must renew your membership before the end of the month to keep your discount.",
+    "exampleTranslation": "Bạn phải gia hạn thẻ thành viên trước cuối tháng để giữ ưu đãi giảm giá.",
+    "pos": "verb"
+  },
+  {
+    "word": "tenant",
+    "phonetic": "/ˈtɛnənt/",
+    "definition": "a person who pays rent to use a room, apartment or office",
+    "translation": "người thuê nhà, người thuê văn phòng",
+    "exampleSentence": "The tenant on the third floor asked the landlord to repair the broken heater.",
+    "exampleTranslation": "Người thuê nhà ở tầng ba đã yêu cầu chủ nhà sửa chiếc máy sưởi bị hỏng.",
+    "pos": "noun"
+  },
+  {
+    "word": "sandwich",
+    "phonetic": "/ˈsænwɪtʃ/",
+    "definition": "two slices of bread with meat, cheese or vegetables between them",
+    "translation": "bánh mì kẹp, bánh sandwich",
+    "exampleSentence": "Minh ordered a chicken sandwich and a coffee for lunch at the office.",
+    "exampleTranslation": "Minh gọi một chiếc bánh mì kẹp gà và một ly cà phê cho bữa trưa tại văn phòng.",
+    "pos": "noun"
+  },
+  {
+    "word": "departure",
+    "phonetic": "/dɪˈpɑrtʃər/",
+    "definition": "the act of leaving a place, especially at the start of a trip",
+    "translation": "sự khởi hành, giờ khởi hành",
+    "exampleSentence": "The departure of flight 204 has been delayed by one hour because of fog.",
+    "exampleTranslation": "Giờ khởi hành của chuyến bay 204 đã bị hoãn thêm một giờ vì sương mù.",
+    "pos": "noun"
+  },
+  {
+    "word": "mini",
+    "phonetic": "/ˈmɪni/",
+    "definition": "much smaller than the usual size of its type",
+    "translation": "nhỏ, cỡ nhỏ, mini",
+    "exampleSentence": "The hotel room has a mini refrigerator stocked with drinks and snacks.",
+    "exampleTranslation": "Phòng khách sạn có một tủ lạnh mini chứa đầy đồ uống và đồ ăn nhẹ.",
+    "pos": "adjective"
+  },
+  {
+    "word": "fitness",
+    "phonetic": "/ˈfɪtnəs/",
+    "definition": "the state of being healthy and strong, especially from regular exercise",
+    "translation": "thể lực, sức khỏe thể chất, thể dục thể hình",
+    "exampleSentence": "The company offers a fitness program to help its staff stay healthy and active.",
+    "exampleTranslation": "Công ty có chương trình thể hình để giúp nhân viên giữ gìn sức khỏe và năng động.",
+    "pos": "noun"
+  },
+  {
+    "word": "inconvenience",
+    "phonetic": "/ˌɪnkənˈvinjəns/",
+    "definition": "something that causes trouble, delay or discomfort",
+    "translation": "sự bất tiện, điều phiền toái",
+    "exampleSentence": "We apologize for any inconvenience caused by the temporary closure of the main entrance.",
+    "exampleTranslation": "Chúng tôi xin lỗi vì bất kỳ sự bất tiện nào do việc đóng cửa tạm thời lối vào chính gây ra.",
+    "pos": "noun"
+  },
+  {
+    "word": "banquet",
+    "phonetic": "/ˈbæŋkwɪt/",
+    "definition": "a large formal meal for many people, often for a special event",
+    "translation": "tiệc lớn, yến tiệc",
+    "exampleSentence": "The annual awards banquet will be held in the hotel ballroom on Friday evening.",
+    "exampleTranslation": "Tiệc trao giải thường niên sẽ được tổ chức tại phòng khiêu vũ của khách sạn vào tối thứ Sáu.",
+    "pos": "noun"
+  },
+  {
+    "word": "closet",
+    "phonetic": "/ˈklɑzɪt/",
+    "definition": "a small room or cupboard for storing clothes or other things",
+    "translation": "tủ quần áo âm tường, tủ đựng đồ",
+    "exampleSentence": "Please hang your coat in the closet next to the reception desk.",
+    "exampleTranslation": "Vui lòng treo áo khoác của bạn vào tủ đựng đồ cạnh quầy lễ tân.",
+    "pos": "noun"
+  },
+  {
+    "word": "unreal",
+    "phonetic": "/ʌnˈril/",
+    "definition": "not real, or too strange or too good to be believed",
+    "translation": "không có thật, khó tin, phi thực tế",
+    "exampleSentence": "The sales figures looked unreal, so the manager asked for them to be checked again.",
+    "exampleTranslation": "Số liệu doanh thu trông khó tin nên giám đốc yêu cầu kiểm tra lại.",
+    "pos": "adjective"
+  },
+  {
+    "word": "distractor",
+    "phonetic": "/dɪˈstræktər/",
+    "definition": "a wrong answer in a multiple-choice question that is made to look correct",
+    "translation": "đáp án gây nhiễu, phương án nhiễu",
+    "exampleSentence": "Each question has one correct answer and two distractors that look very similar.",
+    "exampleTranslation": "Mỗi câu hỏi có một đáp án đúng và hai đáp án gây nhiễu trông rất giống nhau.",
+    "pos": "noun"
+  },
+  {
+    "word": "expire",
+    "phonetic": "/ɪkˈspaɪər/",
+    "definition": "to come to an end, for example a contract, ticket or passport",
+    "translation": "hết hạn",
+    "exampleSentence": "Our supplier contract will expire at the end of December, so we need to renew it.",
+    "exampleTranslation": "Hợp đồng với nhà cung cấp của chúng tôi sẽ hết hạn vào cuối tháng Mười Hai nên chúng tôi cần gia hạn.",
+    "pos": "verb"
+  },
+  {
+    "word": "folder",
+    "phonetic": "/ˈfoʊldər/",
+    "definition": "a cover for keeping papers together, or a place on a computer where files are stored",
+    "translation": "tập hồ sơ, bìa hồ sơ, thư mục",
+    "exampleSentence": "Please save the final report in the shared folder before the meeting begins.",
+    "exampleTranslation": "Vui lòng lưu báo cáo cuối cùng vào thư mục dùng chung trước khi cuộc họp bắt đầu.",
+    "pos": "noun"
+  },
+  {
+    "word": "photocopy",
+    "phonetic": "/ˈfoʊtoʊˌkɑpi/",
+    "definition": "to make a copy of a document using a machine",
+    "translation": "photo, sao chụp",
+    "exampleSentence": "Could you photocopy these contracts before the client arrives at ten?",
+    "exampleTranslation": "Bạn có thể photo các hợp đồng này trước khi khách hàng đến lúc mười giờ không?",
+    "pos": "verb"
+  },
+  {
+    "word": "renovate",
+    "phonetic": "/ˈrɛnəˌveɪt/",
+    "definition": "to repair and improve an old building or room so it looks new again",
+    "translation": "cải tạo, tân trang, sửa chữa",
+    "exampleSentence": "The hotel will renovate its lobby and restaurant during the winter months.",
+    "exampleTranslation": "Khách sạn sẽ cải tạo sảnh và nhà hàng trong những tháng mùa đông.",
+    "pos": "verb"
+  },
+  {
+    "word": "sunny",
+    "phonetic": "/ˈsʌni/",
+    "definition": "bright with light from the sun, with few or no clouds",
+    "translation": "có nắng, nhiều nắng",
+    "exampleSentence": "The weather forecast says it will be sunny for the company picnic on Saturday.",
+    "exampleTranslation": "Dự báo thời tiết cho biết trời sẽ nắng trong buổi dã ngoại của công ty vào thứ Bảy.",
+    "pos": "adjective"
+  },
+  {
+    "word": "calendar",
+    "phonetic": "/ˈkælɪndər/",
+    "definition": "a chart showing the days and months of the year, or a schedule on a computer",
+    "translation": "lịch, tờ lịch",
+    "exampleSentence": "Please add the budget meeting to the shared calendar so everyone can see it.",
+    "exampleTranslation": "Vui lòng thêm cuộc họp ngân sách vào lịch dùng chung để mọi người đều thấy.",
+    "pos": "noun"
+  },
+  {
+    "word": "donation",
+    "phonetic": "/doʊˈneɪʃən/",
+    "definition": "money or goods given to help a person or organization, often a charity",
+    "translation": "khoản quyên góp, sự quyên góp, khoản đóng góp",
+    "exampleSentence": "The company made a generous donation to the local children's hospital last year.",
+    "exampleTranslation": "Năm ngoái công ty đã quyên góp một khoản hào phóng cho bệnh viện nhi địa phương.",
+    "pos": "noun"
+  },
+  {
+    "word": "feedback",
+    "phonetic": "/ˈfidˌbæk/",
+    "definition": "comments about how well someone did something or how good a product or service is",
+    "translation": "phản hồi, ý kiến phản hồi",
+    "exampleSentence": "Customer feedback helped us improve the design of our mobile app.",
+    "exampleTranslation": "Phản hồi của khách hàng đã giúp chúng tôi cải thiện thiết kế ứng dụng di động.",
+    "pos": "noun"
+  },
+  {
+    "word": "shortly",
+    "phonetic": "/ˈʃɔrtli/",
+    "definition": "in a short time, soon",
+    "translation": "sắp, ngay sau đây, chẳng bao lâu nữa",
+    "exampleSentence": "The manager will join the meeting shortly, so please wait a few minutes.",
+    "exampleTranslation": "Giám đốc sẽ sớm tham gia cuộc họp, vì vậy vui lòng chờ vài phút.",
+    "pos": "adverb"
+  },
+  {
+    "word": "snack",
+    "phonetic": "/snæk/",
+    "definition": "a small amount of food eaten between meals",
+    "translation": "đồ ăn nhẹ, bữa ăn vặt",
+    "exampleSentence": "The vending machine sells drinks and snacks for staff during their break.",
+    "exampleTranslation": "Máy bán hàng tự động bán đồ uống và đồ ăn nhẹ cho nhân viên trong giờ nghỉ.",
+    "pos": "noun"
+  },
+  {
+    "word": "warehouse",
+    "phonetic": "/ˈwɛrˌhaʊs/",
+    "definition": "a large building where goods are stored before they are sold or shipped",
+    "translation": "nhà kho, kho hàng",
+    "exampleSentence": "The new shipment arrived at the warehouse early this morning.",
+    "exampleTranslation": "Lô hàng mới đã đến nhà kho vào sáng sớm nay.",
+    "pos": "noun"
+  },
+  {
+    "word": "copier",
+    "phonetic": "/ˈkɑpiər/",
+    "definition": "a machine that makes copies of documents",
+    "translation": "máy photocopy, máy sao chụp",
+    "exampleSentence": "The copier on the second floor is out of paper again.",
+    "exampleTranslation": "Máy photocopy ở tầng hai lại hết giấy.",
+    "pos": "noun"
+  },
+  {
+    "word": "provider",
+    "phonetic": "/prəˈvaɪdər/",
+    "definition": "a company or person that supplies a service or product",
+    "translation": "nhà cung cấp",
+    "exampleSentence": "We are changing our internet provider because the connection is too slow.",
+    "exampleTranslation": "Chúng tôi sẽ đổi nhà cung cấp internet vì đường truyền quá chậm.",
+    "pos": "noun"
+  },
+  {
+    "word": "beverage",
+    "phonetic": "/ˈbɛvərɪdʒ/",
+    "definition": "any drink, such as water, juice, coffee or tea",
+    "translation": "đồ uống, thức uống",
+    "exampleSentence": "Complimentary beverages are served to all passengers during the flight.",
+    "exampleTranslation": "Đồ uống miễn phí được phục vụ cho tất cả hành khách trong suốt chuyến bay.",
+    "pos": "noun"
+  },
+  {
+    "word": "hungry",
+    "phonetic": "/ˈhʌŋɡri/",
+    "definition": "wanting or needing food",
+    "translation": "đói",
+    "exampleSentence": "After the long meeting, everyone was hungry and went straight to the cafeteria.",
+    "exampleTranslation": "Sau cuộc họp dài, mọi người đều đói và đi thẳng đến căng tin.",
+    "pos": "adjective"
+  },
+  {
+    "word": "inspection",
+    "phonetic": "/ɪnˈspɛkʃən/",
+    "definition": "an official check of a place, product or document to make sure it is correct or safe",
+    "translation": "sự kiểm tra, cuộc kiểm tra, cuộc thanh tra",
+    "exampleSentence": "The fire safety inspection will take place in our building next Tuesday.",
+    "exampleTranslation": "Cuộc kiểm tra an toàn phòng cháy sẽ diễn ra tại tòa nhà của chúng tôi vào thứ Ba tuần sau.",
+    "pos": "noun"
+  },
+  {
+    "word": "recipient",
+    "phonetic": "/rɪˈsɪpiənt/",
+    "definition": "a person or organization that receives something",
+    "translation": "người nhận",
+    "exampleSentence": "Please check the email address carefully so the recipient gets the message.",
+    "exampleTranslation": "Vui lòng kiểm tra kỹ địa chỉ email để người nhận nhận được thư.",
+    "pos": "noun"
+  },
+  {
+    "word": "aisle",
+    "phonetic": "/aɪl/",
+    "definition": "a narrow path between rows of seats or shelves",
+    "translation": "lối đi giữa các hàng ghế hoặc kệ hàng",
+    "exampleSentence": "Cleaning supplies are in aisle five, next to the paper products.",
+    "exampleTranslation": "Đồ dùng vệ sinh ở lối đi số năm, cạnh các sản phẩm giấy.",
+    "pos": "noun"
+  },
+  {
+    "word": "inspect",
+    "phonetic": "/ɪnˈspɛkt/",
+    "definition": "to look at something carefully to check its condition or quality",
+    "translation": "kiểm tra, thanh tra",
+    "exampleSentence": "A technician will inspect the equipment every month to make sure it is safe.",
+    "exampleTranslation": "Một kỹ thuật viên sẽ kiểm tra thiết bị hằng tháng để đảm bảo an toàn.",
+    "pos": "verb"
+  },
+  {
+    "word": "mechanic",
+    "phonetic": "/mɪˈkænɪk/",
+    "definition": "a person whose job is to repair machines, especially cars",
+    "translation": "thợ máy, thợ sửa xe",
+    "exampleSentence": "The mechanic said our delivery van needs new brakes before the next trip.",
+    "exampleTranslation": "Thợ máy cho biết xe tải giao hàng của chúng tôi cần thay phanh mới trước chuyến đi tới.",
+    "pos": "noun"
+  },
+  {
+    "word": "merger",
+    "phonetic": "/ˈmɜrdʒər/",
+    "definition": "the joining of two companies to form one larger company",
+    "translation": "sự sáp nhập, vụ sáp nhập",
+    "exampleSentence": "The merger of the two banks will create one of the largest banks in the country.",
+    "exampleTranslation": "Việc sáp nhập hai ngân hàng sẽ tạo nên một trong những ngân hàng lớn nhất cả nước.",
+    "pos": "noun"
+  },
+  {
+    "word": "soccer",
+    "phonetic": "/ˈsɑkər/",
+    "definition": "a game in which two teams kick a ball and try to score goals",
+    "translation": "bóng đá",
+    "exampleSentence": "Several colleagues play soccer together every Thursday after work.",
+    "exampleTranslation": "Một vài đồng nghiệp cùng chơi bóng đá vào mỗi chiều thứ Năm sau giờ làm.",
+    "pos": "noun"
+  },
+  {
+    "word": "sweater",
+    "phonetic": "/ˈswɛtər/",
+    "definition": "a warm piece of clothing, usually made of wool, worn on the upper body",
+    "translation": "áo len",
+    "exampleSentence": "Bring a sweater because the conference room is often very cold.",
+    "exampleTranslation": "Hãy mang theo áo len vì phòng họp thường rất lạnh.",
+    "pos": "noun"
+  },
+  {
+    "word": "ingredient",
+    "phonetic": "/ɪnˈɡridiənt/",
+    "definition": "one of the foods used to make a particular dish",
+    "translation": "nguyên liệu, thành phần",
+    "exampleSentence": "The chef only uses fresh local ingredients in every dish on the menu.",
+    "exampleTranslation": "Đầu bếp chỉ dùng nguyên liệu địa phương tươi trong mọi món trên thực đơn.",
+    "pos": "noun"
+  },
+  {
+    "word": "rewrite",
+    "phonetic": "/riˈraɪt/",
+    "definition": "to write something again in order to improve it or change it",
+    "translation": "viết lại, sửa lại",
+    "exampleSentence": "Please rewrite the first paragraph of the proposal so it is clearer.",
+    "exampleTranslation": "Vui lòng viết lại đoạn đầu của bản đề xuất để rõ ràng hơn.",
+    "pos": "verb"
+  },
+  {
+    "word": "itinerary",
+    "phonetic": "/aɪˈtɪnəˌrɛri/",
+    "definition": "a detailed plan of a trip, including places and times",
+    "translation": "lịch trình, hành trình",
+    "exampleSentence": "I will send you the full itinerary for the business trip tomorrow morning.",
+    "exampleTranslation": "Tôi sẽ gửi cho bạn lịch trình đầy đủ của chuyến công tác vào sáng mai.",
+    "pos": "noun"
+  },
+  {
+    "word": "workplace",
+    "phonetic": "/ˈwɜrkˌpleɪs/",
+    "definition": "the place where people do their jobs",
+    "translation": "nơi làm việc, môi trường làm việc",
+    "exampleSentence": "The new rules aim to make the workplace safer for all employees.",
+    "exampleTranslation": "Các quy định mới nhằm giúp nơi làm việc an toàn hơn cho toàn thể nhân viên.",
+    "pos": "noun"
+  },
+  {
+    "word": "architect",
+    "phonetic": "/ˈɑrkɪˌtɛkt/",
+    "definition": "a person who designs buildings",
+    "translation": "kiến trúc sư",
+    "exampleSentence": "The architect showed the client three designs for the new office building.",
+    "exampleTranslation": "Kiến trúc sư đã cho khách hàng xem ba bản thiết kế cho tòa nhà văn phòng mới.",
+    "pos": "noun"
+  },
+  {
+    "word": "convenience",
+    "phonetic": "/kənˈvinjəns/",
+    "definition": "the quality of being easy to use or saving time and effort",
+    "translation": "sự tiện lợi, sự thuận tiện",
+    "exampleSentence": "Online banking offers customers the convenience of paying bills from home.",
+    "exampleTranslation": "Ngân hàng trực tuyến mang đến cho khách hàng sự tiện lợi khi thanh toán hóa đơn tại nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "eligible",
+    "phonetic": "/ˈɛlɪdʒəbəl/",
+    "definition": "having the right to do or receive something because you meet the rules",
+    "translation": "đủ điều kiện, đủ tư cách",
+    "exampleSentence": "Employees are eligible for health insurance after three months with the company.",
+    "exampleTranslation": "Nhân viên đủ điều kiện nhận bảo hiểm y tế sau ba tháng làm việc tại công ty.",
+    "pos": "adjective"
+  },
+  {
+    "word": "indoor",
+    "phonetic": "/ˈɪnˌdɔr/",
+    "definition": "inside a building, or used or done inside a building",
+    "translation": "trong nhà",
+    "exampleSentence": "The hotel has an indoor pool that is open from six in the morning.",
+    "exampleTranslation": "Khách sạn có một hồ bơi trong nhà mở cửa từ sáu giờ sáng.",
+    "pos": "adjective"
+  },
+  {
+    "word": "baggage",
+    "phonetic": "/ˈbæɡɪdʒ/",
+    "definition": "the bags and suitcases that a traveler takes on a trip",
+    "translation": "hành lý",
+    "exampleSentence": "Passengers can collect their baggage at carousel number three after landing.",
+    "exampleTranslation": "Hành khách có thể nhận hành lý tại băng chuyền số ba sau khi hạ cánh.",
+    "pos": "noun"
+  },
+  {
+    "word": "dial",
+    "phonetic": "/ˈdaɪəl/",
+    "definition": "to press the numbers on a phone to make a call",
+    "translation": "quay số, bấm số gọi",
+    "exampleSentence": "To reach the front desk, dial nine from any phone in your room.",
+    "exampleTranslation": "Để gọi đến quầy lễ tân, hãy bấm số chín từ bất kỳ điện thoại nào trong phòng của bạn.",
+    "pos": "verb"
+  },
+  {
+    "word": "container",
+    "phonetic": "/kənˈteɪnər/",
+    "definition": "a box, bottle or other object used to hold or store things",
+    "translation": "hộp đựng, thùng chứa",
+    "exampleSentence": "Please put the leftover food in a plastic container and store it in the refrigerator.",
+    "exampleTranslation": "Vui lòng cho thức ăn thừa vào hộp nhựa và cất vào tủ lạnh.",
+    "pos": "noun"
+  },
+  {
+    "word": "drawer",
+    "phonetic": "/drɔr/",
+    "definition": "a box-shaped part of a desk or cabinet that slides in and out",
+    "translation": "ngăn kéo",
+    "exampleSentence": "The extra keys are in the top drawer of the reception desk.",
+    "exampleTranslation": "Chìa khóa dự phòng ở ngăn kéo trên cùng của quầy lễ tân.",
+    "pos": "noun"
+  },
+  {
+    "word": "lab",
+    "phonetic": "/læb/",
+    "definition": "a room or building used for scientific work or tests, short for laboratory",
+    "translation": "phòng thí nghiệm",
+    "exampleSentence": "Researchers in the lab test every new product before it goes on sale.",
+    "exampleTranslation": "Các nhà nghiên cứu trong phòng thí nghiệm kiểm tra mọi sản phẩm mới trước khi bán ra.",
+    "pos": "noun"
+  },
+  {
+    "word": "submission",
+    "phonetic": "/səbˈmɪʃən/",
+    "definition": "the act of giving a document or plan to someone so they can decide about it",
+    "translation": "sự nộp, việc nộp hồ sơ",
+    "exampleSentence": "The deadline for proposal submission is five o'clock on Friday afternoon.",
+    "exampleTranslation": "Hạn nộp đề xuất là năm giờ chiều thứ Sáu.",
+    "pos": "noun"
+  },
+  {
+    "word": "bulletin",
+    "phonetic": "/ˈbʊlətɪn/",
+    "definition": "a short official announcement or a short regular newsletter",
+    "translation": "bản tin, thông báo",
+    "exampleSentence": "The weekly bulletin lists new staff and upcoming events at our company.",
+    "exampleTranslation": "Bản tin hằng tuần liệt kê nhân viên mới và các sự kiện sắp tới của công ty chúng tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "certificate",
+    "phonetic": "/sərˈtɪfɪkɪt/",
+    "definition": "an official paper that proves you finished a course or have a qualification",
+    "translation": "chứng chỉ, giấy chứng nhận",
+    "exampleSentence": "Everyone who finishes the training course will receive a certificate by email.",
+    "exampleTranslation": "Mọi người hoàn thành khóa đào tạo sẽ nhận được chứng chỉ qua email.",
+    "pos": "noun"
+  },
+  {
+    "word": "gym",
+    "phonetic": "/dʒɪm/",
+    "definition": "a place with equipment where people go to exercise",
+    "translation": "phòng tập thể dục, phòng gym",
+    "exampleSentence": "The hotel gym is open twenty-four hours a day for guests.",
+    "exampleTranslation": "Phòng tập của khách sạn mở cửa hai mươi bốn giờ mỗi ngày cho khách lưu trú.",
+    "pos": "noun"
+  },
+  {
+    "word": "highway",
+    "phonetic": "/ˈhaɪˌweɪ/",
+    "definition": "a wide main road for fast traffic between towns or cities",
+    "translation": "đường cao tốc, quốc lộ",
+    "exampleSentence": "Traffic on the highway was slow, so I arrived late for the meeting.",
+    "exampleTranslation": "Giao thông trên đường cao tốc rất chậm nên tôi đã đến họp muộn.",
+    "pos": "noun"
+  },
+  {
+    "word": "respondent",
+    "phonetic": "/rɪˈspɑndənt/",
+    "definition": "a person who answers a survey or questionnaire",
+    "translation": "người trả lời khảo sát",
+    "exampleSentence": "Most respondents said they were satisfied with the new customer service system.",
+    "exampleTranslation": "Hầu hết người trả lời khảo sát cho biết họ hài lòng với hệ thống dịch vụ khách hàng mới.",
+    "pos": "noun"
+  },
+  {
+    "word": "jewelry",
+    "phonetic": "/ˈdʒuəlri/",
+    "definition": "decorations such as rings and necklaces that people wear",
+    "translation": "trang sức, đồ trang sức",
+    "exampleSentence": "The store sells handmade jewelry made from silver and small stones.",
+    "exampleTranslation": "Cửa hàng bán đồ trang sức thủ công làm từ bạc và các viên đá nhỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "overtime",
+    "phonetic": "/ˈoʊvərˌtaɪm/",
+    "definition": "extra hours worked after normal working hours, or the pay for them",
+    "translation": "giờ làm thêm, tiền làm thêm giờ",
+    "exampleSentence": "Staff receive double pay for any overtime they work during the busy season.",
+    "exampleTranslation": "Nhân viên được trả gấp đôi lương cho mọi giờ làm thêm trong mùa cao điểm.",
+    "pos": "noun"
+  },
+  {
+    "word": "battery",
+    "phonetic": "/ˈbætəri/",
+    "definition": "a device that stores electricity and powers things like phones and laptops",
+    "translation": "pin, ắc quy",
+    "exampleSentence": "My laptop battery lasts about eight hours on a single charge.",
+    "exampleTranslation": "Pin máy tính xách tay của tôi dùng được khoảng tám giờ sau một lần sạc.",
+    "pos": "noun"
+  },
+  {
+    "word": "donate",
+    "phonetic": "/ˈdoʊˌneɪt/",
+    "definition": "to give money or goods to help a person or organization",
+    "translation": "quyên góp, tặng, ủng hộ",
+    "exampleSentence": "The company donated twenty computers to a local school last month.",
+    "exampleTranslation": "Tháng trước công ty đã tặng hai mươi máy tính cho một trường học địa phương.",
+    "pos": "verb"
+  },
+  {
+    "word": "outstanding",
+    "phonetic": "/aʊtˈstændɪŋ/",
+    "definition": "not yet paid or dealt with",
+    "translation": "còn tồn đọng, chưa thanh toán",
+    "exampleSentence": "Please pay the outstanding balance on your account by the end of the month.",
+    "exampleTranslation": "Vui lòng thanh toán số dư còn nợ trong tài khoản của bạn trước cuối tháng.",
+    "pos": "adjective"
+  },
+  {
+    "word": "skim",
+    "phonetic": "/skɪm/",
+    "definition": "to read something quickly to get the main ideas",
+    "translation": "đọc lướt",
+    "exampleSentence": "I skimmed the report on the train to prepare for the meeting.",
+    "exampleTranslation": "Tôi đã đọc lướt bản báo cáo trên tàu để chuẩn bị cho cuộc họp.",
+    "pos": "verb"
+  },
+  {
+    "word": "briefcase",
+    "phonetic": "/ˈbrifˌkeɪs/",
+    "definition": "a flat case with a handle used to carry papers and a laptop",
+    "translation": "cặp tài liệu, cặp xách",
+    "exampleSentence": "Someone left a black briefcase with important documents inside on the train.",
+    "exampleTranslation": "Ai đó đã để quên một chiếc cặp đen đựng tài liệu quan trọng trên tàu.",
+    "pos": "noun"
+  },
+  {
+    "word": "dessert",
+    "phonetic": "/dɪˈzɜrt/",
+    "definition": "sweet food eaten at the end of a meal",
+    "translation": "món tráng miệng",
+    "exampleSentence": "The restaurant serves a free dessert with every set dinner menu.",
+    "exampleTranslation": "Nhà hàng tặng một món tráng miệng miễn phí kèm mỗi thực đơn tối cố định.",
+    "pos": "noun"
+  },
+  {
+    "word": "impact",
+    "phonetic": "/ˈɪmˌpækt/",
+    "definition": "the strong effect that something has on a person or situation",
+    "translation": "tác động, ảnh hưởng",
+    "exampleSentence": "The new tax rules will have a big impact on small businesses.",
+    "exampleTranslation": "Các quy định thuế mới sẽ có tác động lớn đến các doanh nghiệp nhỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "innovative",
+    "phonetic": "/ˈɪnəˌveɪtɪv/",
+    "definition": "using new ideas or methods",
+    "translation": "sáng tạo, đổi mới",
+    "exampleSentence": "The company is known for its innovative designs and modern products.",
+    "exampleTranslation": "Công ty nổi tiếng với những thiết kế sáng tạo và sản phẩm hiện đại.",
+    "pos": "adjective"
+  },
+  {
+    "word": "inquire",
+    "phonetic": "/ɪnˈkwaɪər/",
+    "definition": "to ask for information about something",
+    "translation": "hỏi, hỏi thăm, yêu cầu thông tin",
+    "exampleSentence": "Please inquire at the front desk about hotel shuttle times to the airport.",
+    "exampleTranslation": "Vui lòng hỏi tại quầy lễ tân về giờ xe đưa đón của khách sạn đến sân bay.",
+    "pos": "verb"
+  },
+  {
+    "word": "overnight",
+    "phonetic": "/ˌoʊvərˈnaɪt/",
+    "definition": "happening during the night or until the next day",
+    "translation": "qua đêm, trong một đêm",
+    "exampleSentence": "We paid extra for overnight delivery so the package arrives tomorrow morning.",
+    "exampleTranslation": "Chúng tôi trả thêm phí để giao hàng qua đêm, nên gói hàng sẽ đến vào sáng mai.",
+    "pos": "adjective"
+  },
+  {
+    "word": "venue",
+    "phonetic": "/ˈvɛnju/",
+    "definition": "the place where an event such as a concert or conference takes place",
+    "translation": "địa điểm tổ chức",
+    "exampleSentence": "The conference venue is a five-minute walk from the central station.",
+    "exampleTranslation": "Địa điểm tổ chức hội nghị cách ga trung tâm năm phút đi bộ.",
+    "pos": "noun"
+  },
+  {
+    "word": "commuter",
+    "phonetic": "/kəˈmjutər/",
+    "definition": "a person who travels regularly to work, usually from another town",
+    "translation": "người đi làm xa, người đi lại hằng ngày",
+    "exampleSentence": "Commuters should expect long delays on the subway line this morning.",
+    "exampleTranslation": "Những người đi làm hằng ngày nên dự kiến tuyến tàu điện ngầm sẽ trễ lâu vào sáng nay.",
+    "pos": "noun"
+  },
+  {
+    "word": "logo",
+    "phonetic": "/ˈloʊɡoʊ/",
+    "definition": "a symbol or design that a company uses to represent itself",
+    "translation": "biểu trưng, biểu tượng thương hiệu",
+    "exampleSentence": "Our new logo will appear on all packages and business cards next year.",
+    "exampleTranslation": "Biểu trưng mới của chúng tôi sẽ xuất hiện trên mọi gói hàng và danh thiếp vào năm tới.",
+    "pos": "noun"
+  },
+  {
+    "word": "newsletter",
+    "phonetic": "/ˈnuzˌlɛtər/",
+    "definition": "a short report with news sent regularly to members or customers",
+    "translation": "bản tin định kỳ, thư tin",
+    "exampleSentence": "Subscribe to our monthly newsletter to hear about new products and special offers.",
+    "exampleTranslation": "Hãy đăng ký bản tin hằng tháng của chúng tôi để biết về sản phẩm mới và ưu đãi đặc biệt.",
+    "pos": "noun"
+  },
+  {
+    "word": "advisor",
+    "phonetic": "/ædˈvaɪzər/",
+    "definition": "a person who gives expert advice",
+    "translation": "cố vấn",
+    "exampleSentence": "Our financial advisor suggested a safer way to invest the company's savings.",
+    "exampleTranslation": "Cố vấn tài chính của chúng tôi đã gợi ý một cách an toàn hơn để đầu tư khoản tiết kiệm của công ty.",
+    "pos": "noun"
+  },
+  {
+    "word": "cartridge",
+    "phonetic": "/ˈkɑrtrɪdʒ/",
+    "definition": "a small container that can be replaced, such as one holding ink for a printer",
+    "translation": "hộp mực, ống mực",
+    "exampleSentence": "The printer stopped working because the ink cartridge was empty.",
+    "exampleTranslation": "Máy in ngừng hoạt động vì hộp mực đã hết.",
+    "pos": "noun"
+  },
+  {
+    "word": "cloudy",
+    "phonetic": "/ˈklaʊdi/",
+    "definition": "covered with clouds, not sunny",
+    "translation": "nhiều mây, âm u",
+    "exampleSentence": "It will be cloudy in the morning, but the sun should appear later.",
+    "exampleTranslation": "Buổi sáng trời sẽ nhiều mây, nhưng sau đó mặt trời sẽ xuất hiện.",
+    "pos": "adjective"
+  },
+  {
+    "word": "photographer",
+    "phonetic": "/fəˈtɑɡrəfər/",
+    "definition": "a person who takes photographs, especially as a job",
+    "translation": "nhiếp ảnh gia, thợ chụp ảnh",
+    "exampleSentence": "We hired a photographer to take pictures at the company anniversary party.",
+    "exampleTranslation": "Chúng tôi thuê một nhiếp ảnh gia chụp ảnh tại tiệc kỷ niệm thành lập công ty.",
+    "pos": "noun"
+  },
+  {
+    "word": "shopper",
+    "phonetic": "/ˈʃɑpər/",
+    "definition": "a person who buys goods in a store",
+    "translation": "người mua sắm, khách mua hàng",
+    "exampleSentence": "Shoppers can save twenty percent on all items this weekend.",
+    "exampleTranslation": "Người mua sắm có thể tiết kiệm hai mươi phần trăm cho mọi mặt hàng vào cuối tuần này.",
+    "pos": "noun"
+  },
+  {
+    "word": "tag",
+    "phonetic": "/tæɡ/",
+    "definition": "a small label attached to something to show its price or other information",
+    "translation": "nhãn, thẻ, mác",
+    "exampleSentence": "Please check the tag to see the price and size of each jacket.",
+    "exampleTranslation": "Vui lòng xem nhãn để biết giá và cỡ của từng chiếc áo khoác.",
+    "pos": "noun"
+  },
+  {
+    "word": "announcer",
+    "phonetic": "/əˈnaʊnsər/",
+    "definition": "a person who gives news or information over a loudspeaker, radio or television",
+    "translation": "người thông báo, phát thanh viên",
+    "exampleSentence": "The announcer told passengers that the train to the airport was running late.",
+    "exampleTranslation": "Người thông báo cho hành khách biết chuyến tàu đến sân bay đang bị trễ.",
+    "pos": "noun"
+  },
+  {
+    "word": "aspect",
+    "phonetic": "/ˈæspɛkt/",
+    "definition": "one part or feature of a situation, plan or idea",
+    "translation": "khía cạnh, mặt",
+    "exampleSentence": "We reviewed every aspect of the project before presenting it to the board.",
+    "exampleTranslation": "Chúng tôi đã xem xét mọi khía cạnh của dự án trước khi trình bày với hội đồng quản trị.",
+    "pos": "noun"
+  },
+  {
+    "word": "audit",
+    "phonetic": "/ˈɔdɪt/",
+    "definition": "to officially check a company's financial records to make sure they are correct",
+    "translation": "kiểm toán, kiểm tra sổ sách",
+    "exampleSentence": "An outside firm will audit our accounts at the end of the financial year.",
+    "exampleTranslation": "Một công ty bên ngoài sẽ kiểm toán các tài khoản của chúng tôi vào cuối năm tài chính.",
+    "pos": "verb"
+  },
+  {
+    "word": "contractor",
+    "phonetic": "/ˈkɑnˌtræktər/",
+    "definition": "a person or company hired to do a specific job, often building work",
+    "translation": "nhà thầu, thầu khoán",
+    "exampleSentence": "The contractor promised to finish the kitchen repairs by the end of next week.",
+    "exampleTranslation": "Nhà thầu hứa sẽ hoàn thành việc sửa chữa nhà bếp vào cuối tuần sau.",
+    "pos": "noun"
+  },
+  {
+    "word": "download",
+    "phonetic": "/ˈdaʊnˌloʊd/",
+    "definition": "to copy a file or program from the internet to your computer",
+    "translation": "tải xuống, tải về",
+    "exampleSentence": "You can download the user guide from our website for free.",
+    "exampleTranslation": "Bạn có thể tải hướng dẫn sử dụng từ trang web của chúng tôi miễn phí.",
+    "pos": "verb"
+  },
+  {
+    "word": "password",
+    "phonetic": "/ˈpæsˌwɜrd/",
+    "definition": "a secret word or set of characters used to log in to an account",
+    "translation": "mật khẩu",
+    "exampleSentence": "Please change your password every three months to keep your account safe.",
+    "exampleTranslation": "Vui lòng đổi mật khẩu ba tháng một lần để giữ tài khoản của bạn an toàn.",
+    "pos": "noun"
+  },
+  {
+    "word": "prohibit",
+    "phonetic": "/proʊˈhɪbɪt/",
+    "definition": "to officially stop something by a rule or law",
+    "translation": "cấm, nghiêm cấm",
+    "exampleSentence": "Company policy prohibits employees from using personal phones in the laboratory.",
+    "exampleTranslation": "Chính sách công ty cấm nhân viên sử dụng điện thoại cá nhân trong phòng thí nghiệm.",
+    "pos": "verb"
+  },
+  {
+    "word": "stadium",
+    "phonetic": "/ˈsteɪdiəm/",
+    "definition": "a large open building where people watch sports or concerts",
+    "translation": "sân vận động",
+    "exampleSentence": "Thousands of fans arrived at the stadium two hours before the match.",
+    "exampleTranslation": "Hàng nghìn người hâm mộ đã đến sân vận động hai giờ trước trận đấu.",
+    "pos": "noun"
+  },
+  {
+    "word": "terminal",
+    "phonetic": "/ˈtɜrmɪnəl/",
+    "definition": "a building at an airport or station where passengers begin or end trips",
+    "translation": "nhà ga, ga hành khách",
+    "exampleSentence": "Our flight leaves from Terminal 2, so take the shuttle bus outside.",
+    "exampleTranslation": "Chuyến bay của chúng ta khởi hành từ Nhà ga số 2, nên hãy đi xe buýt đưa đón ở bên ngoài.",
+    "pos": "noun"
+  },
+  {
+    "word": "weekday",
+    "phonetic": "/ˈwikˌdeɪ/",
+    "definition": "any day of the week except Saturday and Sunday",
+    "translation": "ngày trong tuần, ngày thường",
+    "exampleSentence": "The library is open from nine to six on every weekday.",
+    "exampleTranslation": "Thư viện mở cửa từ chín giờ sáng đến sáu giờ chiều vào mọi ngày trong tuần.",
+    "pos": "noun"
+  },
+  {
+    "word": "bonus",
+    "phonetic": "/ˈboʊnəs/",
+    "definition": "extra money paid to an employee in addition to regular pay",
+    "translation": "tiền thưởng",
+    "exampleSentence": "All staff received a bonus after the company reached its yearly sales target.",
+    "exampleTranslation": "Toàn thể nhân viên nhận được tiền thưởng sau khi công ty đạt chỉ tiêu doanh số hằng năm.",
+    "pos": "noun"
+  },
+  {
+    "word": "cart",
+    "phonetic": "/kɑrt/",
+    "definition": "a small vehicle with wheels used for carrying goods, such as a shopping cart",
+    "translation": "xe đẩy",
+    "exampleSentence": "Please return the cart to the entrance after you finish shopping.",
+    "exampleTranslation": "Vui lòng trả xe đẩy về lối vào sau khi bạn mua sắm xong.",
+    "pos": "noun"
+  },
+  {
+    "word": "delicious",
+    "phonetic": "/dɪˈlɪʃəs/",
+    "definition": "having a very good taste or smell",
+    "translation": "ngon, thơm ngon",
+    "exampleSentence": "The soup at the hotel restaurant was delicious, and the service was quick.",
+    "exampleTranslation": "Món súp ở nhà hàng khách sạn rất ngon và phục vụ cũng nhanh.",
+    "pos": "adjective"
+  },
+  {
+    "word": "ink",
+    "phonetic": "/ɪŋk/",
+    "definition": "colored liquid used for writing, drawing or printing",
+    "translation": "mực, mực in",
+    "exampleSentence": "We need to order more ink because the printer is almost empty.",
+    "exampleTranslation": "Chúng ta cần đặt thêm mực vì máy in sắp hết.",
+    "pos": "noun"
+  },
+  {
+    "word": "supervise",
+    "phonetic": "/ˈsupərˌvaɪz/",
+    "definition": "to watch and direct people or work to make sure it is done correctly",
+    "translation": "giám sát, quản lý",
+    "exampleSentence": "Ms. Kim will supervise the new employees during their first week.",
+    "exampleTranslation": "Cô Kim sẽ giám sát các nhân viên mới trong tuần đầu tiên của họ.",
+    "pos": "verb"
+  },
+  {
+    "word": "waitress",
+    "phonetic": "/ˈweɪtrəs/",
+    "definition": "a woman whose job is to serve food and drinks in a restaurant",
+    "translation": "nữ phục vụ bàn, cô phục vụ",
+    "exampleSentence": "The waitress brought us the menu and a jug of water.",
+    "exampleTranslation": "Cô phục vụ bàn mang thực đơn và một bình nước đến cho chúng tôi.",
+    "pos": "noun"
+  }
+]
