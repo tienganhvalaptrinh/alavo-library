@@ -4,7 +4,7 @@ Open learning content for [Alavo](https://chromewebstore.google.com/detail/alavo
 
 ## What is inside
 
-- **Vocabulary packs**: a named list of words with meanings, pronunciation and example sentences. Example: [Daily routines](vocabulary/en-vi/daily-routines-a1/).
+- **Vocabulary packs**: a named list of words with meanings, pronunciation and example sentences. Example: [Top 150 phrasal verbs](vocabulary/en-vi/phrasal-verbs-top-150/).
 - **Grammar courses**: an ordered set of short lessons, each with optional practice exercises. Example: [Present tenses](grammar/en-vi/present-tenses/).
 
 ## Key terms
@@ -23,11 +23,12 @@ catalog/
   en-vi.json                       generated, do not edit by hand
 vocabulary/
   en-vi/
-    daily-routines-a1/
+    phrasal-verbs-top-150/
       manifest.json
       README.md                    generated table of the words, readable on GitHub
       words-001.json
       words-002.json
+      words-003.json
 grammar/
   en-vi/
     present-tenses/

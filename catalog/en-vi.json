@@ -9,38 +9,26 @@
     "order": 1,
     "sourceLang": "en",
     "targetLang": "vi",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "license": "CC0-1.0",
     "source": "Written by the Alavo team",
-    "relatedPacks": [
-      {
-        "type": "vocabulary",
-        "id": "daily-routines-a1"
-      }
-    ],
     "manifest": "grammar/en-vi/present-tenses/manifest.json",
     "lessonCount": 2
   },
   {
-    "id": "daily-routines-a1",
+    "id": "phrasal-verbs-top-150",
     "type": "vocabulary",
-    "title": "Daily routines",
-    "description": "Everyday words for talking about your morning, your day and your evening.",
-    "category": "daily-life",
-    "level": "A1",
+    "title": "Top 150 phrasal verbs",
+    "description": "The 150 most frequent English phrasal verbs, ordered by how often they are used, with their main meanings.",
+    "category": "phrasal-verbs",
+    "level": "mixed",
     "order": 1,
     "sourceLang": "en",
     "targetLang": "vi",
     "version": "1.0.0",
     "license": "CC0-1.0",
-    "source": "Written by the Alavo team",
-    "relatedPacks": [
-      {
-        "type": "grammar",
-        "id": "present-tenses"
-      }
-    ],
-    "manifest": "vocabulary/en-vi/daily-routines-a1/manifest.json",
-    "wordCount": 12
+    "source": "Written by the Alavo team. The word list and its order follow the PHaVE List (Garnier & Schmitt, 2015); definitions, translations and examples are original.",
+    "manifest": "vocabulary/en-vi/phrasal-verbs-top-150/manifest.json",
+    "wordCount": 150
   }
 ]

@@ -1,0 +1,32 @@
+{
+  "id": "phrasal-verbs-top-150",
+  "type": "vocabulary",
+  "title": "Top 150 phrasal verbs",
+  "description": "The 150 most frequent English phrasal verbs, ordered by how often they are used, with their main meanings.",
+  "category": "phrasal-verbs",
+  "level": "mixed",
+  "order": 1,
+  "sourceLang": "en",
+  "targetLang": "vi",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "source": "Written by the Alavo team. The word list and its order follow the PHaVE List (Garnier & Schmitt, 2015); definitions, translations and examples are original.",
+  "wordCount": 150,
+  "files": [
+    {
+      "path": "words-001.json",
+      "count": 50,
+      "sha256": "7b295b1754fc4363ec6f3f0c81e0030c2ca0d561734f9c1a87d72e2dfb1a9f25"
+    },
+    {
+      "path": "words-002.json",
+      "count": 50,
+      "sha256": "74d543bac6c3a70f4ad41cf2fff4a3f38ede0472bcbe9c7b7ea54d61fd718d7f"
+    },
+    {
+      "path": "words-003.json",
+      "count": 50,
+      "sha256": "b7d5f145e6a157748ab9ce69a8466a1884f9ff8b79a27c83a673651800e7df3e"
+    }
+  ]
+}

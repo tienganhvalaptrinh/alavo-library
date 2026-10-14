@@ -1,0 +1,452 @@
+[
+  {
+    "word": "set off",
+    "phonetic": "/set ɔːf/",
+    "definition": "to start a journey; to make something explode or sound; to cause something to happen",
+    "translation": "lên đường; làm nổ, kích hoạt (thiết bị, tín hiệu), thường do vô ý; gây ra, châm ngòi",
+    "exampleSentence": "We set off at dawn.",
+    "exampleTranslation": "Chúng tôi lên đường lúc bình minh.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "keep on",
+    "phonetic": "/kiːp ɑːn/",
+    "definition": "to continue doing something",
+    "translation": "cứ tiếp tục, làm đi làm lại",
+    "exampleSentence": "He kept on talking even after the bell rang.",
+    "exampleTranslation": "Anh ấy cứ nói tiếp dù chuông đã reo.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "run out",
+    "phonetic": "/rʌn aʊt/",
+    "definition": "to have none left (run out of); to leave suddenly",
+    "translation": "(run out of) hết, cạn; chạy vội ra",
+    "exampleSentence": "We ran out of milk this morning.",
+    "exampleTranslation": "Sáng nay nhà tôi hết sữa.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "make out",
+    "phonetic": "/meɪk aʊt/",
+    "definition": "to see or hear with difficulty; to describe someone or something as something, often falsely",
+    "translation": "nhìn/nghe ra một cách khó khăn; miêu tả, cho là (thường sai sự thật); (make it out) thoát ra được, vượt qua được",
+    "exampleSentence": "I could not make out what he said.",
+    "exampleTranslation": "Tôi không nghe rõ anh ấy nói gì.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "shut up",
+    "phonetic": "/ʃʌt ʌp/",
+    "definition": "to stop talking or making noise; rude when said to someone",
+    "translation": "im đi, ngậm miệng lại (cách nói thô)",
+    "exampleSentence": "The kids finally shut up and went to sleep.",
+    "exampleTranslation": "Bọn trẻ cuối cùng cũng im lặng và đi ngủ.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "turn off",
+    "phonetic": "/tɜːrn ɔːf/",
+    "definition": "to stop a machine or a supply; to make someone dislike something",
+    "translation": "tắt (thiết bị), khóa (nguồn cung); làm ai cực kỳ khó chịu, phát ghét, mất thiện cảm",
+    "exampleSentence": "Turn off the lights when you leave.",
+    "exampleTranslation": "Hãy tắt đèn khi bạn ra về.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "bring about",
+    "phonetic": "/brɪŋ əˈbaʊt/",
+    "definition": "to cause something to happen",
+    "translation": "gây ra, mang lại (đặc biệt là điều tích cực)",
+    "exampleSentence": "The new law brought about big changes.",
+    "exampleTranslation": "Luật mới mang lại những thay đổi lớn.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "step back",
+    "phonetic": "/step bæk/",
+    "definition": "to move one step backwards; to stop being involved so you can think more objectively",
+    "translation": "lùi lại một bước; lùi ra để nhìn nhận khách quan hơn",
+    "exampleSentence": "He stepped back to let her pass.",
+    "exampleTranslation": "Anh ấy lùi lại một bước để cô ấy đi qua.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "lay down",
+    "phonetic": "/leɪ daʊn/",
+    "definition": "to put something down; to lie down; to establish something",
+    "translation": "đặt/bỏ xuống, nhất là vì không dùng nữa; nằm xuống; đặt nền móng, đề ra",
+    "exampleSentence": "He laid down his pen and sighed.",
+    "exampleTranslation": "Anh ấy đặt bút xuống và thở dài.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "bring down",
+    "phonetic": "/brɪŋ daʊn/",
+    "definition": "to make someone or something fall; to reduce something; to remove someone from power",
+    "translation": "làm rơi, hạ xuống; giảm (mức, tỷ lệ, số lượng); lật đổ (chính quyền, chế độ)",
+    "exampleSentence": "The storm brought down several trees.",
+    "exampleTranslation": "Cơn bão làm đổ nhiều cây.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "stand out",
+    "phonetic": "/stænd aʊt/",
+    "definition": "to be better or more noticeable than others",
+    "translation": "nổi bật, vượt trội; dễ nhìn thấy",
+    "exampleSentence": "Her talent makes her stand out from the other students.",
+    "exampleTranslation": "Tài năng giúp cô ấy nổi bật so với các học sinh khác.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "come along",
+    "phonetic": "/kʌm əˈlɔːŋ/",
+    "definition": "to appear or arrive; to go somewhere with someone",
+    "translation": "xuất hiện, đến, ra đời; đi cùng ai",
+    "exampleSentence": "A good chance like this doesn't come along often.",
+    "exampleTranslation": "Cơ hội tốt như thế này không hay xuất hiện đâu.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "play out",
+    "phonetic": "/pleɪ aʊt/",
+    "definition": "to happen or develop in a certain way",
+    "translation": "diễn ra, diễn tiến; được diễn, được trình diễn",
+    "exampleSentence": "We'll see how the situation plays out.",
+    "exampleTranslation": "Chúng ta sẽ xem tình hình diễn tiến thế nào.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "break out",
+    "phonetic": "/breɪk aʊt/",
+    "definition": "to start suddenly, especially something bad",
+    "translation": "bùng nổ, nổ ra (chuyện không hay)",
+    "exampleSentence": "A fire broke out in the kitchen.",
+    "exampleTranslation": "Một đám cháy bùng lên trong bếp.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "go around",
+    "phonetic": "/ɡoʊ əˈraʊnd/",
+    "definition": "to move from place to place; to spread among people",
+    "translation": "đi từ nơi này/người này sang nơi khác/người khác; lan truyền, lưu hành",
+    "exampleSentence": "A rumor is going around the office.",
+    "exampleTranslation": "Một tin đồn đang lan truyền trong văn phòng.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "walk out",
+    "phonetic": "/wɔːk aʊt/",
+    "definition": "to leave a place suddenly or angrily",
+    "translation": "bỏ đi (đột ngột hoặc tức giận)",
+    "exampleSentence": "He walked out of the room without a word.",
+    "exampleTranslation": "Anh ấy bước ra khỏi phòng mà không nói một lời.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "get through",
+    "phonetic": "/ɡet θruː/",
+    "definition": "to reach a place or a stage; to be understood; to reach someone by phone; to survive something difficult",
+    "translation": "đến được nơi, qua được giai đoạn; được truyền đạt, được hiểu; gọi điện liên lạc được với ai; vượt qua (chuyện khó khăn)",
+    "exampleSentence": "The rescue team couldn't get through because of the snow.",
+    "exampleTranslation": "Đội cứu hộ không đến được vì tuyết.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "hold back",
+    "phonetic": "/hoʊld bæk/",
+    "definition": "to stop yourself from doing or saying something; to stop someone from making progress; to stop someone from going somewhere; to control a feeling",
+    "translation": "kiềm chế, không làm/nói điều gì; kìm hãm, cản trở ai phát huy hết khả năng; ngăn ai/cái gì đi đến đâu; nén lại (nước mắt, tiếng cười, tiếng thở dài, cái hắt hơi)",
+    "exampleSentence": "Don't hold back; say what you think.",
+    "exampleTranslation": "Đừng e ngại, cứ nói điều bạn nghĩ.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "write down",
+    "phonetic": "/raɪt daʊn/",
+    "definition": "to record something on paper",
+    "translation": "ghi lại ra giấy",
+    "exampleSentence": "Write down your phone number here.",
+    "exampleTranslation": "Hãy ghi số điện thoại của bạn vào đây.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "move back",
+    "phonetic": "/muːv bæk/",
+    "definition": "to return to a place where you lived before",
+    "translation": "chuyển về nơi từng sống",
+    "exampleSentence": "She moved back to her parents' house.",
+    "exampleTranslation": "Cô ấy chuyển về nhà bố mẹ.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "fill out",
+    "phonetic": "/fɪl aʊt/",
+    "definition": "to complete a form",
+    "translation": "điền (mẫu đơn, giấy tờ)",
+    "exampleSentence": "Please fill out this form.",
+    "exampleTranslation": "Vui lòng điền vào mẫu đơn này.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "sit back",
+    "phonetic": "/sɪt bæk/",
+    "definition": "to rest comfortably in a seat; to deliberately do nothing",
+    "translation": "ngả người ngồi thoải mái vào ghế; (sit back and do) ngồi yên, cố tình không làm gì",
+    "exampleSentence": "He sat back and closed his eyes.",
+    "exampleTranslation": "Anh ấy ngả người ra ghế và nhắm mắt.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "rule out",
+    "phonetic": "/ruːl aʊt/",
+    "definition": "to exclude something as a possibility",
+    "translation": "loại trừ (một khả năng, nguyên nhân, lời giải thích)",
+    "exampleSentence": "Doctors ruled out a serious illness.",
+    "exampleTranslation": "Các bác sĩ loại trừ khả năng bệnh nặng.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "move up",
+    "phonetic": "/muːv ʌp/",
+    "definition": "to advance to a higher position; to move upward",
+    "translation": "thăng tiến, lên vị trí/cấp cao hơn; di chuyển lên trên",
+    "exampleSentence": "He moved up to manager after two years.",
+    "exampleTranslation": "Sau hai năm, anh ấy được thăng lên quản lý.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "pick out",
+    "phonetic": "/pɪk aʊt/",
+    "definition": "to choose someone or something from several; to notice something among a group",
+    "translation": "chọn ra; nhận ra, phát hiện giữa một nhóm",
+    "exampleSentence": "She picked out a blue dress.",
+    "exampleTranslation": "Cô ấy chọn một chiếc váy xanh.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "take down",
+    "phonetic": "/teɪk daʊn/",
+    "definition": "to remove something that was put up; to destroy or disable; to take someone to a lower place",
+    "translation": "gỡ xuống, dỡ xuống; tiêu diệt, giết, hạ (bắn rơi, đánh sập), làm vô hiệu hóa; đưa ai xuống một nơi (phía nam, thấp hơn)",
+    "exampleSentence": "Please take down the old signs.",
+    "exampleTranslation": "Làm ơn gỡ mấy tấm biển cũ xuống.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "get on",
+    "phonetic": "/ɡet ɑːn/",
+    "definition": "to continue doing something (get on with); to board a bus or a train",
+    "translation": "(get on with) tiếp tục làm việc gì; lên (tàu, xe buýt, máy bay, thang máy)",
+    "exampleSentence": "Let's get on with the lesson.",
+    "exampleTranslation": "Chúng ta tiếp tục bài học nhé.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "give back",
+    "phonetic": "/ɡɪv bæk/",
+    "definition": "to return something to its owner or provider; to contribute to a community",
+    "translation": "trả lại cho chủ sở hữu hoặc nơi cung cấp ban đầu; đền đáp, đóng góp lại (cho cộng đồng)",
+    "exampleSentence": "Can you give back my pen?",
+    "exampleTranslation": "Bạn trả lại bút cho tôi được không?",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "hand over",
+    "phonetic": "/hænd ˈoʊvər/",
+    "definition": "to give something to someone by hand; to give control or responsibility to someone else",
+    "translation": "đưa, trao tận tay; bàn giao (quyền, trách nhiệm), thường là chính thức",
+    "exampleSentence": "She handed over the keys to the new owner.",
+    "exampleTranslation": "Cô ấy trao chìa khóa cho chủ mới.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "sum up",
+    "phonetic": "/sʌm ʌp/",
+    "definition": "to express the main points briefly",
+    "translation": "tóm tắt, nêu ngắn gọn điểm quan trọng nhất",
+    "exampleSentence": "To sum up, the plan is simple and cheap.",
+    "exampleTranslation": "Tóm lại, kế hoạch này đơn giản và rẻ.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "move out",
+    "phonetic": "/muːv aʊt/",
+    "definition": "to leave your home permanently",
+    "translation": "dọn đi, chuyển hẳn khỏi nơi ở",
+    "exampleSentence": "They moved out last week.",
+    "exampleTranslation": "Tuần trước họ dọn đi rồi.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "come off",
+    "phonetic": "/kʌm ɔːf/",
+    "definition": "to become detached; to seem a certain way; to have just finished something",
+    "translation": "bong ra, rời ra; tỏ ra, gây ấn tượng là; vừa kết thúc, vừa trải qua xong",
+    "exampleSentence": "The handle came off the cup.",
+    "exampleTranslation": "Quai cốc bị bong ra.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "pass on",
+    "phonetic": "/pæs ɑːn/",
+    "definition": "to give something you received to someone else; to hand down from one generation to the next; (euphemism) to die",
+    "translation": "chuyển tiếp (thông tin, ý tưởng, đồ vật); truyền lại qua các thế hệ; qua đời (cách nói giảm)",
+    "exampleSentence": "Please pass on my thanks to your parents.",
+    "exampleTranslation": "Xin chuyển lời cảm ơn của tôi tới bố mẹ bạn.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "take in",
+    "phonetic": "/teɪk ɪn/",
+    "definition": "to give someone a place to stay; to understand something fully; to deceive someone",
+    "translation": "cho ai ở nhờ, nhận về nuôi; hiểu thấu, tiếp thu hết; lừa gạt",
+    "exampleSentence": "They took in a stray dog.",
+    "exampleTranslation": "Họ nhận nuôi một chú chó hoang.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "set down",
+    "phonetic": "/set daʊn/",
+    "definition": "to put something down",
+    "translation": "đặt xuống",
+    "exampleSentence": "She set down the heavy bag.",
+    "exampleTranslation": "Cô ấy đặt chiếc túi nặng xuống.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "sort out",
+    "phonetic": "/sɔːrt aʊt/",
+    "definition": "to solve a problem or a difficult situation; to find information to understand something",
+    "translation": "giải quyết (vấn đề, xung đột, tình huống khó); làm rõ, tìm hiểu cho ra",
+    "exampleSentence": "We need to sort out this problem today.",
+    "exampleTranslation": "Hôm nay chúng ta cần giải quyết vấn đề này.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "follow up",
+    "phonetic": "/ˈfɑːloʊ ʌp/",
+    "definition": "to take further action after something; to look for more information",
+    "translation": "làm tiếp để củng cố kết quả của việc trước; tìm hiểu thêm",
+    "exampleSentence": "I'll follow up with you by email next week.",
+    "exampleTranslation": "Tuần sau tôi sẽ liên hệ lại với bạn qua email.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "come through",
+    "phonetic": "/kʌm θruː/",
+    "definition": "to be clearly noticed; to succeed despite difficulty; to arrive",
+    "translation": "bộc lộ rõ, lộ ra (cảm xúc, phẩm chất); vượt qua thành công dù khó khăn; đến nơi, xuất hiện (tàu, thuyền)",
+    "exampleSentence": "Her kindness comes through in everything she does.",
+    "exampleTranslation": "Sự tốt bụng của cô ấy thể hiện rõ trong mọi việc cô ấy làm.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "settle down",
+    "phonetic": "/ˈsetl daʊn/",
+    "definition": "to start a calmer, steadier life; to become calm; to get into a comfortable position",
+    "translation": "ổn định cuộc sống; trở nên yên ắng, ổn định hơn; ngồi/nằm vào tư thế thoải mái",
+    "exampleSentence": "He wants to settle down and have a family.",
+    "exampleTranslation": "Anh ấy muốn ổn định cuộc sống và lập gia đình.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "come around",
+    "phonetic": "/kʌm əˈraʊnd/",
+    "definition": "to visit a place; to change your opinion (come around to); to happen again at the usual time",
+    "translation": "ghé qua, đến gần; (come around to) đổi ý theo, dần đồng ý; đến lại đúng kỳ",
+    "exampleSentence": "Come around to my house after work.",
+    "exampleTranslation": "Sau giờ làm hãy ghé qua nhà tôi nhé.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "fill in",
+    "phonetic": "/fɪl ɪn/",
+    "definition": "to do someone's job temporarily (fill in for); to give someone information (fill in on); to fill a space",
+    "translation": "(fill in for) làm thay ai tạm thời; (fill in on) cập nhật thông tin cho ai; lấp đầy",
+    "exampleSentence": "I'll fill in for you while you are away.",
+    "exampleTranslation": "Tôi sẽ làm thay bạn khi bạn vắng mặt.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "give out",
+    "phonetic": "/ɡɪv aʊt/",
+    "definition": "to give something to many people; to make something public; to stop working",
+    "translation": "phát cho nhiều người; công bố, để lộ ra; hỏng, ngừng hoạt động (tim, đầu gối)",
+    "exampleSentence": "The teacher gave out the test papers.",
+    "exampleTranslation": "Giáo viên phát bài kiểm tra.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "give in",
+    "phonetic": "/ɡɪv ɪn/",
+    "definition": "to stop resisting and agree",
+    "translation": "nhượng bộ, chịu thua (trước đòi hỏi, cám dỗ, thói quen)",
+    "exampleSentence": "He finally gave in and bought the toy.",
+    "exampleTranslation": "Cuối cùng anh ấy chịu thua và mua món đồ chơi.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "go along",
+    "phonetic": "/ɡoʊ əˈlɔːŋ/",
+    "definition": "to progress; to agree or cooperate (go along with); to go somewhere with others",
+    "translation": "tiến triển; (go along with) đồng ý, hợp tác; đi cùng, đến một nơi nào đó mà không lên kế hoạch nhiều",
+    "exampleSentence": "You'll learn more as you go along.",
+    "exampleTranslation": "Bạn sẽ học được thêm khi tiếp tục làm.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "break off",
+    "phonetic": "/breɪk ɔːf/",
+    "definition": "to separate a piece from something; to stop speaking suddenly; to end something",
+    "translation": "bẻ rời, tách ra khỏi một khối; ngừng nói đột ngột; chấm dứt (quan hệ, đàm phán)",
+    "exampleSentence": "He broke off a piece of chocolate for me.",
+    "exampleTranslation": "Anh ấy bẻ một miếng sô-cô-la cho tôi.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "put off",
+    "phonetic": "/pʊt ɔːf/",
+    "definition": "to delay something until later; to make someone dislike something",
+    "translation": "hoãn lại; làm ai cực kỳ khó chịu, phát ghê, phát ghét",
+    "exampleSentence": "We had to put off the picnic because of rain.",
+    "exampleTranslation": "Chúng tôi phải hoãn buổi dã ngoại vì trời mưa.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "come about",
+    "phonetic": "/kʌm əˈbaʊt/",
+    "definition": "to happen, especially unexpectedly",
+    "translation": "xảy ra, thường là bất ngờ",
+    "exampleSentence": "How did this change come about?",
+    "exampleTranslation": "Thay đổi này đã xảy ra như thế nào?",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "close down",
+    "phonetic": "/kloʊz daʊn/",
+    "definition": "to stop operating",
+    "translation": "đóng cửa, ngừng hoạt động",
+    "exampleSentence": "The factory closed down in 2020.",
+    "exampleTranslation": "Nhà máy đã đóng cửa vào năm 2020.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "put in",
+    "phonetic": "/pʊt ɪn/",
+    "definition": "to put one thing inside another; to spend time or effort on something",
+    "translation": "cho vào, chèn vào; bỏ ra, dành (thời gian, công sức)",
+    "exampleSentence": "Put in two spoons of sugar.",
+    "exampleTranslation": "Cho vào hai muỗng đường.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "set about",
+    "phonetic": "/set əˈbaʊt/",
+    "definition": "to begin doing something with a purpose",
+    "translation": "bắt tay vào làm (một việc có mục đích)",
+    "exampleSentence": "She set about cleaning the house.",
+    "exampleTranslation": "Cô ấy bắt tay vào dọn dẹp nhà.",
+    "pos": "phrasal verb"
+  }
+]

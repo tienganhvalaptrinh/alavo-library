@@ -1,0 +1,452 @@
+[
+  {
+    "word": "go on",
+    "phonetic": "/ɡoʊ ɑːn/",
+    "definition": "to happen; to continue to the next thing",
+    "translation": "diễn ra, xảy ra; (go on to) tiếp tục sang việc kế tiếp",
+    "exampleSentence": "There is a concert going on in the park.",
+    "exampleTranslation": "Có một buổi hòa nhạc đang diễn ra trong công viên.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "pick up",
+    "phonetic": "/pɪk ʌp/",
+    "definition": "to collect someone or something from a place",
+    "translation": "đón, lấy ai/cái gì từ một nơi",
+    "exampleSentence": "Can you pick up the kids from school today?",
+    "exampleTranslation": "Hôm nay bạn đón bọn trẻ ở trường được không?",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "come back",
+    "phonetic": "/kʌm bæk/",
+    "definition": "to return to a place or a subject",
+    "translation": "quay lại một nơi hoặc một chủ đề",
+    "exampleSentence": "He came back to the office after lunch.",
+    "exampleTranslation": "Anh ấy quay lại văn phòng sau bữa trưa.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "come up",
+    "phonetic": "/kʌm ʌp/",
+    "definition": "to think of an idea or plan (come up with); to be happening soon",
+    "translation": "(come up with) nghĩ ra, đưa ra; (be coming up) sắp diễn ra, sắp được phát sóng",
+    "exampleSentence": "She came up with a great name for the shop.",
+    "exampleTranslation": "Cô ấy nghĩ ra một cái tên rất hay cho cửa hàng.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "go back",
+    "phonetic": "/ɡoʊ bæk/",
+    "definition": "to return to a place, a time, an activity or a subject",
+    "translation": "quay lại nơi chốn, thời điểm, tình huống, hoạt động, chủ đề",
+    "exampleSentence": "I want to go back to my hometown next year.",
+    "exampleTranslation": "Năm sau tôi muốn quay về quê.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "find out",
+    "phonetic": "/faɪnd aʊt/",
+    "definition": "to discover a fact or get information",
+    "translation": "phát hiện, tìm ra, biết được",
+    "exampleSentence": "I need to find out when the shop opens.",
+    "exampleTranslation": "Tôi cần tìm hiểu xem khi nào cửa hàng mở cửa.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "come out",
+    "phonetic": "/kʌm aʊt/",
+    "definition": "to leave or appear from a place; to be released or become known",
+    "translation": "đi ra khỏi hoặc xuất hiện từ một nơi (phòng, tòa nhà, vật chứa); bị lộ ra, được biết đến sau thời gian giấu kín; (come out and do) công khai nói ra quan điểm riêng; được phát hành (phim, đĩa, sách)",
+    "exampleSentence": "Several people came out of the building.",
+    "exampleTranslation": "Vài người đi ra khỏi tòa nhà.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "go out",
+    "phonetic": "/ɡoʊ aʊt/",
+    "definition": "to leave home to go to a social event",
+    "translation": "ra ngoài đi chơi, dự sự kiện; (go out and do) cứ đi ra mà làm (việc gì), nhấn mạnh hành động chủ động",
+    "exampleSentence": "Let's go out for dinner tonight.",
+    "exampleTranslation": "Tối nay mình ra ngoài ăn tối nhé.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "point out",
+    "phonetic": "/pɔɪnt aʊt/",
+    "definition": "to draw attention to a fact or an idea",
+    "translation": "chỉ ra, nêu ra (sự thật, ý tưởng, thông tin)",
+    "exampleSentence": "She pointed out a mistake in my report.",
+    "exampleTranslation": "Cô ấy chỉ ra một lỗi trong báo cáo của tôi.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "grow up",
+    "phonetic": "/ɡroʊ ʌp/",
+    "definition": "to become an adult",
+    "translation": "lớn lên, trưởng thành",
+    "exampleSentence": "I grew up in a small town.",
+    "exampleTranslation": "Tôi lớn lên ở một thị trấn nhỏ.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "set up",
+    "phonetic": "/set ʌp/",
+    "definition": "to create or establish something; to arrange something so that it can happen",
+    "translation": "thành lập, tạo ra; sắp xếp để việc gì xảy ra; đặt, bày ở một vị trí",
+    "exampleSentence": "They set up a small business last year.",
+    "exampleTranslation": "Năm ngoái họ thành lập một doanh nghiệp nhỏ.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "turn out",
+    "phonetic": "/tɜːrn aʊt/",
+    "definition": "to prove to be; to end up being",
+    "translation": "hóa ra, rốt cuộc là",
+    "exampleSentence": "The test turned out to be easy.",
+    "exampleTranslation": "Bài kiểm tra hóa ra rất dễ.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "get out",
+    "phonetic": "/ɡet aʊt/",
+    "definition": "to leave a vehicle, a room or a building",
+    "translation": "ra khỏi (xe, phòng, tòa nhà), hoặc đưa ai/cái gì ra",
+    "exampleSentence": "Please get out of the car here.",
+    "exampleTranslation": "Làm ơn xuống xe ở đây.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "come in",
+    "phonetic": "/kʌm ɪn/",
+    "definition": "to enter a place",
+    "translation": "đi vào; tham gia vào một tình huống",
+    "exampleSentence": "Come in and sit down.",
+    "exampleTranslation": "Mời vào và ngồi xuống đi.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "take on",
+    "phonetic": "/teɪk ɑːn/",
+    "definition": "to accept a job or a responsibility; to take on a new quality",
+    "translation": "đảm nhận (vai trò, nhiệm vụ, trách nhiệm, vấn đề); mang lấy, có thêm (tính chất, ý nghĩa, màu sắc, hình dạng)",
+    "exampleSentence": "She took on a new project at work.",
+    "exampleTranslation": "Cô ấy nhận thêm một dự án mới ở chỗ làm.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "give up",
+    "phonetic": "/ɡɪv ʌp/",
+    "definition": "to stop doing or having something",
+    "translation": "từ bỏ (thói quen, hoạt động, niềm tin, tài sản)",
+    "exampleSentence": "He gave up sugar last month.",
+    "exampleTranslation": "Tháng trước anh ấy bỏ hẳn đường.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "make up",
+    "phonetic": "/meɪk ʌp/",
+    "definition": "to form a total; to compensate for something (make up for); to decide (make up one's mind)",
+    "translation": "tạo thành, chiếm (một tỷ lệ); (make up for) bù đắp; (make up one's mind) quyết định",
+    "exampleSentence": "Women make up half of our team.",
+    "exampleTranslation": "Phụ nữ chiếm một nửa đội của chúng tôi.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "end up",
+    "phonetic": "/end ʌp/",
+    "definition": "to finally be in a place or situation, often unexpectedly",
+    "translation": "cuối cùng lại (làm gì, ở đâu, rơi vào tình trạng nào), thường là ngoài dự kiến",
+    "exampleSentence": "We got lost and ended up in another town.",
+    "exampleTranslation": "Chúng tôi bị lạc và rốt cuộc đến một thị trấn khác.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "get back",
+    "phonetic": "/ɡet bæk/",
+    "definition": "to return to a place or a state",
+    "translation": "quay lại nơi chốn, vị trí, trạng thái, hoạt động, chủ đề",
+    "exampleSentence": "What time did you get back last night?",
+    "exampleTranslation": "Tối qua mấy giờ bạn về đến nơi?",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "look up",
+    "phonetic": "/lʊk ʌp/",
+    "definition": "to raise your eyes",
+    "translation": "ngước mắt lên nhìn",
+    "exampleSentence": "She looked up when I called her name.",
+    "exampleTranslation": "Cô ấy ngước lên khi tôi gọi tên.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "figure out",
+    "phonetic": "/ˈfɪɡjər aʊt/",
+    "definition": "to understand something or find the answer to it",
+    "translation": "hiểu ra, xác định được",
+    "exampleSentence": "I can't figure out how this machine works.",
+    "exampleTranslation": "Tôi không hiểu cái máy này hoạt động thế nào.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "sit down",
+    "phonetic": "/sɪt daʊn/",
+    "definition": "to move from standing to sitting",
+    "translation": "ngồi xuống",
+    "exampleSentence": "Please sit down and wait here.",
+    "exampleTranslation": "Xin mời ngồi xuống và đợi ở đây.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "get up",
+    "phonetic": "/ɡet ʌp/",
+    "definition": "to rise from a bed, a chair or the floor",
+    "translation": "dậy, đứng dậy (sau khi nằm trên giường, ngồi hoặc quỳ), hoặc làm/đỡ ai dậy",
+    "exampleSentence": "I get up at six every day.",
+    "exampleTranslation": "Ngày nào tôi cũng dậy lúc sáu giờ.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "take out",
+    "phonetic": "/teɪk aʊt/",
+    "definition": "to remove something from a place; to invite someone out; to get an official loan or document",
+    "translation": "lấy ra; mời ai đi chơi, đi ăn; vay (khoản vay), làm/xin (giấy tờ), đăng ký (dịch vụ) từ một cơ quan hoặc tổ chức chính thức",
+    "exampleSentence": "He took out his phone and checked the time.",
+    "exampleTranslation": "Anh ấy lấy điện thoại ra xem giờ.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "come on",
+    "phonetic": "/kʌm ɑːn/",
+    "definition": "said to encourage someone; said when you do not believe or agree with someone",
+    "translation": "nào, cố lên (khích lệ ai làm hoặc nói gì); thôi đi mà, làm ơn đi (tỏ ý không tin, không đồng ý, bực bội)",
+    "exampleSentence": "Come on, you can do it!",
+    "exampleTranslation": "Cố lên, bạn làm được mà!",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "go down",
+    "phonetic": "/ɡoʊ daʊn/",
+    "definition": "to move to a lower level; to decrease; to go to a place further south or below",
+    "translation": "đi xuống, hạ xuống thấp hơn; giảm (giá trị, số lượng); đi đến nơi nào đó xa hơn, thường là phía nam hoặc phía dưới",
+    "exampleSentence": "The elevator is going down.",
+    "exampleTranslation": "Thang máy đang đi xuống.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "show up",
+    "phonetic": "/ʃoʊ ʌp/",
+    "definition": "to arrive at an event or a meeting",
+    "translation": "xuất hiện, có mặt ở buổi họp hay sự kiện",
+    "exampleSentence": "He didn't show up for the meeting.",
+    "exampleTranslation": "Anh ấy không có mặt ở buổi họp.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "take off",
+    "phonetic": "/teɪk ɔːf/",
+    "definition": "to remove clothes or jewelry; to leave suddenly; (of a plane) to leave the ground",
+    "translation": "cởi, tháo (quần áo, trang sức); rời đi, nhất là đột ngột; cất cánh",
+    "exampleSentence": "Take off your shoes at the door.",
+    "exampleTranslation": "Hãy cởi giày ở cửa.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "work out",
+    "phonetic": "/wɜːrk aʊt/",
+    "definition": "to plan or calculate something carefully; to exercise; to develop in a certain way or succeed",
+    "translation": "tính toán, lên kế hoạch kỹ; tập thể dục; (work out well/badly) diễn ra theo hướng tốt/xấu; thành công, có kết quả",
+    "exampleSentence": "We need to work out a budget for the trip.",
+    "exampleTranslation": "Chúng ta cần tính toán ngân sách cho chuyến đi.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "stand up",
+    "phonetic": "/stænd ʌp/",
+    "definition": "to rise to a standing position",
+    "translation": "đứng dậy; (stand up and say) đứng ra nói công khai điều mình nghĩ",
+    "exampleSentence": "Everyone stood up when the teacher came in.",
+    "exampleTranslation": "Mọi người đứng dậy khi giáo viên bước vào.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "come down",
+    "phonetic": "/kʌm daʊn/",
+    "definition": "to move down or fall; (come down to) to be basically about one thing; to become lower",
+    "translation": "đi xuống, rơi xuống đất; (come down to) rốt cuộc chỉ còn lại điều cốt yếu nhất; giảm (số lượng, giá trị)",
+    "exampleSentence": "Come down from the ladder; it's not safe.",
+    "exampleTranslation": "Xuống khỏi cái thang đi, không an toàn đâu.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "go ahead",
+    "phonetic": "/ɡoʊ əˈhed/",
+    "definition": "to go forward with something without waiting",
+    "translation": "cứ tiến hành, cứ làm đi",
+    "exampleSentence": "Go ahead and start without me.",
+    "exampleTranslation": "Cứ bắt đầu đi, đừng chờ tôi.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "go up",
+    "phonetic": "/ɡoʊ ʌp/",
+    "definition": "to increase; to move upward",
+    "translation": "tăng (giá trị); đi lên",
+    "exampleSentence": "Rent has gone up again.",
+    "exampleTranslation": "Tiền thuê nhà lại tăng nữa rồi.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "look back",
+    "phonetic": "/lʊk bæk/",
+    "definition": "to think about the past; to look again at someone or something",
+    "translation": "nhìn lại, hồi tưởng chuyện đã qua; quay lại nhìn ai/cái gì",
+    "exampleSentence": "When I look back, I realize I was happy then.",
+    "exampleTranslation": "Khi nhìn lại, tôi nhận ra lúc đó mình đã rất hạnh phúc.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "wake up",
+    "phonetic": "/weɪk ʌp/",
+    "definition": "to stop sleeping; to make someone stop sleeping",
+    "translation": "thức dậy; đánh thức ai",
+    "exampleSentence": "Please wake me up at seven.",
+    "exampleTranslation": "Làm ơn đánh thức tôi lúc bảy giờ.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "carry out",
+    "phonetic": "/ˈkæri aʊt/",
+    "definition": "to do or complete a task, a study or a plan",
+    "translation": "thực hiện, tiến hành (nhiệm vụ, nghiên cứu, thí nghiệm, cuộc tấn công); thực thi (kế hoạch, mệnh lệnh)",
+    "exampleSentence": "The team carried out a survey of 500 students.",
+    "exampleTranslation": "Nhóm đã thực hiện một cuộc khảo sát với 500 học sinh.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "take over",
+    "phonetic": "/teɪk ˈoʊvər/",
+    "definition": "to gain control of something",
+    "translation": "tiếp quản, nắm quyền kiểm soát",
+    "exampleSentence": "My brother will take over the family shop.",
+    "exampleTranslation": "Anh trai tôi sẽ tiếp quản cửa hàng của gia đình.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "hold up",
+    "phonetic": "/hoʊld ʌp/",
+    "definition": "to hold something high; to stay in good condition; to delay someone or something",
+    "translation": "giơ cao lên; trụ vững, vẫn còn tốt; làm chậm trễ, cản trở",
+    "exampleSentence": "She held up her ticket at the gate.",
+    "exampleTranslation": "Cô ấy giơ vé lên ở cổng.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "pull out",
+    "phonetic": "/pʊl aʊt/",
+    "definition": "to take something out of a place",
+    "translation": "rút ra, lôi ra khỏi một nơi",
+    "exampleSentence": "He pulled a pen out of his bag.",
+    "exampleTranslation": "Anh ấy rút một cây bút ra khỏi túi.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "turn around",
+    "phonetic": "/tɜːrn əˈraʊnd/",
+    "definition": "to turn to face the other way; to make something more successful",
+    "translation": "quay người lại; xoay chuyển tình thế, làm cho khá hơn (kinh tế, doanh nghiệp)",
+    "exampleSentence": "She turned around when she heard a noise.",
+    "exampleTranslation": "Cô ấy quay người lại khi nghe có tiếng động.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "take up",
+    "phonetic": "/teɪk ʌp/",
+    "definition": "to use space or time; to discuss something; to start a hobby or a job",
+    "translation": "chiếm (không gian, thời gian, công sức); xem xét, bàn đến (vấn đề); bắt đầu (công việc, sở thích); cầm lên, nhấc lên, thường từ vị trí thấp lên cao",
+    "exampleSentence": "This sofa takes up too much space.",
+    "exampleTranslation": "Cái ghế sofa này chiếm quá nhiều chỗ.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "look down",
+    "phonetic": "/lʊk daʊn/",
+    "definition": "to lower your eyes to see what is below",
+    "translation": "nhìn xuống",
+    "exampleSentence": "He looked down at his shoes.",
+    "exampleTranslation": "Anh ấy nhìn xuống đôi giày của mình.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "put up",
+    "phonetic": "/pʊt ʌp/",
+    "definition": "to display something on a wall; to tolerate something (put up with); to build something",
+    "translation": "treo, dán lên; (put up with) chịu đựng; dựng, xây",
+    "exampleSentence": "We put up posters all over the school.",
+    "exampleTranslation": "Chúng tôi dán áp phích khắp trường.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "bring back",
+    "phonetic": "/brɪŋ bæk/",
+    "definition": "to make someone or something return; to bring something home from a trip",
+    "translation": "làm cho ai/cái gì quay lại (nơi chốn, tình trạng, chủ đề); mang về (từ nơi mình đã đến)",
+    "exampleSentence": "This song brings back good memories.",
+    "exampleTranslation": "Bài hát này gợi lại nhiều kỷ niệm đẹp.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "bring up",
+    "phonetic": "/brɪŋ ʌp/",
+    "definition": "to raise a subject for discussion; to raise a child",
+    "translation": "nêu ra để thảo luận; nuôi dạy (trẻ) đến khi trưởng thành",
+    "exampleSentence": "Don't bring up that topic at dinner.",
+    "exampleTranslation": "Đừng nhắc đến chủ đề đó trong bữa tối.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "look out",
+    "phonetic": "/lʊk aʊt/",
+    "definition": "to look outside; to take care of someone (look out for)",
+    "translation": "nhìn ra ngoài; (look out for) chăm sóc, bảo vệ quyền lợi cho ai",
+    "exampleSentence": "She looked out of the window at the rain.",
+    "exampleTranslation": "Cô ấy nhìn ra cửa sổ, ngắm cơn mưa.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "bring in",
+    "phonetic": "/brɪŋ ɪn/",
+    "definition": "to bring something to a place or a situation; to ask someone to do a job",
+    "translation": "mang đến, mang theo đến một nơi hoặc tình huống; mời, thuê ai vào làm một việc",
+    "exampleSentence": "Please bring in your own lunch.",
+    "exampleTranslation": "Hãy tự mang bữa trưa đến.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "open up",
+    "phonetic": "/ˈoʊpən ʌp/",
+    "definition": "to make something possible or available; to open a door, a bag or a book",
+    "translation": "mở ra (cơ hội, khả năng); mở (cửa, cổng, sách, túi)",
+    "exampleSentence": "Learning English opens up many opportunities.",
+    "exampleTranslation": "Học tiếng Anh mở ra nhiều cơ hội.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "check out",
+    "phonetic": "/tʃek aʊt/",
+    "definition": "to look at something to learn more about it",
+    "translation": "xem thử, kiểm tra",
+    "exampleSentence": "Check out this new café near my house.",
+    "exampleTranslation": "Xem thử quán cà phê mới này gần nhà tôi đi.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "move on",
+    "phonetic": "/muːv ɑːn/",
+    "definition": "to start something new; to change location; to leave a bad experience behind",
+    "translation": "chuyển sang việc/chủ đề mới; chuyển đến nơi khác; vượt qua chuyện cũ để bước tiếp",
+    "exampleSentence": "Let's move on to the next question.",
+    "exampleTranslation": "Chúng ta chuyển sang câu hỏi tiếp theo nhé.",
+    "pos": "phrasal verb"
+  }
+]
