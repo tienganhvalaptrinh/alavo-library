@@ -1,0 +1,458 @@
+{
+  "id": "english-grammar",
+  "type": "grammar",
+  "title": "English grammar",
+  "description": "Ngữ pháp tiếng Anh từ A1 đến C2: mỗi bài một điểm ngữ pháp, xếp theo thứ tự bài trước bổ trợ bài sau (đang soạn).",
+  "category": "grammar",
+  "level": "mixed",
+  "order": 1,
+  "sourceLang": "en",
+  "targetLang": "vi",
+  "version": "0.1.0",
+  "license": "CC0-1.0",
+  "source": "Written by the Alavo team",
+  "lessonCount": 63,
+  "lessons": [
+    {
+      "id": "01-parts-of-speech",
+      "title": "Từ loại và thành phần câu (A1–A2)",
+      "level": "A1",
+      "path": "01-parts-of-speech/lesson.md",
+      "sha256": "ff212868bac2ce4673393539eea5dfe17038222498fd6d01e4e1b31f193473dc"
+    },
+    {
+      "id": "02-pronouns-personal",
+      "title": "Đại từ nhân xưng, tân ngữ và tính từ sở hữu (A1–B2)",
+      "level": "A2",
+      "path": "02-pronouns-personal/lesson.md",
+      "sha256": "61f5f674de48e1c04a6e218c32f7e42bd49b72d6ecbc60212c39dd3fc6557a6f"
+    },
+    {
+      "id": "03-be-have-got",
+      "title": "Động từ be và have got (A1)",
+      "level": "A1",
+      "path": "03-be-have-got/lesson.md",
+      "sha256": "26a4a0d837f3cbf974f1b4a2367ceb1eae4abbe838e2174b504daa676bbaa2f6"
+    },
+    {
+      "id": "04-pronouns-reflexive-indefinite",
+      "title": "Đại từ phản thân, bất định và tương hỗ (A1–C1)",
+      "level": "B1",
+      "path": "04-pronouns-reflexive-indefinite/lesson.md",
+      "sha256": "3d2cd1822f0a8566701f216b6f176c024b5468a15e644c0cd11b35cfb60e8f10"
+    },
+    {
+      "id": "05-pronouns-substitution-generic",
+      "title": "Đại từ thay thế (one/ones, so/not) và đại từ chung (you/we/they/one) (A2–C1)",
+      "level": "B2",
+      "path": "05-pronouns-substitution-generic/lesson.md",
+      "sha256": "c3885bf01a8b034ebe85d34cbf994daabcd7cedbd69a3bea35c8cb31e13d01e0"
+    },
+    {
+      "id": "06-nouns-plurals",
+      "title": "Danh từ: số ít, số nhiều và các loại danh từ (A1–C1)",
+      "level": "A2",
+      "path": "06-nouns-plurals/lesson.md",
+      "sha256": "88cd5b4f24746b3bf058c482b1b2082c720669e5b211868523e073bb0baa9657"
+    },
+    {
+      "id": "07-countable-uncountable",
+      "title": "Danh từ đếm được và không đếm được (A2–C1)",
+      "level": "B1",
+      "path": "07-countable-uncountable/lesson.md",
+      "sha256": "fa433db2a1a154082b0647f32df54ebd2a50420417c2384dbd31f61b194d520f"
+    },
+    {
+      "id": "08-articles",
+      "title": "Mạo từ a/an/the và không dùng mạo từ (A1–B1)",
+      "level": "A2",
+      "path": "08-articles/lesson.md",
+      "sha256": "d014f1a4ececd4b8f7927f8f87a50e3b769098eec347411689793ae60adaead8"
+    },
+    {
+      "id": "09-demonstratives-quantifiers",
+      "title": "Từ chỉ định và lượng từ (this/that, some/any, much/many, all/both/either/neither) (A1–C1)",
+      "level": "B1",
+      "path": "09-demonstratives-quantifiers/lesson.md",
+      "sha256": "75b046cbe6e7d1b77dc7d2a6bdba877106191462b060a438daa2a01abba5ca8d"
+    },
+    {
+      "id": "10-possessives",
+      "title": "Sở hữu: 's, of, mine/yours, a friend of mine (A2–C1)",
+      "level": "B2",
+      "path": "10-possessives/lesson.md",
+      "sha256": "145daf1133cb436e29e42392a332adc530e06144b8216d6aca52e3e7a1d60559"
+    },
+    {
+      "id": "11-there-be",
+      "title": "There is/are và cấu trúc It/There (A1–B2)",
+      "level": "A2",
+      "path": "11-there-be/lesson.md",
+      "sha256": "b2855ae8594c82e1eb89cdbb5f11ed2511b498fdddd49d11066cf3f3ad9e09f5"
+    },
+    {
+      "id": "12-adjectives",
+      "title": "Tính từ: vị trí, thứ tự, tính từ ghép, phân từ (A1–C1)",
+      "level": "B1",
+      "path": "12-adjectives/lesson.md",
+      "sha256": "3aa203dc757ef1856372126f17b8e35c62b5bee8452cc14c3f31f2801dbbd45c"
+    },
+    {
+      "id": "13-comparison",
+      "title": "So sánh hơn, so sánh nhất và các cấu trúc so sánh (A1–C1)",
+      "level": "B1",
+      "path": "13-comparison/lesson.md",
+      "sha256": "508664e21a4b4560e406270f0e6cfc59e42627379c89b23e69a2c3af970138bb"
+    },
+    {
+      "id": "14-adverbs-position",
+      "title": "Trạng từ: các loại và vị trí (A1–C1)",
+      "level": "B1",
+      "path": "14-adverbs-position/lesson.md",
+      "sha256": "abaeeaa44f0f63d4b253166de92ae1d1fa3d98646b22114494594a0e6bfa97d7"
+    },
+    {
+      "id": "15-adverbs-degree-stance",
+      "title": "Trạng từ mức độ, thái độ và nhấn mạnh (A1–C2)",
+      "level": "B1",
+      "path": "15-adverbs-degree-stance/lesson.md",
+      "sha256": "725a4dc6ed028a04daaa648b3b04461f3128038b9b30e46e3a67928d9e77f4e2"
+    },
+    {
+      "id": "16-prepositions-time-place",
+      "title": "Giới từ thời gian, nơi chốn, chuyển động (A1–B1)",
+      "level": "A2",
+      "path": "16-prepositions-time-place/lesson.md",
+      "sha256": "a3459578c284c8933db9b9a615ee72798e9077a74c49fed706d905d64657adde"
+    },
+    {
+      "id": "17-prepositions-dependent",
+      "title": "Giới từ đi kèm, giới từ phức và giới từ cuối câu (A2–C1)",
+      "level": "B1",
+      "path": "17-prepositions-dependent/lesson.md",
+      "sha256": "029412247148eb457d1fc3d272dd2b5e5740ce79c588c9e7e685d99cb34e0a0f"
+    },
+    {
+      "id": "18-present-simple",
+      "title": "Thì hiện tại đơn (A1–C2)",
+      "level": "B1",
+      "path": "18-present-simple/lesson.md",
+      "sha256": "5a6680316673b5d6186154f706debd536b80d780ce24c320b3f5c05f3649d72b"
+    },
+    {
+      "id": "19-present-continuous",
+      "title": "Thì hiện tại tiếp diễn (A1–B2)",
+      "level": "B1",
+      "path": "19-present-continuous/lesson.md",
+      "sha256": "aa25323bfa1b1eb28a2690da5eb77be894f9d6e58ce35a644b8a0653c4b8e990"
+    },
+    {
+      "id": "20-imperatives",
+      "title": "Câu mệnh lệnh và Let's (A2–C1)",
+      "level": "B2",
+      "path": "20-imperatives/lesson.md",
+      "sha256": "d546aa65264f90beb5f97f664d83a86c6744ef567d431d424b5c77e3fdd4c882"
+    },
+    {
+      "id": "21-questions-basic",
+      "title": "Câu hỏi Yes/No và Wh- (A1–B1)",
+      "level": "A2",
+      "path": "21-questions-basic/lesson.md",
+      "sha256": "b8a28a75afb7efeb6a48b5b4387debff70af67150d59bb6e6242775fc25d0903"
+    },
+    {
+      "id": "22-negation",
+      "title": "Phủ định (A1–C1)",
+      "level": "B1",
+      "path": "22-negation/lesson.md",
+      "sha256": "d759633885405f41cf58915a7ce6682d777b07185c0124ecabe00d999eca38c9"
+    },
+    {
+      "id": "23-modal-can-could",
+      "title": "can, could, be able to (A1–C1)",
+      "level": "B1",
+      "path": "23-modal-can-could/lesson.md",
+      "sha256": "06b7d0e19926825439a4a5cd08bde169e41bd6821941be0b5fcac9ef010e74b0"
+    },
+    {
+      "id": "24-modal-will-would-shall",
+      "title": "will, would, shall (A1–C1)",
+      "level": "B1",
+      "path": "24-modal-will-would-shall/lesson.md",
+      "sha256": "e569bb0fd30eadbba42785999ca5419e07e09b9fb7123644d85feb5d93fd89db"
+    },
+    {
+      "id": "25-past-simple",
+      "title": "Thì quá khứ đơn (A1–C1)",
+      "level": "B1",
+      "path": "25-past-simple/lesson.md",
+      "sha256": "e65d128d3754a468e31aab0c4a047dff2fbc6ccacdc82d57fbd896bbba285c8e"
+    },
+    {
+      "id": "26-past-continuous",
+      "title": "Thì quá khứ tiếp diễn (B1–B2)",
+      "level": "B2",
+      "path": "26-past-continuous/lesson.md",
+      "sha256": "c7c49f0b7c6400f312edf0683d0a51149defc528e36aa1294901b94bf1a6a3e6"
+    },
+    {
+      "id": "27-used-to-would",
+      "title": "used to và would chỉ thói quen trong quá khứ (B1–C1)",
+      "level": "B2",
+      "path": "27-used-to-would/lesson.md",
+      "sha256": "3595a0042d5ec2964cd63522a6149a7c697dfbbf2666c30cba7d99b88e428f1c"
+    },
+    {
+      "id": "28-present-perfect",
+      "title": "Thì hiện tại hoàn thành (B1–C1)",
+      "level": "B2",
+      "path": "28-present-perfect/lesson.md",
+      "sha256": "c04ab00f061b6bbd58e5b4a6baaf973a10294ed83567ae0f76b2b4a9d17160b7"
+    },
+    {
+      "id": "29-present-perfect-continuous",
+      "title": "Thì hiện tại hoàn thành tiếp diễn (B2)",
+      "level": "B2",
+      "path": "29-present-perfect-continuous/lesson.md",
+      "sha256": "6f058263698de771b1eba99b2bc14c3427e8581bdcea6aec45937c6b83b65d0b"
+    },
+    {
+      "id": "30-past-perfect",
+      "title": "Thì quá khứ hoàn thành (đơn và tiếp diễn) (B1–C1)",
+      "level": "B2",
+      "path": "30-past-perfect/lesson.md",
+      "sha256": "6a93707879cc3ecc5cc5619c189594611c5734f8d6d8e4dad80a2dbef0872b22"
+    },
+    {
+      "id": "31-future-will-going-to",
+      "title": "Tương lai: will, going to, hiện tại cho tương lai (A1–C1)",
+      "level": "B1",
+      "path": "31-future-will-going-to/lesson.md",
+      "sha256": "cd017ea75909352a6b17128cf26978f39212d203e2e5f90dc566f1cf864904b9"
+    },
+    {
+      "id": "32-future-advanced",
+      "title": "Tương lai tiếp diễn, hoàn thành và tương lai trong quá khứ (A2–C1)",
+      "level": "B2",
+      "path": "32-future-advanced/lesson.md",
+      "sha256": "a0b8e36390971472763ed697ac27024177edf43315aedd75c8f274b5cc8a8eef"
+    },
+    {
+      "id": "33-modal-should-must",
+      "title": "should, ought to, must, have to, need (A2–C1)",
+      "level": "B1",
+      "path": "33-modal-should-must/lesson.md",
+      "sha256": "48c4f5c3ec4348c327ee0529823d5570945f916a69c45ed679f688342b3af3dc"
+    },
+    {
+      "id": "34-modal-may-might",
+      "title": "may và might (A2–C1)",
+      "level": "B2",
+      "path": "34-modal-may-might/lesson.md",
+      "sha256": "977dfe4e1601a89353604ff7d57de8d8e81507113f15c681d10a7e52982021b1"
+    },
+    {
+      "id": "35-modal-perfect-semi",
+      "title": "Modal ở quá khứ và semi-modal (dare, be likely to, be bound to) (B1–C1)",
+      "level": "B2",
+      "path": "35-modal-perfect-semi/lesson.md",
+      "sha256": "ed94400bff4bdcf1646e88e975666df046f8c985124979f0e1d13ecf63fe4bf4"
+    },
+    {
+      "id": "36-verb-patterns-to-ing",
+      "title": "Động từ + to V / V-ing (A1–B2)",
+      "level": "A2",
+      "path": "36-verb-patterns-to-ing/lesson.md",
+      "sha256": "bbf4dd3e32d3fa1c2c7d19cfc1612f4e09afa400ad3a70795e1cefa28c026fc6"
+    },
+    {
+      "id": "37-verb-object-patterns",
+      "title": "Động từ + tân ngữ + to V / V-ing / V nguyên mẫu (B1–C1)",
+      "level": "B2",
+      "path": "37-verb-object-patterns/lesson.md",
+      "sha256": "66a1c2ec9d24c7f96081e69e3abbd0e7e1c230ebe86aa92d4d3a3666652ed617"
+    },
+    {
+      "id": "38-verb-that-clause",
+      "title": "Động từ + that-clause và động từ nối (A2–B2)",
+      "level": "B1",
+      "path": "38-verb-that-clause/lesson.md",
+      "sha256": "9a79689fd0de79d8b4de139df233611ebd13dfd06e6ad9958fac5a4913414a71"
+    },
+    {
+      "id": "39-verb-preposition",
+      "title": "Động từ + giới từ (A1–B2)",
+      "level": "B1",
+      "path": "39-verb-preposition/lesson.md",
+      "sha256": "34c632c08fea6b1b7112f0a6aba9b00a37170b32eb1c89dc5eedd8fba7b5d3bd"
+    },
+    {
+      "id": "40-phrasal-verbs",
+      "title": "Phrasal verb (A2–C1)",
+      "level": "B2",
+      "path": "40-phrasal-verbs/lesson.md",
+      "sha256": "5ce88a102e95fb91534a9cd72b5ebc5bf1c75602fe991f6179925d34c238897e"
+    },
+    {
+      "id": "41-passive-basic",
+      "title": "Câu bị động cơ bản (A2–B2)",
+      "level": "B1",
+      "path": "41-passive-basic/lesson.md",
+      "sha256": "25ffa460c8122eecdcd1e394673ac3c2db31af5459bad07012035125070e3826"
+    },
+    {
+      "id": "42-passive-advanced",
+      "title": "Câu bị động nâng cao (B1–C1)",
+      "level": "C1",
+      "path": "42-passive-advanced/lesson.md",
+      "sha256": "a67fe5a8d3eaff07667ba2a914aa4b39449997d00cdc207d6f2fb3820cb657d6"
+    },
+    {
+      "id": "43-questions-advanced",
+      "title": "Câu hỏi đuôi, lựa chọn, gián tiếp, phủ định và tu từ (A2–C1)",
+      "level": "B1",
+      "path": "43-questions-advanced/lesson.md",
+      "sha256": "a8d6eb2f629627cf856c4da34201cdc308cf7a263df42492e0c476ac2b450932"
+    },
+    {
+      "id": "44-exclamations-short-responses",
+      "title": "Câu cảm thán và đồng ý ngắn (So do I, Neither do I) (A2–C1)",
+      "level": "B2",
+      "path": "44-exclamations-short-responses/lesson.md",
+      "sha256": "1776008ad708b7d2219502583014f47d9dd1656915704d1eb9c9c7f156209b8a"
+    },
+    {
+      "id": "45-conjunctions-coordinating",
+      "title": "Liên từ đẳng lập: and, but, or, so, both…and, either…or (A1–C1)",
+      "level": "B1",
+      "path": "45-conjunctions-coordinating/lesson.md",
+      "sha256": "539fc1bc8224f962f57c82aec80f62e962ee6ed34a9095ded27fdef15cd7b66c"
+    },
+    {
+      "id": "46-clauses-subordinate",
+      "title": "Mệnh đề phụ: because, when, while, although, mục đích (A1–C1)",
+      "level": "B1",
+      "path": "46-clauses-subordinate/lesson.md",
+      "sha256": "fb9f8dd222b9a7f10fc483f7f8224256ead0ea27020bf18362f603fc7aeb8ef5"
+    },
+    {
+      "id": "47-relative-defining",
+      "title": "Mệnh đề quan hệ xác định (A2–B2)",
+      "level": "B1",
+      "path": "47-relative-defining/lesson.md",
+      "sha256": "b74b17ab664dce21f97d848008461f9969df2b08be3af48ce77907a2827deaec"
+    },
+    {
+      "id": "48-relative-non-defining",
+      "title": "Mệnh đề quan hệ không xác định (A2–C1)",
+      "level": "B2",
+      "path": "48-relative-non-defining/lesson.md",
+      "sha256": "8675423be42ded0d877a7f72c9a61f48d52cf149c31a29154bc1a371bd50585c"
+    },
+    {
+      "id": "49-participle-clauses",
+      "title": "Mệnh đề rút gọn: phân từ và V-ing/to V (B1–C1)",
+      "level": "C1",
+      "path": "49-participle-clauses/lesson.md",
+      "sha256": "2422e114dc892d7487b75b60f6f5e29e2181d922d58e7cfb898b79f7dfbb999e"
+    },
+    {
+      "id": "50-conditionals-0-1",
+      "title": "Câu điều kiện loại 0 và 1 (A2–C1)",
+      "level": "B1",
+      "path": "50-conditionals-0-1/lesson.md",
+      "sha256": "8c94a5c71e08702518be6a5b0be463b0b768f31ec89b0f4e249041e6420b548c"
+    },
+    {
+      "id": "51-conditionals-2-3",
+      "title": "Câu điều kiện loại 2, 3 và hỗn hợp (A2–C2)",
+      "level": "B2",
+      "path": "51-conditionals-2-3/lesson.md",
+      "sha256": "ef359a4b29436279aaf0e0eb530680a153493ac6e3e2bb1dfd7b1e0b3476f31d"
+    },
+    {
+      "id": "52-wish-subjunctive",
+      "title": "Wish, if only, giả định và điều kiện trang trọng (B2–C1)",
+      "level": "C1",
+      "path": "52-wish-subjunctive/lesson.md",
+      "sha256": "b7cbbdf9c92db949d0cf4b072c0a76f10d824ba679a540568f9d1f050d4ddd31"
+    },
+    {
+      "id": "53-reported-statements",
+      "title": "Câu gián tiếp: câu khẳng định (A2–B2)",
+      "level": "B1",
+      "path": "53-reported-statements/lesson.md",
+      "sha256": "e38cabde778143c7d4149201048df558847e0c4dcb0dcd73780cd4451df639a2"
+    },
+    {
+      "id": "54-reported-questions-commands",
+      "title": "Câu gián tiếp: câu hỏi và mệnh lệnh (B1–B2)",
+      "level": "B1",
+      "path": "54-reported-questions-commands/lesson.md",
+      "sha256": "4e1506f090a6af8421b08b14365208a252e237ce9a3178d66789906bed24c577"
+    },
+    {
+      "id": "55-reporting-verbs",
+      "title": "Động từ tường thuật và gián tiếp nâng cao (B1–C1)",
+      "level": "B2",
+      "path": "55-reporting-verbs/lesson.md",
+      "sha256": "cfc7bda439da2ed40a3ca029aedd22297c9f7e78a18125718ec7ad37aba53d2b"
+    },
+    {
+      "id": "56-discourse-markers-writing",
+      "title": "Từ nối diễn ngôn trong văn viết (A2–C1)",
+      "level": "B1",
+      "path": "56-discourse-markers-writing/lesson.md",
+      "sha256": "85498aae51c468828231109be70f5423eb86c1b5caa3435031e927b364a9b39d"
+    },
+    {
+      "id": "57-discourse-markers-speech",
+      "title": "Từ nối diễn ngôn trong văn nói (B1)",
+      "level": "B1",
+      "path": "57-discourse-markers-speech/lesson.md",
+      "sha256": "feecdba670cdab5f25969e922a6c6a3c9c9c82633c080ab53f4716de6200469d"
+    },
+    {
+      "id": "58-emphasis-cleft",
+      "title": "Nhấn mạnh: do nhấn mạnh, câu chẻ, fronting (B1–C2)",
+      "level": "C1",
+      "path": "58-emphasis-cleft/lesson.md",
+      "sha256": "42ccd9b4ce934dbf1a57d2a7f946e641d9130d77edeef74aabf50917a4dfa4d5"
+    },
+    {
+      "id": "59-inversion",
+      "title": "Đảo ngữ (B2–C2)",
+      "level": "C1",
+      "path": "59-inversion/lesson.md",
+      "sha256": "2f338a8794fd5e61b58394ea7e79f0720d9bf682eb25845adee4abbc129a30ce"
+    },
+    {
+      "id": "60-ellipsis",
+      "title": "Ellipsis và thay thế (A1–C1)",
+      "level": "B2",
+      "path": "60-ellipsis/lesson.md",
+      "sha256": "1561612c0a334372350858412bffd2d65362e32795d0714ab843976405344f1e"
+    },
+    {
+      "id": "61-noun-phrases-nominalisation",
+      "title": "Cụm danh từ phức và danh hóa (B1–C1)",
+      "level": "B2",
+      "path": "61-noun-phrases-nominalisation/lesson.md",
+      "sha256": "1f39ac1c3bc2e73877f0e1d584390e37bb0d28fa33ee8110ae85e972cbf17ab6"
+    },
+    {
+      "id": "62-word-formation",
+      "title": "Cách tạo từ: tiền tố và hậu tố (B2)",
+      "level": "B2",
+      "path": "62-word-formation/lesson.md",
+      "sha256": "0dfe49655e223f3ce45717810597196cc94b6d8476c1a13607a9346493b7dcea"
+    },
+    {
+      "id": "63-hedging-politeness",
+      "title": "Hedging và cách nói lịch sự (A2–C2)",
+      "level": "B2",
+      "path": "63-hedging-politeness/lesson.md",
+      "sha256": "bac67a8c9fe60d800e3360b21ffe0cb5f1a1ab8119aeb128da6ff9d4fda5c910"
+    }
+  ]
+}

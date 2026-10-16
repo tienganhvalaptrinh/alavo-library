@@ -5,7 +5,7 @@ Open learning content for [Alavo](https://chromewebstore.google.com/detail/alavo
 ## What is inside
 
 - **Vocabulary packs**: a named list of words with meanings, pronunciation and example sentences. Example: [Top 150 phrasal verbs](vocabulary/en-vi/phrasal-verbs-top-150/).
-- **Grammar courses**: an ordered set of short lessons, each with optional practice exercises. Example: [Present tenses](grammar/en-vi/present-tenses/).
+- **Grammar courses**: an ordered set of short lessons, each with optional practice exercises. Example: [English grammar](grammar/en-vi/english-grammar/).
 
 ## Key terms
 
@@ -31,14 +31,14 @@ vocabulary/
       words-003.json
 grammar/
   en-vi/
-    present-tenses/
+    english-grammar/
       manifest.json
-      present-simple/
+      01-parts-of-speech/
         lesson.md
-        exercises.json
-      present-continuous/
+        exercises.json             optional
+      02-pronouns-personal/
         lesson.md
-        exercises.json
+        exercises.json             optional
 schema/                            JSON Schema files that define every format
 scripts/build.mjs                  validates content and generates the derived fields
 ```
@@ -61,5 +61,6 @@ npm run check      # same validation, but fails if a generated file is stale
 
 - **Code** (`scripts/`, `schema/`, `.github/`) is under the [MIT License](LICENSE).
 - **Content** (`vocabulary/`, `grammar/`, `catalog/`) written by the Alavo contributors is dedicated to the public domain under [CC0 1.0](LICENSE-CONTENT).
+- **Exception**: `vocabulary/en-vi/toeic-service-list` is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) because it is built on the [TOEIC Service List](https://www.newgeneralservicelist.com/toeic-service-list) by Charles Browne and Brent Culligan. Reuse of that pack must credit them and keep the same license.
 
 Each pack also declares its own `license` in its manifest, and `source` says where the content came from. A pack taken from another source keeps that source's license. Only add content you wrote yourself or content whose license allows redistribution. By opening a pull request you agree that your contribution is released under the license that covers the files you changed.

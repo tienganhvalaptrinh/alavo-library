@@ -1,19 +1,19 @@
 [
   {
-    "id": "present-tenses",
+    "id": "english-grammar",
     "type": "grammar",
-    "title": "Present tenses",
-    "description": "Hai thì hiện tại đầu tiên: hiện tại đơn và hiện tại tiếp diễn.",
-    "category": "tenses",
-    "level": "A1",
+    "title": "English grammar",
+    "description": "Ngữ pháp tiếng Anh từ A1 đến C2: mỗi bài một điểm ngữ pháp, xếp theo thứ tự bài trước bổ trợ bài sau (đang soạn).",
+    "category": "grammar",
+    "level": "mixed",
     "order": 1,
     "sourceLang": "en",
     "targetLang": "vi",
-    "version": "1.1.1",
+    "version": "0.1.0",
     "license": "CC0-1.0",
     "source": "Written by the Alavo team",
-    "manifest": "grammar/en-vi/present-tenses/manifest.json",
-    "lessonCount": 2
+    "manifest": "grammar/en-vi/english-grammar/manifest.json",
+    "lessonCount": 63
   },
   {
     "id": "phrasal-verbs-top-150",
