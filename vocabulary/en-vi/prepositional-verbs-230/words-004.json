@@ -1,0 +1,452 @@
+[
+  {
+    "word": "stand for",
+    "phonetic": "/stænd fɔːr/",
+    "definition": "(of letters) to represent a word or idea; to support a set of ideas or principles; (not stand for) to not allow something to continue (stand for + something)",
+    "translation": "viết tắt của; ủng hộ, đại diện cho (giá trị, nguyên tắc); (not stand for) không chấp nhận",
+    "exampleSentence": "What does UN stand for?",
+    "exampleTranslation": "UN là viết tắt của gì?",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "stem from",
+    "phonetic": "/stem frəm/",
+    "definition": "to develop as a result of something else (stem from + something)",
+    "translation": "bắt nguồn từ, xuất phát từ",
+    "exampleSentence": "Her fear of water stems from a childhood accident.",
+    "exampleTranslation": "Nỗi sợ nước của cô ấy bắt nguồn từ một tai nạn thời thơ ấu.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "substitute (something) for",
+    "phonetic": "/ˈsʌbstɪtuːt fɔːr/",
+    "definition": "to use something new or different instead of something else (substitute something for something)",
+    "translation": "dùng cái gì thay cho cái gì",
+    "exampleSentence": "You can substitute honey for sugar in this recipe.",
+    "exampleTranslation": "Bạn có thể dùng mật ong thay cho đường trong công thức này.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "suspect (someone) of",
+    "phonetic": "/səˈspekt əv/",
+    "definition": "to think that someone is probably guilty of a crime (suspect somebody of (doing) something)",
+    "translation": "nghi ngờ ai về tội gì",
+    "exampleSentence": "The police suspected him of stealing the money.",
+    "exampleTranslation": "Cảnh sát nghi anh ta đã lấy trộm số tiền.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "tell (someone) about",
+    "phonetic": "/tel əˈbaʊt/",
+    "definition": "to communicate information, a story or feelings to someone (tell somebody about something; not 'tell about something')",
+    "translation": "kể cho ai nghe về điều gì",
+    "exampleSentence": "She told me about her trip to Japan.",
+    "exampleTranslation": "Cô ấy kể cho tôi nghe về chuyến đi Nhật Bản của cô ấy.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "trust in",
+    "phonetic": "/trʌst ɪn/",
+    "definition": "(formal) to believe in someone or something (trust in + somebody/something)",
+    "translation": "tin vào, tin cậy ai/điều gì",
+    "exampleSentence": "Many people trust in the power of prayer.",
+    "exampleTranslation": "Nhiều người tin vào sức mạnh của lời cầu nguyện.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "trust (someone) with",
+    "phonetic": "/trʌst wɪð/",
+    "definition": "to let someone have something or have control over something, believing that they will be careful with it (trust somebody with something)",
+    "translation": "tin tưởng giao cho ai cái gì",
+    "exampleSentence": "I wouldn't trust anyone with my passwords.",
+    "exampleTranslation": "Tôi sẽ không giao mật khẩu của mình cho bất kỳ ai.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "turn to",
+    "phonetic": "/tɜːrn tuː/",
+    "definition": "to ask someone for help, advice or sympathy; to start to do or use something new; to change into a different form; to open a book at a particular page (turn to + somebody/something)",
+    "translation": "tìm đến ai để nhờ giúp; chuyển sang dùng cái gì; biến thành; mở sang trang",
+    "exampleSentence": "When I'm in trouble, I turn to my parents.",
+    "exampleTranslation": "Khi gặp rắc rối, tôi tìm đến bố mẹ.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "wink at",
+    "phonetic": "/wɪŋk æt/",
+    "definition": "to close and open one eye quickly, to communicate something or to show that something is a secret or a joke (wink at + somebody)",
+    "translation": "nháy mắt với ai",
+    "exampleSentence": "She winked at me across the room.",
+    "exampleTranslation": "Cô ấy nháy mắt với tôi từ phía bên kia phòng.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "write about",
+    "phonetic": "/raɪt əˈbaʊt/",
+    "definition": "to produce a book, article, poem or other text on a subject (write about + something)",
+    "translation": "viết về điều gì",
+    "exampleSentence": "She writes about her life in the countryside.",
+    "exampleTranslation": "Cô ấy viết về cuộc sống ở vùng nông thôn của mình.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "acquaint (someone) with",
+    "phonetic": "/əˈkweɪnt wɪð/",
+    "definition": "(formal) to make someone familiar with something (acquaint somebody with something; acquaint yourself with something)",
+    "translation": "làm cho ai làm quen với, cho ai biết rõ về điều gì",
+    "exampleSentence": "You should acquaint yourself with the safety rules.",
+    "exampleTranslation": "Bạn nên tìm hiểu kỹ các quy tắc an toàn.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "adjust to",
+    "phonetic": "/əˈdʒʌst tuː/",
+    "definition": "to gradually become familiar with a new situation (adjust to + something / doing something); in everyday English people usually say 'get used to'",
+    "translation": "thích nghi với, dần quen với",
+    "exampleSentence": "It took her a few weeks to adjust to the cold weather.",
+    "exampleTranslation": "Cô ấy mất vài tuần để quen với thời tiết lạnh.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "admit to",
+    "phonetic": "/ədˈmɪt tuː/",
+    "definition": "to say that you have done something wrong or illegal; to agree unwillingly that something is true (admit to (doing) something; admit to somebody that ...)",
+    "translation": "thừa nhận đã làm điều gì sai; miễn cưỡng thừa nhận điều gì",
+    "exampleSentence": "He admitted to stealing the money.",
+    "exampleTranslation": "Anh ta thừa nhận đã lấy trộm tiền.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "agree to",
+    "phonetic": "/əˈɡriː tuː/",
+    "definition": "to say yes to an idea, plan or suggestion (agree to + something; agree to do something)",
+    "translation": "đồng ý với (kế hoạch, đề nghị); đồng ý làm gì",
+    "exampleSentence": "My boss agreed to my request for a day off.",
+    "exampleTranslation": "Sếp tôi đồng ý với yêu cầu xin nghỉ một ngày của tôi.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "allow for",
+    "phonetic": "/əˈlaʊ fɔːr/",
+    "definition": "to make it possible for something to happen or for someone to do something, especially something helpful or useful (allow for + something)",
+    "translation": "cho phép, tạo điều kiện để điều gì xảy ra",
+    "exampleSentence": "The new system allows for faster payments.",
+    "exampleTranslation": "Hệ thống mới giúp việc thanh toán diễn ra nhanh hơn.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "appeal to",
+    "phonetic": "/əˈpiːl tuː/",
+    "definition": "to make a serious public request for help, money or information; to ask a court or authority to change a decision; (of someone or something) to seem attractive and interesting (appeal to + somebody/something)",
+    "translation": "kêu gọi, khẩn cầu ai; kháng cáo lên; hấp dẫn, thu hút ai",
+    "exampleSentence": "The game appeals to children and adults.",
+    "exampleTranslation": "Trò chơi này hấp dẫn cả trẻ em lẫn người lớn.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "arrange for",
+    "phonetic": "/əˈreɪndʒ fɔːr/",
+    "definition": "to make it possible for someone to have or do something (arrange for something; arrange for somebody to do something)",
+    "translation": "sắp xếp, thu xếp để có hoặc làm được điều gì",
+    "exampleSentence": "I'll arrange for a taxi to pick you up.",
+    "exampleTranslation": "Tôi sẽ sắp xếp để có taxi đón bạn.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "associate (something) with",
+    "phonetic": "/əˈsoʊʃieɪt wɪð/",
+    "definition": "to make a mental connection between one person or thing and another (associate somebody/something with something)",
+    "translation": "liên tưởng ai/cái gì với ai/cái gì",
+    "exampleSentence": "Many people associate this color with luck.",
+    "exampleTranslation": "Nhiều người liên tưởng màu này với sự may mắn.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "begin with",
+    "phonetic": "/bɪˈɡɪn wɪð/",
+    "definition": "to do something as the first thing; (of a book, film or word) to start with a particular event or letter (begin with + something)",
+    "translation": "bắt đầu bằng, mở đầu bằng",
+    "exampleSentence": "The meeting began with a short speech.",
+    "exampleTranslation": "Cuộc họp bắt đầu bằng một bài phát biểu ngắn.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "benefit from",
+    "phonetic": "/ˈbenəfɪt frəm/",
+    "definition": "to get help or an advantage from something (benefit from + something / doing something)",
+    "translation": "được lợi từ, hưởng lợi từ",
+    "exampleSentence": "Many students benefit from extra practice.",
+    "exampleTranslation": "Nhiều học sinh được lợi từ việc luyện tập thêm.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "break into",
+    "phonetic": "/breɪk ˈɪntuː/",
+    "definition": "to enter a building or car by force in order to steal; to become involved in a new job or business activity; to start spending money that you did not want to spend (break into + something)",
+    "translation": "đột nhập vào; bước chân vào (một ngành nghề, thị trường); phải động đến (khoản tiền tiết kiệm)",
+    "exampleSentence": "Someone broke into our house last night.",
+    "exampleTranslation": "Đêm qua có người đột nhập vào nhà chúng tôi.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "call for",
+    "phonetic": "/kɔːl fɔːr/",
+    "definition": "to publicly ask for something to be done; to need or deserve a particular type of behaviour or treatment; (British English) to go to someone's home to take them somewhere (call for + something/somebody)",
+    "translation": "kêu gọi, yêu cầu; đòi hỏi, cần đến; (Anh) ghé đón ai",
+    "exampleSentence": "Many people are calling for a change in the law.",
+    "exampleTranslation": "Nhiều người đang kêu gọi thay đổi luật.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "be cluttered with",
+    "phonetic": "/bi ˈklʌtərd wɪð/",
+    "definition": "to be covered or filled with too many things, so that it looks untidy (be cluttered with + something)",
+    "translation": "bừa bộn, chất đầy (đồ đạc)",
+    "exampleSentence": "My desk is cluttered with old papers.",
+    "exampleTranslation": "Bàn làm việc của tôi bừa bộn giấy tờ cũ.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "coincide with",
+    "phonetic": "/ˌkoʊɪnˈsaɪd wɪð/",
+    "definition": "to happen at the same time as something else, especially by chance; (of ideas or opinions) to be the same (coincide with + something)",
+    "translation": "trùng với, diễn ra cùng lúc với; (ý kiến) trùng khớp với",
+    "exampleSentence": "The festival coincides with the harvest.",
+    "exampleTranslation": "Lễ hội diễn ra trùng với mùa thu hoạch.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "comply with",
+    "phonetic": "/kəmˈplaɪ wɪð/",
+    "definition": "(formal) to do what you have to do or are asked to do; to obey a law or rule (comply with + something)",
+    "translation": "tuân thủ, làm theo (quy định, yêu cầu)",
+    "exampleSentence": "All companies must comply with the safety regulations.",
+    "exampleTranslation": "Mọi công ty phải tuân thủ các quy định an toàn.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "be composed of",
+    "phonetic": "/bi kəmˈpoʊzd əv/",
+    "definition": "to be formed from a number of substances, parts or people (be composed of + something/somebody)",
+    "translation": "được tạo thành từ, gồm có",
+    "exampleSentence": "The committee is composed of ten members.",
+    "exampleTranslation": "Ủy ban gồm có mười thành viên.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "be concerned with",
+    "phonetic": "/bi kənˈsɜːrnd wɪð/",
+    "definition": "to believe that something is important and give it your attention (be concerned with + something)",
+    "translation": "quan tâm đến, chú trọng đến điều gì",
+    "exampleSentence": "She is more concerned with her career than with money.",
+    "exampleTranslation": "Cô ấy quan tâm đến sự nghiệp hơn là tiền bạc.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "confess to",
+    "phonetic": "/kənˈfes tuː/",
+    "definition": "to admit that you have done something wrong or illegal; to admit something you feel embarrassed about (confess to (doing) something)",
+    "translation": "thú nhận, thú tội đã làm điều gì",
+    "exampleSentence": "She confessed to eating the last cookie.",
+    "exampleTranslation": "Cô ấy thú nhận đã ăn chiếc bánh quy cuối cùng.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "cope with",
+    "phonetic": "/koʊp wɪð/",
+    "definition": "to succeed in dealing with a difficult problem or situation; (of a machine or system) to be able to do a particular amount of work (cope with + something)",
+    "translation": "đối phó được, xoay xở được với; (máy móc, hệ thống) xử lý nổi",
+    "exampleSentence": "She is coping well with the stress of the new job.",
+    "exampleTranslation": "Cô ấy đang xoay xở tốt với áp lực của công việc mới.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "decide on",
+    "phonetic": "/dɪˈsaɪd ɑːn/",
+    "definition": "to choose something or someone after thinking carefully (decide on/upon + something)",
+    "translation": "chọn, quyết định chọn",
+    "exampleSentence": "We finally decided on a name for the baby.",
+    "exampleTranslation": "Cuối cùng chúng tôi cũng chọn được tên cho em bé.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "deter (someone) from",
+    "phonetic": "/dɪˈtɜːr frəm/",
+    "definition": "to stop someone from doing something by making them realize it will be difficult or have bad results (deter somebody from (doing) something)",
+    "translation": "ngăn cản, làm ai nản lòng không làm điều gì",
+    "exampleSentence": "The high price deterred many people from buying the car.",
+    "exampleTranslation": "Giá cao khiến nhiều người nản lòng không mua chiếc xe.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "devote (something) to",
+    "phonetic": "/dɪˈvoʊt tuː/",
+    "definition": "to use all or most of your time, effort or attention to do something or help someone; to use an area, a period of time or an amount of space for a specific purpose (devote yourself/something to something); in everyday English people usually say 'put time into'",
+    "translation": "dành (thời gian, công sức) cho; dành riêng cho",
+    "exampleSentence": "He devotes his weekends to volunteering.",
+    "exampleTranslation": "Anh ấy dành các cuối tuần cho công việc thiện nguyện.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "die of",
+    "phonetic": "/daɪ əv/",
+    "definition": "to stop living because of a disease or injury (die of/from + something); 'die of' is more common than 'die from'",
+    "translation": "chết vì (bệnh, nguyên nhân)",
+    "exampleSentence": "Her grandfather died of a heart attack.",
+    "exampleTranslation": "Ông của cô ấy qua đời vì đau tim.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "distinguish (something) from",
+    "phonetic": "/dɪˈstɪŋɡwɪʃ frəm/",
+    "definition": "to recognize the difference between two or more things or people; to be the feature that makes someone or something different or special (distinguish something/somebody from something/somebody; distinguish between)",
+    "translation": "phân biệt cái này với cái kia; là điểm làm cho ai/cái gì khác biệt",
+    "exampleSentence": "It is hard to distinguish real silk from fake silk.",
+    "exampleTranslation": "Rất khó phân biệt lụa thật với lụa giả.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "engage in",
+    "phonetic": "/ɪnˈɡeɪdʒ ɪn/",
+    "definition": "to be doing or to become involved in an activity (engage in + something / doing something)",
+    "translation": "tham gia vào, dấn thân vào (một hoạt động)",
+    "exampleSentence": "The two companies engaged in a long legal battle.",
+    "exampleTranslation": "Hai công ty đã dính vào một cuộc chiến pháp lý kéo dài.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "excel at",
+    "phonetic": "/ɪkˈsel æt/",
+    "definition": "to do something very well, or much better than most people (excel at/in + something)",
+    "translation": "giỏi vượt trội về",
+    "exampleSentence": "She excels at mathematics.",
+    "exampleTranslation": "Cô ấy học giỏi vượt trội môn toán.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "experiment on",
+    "phonetic": "/ɪkˈsperəment ɑːn/",
+    "definition": "to do a scientific test to find out if an idea is true or to get more information (experiment on + something; experiment with + something means to try using various ideas or methods)",
+    "translation": "thí nghiệm trên, thử nghiệm trên",
+    "exampleSentence": "Researchers experimented on mice to test the new drug.",
+    "exampleTranslation": "Các nhà nghiên cứu thí nghiệm trên chuột để thử loại thuốc mới.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "be faced with",
+    "phonetic": "/bi feɪst wɪð/",
+    "definition": "used when a difficult situation is going to affect you and you must deal with it (be faced with + something)",
+    "translation": "đối mặt với (một tình huống khó khăn)",
+    "exampleSentence": "The company is faced with a serious financial problem.",
+    "exampleTranslation": "Công ty đang đứng trước một vấn đề tài chính nghiêm trọng.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "feel about",
+    "phonetic": "/fiːl əˈbaʊt/",
+    "definition": "to have a particular opinion, especially one based on your feelings and not on facts (feel about + something; how do you feel about ...?)",
+    "translation": "cảm thấy thế nào về, nghĩ sao về",
+    "exampleSentence": "How do you feel about moving to a new city?",
+    "exampleTranslation": "Bạn cảm thấy thế nào về việc chuyển đến một thành phố mới?",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "fight with",
+    "phonetic": "/faɪt wɪð/",
+    "definition": "to hit and kick someone in order to hurt them; to argue with someone (fight with + someone; fight about/over + something)",
+    "translation": "đánh nhau với ai; cãi nhau với ai",
+    "exampleSentence": "She was fighting with her brother over the remote control.",
+    "exampleTranslation": "Cô ấy đang cãi nhau với em trai để giành chiếc điều khiển ti vi.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "fine (someone) for",
+    "phonetic": "/faɪn fɔːr/",
+    "definition": "to make someone pay money as a punishment (fine somebody for (doing) something; fine somebody £200)",
+    "translation": "phạt tiền ai vì điều gì",
+    "exampleSentence": "The driver was fined for speeding.",
+    "exampleTranslation": "Tài xế bị phạt tiền vì chạy quá tốc độ.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "get over",
+    "phonetic": "/ɡet ˈoʊvər/",
+    "definition": "to become well again after an illness; to start to feel better after a very upsetting experience; to successfully deal with a problem; (can't get over) to be very surprised by something (get over + something)",
+    "translation": "khỏi (bệnh); vượt qua (cú sốc, nỗi đau, khó khăn); (can't get over) vẫn còn ngạc nhiên về",
+    "exampleSentence": "It took her a month to get over the flu.",
+    "exampleTranslation": "Cô ấy mất một tháng mới khỏi cảm cúm.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "go to",
+    "phonetic": "/ɡoʊ tuː/",
+    "definition": "to move or travel to a place; to attend an event; to attend a place such as school, church or work regularly (go to + a place/event; go to school/work/bed, with no article)",
+    "translation": "đi đến, đến (nơi nào); tham dự (sự kiện); đi (học, làm, ngủ)",
+    "exampleSentence": "I go to work by bus.",
+    "exampleTranslation": "Tôi đi làm bằng xe buýt.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "head for",
+    "phonetic": "/hed fɔːr/",
+    "definition": "to travel or move towards a particular place (head for/towards + a place)",
+    "translation": "đi về hướng, tiến về",
+    "exampleSentence": "It's late, so let's head for home.",
+    "exampleTranslation": "Muộn rồi, mình đi về nhà thôi.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "impose (something) on",
+    "phonetic": "/ɪmˈpoʊz ɑːn/",
+    "definition": "to force someone to accept the same ideas or beliefs as you, or to follow a rule (impose something on somebody)",
+    "translation": "áp đặt điều gì lên ai",
+    "exampleSentence": "Parents shouldn't impose their opinions on their children.",
+    "exampleTranslation": "Cha mẹ không nên áp đặt quan điểm của mình lên con cái.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "impress (something) on",
+    "phonetic": "/ɪmˈpres ɑːn/",
+    "definition": "to make someone understand how important something is (impress something on somebody)",
+    "translation": "làm ai hiểu rõ tầm quan trọng của điều gì",
+    "exampleSentence": "My teacher impressed on us the importance of reading.",
+    "exampleTranslation": "Giáo viên của tôi nhấn mạnh với chúng tôi tầm quan trọng của việc đọc sách.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "invest in",
+    "phonetic": "/ɪnˈvest ɪn/",
+    "definition": "to buy shares, property or goods because you expect their value to rise; to spend money, time or effort to make something succeed (invest in + something; invest something in something); in everyday English people often say 'put money into'",
+    "translation": "đầu tư vào",
+    "exampleSentence": "She invested in a small apartment in the city center.",
+    "exampleTranslation": "Cô ấy đầu tư vào một căn hộ nhỏ ở trung tâm thành phố.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "joke about",
+    "phonetic": "/dʒoʊk əˈbaʊt/",
+    "definition": "to say things that are meant to be funny and that you do not really mean (joke about + something)",
+    "translation": "đùa về, nói đùa về",
+    "exampleSentence": "They joked about their mistakes afterwards.",
+    "exampleTranslation": "Sau đó họ đùa về những sai lầm của mình.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "long for",
+    "phonetic": "/lɔːŋ fɔːr/",
+    "definition": "to want something very much, especially when it seems unlikely to happen soon (long for + something; long for somebody to do something)",
+    "translation": "khao khát, mong mỏi",
+    "exampleSentence": "She longed for a quiet weekend at home.",
+    "exampleTranslation": "Cô ấy mong mỏi một cuối tuần yên tĩnh ở nhà.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "matter to",
+    "phonetic": "/ˈmætər tuː/",
+    "definition": "to be important to someone (matter to + somebody)",
+    "translation": "quan trọng đối với ai",
+    "exampleSentence": "Your opinion matters to me.",
+    "exampleTranslation": "Ý kiến của bạn quan trọng với tôi.",
+    "pos": "prepositional verb"
+  }
+]

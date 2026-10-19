@@ -1,0 +1,42 @@
+{
+  "id": "prepositional-verbs-230",
+  "type": "vocabulary",
+  "title": "230 common prepositional verbs",
+  "description": "230 common English verbs that take a fixed preposition, such as depend on, think about, talk to and ask for, with Vietnamese meanings, the patterns they follow and examples.",
+  "category": "prepositional-verbs",
+  "level": "mixed",
+  "order": 4,
+  "sourceLang": "en",
+  "targetLang": "vi",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "source": "Written by the Alavo team. Pairs come from nine published teaching lists, kept when Longman (LDOCE) also lists the pattern, ordered by how many lists include them. Definitions follow LDOCE; translations and examples are original.",
+  "wordCount": 230,
+  "files": [
+    {
+      "path": "words-001.json",
+      "count": 50,
+      "sha256": "92af5657c698aebb5bf5380d24d7678eaa6a94d24655e43e803c3e1d25371960"
+    },
+    {
+      "path": "words-002.json",
+      "count": 50,
+      "sha256": "f491a30ba60ae68719430bd763d1387b547002e4ceec1e48dc066257fafd4be8"
+    },
+    {
+      "path": "words-003.json",
+      "count": 50,
+      "sha256": "c738214873fe565e941a93bf64214d51f3a8897c1ef7b196c5eaf8262ec84ab3"
+    },
+    {
+      "path": "words-004.json",
+      "count": 50,
+      "sha256": "fd58ec2fa234207bf2e97843cf9bc9ad5d4de8f8ed4474e8e6cb09e6dd009c17"
+    },
+    {
+      "path": "words-005.json",
+      "count": 30,
+      "sha256": "6ffa10c8c2948eb6fc3ac88b09e70b21eb046d78b101ff7324f28b7ebbe01630"
+    }
+  ]
+}

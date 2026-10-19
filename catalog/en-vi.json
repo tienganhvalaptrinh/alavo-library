@@ -46,5 +46,21 @@
     "source": "Word list: TOEIC Service List 1.2 by Charles Browne and Brent Culligan (https://www.newgeneralservicelist.com/toeic-service-list), CC BY-SA 4.0. Phonetics, definitions, translations and examples written by the Alavo team.",
     "manifest": "vocabulary/en-vi/toeic-service-list/manifest.json",
     "wordCount": 1250
+  },
+  {
+    "id": "prepositional-verbs-230",
+    "type": "vocabulary",
+    "title": "230 common prepositional verbs",
+    "description": "230 common English verbs that take a fixed preposition, such as depend on, think about, talk to and ask for, with Vietnamese meanings, the patterns they follow and examples.",
+    "category": "prepositional-verbs",
+    "level": "mixed",
+    "order": 4,
+    "sourceLang": "en",
+    "targetLang": "vi",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "source": "Written by the Alavo team. Pairs come from nine published teaching lists, kept when Longman (LDOCE) also lists the pattern, ordered by how many lists include them. Definitions follow LDOCE; translations and examples are original.",
+    "manifest": "vocabulary/en-vi/prepositional-verbs-230/manifest.json",
+    "wordCount": 230
   }
 ]

@@ -4,7 +4,7 @@
     "sourceLang": "en",
     "targetLang": "vi",
     "catalog": "catalog/en-vi.json",
-    "vocabulary": 2,
+    "vocabulary": 3,
     "grammar": 1
   }
 ]

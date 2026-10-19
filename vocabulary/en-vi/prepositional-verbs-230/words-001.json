@@ -1,0 +1,452 @@
+[
+  {
+    "word": "depend on",
+    "phonetic": "/dɪˈpend ɑːn/",
+    "definition": "to need someone or something in order to live, work or succeed; to be decided by something else (depend on + somebody/something)",
+    "translation": "phụ thuộc vào ai/cái gì; tùy thuộc vào",
+    "exampleSentence": "Our plans depend on the weather.",
+    "exampleTranslation": "Kế hoạch của chúng tôi tùy thuộc vào thời tiết.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "rely on",
+    "phonetic": "/rɪˈlaɪ ɑːn/",
+    "definition": "to depend on someone or something to give you what you need, often because you have no other choice (rely on + somebody/something)",
+    "translation": "dựa vào, trông cậy vào ai/cái gì",
+    "exampleSentence": "Many students rely on their parents for money.",
+    "exampleTranslation": "Nhiều sinh viên phải dựa vào bố mẹ về tiền bạc.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "apologize for",
+    "phonetic": "/əˈpɑːləˌdʒaɪz fɔːr/",
+    "definition": "to tell someone you are sorry for something you did wrong (apologize for + something / doing something)",
+    "translation": "xin lỗi vì điều gì",
+    "exampleSentence": "I apologize for forgetting your birthday.",
+    "exampleTranslation": "Tôi xin lỗi vì đã quên sinh nhật của bạn.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "apply for",
+    "phonetic": "/əˈplaɪ fɔːr/",
+    "definition": "to make a formal request, usually in writing, for a job, a place at a university or permission (apply for + something)",
+    "translation": "nộp đơn xin (việc làm, vào trường, giấy phép)",
+    "exampleSentence": "She applied for a job at a bank.",
+    "exampleTranslation": "Cô ấy nộp đơn xin việc ở một ngân hàng.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "listen to",
+    "phonetic": "/ˈlɪsən tuː/",
+    "definition": "to pay attention to what someone says or to a sound; to accept someone's advice (listen to + someone/something)",
+    "translation": "nghe ai/âm thanh; nghe theo lời khuyên của ai",
+    "exampleSentence": "I like listening to music while I cook.",
+    "exampleTranslation": "Tôi thích nghe nhạc khi nấu ăn.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "wait for",
+    "phonetic": "/weɪt fɔːr/",
+    "definition": "to stay where you are, or delay an action, until someone arrives or something happens (wait for + somebody/something; wait for somebody to do something)",
+    "translation": "chờ, đợi ai/cái gì",
+    "exampleSentence": "We waited for the bus for an hour.",
+    "exampleTranslation": "Chúng tôi chờ xe buýt cả tiếng đồng hồ.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "agree with",
+    "phonetic": "/əˈɡriː wɪð/",
+    "definition": "to have the same opinion as someone; (of two pieces of information) to match (agree with + someone/an opinion)",
+    "translation": "đồng ý với ai/ý kiến nào; (thông tin) khớp với",
+    "exampleSentence": "I completely agree with you.",
+    "exampleTranslation": "Tôi hoàn toàn đồng ý với bạn.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "believe in",
+    "phonetic": "/bɪˈliːv ɪn/",
+    "definition": "to be sure that someone or something exists; to think that something is effective or right; to trust someone and be confident they will succeed (believe in + somebody/something)",
+    "translation": "tin rằng ai/cái gì có thật; tin rằng điều gì hiệu quả hoặc đúng; tin tưởng ai",
+    "exampleSentence": "Do you believe in ghosts?",
+    "exampleTranslation": "Bạn có tin là có ma không?",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "belong to",
+    "phonetic": "/bɪˈlɔːŋ tuː/",
+    "definition": "to be owned by someone; to be a member of a group or organization; to be part of something (belong to + somebody/something)",
+    "translation": "thuộc về ai; là thành viên của một nhóm, câu lạc bộ; là một phần của cái gì",
+    "exampleSentence": "This umbrella belongs to my sister.",
+    "exampleTranslation": "Chiếc ô này là của chị gái tôi.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "concentrate on",
+    "phonetic": "/ˈkɑːnsəntreɪt ɑːn/",
+    "definition": "to think very carefully about what you are doing and give it your full attention (concentrate on + something)",
+    "translation": "tập trung vào",
+    "exampleSentence": "I can't concentrate on my work with all this noise.",
+    "exampleTranslation": "Ồn thế này tôi không thể tập trung làm việc được.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "contribute to",
+    "phonetic": "/kənˈtrɪbjuːt tuː/",
+    "definition": "to give money, help or ideas to something that many people are involved in; to help to make something happen; to write articles or stories for a newspaper or magazine (contribute to + something)",
+    "translation": "đóng góp vào; góp phần gây ra; viết bài cho (báo, tạp chí)",
+    "exampleSentence": "Poor sleep contributes to stress.",
+    "exampleTranslation": "Ngủ không đủ giấc góp phần gây căng thẳng.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "insist on",
+    "phonetic": "/ɪnˈsɪst ɑːn/",
+    "definition": "to demand something firmly and refuse to accept anything else; to keep saying that something is true (insist on + something / doing something)",
+    "translation": "khăng khăng đòi, nhất quyết làm điều gì; một mực khẳng định điều gì",
+    "exampleSentence": "My grandfather insists on walking to the shop every day.",
+    "exampleTranslation": "Ông tôi nhất quyết đi bộ ra cửa hàng mỗi ngày.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "object to",
+    "phonetic": "/əbˈdʒekt tuː/",
+    "definition": "to feel or say that you oppose or disapprove of something (object to + something / doing something)",
+    "translation": "phản đối, không đồng ý với điều gì",
+    "exampleSentence": "Many residents object to the new road.",
+    "exampleTranslation": "Nhiều cư dân phản đối con đường mới.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "pay for",
+    "phonetic": "/peɪ fɔːr/",
+    "definition": "to give someone money for something you buy or for a service; to suffer or be punished for something you did wrong (pay for + something; pay an amount/someone for + something)",
+    "translation": "trả tiền cho cái gì; chịu hậu quả vì điều đã làm sai",
+    "exampleSentence": "My parents paid for my English course.",
+    "exampleTranslation": "Bố mẹ tôi đã trả tiền cho khóa học tiếng Anh của tôi.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "refer to",
+    "phonetic": "/rɪˈfɜːr tuː/",
+    "definition": "to talk or write about someone or something; to look at a book, map or notes for information; (of a number or report) to be about something; to send someone to another person for help (refer to + somebody/something; refer somebody to somebody)",
+    "translation": "nhắc đến; tra cứu, tham khảo; (con số, báo cáo) nói về; chuyển ai đến ai để được giúp",
+    "exampleSentence": "The speaker referred to a recent study.",
+    "exampleTranslation": "Diễn giả đã nhắc đến một nghiên cứu gần đây.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "add to",
+    "phonetic": "/æd tuː/",
+    "definition": "to make a feeling or quality stronger; to put something with something else (add to + something; add something to something)",
+    "translation": "làm tăng thêm, làm mạnh thêm điều gì; thêm cái gì vào cái gì",
+    "exampleSentence": "The candles add to the romantic mood.",
+    "exampleTranslation": "Những ngọn nến làm không khí thêm lãng mạn.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "agree on",
+    "phonetic": "/əˈɡriː ɑːn/",
+    "definition": "if two or more people agree on something, they have the same opinion about it (agree on/about + something)",
+    "translation": "đồng ý với nhau về điều gì",
+    "exampleSentence": "My friend and I agree on most things.",
+    "exampleTranslation": "Tôi và bạn tôi đồng ý với nhau về hầu hết mọi chuyện.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "apologize to",
+    "phonetic": "/əˈpɑːləˌdʒaɪz tuː/",
+    "definition": "to tell a person that you are sorry (apologize to + someone; apologize to someone for something)",
+    "translation": "xin lỗi ai",
+    "exampleSentence": "You should apologize to your teacher.",
+    "exampleTranslation": "Bạn nên xin lỗi giáo viên của mình.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "approve of",
+    "phonetic": "/əˈpruːv əv/",
+    "definition": "to think that someone or something is good, right or suitable (approve of + something / somebody / doing something)",
+    "translation": "tán thành, đồng ý với, chấp nhận ai/điều gì",
+    "exampleSentence": "My parents don't approve of smoking.",
+    "exampleTranslation": "Bố mẹ tôi không tán thành việc hút thuốc.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "argue about",
+    "phonetic": "/ˈɑːrɡjuː əˈbaʊt/",
+    "definition": "to disagree with someone in words, often angrily (argue about/over + something; argue with + someone)",
+    "translation": "cãi nhau, tranh cãi về điều gì",
+    "exampleSentence": "They were arguing about money.",
+    "exampleTranslation": "Họ đang cãi nhau về chuyện tiền bạc.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "ask for",
+    "phonetic": "/æsk fɔːr/",
+    "definition": "to request something, or to request help, advice or information (ask for + something; ask somebody for + something)",
+    "translation": "xin, đề nghị, yêu cầu cái gì; nhờ ai giúp",
+    "exampleSentence": "She asked for a glass of water.",
+    "exampleTranslation": "Cô ấy xin một ly nước.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "care about",
+    "phonetic": "/ker əˈbaʊt/",
+    "definition": "to think that something is important and be interested or worried about it; to be concerned about what happens to someone because you like or love them (care about + somebody/something)",
+    "translation": "quan tâm đến, để tâm đến ai/điều gì",
+    "exampleSentence": "She really cares about her students.",
+    "exampleTranslation": "Cô ấy thật sự quan tâm đến học sinh của mình.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "consent to",
+    "phonetic": "/kənˈsent tuː/",
+    "definition": "to give your permission for something or agree to do something (consent to + something / do something)",
+    "translation": "đồng ý, chấp thuận điều gì",
+    "exampleSentence": "The patient consented to the operation.",
+    "exampleTranslation": "Bệnh nhân đồng ý để được phẫu thuật.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "consist of",
+    "phonetic": "/kənˈsɪst əv/",
+    "definition": "to be formed from two or more things or people (consist of + something/somebody)",
+    "translation": "gồm có, được tạo thành từ",
+    "exampleSentence": "The team consists of five engineers.",
+    "exampleTranslation": "Nhóm gồm có năm kỹ sư.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "count on",
+    "phonetic": "/kaʊnt ɑːn/",
+    "definition": "to depend on someone or something, especially in a difficult situation; to expect something to happen (count on + somebody/something; count on somebody to do something)",
+    "translation": "trông cậy vào, tin tưởng vào ai/cái gì; trông đợi, dự tính điều gì",
+    "exampleSentence": "I'm counting on you to be there on time.",
+    "exampleTranslation": "Tôi trông cậy vào bạn sẽ có mặt đúng giờ.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "deal with",
+    "phonetic": "/diːl wɪð/",
+    "definition": "to do what is necessary to solve a problem; (of a book or speech) to be about a subject; to do business with someone (deal with + somebody/something)",
+    "translation": "giải quyết, xử lý; (sách, bài nói) nói về; giao dịch, làm ăn với",
+    "exampleSentence": "I'll deal with this problem tomorrow.",
+    "exampleTranslation": "Ngày mai tôi sẽ giải quyết vấn đề này.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "pray for",
+    "phonetic": "/preɪ fɔːr/",
+    "definition": "to speak to God to ask for help or to give thanks; to hope very strongly that something will happen (pray for + something)",
+    "translation": "cầu nguyện cho, cầu xin điều gì; hy vọng tha thiết điều gì",
+    "exampleSentence": "The villagers prayed for rain.",
+    "exampleTranslation": "Dân làng cầu mưa.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "prepare for",
+    "phonetic": "/prɪˈper fɔːr/",
+    "definition": "to make plans or get ready for something that will happen; to give someone the training or skills they need for a job or situation (prepare for + something; prepare somebody for + something)",
+    "translation": "chuẩn bị cho; giúp ai sẵn sàng cho",
+    "exampleSentence": "I'm preparing for my English exam.",
+    "exampleTranslation": "Tôi đang chuẩn bị cho kỳ thi tiếng Anh.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "prohibit (someone) from",
+    "phonetic": "/proʊˈhɪbɪt frəm/",
+    "definition": "to say that an action is illegal or not allowed; (formal) to make something impossible (prohibit somebody from doing something; usually passive: be prohibited from doing something)",
+    "translation": "cấm ai làm gì",
+    "exampleSentence": "The law prohibits children from buying cigarettes.",
+    "exampleTranslation": "Luật pháp cấm trẻ em mua thuốc lá.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "recover from",
+    "phonetic": "/rɪˈkʌvər frəm/",
+    "definition": "to get better after an illness, accident or shock; to return to a normal condition after a period of trouble (recover from + something)",
+    "translation": "hồi phục sau (bệnh, tai nạn, cú sốc); trở lại bình thường sau khó khăn",
+    "exampleSentence": "She is still recovering from the flu.",
+    "exampleTranslation": "Cô ấy vẫn đang hồi phục sau cơn cảm cúm.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "remind (someone) of",
+    "phonetic": "/rɪˈmaɪnd əv/",
+    "definition": "to make someone remember a person or something from the past (remind somebody of something)",
+    "translation": "gợi cho ai nhớ đến, làm ai nhớ lại",
+    "exampleSentence": "That song always reminds me of our first trip.",
+    "exampleTranslation": "Bài hát đó lúc nào cũng làm tôi nhớ đến chuyến đi đầu tiên của chúng tôi.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "respond to",
+    "phonetic": "/rɪˈspɑːnd tuː/",
+    "definition": "to do something as a reaction to something that has been said or done; to reply; (of an illness) to improve because of a treatment (respond to + something)",
+    "translation": "phản ứng lại, đáp lại; trả lời; (bệnh) đáp ứng với điều trị",
+    "exampleSentence": "She hasn't responded to my email yet.",
+    "exampleTranslation": "Cô ấy vẫn chưa trả lời email của tôi.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "specialize in",
+    "phonetic": "/ˈspeʃəlaɪz ɪn/",
+    "definition": "to limit all or most of your study or business to one subject or activity (specialize in + something)",
+    "translation": "chuyên về, chuyên môn hóa vào",
+    "exampleSentence": "The shop specializes in children's books.",
+    "exampleTranslation": "Cửa hàng này chuyên bán sách thiếu nhi.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "stare at",
+    "phonetic": "/ster æt/",
+    "definition": "to look at someone or something for a long time without moving your eyes (stare at + somebody/something)",
+    "translation": "nhìn chằm chằm vào",
+    "exampleSentence": "Everyone stared at the strange car.",
+    "exampleTranslation": "Mọi người nhìn chằm chằm vào chiếc xe lạ.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "succeed in",
+    "phonetic": "/səkˈsiːd ɪn/",
+    "definition": "to do what you tried or wanted to do; to do well in a job or field (succeed in doing something; succeed in + noun)",
+    "translation": "thành công trong việc gì, trong lĩnh vực nào",
+    "exampleSentence": "She finally succeeded in passing the exam.",
+    "exampleTranslation": "Cuối cùng cô ấy cũng đã vượt qua kỳ thi.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "talk to",
+    "phonetic": "/tɔːk tuː/",
+    "definition": "to speak with someone; to discuss something serious with someone (talk to + someone)",
+    "translation": "nói chuyện với ai; trao đổi nghiêm túc với ai",
+    "exampleSentence": "Can I talk to you for a minute?",
+    "exampleTranslation": "Tôi nói chuyện với bạn một lát được không?",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "thank (someone) for",
+    "phonetic": "/θæŋk fɔːr/",
+    "definition": "to tell someone that you are pleased and grateful for something they have done (thank somebody for (doing) something)",
+    "translation": "cảm ơn ai vì điều gì",
+    "exampleSentence": "I thanked my neighbor for helping us.",
+    "exampleTranslation": "Tôi cảm ơn người hàng xóm đã giúp chúng tôi.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "think about",
+    "phonetic": "/θɪŋk əˈbaʊt/",
+    "definition": "to use your mind to consider something, form an opinion or imagine it (think about + something)",
+    "translation": "nghĩ về, suy nghĩ về, cân nhắc",
+    "exampleSentence": "I'm thinking about changing my job.",
+    "exampleTranslation": "Tôi đang cân nhắc chuyện đổi việc.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "vote for",
+    "phonetic": "/voʊt fɔːr/",
+    "definition": "to show, by marking a paper or raising your hand, that you want a person or party to win an election or that you support a plan (vote for + someone/something)",
+    "translation": "bỏ phiếu cho ai/điều gì",
+    "exampleSentence": "Most people voted for the new plan.",
+    "exampleTranslation": "Hầu hết mọi người đã bỏ phiếu ủng hộ kế hoạch mới.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "accuse (someone) of",
+    "phonetic": "/əˈkjuːz əv/",
+    "definition": "to say that you believe someone is guilty of a crime or of doing something wrong (accuse somebody of (doing) something)",
+    "translation": "buộc tội, cáo buộc ai về điều gì",
+    "exampleSentence": "The manager accused them of stealing.",
+    "exampleTranslation": "Người quản lý cáo buộc họ ăn cắp.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "arrive at",
+    "phonetic": "/əˈraɪv æt/",
+    "definition": "to get to a place such as a house, hotel or airport (arrive at + a place)",
+    "translation": "đến (một địa điểm cụ thể như nhà, khách sạn, sân bay)",
+    "exampleSentence": "We arrived at the hotel late at night.",
+    "exampleTranslation": "Chúng tôi đến khách sạn vào đêm muộn.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "arrive in",
+    "phonetic": "/əˈraɪv ɪn/",
+    "definition": "to get to a city or country (arrive in + a city/country)",
+    "translation": "đến (một thành phố, quốc gia)",
+    "exampleSentence": "The plane arrives in Tokyo at noon.",
+    "exampleTranslation": "Máy bay đến Tokyo vào buổi trưa.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "blame (someone) for",
+    "phonetic": "/bleɪm fɔːr/",
+    "definition": "to say or think that someone or something is responsible for something bad (blame somebody/something for something)",
+    "translation": "đổ lỗi cho ai/cái gì về điều gì; trách ai vì điều gì",
+    "exampleSentence": "Don't blame me for the delay.",
+    "exampleTranslation": "Đừng đổ lỗi cho tôi về sự chậm trễ này.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "borrow (something) from",
+    "phonetic": "/ˈbɑːroʊ frəm/",
+    "definition": "to use something that belongs to someone else and give it back later; to take or copy ideas or words from somewhere (borrow something from somebody/something)",
+    "translation": "mượn của ai; vay của ai; mượn (ý tưởng, từ ngữ) từ nơi khác",
+    "exampleSentence": "Can I borrow a pen from you?",
+    "exampleTranslation": "Tôi mượn của bạn một cây bút được không?",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "care for",
+    "phonetic": "/ker fɔːr/",
+    "definition": "to take care of someone (care for + somebody/something); less common and more formal than take care of or look after",
+    "translation": "chăm sóc ai/cái gì",
+    "exampleSentence": "She cared for her elderly mother for ten years.",
+    "exampleTranslation": "Cô ấy chăm sóc mẹ già suốt mười năm.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "complain about",
+    "phonetic": "/kəmˈpleɪn əˈbaʊt/",
+    "definition": "to say that you are annoyed, not satisfied or unhappy about something or someone (complain about + something/someone; complain to + a person or authority)",
+    "translation": "phàn nàn, than phiền về ai/điều gì",
+    "exampleSentence": "Customers complained about the slow service.",
+    "exampleTranslation": "Khách hàng phàn nàn về dịch vụ chậm.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "discuss (something) with",
+    "phonetic": "/dɪˈskʌs wɪð/",
+    "definition": "to talk about something with another person or a group in order to exchange ideas or decide something (discuss something with somebody; not 'discuss about something')",
+    "translation": "thảo luận, bàn bạc điều gì với ai",
+    "exampleSentence": "I discussed the plan with my manager.",
+    "exampleTranslation": "Tôi đã bàn bạc kế hoạch với quản lý của mình.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "dream about",
+    "phonetic": "/driːm əˈbaʊt/",
+    "definition": "to have a dream about someone or something while you are asleep; to think about something you would like, often something unlikely (dream about + something/someone)",
+    "translation": "mơ thấy ai/điều gì; mơ ước có được điều gì",
+    "exampleSentence": "Last night I dreamed about my old school.",
+    "exampleTranslation": "Đêm qua tôi mơ thấy trường cũ của mình.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "dream of",
+    "phonetic": "/driːm əv/",
+    "definition": "to think about something you would like to happen or have, usually something unlikely (dream of + (doing) something)",
+    "translation": "mơ ước, mong muốn được làm điều gì",
+    "exampleSentence": "He has always dreamed of living by the sea.",
+    "exampleTranslation": "Anh ấy luôn mơ được sống bên biển.",
+    "pos": "prepositional verb"
+  },
+  {
+    "word": "excuse (someone) for",
+    "phonetic": "/ɪkˈskjuːz fɔːr/",
+    "definition": "to forgive someone for a small fault, such as being rude or careless (excuse somebody for (doing) something)",
+    "translation": "bỏ qua, thứ lỗi cho ai vì điều gì",
+    "exampleSentence": "Please excuse me for interrupting.",
+    "exampleTranslation": "Xin thứ lỗi vì tôi đã ngắt lời.",
+    "pos": "prepositional verb"
+  }
+]
