@@ -1,0 +1,452 @@
+[
+  {
+    "word": "take someone's order",
+    "phonetic": "/teɪk ˈsʌmwʌnz ˈɔːrdər/",
+    "definition": "to write down what a customer wants to eat or drink",
+    "translation": "ghi món cho khách",
+    "exampleSentence": "The waiter took our order.",
+    "exampleTranslation": "Người phục vụ ghi món của chúng tôi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "order online",
+    "phonetic": "/ˈɔːrdər ˌɑːnˈlaɪn/",
+    "definition": "to buy something using the internet",
+    "translation": "đặt hàng trực tuyến",
+    "exampleSentence": "I ordered a jacket online.",
+    "exampleTranslation": "Tôi đã đặt một chiếc áo khoác trên mạng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "book a table",
+    "phonetic": "/bʊk ə ˈteɪbl/",
+    "definition": "to arrange for a table to be kept for you in a restaurant",
+    "translation": "đặt bàn",
+    "exampleSentence": "I booked a table for eight o'clock.",
+    "exampleTranslation": "Tôi đã đặt bàn lúc tám giờ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "ask for the menu",
+    "phonetic": "/æsk fɔːr ðə ˈmenjuː/",
+    "definition": "to request the list of food in a restaurant",
+    "translation": "xin thực đơn",
+    "exampleSentence": "Could we ask for the menu, please?",
+    "exampleTranslation": "Cho chúng tôi xin thực đơn nhé?",
+    "pos": "collocation"
+  },
+  {
+    "word": "pay by card",
+    "phonetic": "/peɪ baɪ kɑːrd/",
+    "definition": "to pay with a bank card",
+    "translation": "thanh toán bằng thẻ",
+    "exampleSentence": "Can I pay by card?",
+    "exampleTranslation": "Tôi thanh toán bằng thẻ được không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "pay in cash",
+    "phonetic": "/peɪ ɪn kæʃ/",
+    "definition": "to pay with notes and coins",
+    "translation": "trả bằng tiền mặt",
+    "exampleSentence": "He paid in cash.",
+    "exampleTranslation": "Anh ấy trả bằng tiền mặt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "split the bill",
+    "phonetic": "/splɪt ðə bɪl/",
+    "definition": "to share the cost of a meal between people",
+    "translation": "chia hóa đơn",
+    "exampleSentence": "Let's split the bill.",
+    "exampleTranslation": "Mình chia hóa đơn nhé.",
+    "pos": "collocation"
+  },
+  {
+    "word": "leave a tip",
+    "phonetic": "/liːv ə tɪp/",
+    "definition": "to give extra money to a waiter or driver",
+    "translation": "để lại tiền boa",
+    "exampleSentence": "Don't forget to leave a tip.",
+    "exampleTranslation": "Đừng quên để lại tiền boa.",
+    "pos": "collocation"
+  },
+  {
+    "word": "eat out",
+    "phonetic": "/iːt aʊt/",
+    "definition": "to eat at a restaurant instead of at home",
+    "translation": "ăn ở ngoài, đi ăn nhà hàng",
+    "exampleSentence": "We eat out once a week.",
+    "exampleTranslation": "Chúng tôi đi ăn ngoài mỗi tuần một lần.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a snack",
+    "phonetic": "/hæv ə snæk/",
+    "definition": "to eat a small amount of food between meals",
+    "translation": "ăn nhẹ, ăn vặt",
+    "exampleSentence": "I usually have a snack at four.",
+    "exampleTranslation": "Tôi thường ăn nhẹ lúc bốn giờ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fast food",
+    "phonetic": "/fæst fuːd/",
+    "definition": "cheap food that is prepared and served quickly",
+    "translation": "đồ ăn nhanh",
+    "exampleSentence": "Fast food is cheap but not very healthy.",
+    "exampleTranslation": "Đồ ăn nhanh rẻ nhưng không tốt cho sức khỏe lắm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "junk food",
+    "phonetic": "/dʒʌŋk fuːd/",
+    "definition": "food that is quick to prepare but not healthy",
+    "translation": "đồ ăn vặt không tốt cho sức khỏe",
+    "exampleSentence": "Try not to eat too much junk food.",
+    "exampleTranslation": "Cố đừng ăn quá nhiều đồ ăn vặt không tốt cho sức khỏe.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fresh fruit",
+    "phonetic": "/freʃ fruːt/",
+    "definition": "fruit that has just been picked or bought and is not tinned or dried",
+    "translation": "trái cây tươi",
+    "exampleSentence": "I eat fresh fruit every day.",
+    "exampleTranslation": "Ngày nào tôi cũng ăn trái cây tươi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "strong coffee",
+    "phonetic": "/strɔːŋ ˈkɔːfi/",
+    "definition": "coffee with a lot of flavor",
+    "translation": "cà phê đậm",
+    "exampleSentence": "I need a cup of strong coffee.",
+    "exampleTranslation": "Tôi cần một tách cà phê đậm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "black coffee",
+    "phonetic": "/blæk ˈkɔːfi/",
+    "definition": "coffee without milk",
+    "translation": "cà phê đen",
+    "exampleSentence": "He drinks black coffee with no sugar.",
+    "exampleTranslation": "Anh ấy uống cà phê đen không đường.",
+    "pos": "collocation"
+  },
+  {
+    "word": "soft drink",
+    "phonetic": "/sɔːft drɪŋk/",
+    "definition": "a cold drink that does not contain alcohol",
+    "translation": "nước ngọt, đồ uống không cồn",
+    "exampleSentence": "Would you like a soft drink?",
+    "exampleTranslation": "Bạn có muốn uống nước ngọt không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "bottled water",
+    "phonetic": "/ˈbɑːtld ˈwɔːtər/",
+    "definition": "drinking water sold in bottles",
+    "translation": "nước đóng chai",
+    "exampleSentence": "I always carry bottled water when I travel.",
+    "exampleTranslation": "Đi du lịch tôi luôn mang theo nước đóng chai.",
+    "pos": "collocation"
+  },
+  {
+    "word": "tap water",
+    "phonetic": "/tæp ˈwɔːtər/",
+    "definition": "water that comes from the tap in your home",
+    "translation": "nước máy",
+    "exampleSentence": "Is the tap water safe to drink here?",
+    "exampleTranslation": "Nước máy ở đây uống được không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "light meal",
+    "phonetic": "/laɪt miːl/",
+    "definition": "a small meal that is not heavy",
+    "translation": "bữa ăn nhẹ",
+    "exampleSentence": "I prefer a light meal in the evening.",
+    "exampleTranslation": "Buổi tối tôi thích một bữa ăn nhẹ hơn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "spicy food",
+    "phonetic": "/ˈspaɪsi fuːd/",
+    "definition": "food with a strong, hot flavor",
+    "translation": "đồ ăn cay",
+    "exampleSentence": "She loves spicy food.",
+    "exampleTranslation": "Cô ấy rất thích đồ ăn cay.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a sweet tooth",
+    "phonetic": "/hæv ə swiːt tuːθ/",
+    "definition": "to like sweet food very much",
+    "translation": "thích ăn đồ ngọt",
+    "exampleSentence": "I have a sweet tooth, so I love cake.",
+    "exampleTranslation": "Tôi thích đồ ngọt nên rất mê bánh.",
+    "pos": "collocation"
+  },
+  {
+    "word": "go shopping",
+    "phonetic": "/ɡoʊ ˈʃɑːpɪŋ/",
+    "definition": "to visit shops to buy things",
+    "translation": "đi mua sắm",
+    "exampleSentence": "Let's go shopping this weekend.",
+    "exampleTranslation": "Cuối tuần này mình đi mua sắm nhé.",
+    "pos": "collocation"
+  },
+  {
+    "word": "window shopping",
+    "phonetic": "/ˈwɪndoʊ ˈʃɑːpɪŋ/",
+    "definition": "looking at things in shop windows without buying",
+    "translation": "đi ngắm đồ ở cửa hàng mà không mua",
+    "exampleSentence": "We spent the afternoon window shopping.",
+    "exampleTranslation": "Chúng tôi dành cả buổi chiều đi ngắm đồ ở các cửa hàng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "do the grocery shopping",
+    "phonetic": "/duː ðə ˈɡroʊsəri ˈʃɑːpɪŋ/",
+    "definition": "to buy food and other things for the home",
+    "translation": "đi chợ, mua thực phẩm",
+    "exampleSentence": "I do the grocery shopping on Saturdays.",
+    "exampleTranslation": "Tôi đi chợ vào thứ Bảy.",
+    "pos": "collocation"
+  },
+  {
+    "word": "shopping list",
+    "phonetic": "/ˈʃɑːpɪŋ lɪst/",
+    "definition": "a list of things you need to buy",
+    "translation": "danh sách mua sắm",
+    "exampleSentence": "I wrote a shopping list before I went out.",
+    "exampleTranslation": "Tôi viết danh sách mua sắm trước khi ra ngoài.",
+    "pos": "collocation"
+  },
+  {
+    "word": "shopping bag",
+    "phonetic": "/ˈʃɑːpɪŋ bæɡ/",
+    "definition": "a bag for carrying the things you buy",
+    "translation": "túi mua sắm",
+    "exampleSentence": "She carried two heavy shopping bags.",
+    "exampleTranslation": "Cô ấy xách hai túi mua sắm nặng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "try on clothes",
+    "phonetic": "/traɪ ɑːn kloʊðz/",
+    "definition": "to put on clothes to see if they fit",
+    "translation": "mặc thử quần áo",
+    "exampleSentence": "Can I try on these clothes?",
+    "exampleTranslation": "Tôi mặc thử mấy món đồ này được không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "pay full price",
+    "phonetic": "/peɪ fʊl praɪs/",
+    "definition": "to pay the normal price, without a discount",
+    "translation": "trả đủ giá",
+    "exampleSentence": "I don't want to pay full price for it.",
+    "exampleTranslation": "Tôi không muốn trả đủ giá cho nó.",
+    "pos": "collocation"
+  },
+  {
+    "word": "half price",
+    "phonetic": "/hæf praɪs/",
+    "definition": "costing 50 percent less than the normal price",
+    "translation": "nửa giá",
+    "exampleSentence": "All the shoes are half price today.",
+    "exampleTranslation": "Hôm nay tất cả giày đều nửa giá.",
+    "pos": "collocation"
+  },
+  {
+    "word": "special offer",
+    "phonetic": "/ˈspeʃl ˈɔːfər/",
+    "definition": "a lower price for a short time",
+    "translation": "ưu đãi đặc biệt",
+    "exampleSentence": "There is a special offer on coffee this week.",
+    "exampleTranslation": "Tuần này có ưu đãi đặc biệt cho cà phê.",
+    "pos": "collocation"
+  },
+  {
+    "word": "on sale",
+    "phonetic": "/ɑːn seɪl/",
+    "definition": "available to buy, often at a lower price",
+    "translation": "đang giảm giá, đang bán",
+    "exampleSentence": "These jackets are on sale this week.",
+    "exampleTranslation": "Tuần này những chiếc áo khoác này đang giảm giá.",
+    "pos": "collocation"
+  },
+  {
+    "word": "ask for a discount",
+    "phonetic": "/æsk fɔːr ə ˈdɪskaʊnt/",
+    "definition": "to ask to pay less than the normal price",
+    "translation": "hỏi xin giảm giá",
+    "exampleSentence": "You can ask for a discount if you buy two.",
+    "exampleTranslation": "Bạn có thể xin giảm giá nếu mua hai cái.",
+    "pos": "collocation"
+  },
+  {
+    "word": "ask for a refund",
+    "phonetic": "/æsk fɔːr ə ˈriːfʌnd/",
+    "definition": "to request your money back",
+    "translation": "yêu cầu hoàn tiền",
+    "exampleSentence": "She asked for a refund because the shirt was too small.",
+    "exampleTranslation": "Cô ấy yêu cầu hoàn tiền vì chiếc áo quá nhỏ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "return an item",
+    "phonetic": "/rɪˈtɜːrn ən ˈaɪtəm/",
+    "definition": "to take something back to the shop",
+    "translation": "trả lại hàng",
+    "exampleSentence": "You can return an item within 30 days.",
+    "exampleTranslation": "Bạn có thể trả lại hàng trong vòng 30 ngày.",
+    "pos": "collocation"
+  },
+  {
+    "word": "keep the receipt",
+    "phonetic": "/kiːp ðə rɪˈsiːt/",
+    "definition": "to not throw away the paper that shows what you paid",
+    "translation": "giữ hóa đơn",
+    "exampleSentence": "Keep the receipt in case you need to return it.",
+    "exampleTranslation": "Hãy giữ hóa đơn phòng khi cần trả hàng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "credit card",
+    "phonetic": "/ˈkredɪt kɑːrd/",
+    "definition": "a plastic card you use to buy things and pay later",
+    "translation": "thẻ tín dụng",
+    "exampleSentence": "Do you accept credit cards?",
+    "exampleTranslation": "Bên bạn có nhận thẻ tín dụng không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "withdraw cash",
+    "phonetic": "/wɪðˈdrɔː kæʃ/",
+    "definition": "to take money out of your bank account",
+    "translation": "rút tiền mặt",
+    "exampleSentence": "I need to withdraw some cash.",
+    "exampleTranslation": "Tôi cần rút ít tiền mặt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "compare prices",
+    "phonetic": "/kəmˈper praɪsɪz/",
+    "definition": "to look at the prices of similar things to find the cheapest",
+    "translation": "so sánh giá",
+    "exampleSentence": "I compare prices online before I buy anything.",
+    "exampleTranslation": "Tôi so sánh giá trên mạng trước khi mua bất cứ thứ gì.",
+    "pos": "collocation"
+  },
+  {
+    "word": "cost a fortune",
+    "phonetic": "/kɔːst ə ˈfɔːrtʃən/",
+    "definition": "to be very expensive",
+    "translation": "đắt kinh khủng, tốn cả gia tài",
+    "exampleSentence": "That car must have cost a fortune.",
+    "exampleTranslation": "Chiếc xe đó chắc đắt kinh khủng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "wait in line",
+    "phonetic": "/weɪt ɪn laɪn/",
+    "definition": "to stand in a row of people waiting for something",
+    "translation": "xếp hàng chờ",
+    "exampleSentence": "We waited in line for an hour.",
+    "exampleTranslation": "Chúng tôi xếp hàng chờ cả tiếng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a purchase",
+    "phonetic": "/meɪk ə ˈpɜːrtʃəs/",
+    "definition": "to buy something",
+    "translation": "mua hàng",
+    "exampleSentence": "You must make a purchase to get the gift.",
+    "exampleTranslation": "Bạn phải mua hàng thì mới được nhận quà.",
+    "pos": "collocation"
+  },
+  {
+    "word": "place an order",
+    "phonetic": "/pleɪs ən ˈɔːrdər/",
+    "definition": "to ask a company to supply goods",
+    "translation": "đặt hàng",
+    "exampleSentence": "I placed an order online yesterday.",
+    "exampleTranslation": "Hôm qua tôi đã đặt hàng trên mạng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "free delivery",
+    "phonetic": "/friː dɪˈlɪvəri/",
+    "definition": "delivery that you do not have to pay for",
+    "translation": "giao hàng miễn phí",
+    "exampleSentence": "We offer free delivery on orders over fifty dollars.",
+    "exampleTranslation": "Chúng tôi giao hàng miễn phí cho đơn trên năm mươi đô.",
+    "pos": "collocation"
+  },
+  {
+    "word": "online shopping",
+    "phonetic": "/ˌɑːnˈlaɪn ˈʃɑːpɪŋ/",
+    "definition": "buying things on the internet",
+    "translation": "mua sắm trực tuyến",
+    "exampleSentence": "Online shopping is very convenient.",
+    "exampleTranslation": "Mua sắm trực tuyến rất tiện.",
+    "pos": "collocation"
+  },
+  {
+    "word": "good value for money",
+    "phonetic": "/ɡʊd ˈvæljuː fɔːr ˈmʌni/",
+    "definition": "worth the price you pay",
+    "translation": "đáng đồng tiền",
+    "exampleSentence": "The hotel is good value for money.",
+    "exampleTranslation": "Khách sạn này rất đáng đồng tiền.",
+    "pos": "collocation"
+  },
+  {
+    "word": "pay extra",
+    "phonetic": "/peɪ ˈekstrə/",
+    "definition": "to pay more than the basic price",
+    "translation": "trả thêm tiền",
+    "exampleSentence": "You have to pay extra for delivery.",
+    "exampleTranslation": "Bạn phải trả thêm tiền giao hàng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "sold out",
+    "phonetic": "/soʊld aʊt/",
+    "definition": "no longer available because all of it has been sold",
+    "translation": "hết hàng, bán hết",
+    "exampleSentence": "The tickets are sold out.",
+    "exampleTranslation": "Vé đã bán hết.",
+    "pos": "collocation"
+  },
+  {
+    "word": "in stock",
+    "phonetic": "/ɪn stɑːk/",
+    "definition": "available in a shop",
+    "translation": "còn hàng",
+    "exampleSentence": "Do you have this in stock?",
+    "exampleTranslation": "Bên bạn còn món này không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "out of stock",
+    "phonetic": "/aʊt əv stɑːk/",
+    "definition": "not available in a shop at the moment",
+    "translation": "hết hàng",
+    "exampleSentence": "That color is out of stock.",
+    "exampleTranslation": "Màu đó đã hết hàng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "gift card",
+    "phonetic": "/ɡɪft kɑːrd/",
+    "definition": "a card with money on it that you give as a present",
+    "translation": "thẻ quà tặng",
+    "exampleSentence": "I gave her a gift card for her birthday.",
+    "exampleTranslation": "Tôi tặng cô ấy một thẻ quà tặng nhân dịp sinh nhật.",
+    "pos": "collocation"
+  }
+]

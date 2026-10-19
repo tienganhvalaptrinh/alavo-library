@@ -1,0 +1,452 @@
+[
+  {
+    "word": "feel sick",
+    "phonetic": "/fiːl sɪk/",
+    "definition": "to feel that you may vomit or be ill",
+    "translation": "thấy buồn nôn, thấy không khỏe",
+    "exampleSentence": "I feel sick after the boat ride.",
+    "exampleTranslation": "Tôi thấy buồn nôn sau chuyến đi thuyền.",
+    "pos": "collocation"
+  },
+  {
+    "word": "feel tired",
+    "phonetic": "/fiːl ˈtaɪərd/",
+    "definition": "to feel that you need rest or sleep",
+    "translation": "thấy mệt",
+    "exampleSentence": "I always feel tired on Monday morning.",
+    "exampleTranslation": "Sáng thứ Hai tôi lúc nào cũng thấy mệt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "feel better",
+    "phonetic": "/fiːl ˈbetər/",
+    "definition": "to be less ill or less sad than before",
+    "translation": "thấy khá hơn",
+    "exampleSentence": "I feel better after a good sleep.",
+    "exampleTranslation": "Ngủ một giấc xong tôi thấy khá hơn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a fever",
+    "phonetic": "/hæv ə ˈfiːvər/",
+    "definition": "to have a body temperature that is higher than normal",
+    "translation": "bị sốt",
+    "exampleSentence": "The child has a fever and a cough.",
+    "exampleTranslation": "Đứa trẻ bị sốt và ho.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a sore throat",
+    "phonetic": "/hæv ə sɔːr θroʊt/",
+    "definition": "to have a painful throat",
+    "translation": "bị đau họng",
+    "exampleSentence": "I have a sore throat, so I can't sing.",
+    "exampleTranslation": "Tôi bị đau họng nên không hát được.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a cough",
+    "phonetic": "/hæv ə kɔːf/",
+    "definition": "to cough often because of illness",
+    "translation": "bị ho",
+    "exampleSentence": "She has had a cough for a week.",
+    "exampleTranslation": "Cô ấy bị ho cả tuần nay.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a stomachache",
+    "phonetic": "/hæv ə ˈstʌməkeɪk/",
+    "definition": "to feel pain in your stomach",
+    "translation": "bị đau bụng",
+    "exampleSentence": "He has a stomachache after lunch.",
+    "exampleTranslation": "Anh ấy bị đau bụng sau bữa trưa.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a toothache",
+    "phonetic": "/hæv ə ˈtuːθeɪk/",
+    "definition": "to feel pain in a tooth",
+    "translation": "bị đau răng",
+    "exampleSentence": "I have a toothache and need to see a dentist.",
+    "exampleTranslation": "Tôi bị đau răng và cần đi khám nha sĩ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a runny nose",
+    "phonetic": "/hæv ə ˈrʌni noʊz/",
+    "definition": "to have liquid coming out of your nose because of a cold",
+    "translation": "bị sổ mũi",
+    "exampleSentence": "I have a runny nose and I keep sneezing.",
+    "exampleTranslation": "Tôi bị sổ mũi và cứ hắt hơi liên tục.",
+    "pos": "collocation"
+  },
+  {
+    "word": "see a doctor",
+    "phonetic": "/siː ə ˈdɑːktər/",
+    "definition": "to go to a doctor for advice or treatment",
+    "translation": "đi khám bác sĩ",
+    "exampleSentence": "You should see a doctor about that cough.",
+    "exampleTranslation": "Bạn nên đi khám bác sĩ về cơn ho đó.",
+    "pos": "collocation"
+  },
+  {
+    "word": "book an appointment",
+    "phonetic": "/bʊk ən əˈpɔɪntmənt/",
+    "definition": "to arrange a time to see a doctor or other professional",
+    "translation": "đặt lịch hẹn",
+    "exampleSentence": "I'd like to book an appointment for Tuesday.",
+    "exampleTranslation": "Tôi muốn đặt lịch hẹn vào thứ Ba.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a pill",
+    "phonetic": "/teɪk ə pɪl/",
+    "definition": "to swallow a small piece of medicine",
+    "translation": "uống một viên thuốc",
+    "exampleSentence": "Take a pill every eight hours.",
+    "exampleTranslation": "Cứ tám tiếng uống một viên thuốc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take your temperature",
+    "phonetic": "/teɪk jɔːr ˈtemprətʃər/",
+    "definition": "to measure how hot your body is",
+    "translation": "đo nhiệt độ cơ thể",
+    "exampleSentence": "The nurse took my temperature.",
+    "exampleTranslation": "Y tá đo nhiệt độ cho tôi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "be vaccinated against",
+    "phonetic": "/biː ˈvæksɪneɪtɪd əˈɡenst/",
+    "definition": "to be given a vaccine that protects you from a disease",
+    "translation": "được tiêm phòng (một bệnh)",
+    "exampleSentence": "All children should be vaccinated against measles.",
+    "exampleTranslation": "Mọi trẻ em nên được tiêm phòng bệnh sởi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "get some rest",
+    "phonetic": "/ɡet sʌm rest/",
+    "definition": "to relax or sleep so that you feel better",
+    "translation": "nghỉ ngơi",
+    "exampleSentence": "You need to get some rest.",
+    "exampleTranslation": "Bạn cần nghỉ ngơi một chút.",
+    "pos": "collocation"
+  },
+  {
+    "word": "a good night's sleep",
+    "phonetic": "/ə ɡʊd naɪts sliːp/",
+    "definition": "a night when you sleep well",
+    "translation": "một giấc ngủ ngon suốt đêm",
+    "exampleSentence": "I feel better after a good night's sleep.",
+    "exampleTranslation": "Ngủ ngon suốt đêm xong, tôi thấy khá hơn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "drink plenty of water",
+    "phonetic": "/drɪŋk ˈplenti əv ˈwɔːtər/",
+    "definition": "to drink a lot of water",
+    "translation": "uống nhiều nước",
+    "exampleSentence": "Drink plenty of water in hot weather.",
+    "exampleTranslation": "Hãy uống nhiều nước khi trời nóng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "eat a balanced diet",
+    "phonetic": "/iːt ə ˈbælənst ˈdaɪət/",
+    "definition": "to eat different kinds of food in the right amounts",
+    "translation": "ăn uống cân bằng",
+    "exampleSentence": "Doctors say we should eat a balanced diet.",
+    "exampleTranslation": "Bác sĩ khuyên chúng ta nên ăn uống cân bằng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "stay healthy",
+    "phonetic": "/steɪ ˈhelθi/",
+    "definition": "to not become ill",
+    "translation": "giữ gìn sức khỏe",
+    "exampleSentence": "Walking every day helps me stay healthy.",
+    "exampleTranslation": "Đi bộ mỗi ngày giúp tôi giữ gìn sức khỏe.",
+    "pos": "collocation"
+  },
+  {
+    "word": "stay in shape",
+    "phonetic": "/steɪ ɪn ʃeɪp/",
+    "definition": "to keep your body strong and fit",
+    "translation": "giữ dáng, giữ thể lực",
+    "exampleSentence": "He swims to stay in shape.",
+    "exampleTranslation": "Anh ấy bơi để giữ thể lực.",
+    "pos": "collocation"
+  },
+  {
+    "word": "keep fit",
+    "phonetic": "/kiːp fɪt/",
+    "definition": "to do exercise so that your body stays strong",
+    "translation": "giữ thể lực tốt",
+    "exampleSentence": "She goes running to keep fit.",
+    "exampleTranslation": "Cô ấy chạy bộ để giữ thể lực.",
+    "pos": "collocation"
+  },
+  {
+    "word": "gain weight",
+    "phonetic": "/ɡeɪn weɪt/",
+    "definition": "to become heavier",
+    "translation": "tăng cân",
+    "exampleSentence": "I gained weight during the holidays.",
+    "exampleTranslation": "Tôi tăng cân trong kỳ nghỉ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "put on weight",
+    "phonetic": "/pʊt ɑːn weɪt/",
+    "definition": "to become heavier",
+    "translation": "tăng cân",
+    "exampleSentence": "He has put on weight since he stopped running.",
+    "exampleTranslation": "Anh ấy tăng cân từ khi ngừng chạy bộ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "exercise regularly",
+    "phonetic": "/ˈeksərsaɪz ˈreɡjələrli/",
+    "definition": "to do physical exercise often",
+    "translation": "tập thể dục đều đặn",
+    "exampleSentence": "People who exercise regularly sleep better.",
+    "exampleTranslation": "Những người tập thể dục đều đặn ngủ ngon hơn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "go for a run",
+    "phonetic": "/ɡoʊ fɔːr ə rʌn/",
+    "definition": "to run for exercise or pleasure",
+    "translation": "đi chạy bộ",
+    "exampleSentence": "I go for a run before breakfast.",
+    "exampleTranslation": "Tôi đi chạy bộ trước bữa sáng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "go for a walk",
+    "phonetic": "/ɡoʊ fɔːr ə wɔːk/",
+    "definition": "to walk for exercise or pleasure",
+    "translation": "đi dạo",
+    "exampleSentence": "Let's go for a walk after dinner.",
+    "exampleTranslation": "Sau bữa tối mình đi dạo nhé.",
+    "pos": "collocation"
+  },
+  {
+    "word": "go to the gym",
+    "phonetic": "/ɡoʊ tə ðə dʒɪm/",
+    "definition": "to visit a place with exercise equipment",
+    "translation": "đi tập gym",
+    "exampleSentence": "She goes to the gym three times a week.",
+    "exampleTranslation": "Cô ấy đi tập gym ba lần một tuần.",
+    "pos": "collocation"
+  },
+  {
+    "word": "do yoga",
+    "phonetic": "/duː ˈjoʊɡə/",
+    "definition": "to practice yoga exercises",
+    "translation": "tập yoga",
+    "exampleSentence": "I do yoga every morning.",
+    "exampleTranslation": "Sáng nào tôi cũng tập yoga.",
+    "pos": "collocation"
+  },
+  {
+    "word": "play sports",
+    "phonetic": "/pleɪ spɔːrts/",
+    "definition": "to take part in games and physical activities",
+    "translation": "chơi thể thao",
+    "exampleSentence": "My children play sports after school.",
+    "exampleTranslation": "Các con tôi chơi thể thao sau giờ học.",
+    "pos": "collocation"
+  },
+  {
+    "word": "break your arm",
+    "phonetic": "/breɪk jɔːr ɑːrm/",
+    "definition": "to damage a bone in your arm",
+    "translation": "bị gãy tay",
+    "exampleSentence": "He fell off his bike and broke his arm.",
+    "exampleTranslation": "Anh ấy ngã xe đạp và bị gãy tay.",
+    "pos": "collocation"
+  },
+  {
+    "word": "sprain your ankle",
+    "phonetic": "/spreɪn jɔːr ˈæŋkl/",
+    "definition": "to hurt your ankle by twisting it",
+    "translation": "bị bong gân cổ chân",
+    "exampleSentence": "She sprained her ankle playing football.",
+    "exampleTranslation": "Cô ấy bị bong gân cổ chân khi chơi bóng đá.",
+    "pos": "collocation"
+  },
+  {
+    "word": "cut your finger",
+    "phonetic": "/kʌt jɔːr ˈfɪŋɡər/",
+    "definition": "to hurt your finger with something sharp",
+    "translation": "bị đứt tay",
+    "exampleSentence": "I cut my finger while chopping onions.",
+    "exampleTranslation": "Tôi bị đứt tay khi thái hành.",
+    "pos": "collocation"
+  },
+  {
+    "word": "burn your hand",
+    "phonetic": "/bɜːrn jɔːr hænd/",
+    "definition": "to hurt your hand with something hot",
+    "translation": "bị bỏng tay",
+    "exampleSentence": "Be careful, or you'll burn your hand.",
+    "exampleTranslation": "Cẩn thận kẻo bị bỏng tay đấy.",
+    "pos": "collocation"
+  },
+  {
+    "word": "feel pain",
+    "phonetic": "/fiːl peɪn/",
+    "definition": "to experience pain in your body",
+    "translation": "thấy đau",
+    "exampleSentence": "He felt pain in his back.",
+    "exampleTranslation": "Anh ấy thấy đau ở lưng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "relieve pain",
+    "phonetic": "/rɪˈliːv peɪn/",
+    "definition": "to make pain less strong",
+    "translation": "giảm đau",
+    "exampleSentence": "This medicine can relieve pain quickly.",
+    "exampleTranslation": "Loại thuốc này có thể giảm đau nhanh.",
+    "pos": "collocation"
+  },
+  {
+    "word": "high blood pressure",
+    "phonetic": "/haɪ blʌd ˈpreʃər/",
+    "definition": "a condition in which the pressure of the blood in the body is too high",
+    "translation": "huyết áp cao",
+    "exampleSentence": "My father has high blood pressure.",
+    "exampleTranslation": "Bố tôi bị huyết áp cao.",
+    "pos": "collocation"
+  },
+  {
+    "word": "high fever",
+    "phonetic": "/haɪ ˈfiːvər/",
+    "definition": "a body temperature that is much higher than normal",
+    "translation": "sốt cao",
+    "exampleSentence": "The baby has a high fever.",
+    "exampleTranslation": "Em bé bị sốt cao.",
+    "pos": "collocation"
+  },
+  {
+    "word": "common cold",
+    "phonetic": "/ˈkɑːmən koʊld/",
+    "definition": "a mild illness that makes your nose run and your throat sore",
+    "translation": "cảm lạnh thông thường",
+    "exampleSentence": "The common cold usually goes away in a week.",
+    "exampleTranslation": "Cảm lạnh thông thường thường khỏi sau một tuần.",
+    "pos": "collocation"
+  },
+  {
+    "word": "serious illness",
+    "phonetic": "/ˈsɪriəs ˈɪlnəs/",
+    "definition": "a disease that is dangerous or hard to treat",
+    "translation": "bệnh nặng",
+    "exampleSentence": "She is recovering from a serious illness.",
+    "exampleTranslation": "Cô ấy đang hồi phục sau một trận bệnh nặng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a full recovery",
+    "phonetic": "/meɪk ə fʊl rɪˈkʌvəri/",
+    "definition": "to become completely healthy again",
+    "translation": "hồi phục hoàn toàn",
+    "exampleSentence": "He made a full recovery after the operation.",
+    "exampleTranslation": "Anh ấy hồi phục hoàn toàn sau ca mổ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "mental health",
+    "phonetic": "/ˈmentl helθ/",
+    "definition": "the state of your mind and emotions",
+    "translation": "sức khỏe tinh thần",
+    "exampleSentence": "Sleep is important for mental health.",
+    "exampleTranslation": "Giấc ngủ rất quan trọng đối với sức khỏe tinh thần.",
+    "pos": "collocation"
+  },
+  {
+    "word": "physical activity",
+    "phonetic": "/ˈfɪzɪkl ækˈtɪvəti/",
+    "definition": "exercise and movement that is good for your body",
+    "translation": "hoạt động thể chất",
+    "exampleSentence": "Children need an hour of physical activity every day.",
+    "exampleTranslation": "Trẻ em cần một giờ hoạt động thể chất mỗi ngày.",
+    "pos": "collocation"
+  },
+  {
+    "word": "side effect",
+    "phonetic": "/saɪd ɪˈfekt/",
+    "definition": "an unwanted effect of a medicine",
+    "translation": "tác dụng phụ",
+    "exampleSentence": "The pills may have side effects.",
+    "exampleTranslation": "Thuốc này có thể gây tác dụng phụ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "health insurance",
+    "phonetic": "/helθ ɪnˈʃʊrəns/",
+    "definition": "an agreement to pay for your medical costs",
+    "translation": "bảo hiểm y tế",
+    "exampleSentence": "Do you have health insurance?",
+    "exampleTranslation": "Bạn có bảo hiểm y tế không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "first aid",
+    "phonetic": "/fɜːrst eɪd/",
+    "definition": "basic help given to a sick or injured person before a doctor arrives",
+    "translation": "sơ cứu",
+    "exampleSentence": "He learned first aid at work.",
+    "exampleTranslation": "Anh ấy học sơ cứu ở chỗ làm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "write a prescription",
+    "phonetic": "/raɪt ə prɪˈskrɪpʃn/",
+    "definition": "to write what medicine a patient should take",
+    "translation": "kê đơn thuốc",
+    "exampleSentence": "The doctor wrote a prescription for antibiotics.",
+    "exampleTranslation": "Bác sĩ kê đơn thuốc kháng sinh.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fill a prescription",
+    "phonetic": "/fɪl ə prɪˈskrɪpʃn/",
+    "definition": "to get the medicine that a doctor has ordered",
+    "translation": "lấy thuốc theo đơn",
+    "exampleSentence": "I need to fill a prescription at the pharmacy.",
+    "exampleTranslation": "Tôi cần lấy thuốc theo đơn ở hiệu thuốc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "wear glasses",
+    "phonetic": "/wer ɡlæsɪz/",
+    "definition": "to use glasses to help you see",
+    "translation": "đeo kính",
+    "exampleSentence": "He has to wear glasses to read.",
+    "exampleTranslation": "Anh ấy phải đeo kính khi đọc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have surgery",
+    "phonetic": "/hæv ˈsɜːrdʒəri/",
+    "definition": "to have an operation on your body",
+    "translation": "phẫu thuật",
+    "exampleSentence": "She had surgery on her knee last year.",
+    "exampleTranslation": "Năm ngoái cô ấy phẫu thuật đầu gối.",
+    "pos": "collocation"
+  },
+  {
+    "word": "suffer from stress",
+    "phonetic": "/ˈsʌfər frəm stres/",
+    "definition": "to be affected by stress",
+    "translation": "bị căng thẳng",
+    "exampleSentence": "Many students suffer from stress during exams.",
+    "exampleTranslation": "Nhiều học sinh bị căng thẳng trong mùa thi.",
+    "pos": "collocation"
+  }
+]

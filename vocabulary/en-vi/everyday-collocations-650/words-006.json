@@ -1,0 +1,452 @@
+[
+  {
+    "word": "book a flight",
+    "phonetic": "/bʊk ə flaɪt/",
+    "definition": "to arrange and pay for a seat on a plane",
+    "translation": "đặt vé máy bay",
+    "exampleSentence": "I booked a flight to Da Nang for Friday.",
+    "exampleTranslation": "Tôi đã đặt vé máy bay đi Đà Nẵng vào thứ Sáu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "book a room",
+    "phonetic": "/bʊk ə ruːm/",
+    "definition": "to arrange to stay in a hotel room",
+    "translation": "đặt phòng",
+    "exampleSentence": "We booked a room near the beach.",
+    "exampleTranslation": "Chúng tôi đã đặt một phòng gần bãi biển.",
+    "pos": "collocation"
+  },
+  {
+    "word": "pack a suitcase",
+    "phonetic": "/pæk ə ˈsuːtkeɪs/",
+    "definition": "to put your clothes and things into a suitcase",
+    "translation": "xếp vali",
+    "exampleSentence": "I haven't packed my suitcase yet.",
+    "exampleTranslation": "Tôi chưa xếp vali.",
+    "pos": "collocation"
+  },
+  {
+    "word": "check into a hotel",
+    "phonetic": "/tʃek ˈɪntə ə hoʊˈtel/",
+    "definition": "to arrive at a hotel and register for your room",
+    "translation": "nhận phòng khách sạn",
+    "exampleSentence": "We checked into the hotel at two o'clock.",
+    "exampleTranslation": "Chúng tôi nhận phòng khách sạn lúc hai giờ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "board a plane",
+    "phonetic": "/bɔːrd ə pleɪn/",
+    "definition": "to get on a plane",
+    "translation": "lên máy bay",
+    "exampleSentence": "Passengers began to board the plane.",
+    "exampleTranslation": "Hành khách bắt đầu lên máy bay.",
+    "pos": "collocation"
+  },
+  {
+    "word": "go through security",
+    "phonetic": "/ɡoʊ θruː sɪˈkjʊrəti/",
+    "definition": "to pass the check of people and bags at an airport",
+    "translation": "qua cổng an ninh",
+    "exampleSentence": "It took twenty minutes to go through security.",
+    "exampleTranslation": "Mất hai mươi phút để qua cổng an ninh.",
+    "pos": "collocation"
+  },
+  {
+    "word": "go through customs",
+    "phonetic": "/ɡoʊ θruː ˈkʌstəmz/",
+    "definition": "to pass the place where officials check what you bring into a country",
+    "translation": "qua hải quan",
+    "exampleSentence": "We went through customs without any problem.",
+    "exampleTranslation": "Chúng tôi qua hải quan mà không gặp vấn đề gì.",
+    "pos": "collocation"
+  },
+  {
+    "word": "show your passport",
+    "phonetic": "/ʃoʊ jɔːr ˈpæspɔːrt/",
+    "definition": "to let an official look at your passport",
+    "translation": "xuất trình hộ chiếu",
+    "exampleSentence": "Please show your passport at the desk.",
+    "exampleTranslation": "Xin hãy xuất trình hộ chiếu tại quầy.",
+    "pos": "collocation"
+  },
+  {
+    "word": "renew your passport",
+    "phonetic": "/rɪˈnuː jɔːr ˈpæspɔːrt/",
+    "definition": "to get a new passport when the old one is about to end",
+    "translation": "gia hạn hộ chiếu, làm lại hộ chiếu",
+    "exampleSentence": "I need to renew my passport before the trip.",
+    "exampleTranslation": "Tôi cần làm lại hộ chiếu trước chuyến đi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "apply for a visa",
+    "phonetic": "/əˈplaɪ fɔːr ə ˈviːzə/",
+    "definition": "to ask officially for permission to enter a country",
+    "translation": "xin visa",
+    "exampleSentence": "She applied for a visa to study in Canada.",
+    "exampleTranslation": "Cô ấy xin visa để đi học ở Canada.",
+    "pos": "collocation"
+  },
+  {
+    "word": "travel abroad",
+    "phonetic": "/ˈtrævl əˈbrɔːd/",
+    "definition": "to go to another country",
+    "translation": "đi nước ngoài",
+    "exampleSentence": "He travels abroad for work every month.",
+    "exampleTranslation": "Anh ấy đi nước ngoài công tác mỗi tháng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "go on holiday",
+    "phonetic": "/ɡoʊ ɑːn ˈhɑːlədeɪ/",
+    "definition": "to go away for a rest or for fun",
+    "translation": "đi nghỉ",
+    "exampleSentence": "We go on holiday in August.",
+    "exampleTranslation": "Chúng tôi đi nghỉ vào tháng Tám.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a trip",
+    "phonetic": "/teɪk ə trɪp/",
+    "definition": "to make a journey",
+    "translation": "đi một chuyến",
+    "exampleSentence": "They took a trip to the mountains.",
+    "exampleTranslation": "Họ đi một chuyến lên núi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "plan a trip",
+    "phonetic": "/plæn ə trɪp/",
+    "definition": "to decide the details of a journey in advance",
+    "translation": "lên kế hoạch cho chuyến đi",
+    "exampleSentence": "We are planning a trip to Japan.",
+    "exampleTranslation": "Chúng tôi đang lên kế hoạch cho chuyến đi Nhật Bản.",
+    "pos": "collocation"
+  },
+  {
+    "word": "go sightseeing",
+    "phonetic": "/ɡoʊ ˈsaɪtsiːɪŋ/",
+    "definition": "to visit interesting places as a tourist",
+    "translation": "đi tham quan",
+    "exampleSentence": "We went sightseeing in Hanoi.",
+    "exampleTranslation": "Chúng tôi đi tham quan ở Hà Nội.",
+    "pos": "collocation"
+  },
+  {
+    "word": "go on a tour",
+    "phonetic": "/ɡoʊ ɑːn ə tʊr/",
+    "definition": "to take part in a guided trip",
+    "translation": "đi tour, tham gia một chuyến tham quan",
+    "exampleSentence": "We went on a tour of the old city.",
+    "exampleTranslation": "Chúng tôi tham gia một chuyến tham quan khu phố cổ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "rent a car",
+    "phonetic": "/rent ə kɑːr/",
+    "definition": "to pay to use a car for a short time",
+    "translation": "thuê xe ô tô",
+    "exampleSentence": "We rented a car at the airport.",
+    "exampleTranslation": "Chúng tôi thuê một chiếc ô tô ở sân bay.",
+    "pos": "collocation"
+  },
+  {
+    "word": "park the car",
+    "phonetic": "/pɑːrk ðə kɑːr/",
+    "definition": "to leave a car in a place",
+    "translation": "đỗ xe",
+    "exampleSentence": "Where can I park the car?",
+    "exampleTranslation": "Tôi đỗ xe ở đâu được?",
+    "pos": "collocation"
+  },
+  {
+    "word": "fill the tank",
+    "phonetic": "/fɪl ðə tæŋk/",
+    "definition": "to put fuel in a car until the tank is full",
+    "translation": "đổ đầy bình xăng",
+    "exampleSentence": "Let's stop and fill the tank.",
+    "exampleTranslation": "Mình dừng lại đổ đầy bình xăng nhé.",
+    "pos": "collocation"
+  },
+  {
+    "word": "heavy traffic",
+    "phonetic": "/ˈhevi ˈtræfɪk/",
+    "definition": "a lot of cars on the road",
+    "translation": "giao thông đông đúc",
+    "exampleSentence": "We were stuck in heavy traffic.",
+    "exampleTranslation": "Chúng tôi bị kẹt trong giao thông đông đúc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "traffic jam",
+    "phonetic": "/ˈtræfɪk dʒæm/",
+    "definition": "a long line of cars that cannot move",
+    "translation": "kẹt xe",
+    "exampleSentence": "I was late because of a traffic jam.",
+    "exampleTranslation": "Tôi đến muộn vì kẹt xe.",
+    "pos": "collocation"
+  },
+  {
+    "word": "rush hour",
+    "phonetic": "/rʌʃ ˈaʊər/",
+    "definition": "the time when many people travel to or from work",
+    "translation": "giờ cao điểm",
+    "exampleSentence": "Avoid the metro during rush hour.",
+    "exampleTranslation": "Hãy tránh đi tàu điện ngầm vào giờ cao điểm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "ride a bike",
+    "phonetic": "/raɪd ə baɪk/",
+    "definition": "to travel on a bicycle",
+    "translation": "đi xe đạp",
+    "exampleSentence": "I ride a bike to school.",
+    "exampleTranslation": "Tôi đạp xe đến trường.",
+    "pos": "collocation"
+  },
+  {
+    "word": "ride a motorbike",
+    "phonetic": "/raɪd ə ˈmoʊtərbaɪk/",
+    "definition": "to travel on a motorbike",
+    "translation": "đi xe máy",
+    "exampleSentence": "He rides a motorbike to work.",
+    "exampleTranslation": "Anh ấy đi xe máy đi làm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "get on the bus",
+    "phonetic": "/ɡet ɑːn ðə bʌs/",
+    "definition": "to step onto a bus",
+    "translation": "lên xe buýt",
+    "exampleSentence": "Get on the bus at the front.",
+    "exampleTranslation": "Hãy lên xe buýt ở cửa trước.",
+    "pos": "collocation"
+  },
+  {
+    "word": "get off the bus",
+    "phonetic": "/ɡet ɔːf ðə bʌs/",
+    "definition": "to leave a bus",
+    "translation": "xuống xe buýt",
+    "exampleSentence": "I get off the bus at the next stop.",
+    "exampleTranslation": "Tôi xuống xe buýt ở trạm tiếp theo.",
+    "pos": "collocation"
+  },
+  {
+    "word": "get in the car",
+    "phonetic": "/ɡet ɪn ðə kɑːr/",
+    "definition": "to enter a car",
+    "translation": "lên xe ô tô",
+    "exampleSentence": "Get in the car. We're late.",
+    "exampleTranslation": "Lên xe đi. Chúng ta trễ rồi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "hail a taxi",
+    "phonetic": "/heɪl ə ˈtæksi/",
+    "definition": "to wave to make a taxi stop",
+    "translation": "vẫy taxi",
+    "exampleSentence": "She hailed a taxi outside the hotel.",
+    "exampleTranslation": "Cô ấy vẫy taxi bên ngoài khách sạn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "public transport",
+    "phonetic": "/ˈpʌblɪk ˈtrænspɔːrt/",
+    "definition": "buses, trains and other vehicles that everyone can use",
+    "translation": "phương tiện giao thông công cộng",
+    "exampleSentence": "I go to work by public transport.",
+    "exampleTranslation": "Tôi đi làm bằng phương tiện công cộng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "bus stop",
+    "phonetic": "/bʌs stɑːp/",
+    "definition": "a place where buses stop for passengers",
+    "translation": "trạm xe buýt",
+    "exampleSentence": "The bus stop is across the street.",
+    "exampleTranslation": "Trạm xe buýt ở bên kia đường.",
+    "pos": "collocation"
+  },
+  {
+    "word": "train station",
+    "phonetic": "/treɪn ˈsteɪʃn/",
+    "definition": "a place where trains stop for passengers",
+    "translation": "ga tàu",
+    "exampleSentence": "How do I get to the train station?",
+    "exampleTranslation": "Tôi đến ga tàu bằng cách nào?",
+    "pos": "collocation"
+  },
+  {
+    "word": "one-way ticket",
+    "phonetic": "/ˌwʌn ˈweɪ ˈtɪkɪt/",
+    "definition": "a ticket for a journey in one direction only",
+    "translation": "vé một chiều",
+    "exampleSentence": "I'd like a one-way ticket to Hue.",
+    "exampleTranslation": "Tôi muốn mua một vé một chiều đi Huế.",
+    "pos": "collocation"
+  },
+  {
+    "word": "return ticket",
+    "phonetic": "/rɪˈtɜːrn ˈtɪkɪt/",
+    "definition": "a ticket for a journey there and back",
+    "translation": "vé khứ hồi",
+    "exampleSentence": "A return ticket is cheaper than two single tickets.",
+    "exampleTranslation": "Vé khứ hồi rẻ hơn hai vé một chiều.",
+    "pos": "collocation"
+  },
+  {
+    "word": "single room",
+    "phonetic": "/ˈsɪŋɡl ruːm/",
+    "definition": "a hotel room for one person",
+    "translation": "phòng đơn",
+    "exampleSentence": "Do you have a single room for tonight?",
+    "exampleTranslation": "Tối nay bên bạn còn phòng đơn không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "double room",
+    "phonetic": "/ˈdʌbl ruːm/",
+    "definition": "a hotel room for two people",
+    "translation": "phòng đôi",
+    "exampleSentence": "We booked a double room for three nights.",
+    "exampleTranslation": "Chúng tôi đặt một phòng đôi trong ba đêm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "sandy beach",
+    "phonetic": "/ˈsændi biːtʃ/",
+    "definition": "a beach covered with sand",
+    "translation": "bãi biển cát",
+    "exampleSentence": "We found a quiet sandy beach.",
+    "exampleTranslation": "Chúng tôi tìm thấy một bãi biển cát yên tĩnh.",
+    "pos": "collocation"
+  },
+  {
+    "word": "tourist attraction",
+    "phonetic": "/ˈtʊrɪst əˈtrækʃn/",
+    "definition": "a place that many tourists want to visit",
+    "translation": "điểm thu hút khách du lịch",
+    "exampleSentence": "The old bridge is a popular tourist attraction.",
+    "exampleTranslation": "Cây cầu cổ là một điểm thu hút khách du lịch nổi tiếng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "travel light",
+    "phonetic": "/ˈtrævl laɪt/",
+    "definition": "to travel with very little luggage",
+    "translation": "đi du lịch gọn nhẹ",
+    "exampleSentence": "I always travel light.",
+    "exampleTranslation": "Tôi luôn đi du lịch gọn nhẹ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "long journey",
+    "phonetic": "/lɔːŋ ˈdʒɜːrni/",
+    "definition": "a trip that takes a lot of time",
+    "translation": "chuyến đi dài",
+    "exampleSentence": "It was a long journey, and we were tired.",
+    "exampleTranslation": "Đó là một chuyến đi dài và chúng tôi rất mệt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "enjoy your trip",
+    "phonetic": "/ɪnˈdʒɔɪ jɔːr trɪp/",
+    "definition": "a polite way to wish someone a good journey",
+    "translation": "chúc chuyến đi vui vẻ",
+    "exampleSentence": "Enjoy your trip, and send us some photos!",
+    "exampleTranslation": "Chúc chuyến đi vui vẻ, nhớ gửi ảnh cho bọn mình nhé!",
+    "pos": "collocation"
+  },
+  {
+    "word": "ask for directions",
+    "phonetic": "/æsk fɔːr dəˈrekʃnz/",
+    "definition": "to ask someone how to get to a place",
+    "translation": "hỏi đường",
+    "exampleSentence": "We stopped to ask for directions.",
+    "exampleTranslation": "Chúng tôi dừng lại hỏi đường.",
+    "pos": "collocation"
+  },
+  {
+    "word": "follow the signs",
+    "phonetic": "/ˈfɑːloʊ ðə saɪnz/",
+    "definition": "to go the way that road signs show",
+    "translation": "đi theo biển chỉ dẫn",
+    "exampleSentence": "Follow the signs to the city center.",
+    "exampleTranslation": "Hãy đi theo biển chỉ dẫn vào trung tâm thành phố.",
+    "pos": "collocation"
+  },
+  {
+    "word": "cross the road",
+    "phonetic": "/krɔːs ðə roʊd/",
+    "definition": "to go from one side of a road to the other",
+    "translation": "băng qua đường",
+    "exampleSentence": "Look both ways before you cross the road.",
+    "exampleTranslation": "Hãy nhìn cả hai bên trước khi băng qua đường.",
+    "pos": "collocation"
+  },
+  {
+    "word": "turn left",
+    "phonetic": "/tɜːrn left/",
+    "definition": "to change direction toward the left",
+    "translation": "rẽ trái",
+    "exampleSentence": "Turn left at the traffic lights.",
+    "exampleTranslation": "Rẽ trái ở chỗ đèn giao thông.",
+    "pos": "collocation"
+  },
+  {
+    "word": "go straight",
+    "phonetic": "/ɡoʊ streɪt/",
+    "definition": "to continue in the same direction",
+    "translation": "đi thẳng",
+    "exampleSentence": "Go straight for two blocks.",
+    "exampleTranslation": "Đi thẳng hai dãy phố.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a wrong turn",
+    "phonetic": "/teɪk ə rɔːŋ tɜːrn/",
+    "definition": "to go the wrong way at a corner or junction",
+    "translation": "rẽ nhầm đường",
+    "exampleSentence": "We took a wrong turn and got lost.",
+    "exampleTranslation": "Chúng tôi rẽ nhầm đường và bị lạc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "miss your stop",
+    "phonetic": "/mɪs jɔːr stɑːp/",
+    "definition": "to not get off at the place you wanted",
+    "translation": "đi quá trạm",
+    "exampleSentence": "I fell asleep and missed my stop.",
+    "exampleTranslation": "Tôi ngủ quên và đi quá trạm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "run a red light",
+    "phonetic": "/rʌn ə red laɪt/",
+    "definition": "to drive through a red traffic light without stopping",
+    "translation": "vượt đèn đỏ",
+    "exampleSentence": "He was fined for running a red light.",
+    "exampleTranslation": "Anh ấy bị phạt vì vượt đèn đỏ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fasten your seat belt",
+    "phonetic": "/ˈfæsn jɔːr siːt belt/",
+    "definition": "to put on and close the belt in a car or plane",
+    "translation": "thắt dây an toàn",
+    "exampleSentence": "Please fasten your seat belt.",
+    "exampleTranslation": "Xin hãy thắt dây an toàn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "check out of the hotel",
+    "phonetic": "/tʃek aʊt əv ðə hoʊˈtel/",
+    "definition": "to pay and leave a hotel",
+    "translation": "trả phòng khách sạn",
+    "exampleSentence": "We check out of the hotel at noon.",
+    "exampleTranslation": "Chúng tôi trả phòng khách sạn vào buổi trưa.",
+    "pos": "collocation"
+  }
+]

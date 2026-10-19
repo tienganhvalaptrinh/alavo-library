@@ -1,0 +1,452 @@
+[
+  {
+    "word": "stay in touch",
+    "phonetic": "/steɪ ɪn tʌtʃ/",
+    "definition": "to continue to contact someone",
+    "translation": "giữ liên lạc",
+    "exampleSentence": "We stayed in touch after college.",
+    "exampleTranslation": "Chúng tôi vẫn giữ liên lạc sau khi tốt nghiệp đại học.",
+    "pos": "collocation"
+  },
+  {
+    "word": "send a message",
+    "phonetic": "/send ə ˈmesɪdʒ/",
+    "definition": "to send words to someone by phone or computer",
+    "translation": "gửi tin nhắn",
+    "exampleSentence": "I'll send you a message when I arrive.",
+    "exampleTranslation": "Mình sẽ gửi tin nhắn cho bạn khi đến nơi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "send a text",
+    "phonetic": "/send ə tekst/",
+    "definition": "to send a short message from a phone",
+    "translation": "nhắn tin",
+    "exampleSentence": "I'll send you a text when I get there.",
+    "exampleTranslation": "Mình sẽ nhắn tin cho bạn khi đến nơi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "leave a message",
+    "phonetic": "/liːv ə ˈmesɪdʒ/",
+    "definition": "to say something to be given to someone later",
+    "translation": "để lại lời nhắn",
+    "exampleSentence": "Can I leave a message for her?",
+    "exampleTranslation": "Tôi để lại lời nhắn cho cô ấy được không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "give someone a call",
+    "phonetic": "/ɡɪv ˈsʌmwʌn ə kɔːl/",
+    "definition": "to phone someone",
+    "translation": "gọi điện cho ai",
+    "exampleSentence": "Give me a call when you're free.",
+    "exampleTranslation": "Gọi cho mình khi bạn rảnh nhé.",
+    "pos": "collocation"
+  },
+  {
+    "word": "return a call",
+    "phonetic": "/rɪˈtɜːrn ə kɔːl/",
+    "definition": "to phone someone who has phoned you",
+    "translation": "gọi lại",
+    "exampleSentence": "I'll return your call this afternoon.",
+    "exampleTranslation": "Chiều nay tôi sẽ gọi lại cho bạn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "reply to a letter",
+    "phonetic": "/rɪˈplaɪ tə ə ˈletər/",
+    "definition": "to write an answer to a letter",
+    "translation": "trả lời thư",
+    "exampleSentence": "I need to reply to a letter from my bank.",
+    "exampleTranslation": "Tôi cần trả lời một lá thư từ ngân hàng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "start a conversation",
+    "phonetic": "/stɑːrt ə ˌkɑːnvərˈseɪʃn/",
+    "definition": "to begin talking to someone",
+    "translation": "bắt chuyện",
+    "exampleSentence": "It's hard to start a conversation with strangers.",
+    "exampleTranslation": "Khó mà bắt chuyện với người lạ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "change the subject",
+    "phonetic": "/tʃeɪndʒ ðə ˈsʌbdʒɪkt/",
+    "definition": "to start talking about something else",
+    "translation": "đổi chủ đề",
+    "exampleSentence": "He quickly changed the subject.",
+    "exampleTranslation": "Anh ấy nhanh chóng đổi chủ đề.",
+    "pos": "collocation"
+  },
+  {
+    "word": "tell the truth",
+    "phonetic": "/tel ðə truːθ/",
+    "definition": "to say what is true",
+    "translation": "nói sự thật",
+    "exampleSentence": "You must tell the truth.",
+    "exampleTranslation": "Bạn phải nói sự thật.",
+    "pos": "collocation"
+  },
+  {
+    "word": "tell a lie",
+    "phonetic": "/tel ə laɪ/",
+    "definition": "to say something that you know is not true",
+    "translation": "nói dối",
+    "exampleSentence": "He told a lie to avoid trouble.",
+    "exampleTranslation": "Anh ấy nói dối để tránh rắc rối.",
+    "pos": "collocation"
+  },
+  {
+    "word": "tell a joke",
+    "phonetic": "/tel ə dʒoʊk/",
+    "definition": "to say something funny",
+    "translation": "kể chuyện cười",
+    "exampleSentence": "My uncle likes to tell a joke at dinner.",
+    "exampleTranslation": "Chú tôi thích kể chuyện cười trong bữa tối.",
+    "pos": "collocation"
+  },
+  {
+    "word": "tell a story",
+    "phonetic": "/tel ə ˈstɔːri/",
+    "definition": "to say what happened in a story",
+    "translation": "kể chuyện",
+    "exampleSentence": "She told a story to the children.",
+    "exampleTranslation": "Cô ấy kể một câu chuyện cho bọn trẻ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "ask for help",
+    "phonetic": "/æsk fɔːr help/",
+    "definition": "to request help",
+    "translation": "nhờ giúp đỡ",
+    "exampleSentence": "Don't be afraid to ask for help.",
+    "exampleTranslation": "Đừng ngại nhờ giúp đỡ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "offer help",
+    "phonetic": "/ˈɔːfər help/",
+    "definition": "to say you are willing to help",
+    "translation": "đề nghị giúp đỡ",
+    "exampleSentence": "A neighbor offered help with the shopping.",
+    "exampleTranslation": "Một người hàng xóm đề nghị giúp đi mua đồ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "ask for advice",
+    "phonetic": "/æsk fɔːr ədˈvaɪs/",
+    "definition": "to request an opinion about what to do",
+    "translation": "xin lời khuyên",
+    "exampleSentence": "I asked my teacher for advice.",
+    "exampleTranslation": "Tôi xin giáo viên lời khuyên.",
+    "pos": "collocation"
+  },
+  {
+    "word": "follow advice",
+    "phonetic": "/ˈfɑːloʊ ədˈvaɪs/",
+    "definition": "to do what someone suggests",
+    "translation": "làm theo lời khuyên",
+    "exampleSentence": "You should follow the doctor's advice.",
+    "exampleTranslation": "Bạn nên làm theo lời khuyên của bác sĩ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "give an opinion",
+    "phonetic": "/ɡɪv ən əˈpɪnjən/",
+    "definition": "to say what you think about something",
+    "translation": "đưa ra ý kiến",
+    "exampleSentence": "Everyone can give an opinion.",
+    "exampleTranslation": "Ai cũng có thể đưa ra ý kiến.",
+    "pos": "collocation"
+  },
+  {
+    "word": "express an opinion",
+    "phonetic": "/ɪkˈspres ən əˈpɪnjən/",
+    "definition": "to say what you think about something",
+    "translation": "bày tỏ ý kiến",
+    "exampleSentence": "People should be free to express an opinion.",
+    "exampleTranslation": "Mọi người nên được tự do bày tỏ ý kiến.",
+    "pos": "collocation"
+  },
+  {
+    "word": "reach a conclusion",
+    "phonetic": "/riːtʃ ə kənˈkluːʒn/",
+    "definition": "to decide something after thinking",
+    "translation": "đi đến kết luận",
+    "exampleSentence": "We reached a conclusion after a long talk.",
+    "exampleTranslation": "Chúng tôi đi đến kết luận sau một cuộc nói chuyện dài.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have an argument",
+    "phonetic": "/hæv ən ˈɑːrɡjumənt/",
+    "definition": "to speak angrily with someone because you disagree",
+    "translation": "cãi nhau",
+    "exampleSentence": "They had an argument about money.",
+    "exampleTranslation": "Họ cãi nhau về chuyện tiền bạc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a fight",
+    "phonetic": "/hæv ə faɪt/",
+    "definition": "to argue or hit someone",
+    "translation": "đánh nhau, cãi nhau to tiếng",
+    "exampleSentence": "The two boys had a fight at school.",
+    "exampleTranslation": "Hai cậu bé đánh nhau ở trường.",
+    "pos": "collocation"
+  },
+  {
+    "word": "say sorry",
+    "phonetic": "/seɪ ˈsɑːri/",
+    "definition": "to tell someone that you feel bad about something you did",
+    "translation": "xin lỗi",
+    "exampleSentence": "You should say sorry to her.",
+    "exampleTranslation": "Bạn nên xin lỗi cô ấy.",
+    "pos": "collocation"
+  },
+  {
+    "word": "say hello",
+    "phonetic": "/seɪ həˈloʊ/",
+    "definition": "to greet someone",
+    "translation": "chào hỏi",
+    "exampleSentence": "Say hello to your parents for me.",
+    "exampleTranslation": "Cho tôi gửi lời chào bố mẹ bạn nhé.",
+    "pos": "collocation"
+  },
+  {
+    "word": "say goodbye",
+    "phonetic": "/seɪ ˌɡʊdˈbaɪ/",
+    "definition": "to speak to someone as you leave",
+    "translation": "chào tạm biệt",
+    "exampleSentence": "We said goodbye at the station.",
+    "exampleTranslation": "Chúng tôi chào tạm biệt nhau ở nhà ga.",
+    "pos": "collocation"
+  },
+  {
+    "word": "say thank you",
+    "phonetic": "/seɪ θæŋk juː/",
+    "definition": "to thank someone",
+    "translation": "nói lời cảm ơn",
+    "exampleSentence": "Don't forget to say thank you.",
+    "exampleTranslation": "Đừng quên nói lời cảm ơn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "make an apology",
+    "phonetic": "/meɪk ən əˈpɑːlədʒi/",
+    "definition": "to say sorry formally",
+    "translation": "xin lỗi chính thức",
+    "exampleSentence": "The company made an apology to its customers.",
+    "exampleTranslation": "Công ty đã xin lỗi khách hàng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "accept an apology",
+    "phonetic": "/əkˈsept ən əˈpɑːlədʒi/",
+    "definition": "to agree to forgive someone who says sorry",
+    "translation": "chấp nhận lời xin lỗi",
+    "exampleSentence": "I accept your apology.",
+    "exampleTranslation": "Tôi chấp nhận lời xin lỗi của bạn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "pay a compliment",
+    "phonetic": "/peɪ ə ˈkɑːmplɪmənt/",
+    "definition": "to say something nice about someone",
+    "translation": "khen ngợi",
+    "exampleSentence": "He paid her a compliment on her dress.",
+    "exampleTranslation": "Anh ấy khen chiếc váy của cô ấy.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a party",
+    "phonetic": "/hæv ə ˈpɑːrti/",
+    "definition": "to organize a party",
+    "translation": "tổ chức tiệc, mở tiệc",
+    "exampleSentence": "We're having a party on Saturday night.",
+    "exampleTranslation": "Tối thứ Bảy chúng tôi có tiệc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "accept an invitation",
+    "phonetic": "/əkˈsept ən ˌɪnvɪˈteɪʃn/",
+    "definition": "to say yes when someone invites you",
+    "translation": "nhận lời mời",
+    "exampleSentence": "She accepted the invitation to the wedding.",
+    "exampleTranslation": "Cô ấy nhận lời mời đến dự đám cưới.",
+    "pos": "collocation"
+  },
+  {
+    "word": "decline an invitation",
+    "phonetic": "/dɪˈklaɪn ən ˌɪnvɪˈteɪʃn/",
+    "definition": "to say no when someone invites you",
+    "translation": "từ chối lời mời",
+    "exampleSentence": "He declined the invitation politely.",
+    "exampleTranslation": "Anh ấy từ chối lời mời một cách lịch sự.",
+    "pos": "collocation"
+  },
+  {
+    "word": "throw a party",
+    "phonetic": "/θroʊ ə ˈpɑːrti/",
+    "definition": "to organize a party",
+    "translation": "tổ chức tiệc",
+    "exampleSentence": "They threw a party for her birthday.",
+    "exampleTranslation": "Họ tổ chức tiệc sinh nhật cho cô ấy.",
+    "pos": "collocation"
+  },
+  {
+    "word": "go to a party",
+    "phonetic": "/ɡoʊ tə ə ˈpɑːrti/",
+    "definition": "to attend a party",
+    "translation": "đi dự tiệc",
+    "exampleSentence": "I'm going to a party tonight.",
+    "exampleTranslation": "Tối nay tôi đi dự tiệc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "host a party",
+    "phonetic": "/hoʊst ə ˈpɑːrti/",
+    "definition": "to organize a party at your home",
+    "translation": "đứng ra tổ chức tiệc",
+    "exampleSentence": "We hosted a party for our friends.",
+    "exampleTranslation": "Chúng tôi tổ chức một bữa tiệc cho bạn bè.",
+    "pos": "collocation"
+  },
+  {
+    "word": "lose touch with someone",
+    "phonetic": "/luːz tʌtʃ wɪð ˈsʌmwʌn/",
+    "definition": "to no longer be in contact with someone",
+    "translation": "mất liên lạc với ai",
+    "exampleSentence": "I lost touch with my school friends.",
+    "exampleTranslation": "Tôi mất liên lạc với các bạn thời đi học.",
+    "pos": "collocation"
+  },
+  {
+    "word": "close friend",
+    "phonetic": "/kloʊz frend/",
+    "definition": "a friend you know very well",
+    "translation": "bạn thân",
+    "exampleSentence": "She is a close friend of mine.",
+    "exampleTranslation": "Cô ấy là một người bạn thân của tôi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "best friend",
+    "phonetic": "/best frend/",
+    "definition": "your closest friend",
+    "translation": "bạn thân nhất",
+    "exampleSentence": "He is my best friend.",
+    "exampleTranslation": "Anh ấy là bạn thân nhất của tôi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "old friend",
+    "phonetic": "/oʊld frend/",
+    "definition": "a friend you have known for a long time",
+    "translation": "bạn cũ",
+    "exampleSentence": "I met an old friend yesterday.",
+    "exampleTranslation": "Hôm qua tôi gặp một người bạn cũ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "lifelong friend",
+    "phonetic": "/ˈlaɪflɔːŋ frend/",
+    "definition": "a friend for your whole life",
+    "translation": "người bạn suốt đời",
+    "exampleSentence": "We became lifelong friends.",
+    "exampleTranslation": "Chúng tôi trở thành những người bạn suốt đời.",
+    "pos": "collocation"
+  },
+  {
+    "word": "good company",
+    "phonetic": "/ɡʊd ˈkʌmpəni/",
+    "definition": "a person who is pleasant to be with",
+    "translation": "người dễ chịu khi ở cùng",
+    "exampleSentence": "She's good company on a long trip.",
+    "exampleTranslation": "Cô ấy là người dễ chịu khi đi cùng trong một chuyến đi dài.",
+    "pos": "collocation"
+  },
+  {
+    "word": "get along with someone",
+    "phonetic": "/ɡet əˈlɔːŋ wɪð ˈsʌmwʌn/",
+    "definition": "to have a good relationship with someone",
+    "translation": "hòa thuận với ai",
+    "exampleSentence": "I get along with my coworkers.",
+    "exampleTranslation": "Tôi hòa thuận với đồng nghiệp.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fall in love",
+    "phonetic": "/fɔːl ɪn lʌv/",
+    "definition": "to start to love someone",
+    "translation": "phải lòng, yêu",
+    "exampleSentence": "They fell in love in Paris.",
+    "exampleTranslation": "Họ phải lòng nhau ở Paris.",
+    "pos": "collocation"
+  },
+  {
+    "word": "go out on a date",
+    "phonetic": "/ɡoʊ aʊt ɑːn ə deɪt/",
+    "definition": "to go out with someone you like in a romantic way",
+    "translation": "đi hẹn hò",
+    "exampleSentence": "They agreed to go out on a date.",
+    "exampleTranslation": "Họ đồng ý đi hẹn hò với nhau.",
+    "pos": "collocation"
+  },
+  {
+    "word": "ask someone out",
+    "phonetic": "/æsk ˈsʌmwʌn aʊt/",
+    "definition": "to invite someone to go on a date",
+    "translation": "mời ai đi hẹn hò",
+    "exampleSentence": "He finally asked her out.",
+    "exampleTranslation": "Cuối cùng anh ấy cũng mời cô ấy đi hẹn hò.",
+    "pos": "collocation"
+  },
+  {
+    "word": "get engaged",
+    "phonetic": "/ɡet ɪnˈɡeɪdʒd/",
+    "definition": "to agree to marry someone",
+    "translation": "đính hôn",
+    "exampleSentence": "They got engaged last year.",
+    "exampleTranslation": "Họ đính hôn vào năm ngoái.",
+    "pos": "collocation"
+  },
+  {
+    "word": "break up with someone",
+    "phonetic": "/breɪk ʌp wɪð ˈsʌmwʌn/",
+    "definition": "to end a romantic relationship",
+    "translation": "chia tay ai",
+    "exampleSentence": "She broke up with her boyfriend.",
+    "exampleTranslation": "Cô ấy chia tay bạn trai.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a crush",
+    "phonetic": "/hæv ə krʌʃ/",
+    "definition": "to feel love for someone, often without telling them",
+    "translation": "phải lòng thầm",
+    "exampleSentence": "I had a crush on my classmate.",
+    "exampleTranslation": "Tôi từng phải lòng thầm một bạn cùng lớp.",
+    "pos": "collocation"
+  },
+  {
+    "word": "keep an eye on",
+    "phonetic": "/kiːp ən aɪ ɑːn/",
+    "definition": "to watch something to make sure it is safe",
+    "translation": "để mắt đến, trông chừng",
+    "exampleSentence": "Can you keep an eye on my bag?",
+    "exampleTranslation": "Bạn trông giúp tôi cái túi nhé?",
+    "pos": "collocation"
+  },
+  {
+    "word": "lend a hand",
+    "phonetic": "/lend ə hænd/",
+    "definition": "to help someone",
+    "translation": "giúp một tay",
+    "exampleSentence": "Can you lend a hand with the boxes?",
+    "exampleTranslation": "Bạn giúp một tay chuyển mấy cái thùng được không?",
+    "pos": "collocation"
+  }
+]

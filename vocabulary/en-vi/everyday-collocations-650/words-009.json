@@ -1,0 +1,452 @@
+[
+  {
+    "word": "go to school",
+    "phonetic": "/ɡoʊ tə skuːl/",
+    "definition": "to attend school regularly",
+    "translation": "đi học",
+    "exampleSentence": "The children go to school by bus.",
+    "exampleTranslation": "Bọn trẻ đi học bằng xe buýt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "go to university",
+    "phonetic": "/ɡoʊ tə ˌjuːnɪˈvɜːrsəti/",
+    "definition": "to study at a university",
+    "translation": "học đại học",
+    "exampleSentence": "She wants to go to university in London.",
+    "exampleTranslation": "Cô ấy muốn học đại học ở London.",
+    "pos": "collocation"
+  },
+  {
+    "word": "attend class",
+    "phonetic": "/əˈtend klæs/",
+    "definition": "to be present at a lesson",
+    "translation": "đi học, có mặt trong lớp",
+    "exampleSentence": "Students must attend class every day.",
+    "exampleTranslation": "Học sinh phải có mặt trên lớp mỗi ngày.",
+    "pos": "collocation"
+  },
+  {
+    "word": "skip class",
+    "phonetic": "/skɪp klæs/",
+    "definition": "to not go to a lesson when you should",
+    "translation": "trốn học, bỏ tiết",
+    "exampleSentence": "He skipped class to play football.",
+    "exampleTranslation": "Cậu ấy bỏ tiết để đi đá bóng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "pass an exam",
+    "phonetic": "/pæs ən ɪɡˈzæm/",
+    "definition": "to get a good enough result in an exam",
+    "translation": "đỗ kỳ thi, thi đạt",
+    "exampleSentence": "She passed the exam with high marks.",
+    "exampleTranslation": "Cô ấy thi đạt với điểm cao.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fail an exam",
+    "phonetic": "/feɪl ən ɪɡˈzæm/",
+    "definition": "to not get a good enough result in an exam",
+    "translation": "trượt kỳ thi",
+    "exampleSentence": "He failed the exam twice.",
+    "exampleTranslation": "Anh ấy trượt kỳ thi hai lần.",
+    "pos": "collocation"
+  },
+  {
+    "word": "study for a test",
+    "phonetic": "/ˈstʌdi fɔːr ə test/",
+    "definition": "to learn and review before a test",
+    "translation": "ôn thi, học bài để thi",
+    "exampleSentence": "I have to study for a test tonight.",
+    "exampleTranslation": "Tối nay tôi phải ôn bài để thi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "get good grades",
+    "phonetic": "/ɡet ɡʊd ɡrædz/",
+    "definition": "to receive high marks at school",
+    "translation": "đạt điểm cao",
+    "exampleSentence": "She works hard to get good grades.",
+    "exampleTranslation": "Cô ấy học chăm để đạt điểm cao.",
+    "pos": "collocation"
+  },
+  {
+    "word": "get a degree",
+    "phonetic": "/ɡet ə dɪˈɡriː/",
+    "definition": "to complete a course at a university",
+    "translation": "lấy bằng đại học",
+    "exampleSentence": "He got a degree in engineering.",
+    "exampleTranslation": "Anh ấy lấy bằng đại học ngành kỹ thuật.",
+    "pos": "collocation"
+  },
+  {
+    "word": "graduate from university",
+    "phonetic": "/ˈɡrædʒuət frəm ˌjuːnɪˈvɜːrsəti/",
+    "definition": "to finish your studies at a university",
+    "translation": "tốt nghiệp đại học",
+    "exampleSentence": "She graduated from university in 2022.",
+    "exampleTranslation": "Cô ấy tốt nghiệp đại học năm 2022.",
+    "pos": "collocation"
+  },
+  {
+    "word": "hand in homework",
+    "phonetic": "/hænd ɪn ˈhoʊmwɜːrk/",
+    "definition": "to give your homework to the teacher",
+    "translation": "nộp bài tập về nhà",
+    "exampleSentence": "Please hand in your homework on Monday.",
+    "exampleTranslation": "Hãy nộp bài tập về nhà vào thứ Hai.",
+    "pos": "collocation"
+  },
+  {
+    "word": "submit an assignment",
+    "phonetic": "/səbˈmɪt ən əˈsaɪnmənt/",
+    "definition": "to give a piece of work to a teacher for marking",
+    "translation": "nộp bài tập lớn",
+    "exampleSentence": "He submitted the assignment before the deadline.",
+    "exampleTranslation": "Anh ấy nộp bài tập lớn trước hạn chót.",
+    "pos": "collocation"
+  },
+  {
+    "word": "write an essay",
+    "phonetic": "/raɪt ən ˈeseɪ/",
+    "definition": "to produce a short piece of writing on a subject",
+    "translation": "viết bài luận",
+    "exampleSentence": "We have to write an essay about our town.",
+    "exampleTranslation": "Chúng tôi phải viết một bài luận về thành phố của mình.",
+    "pos": "collocation"
+  },
+  {
+    "word": "do a project",
+    "phonetic": "/duː ə ˈprɑːdʒekt/",
+    "definition": "to work on a school or work task",
+    "translation": "làm dự án, làm bài tập nhóm",
+    "exampleSentence": "We are doing a project on climate change.",
+    "exampleTranslation": "Chúng tôi đang làm một dự án về biến đổi khí hậu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "do an experiment",
+    "phonetic": "/duː ən ɪkˈsperɪmənt/",
+    "definition": "to carry out a scientific test",
+    "translation": "làm thí nghiệm",
+    "exampleSentence": "The students did an experiment in the lab.",
+    "exampleTranslation": "Các học sinh làm một thí nghiệm trong phòng thí nghiệm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "learn by heart",
+    "phonetic": "/lɜːrn baɪ hɑːrt/",
+    "definition": "to learn something so well that you can remember it exactly",
+    "translation": "học thuộc lòng",
+    "exampleSentence": "We had to learn the poem by heart.",
+    "exampleTranslation": "Chúng tôi phải học thuộc lòng bài thơ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "learn a language",
+    "phonetic": "/lɜːrn ə ˈlæŋɡwɪdʒ/",
+    "definition": "to study a language so that you can use it",
+    "translation": "học một ngôn ngữ",
+    "exampleSentence": "It takes time to learn a language.",
+    "exampleTranslation": "Học một ngôn ngữ cần có thời gian.",
+    "pos": "collocation"
+  },
+  {
+    "word": "speak fluently",
+    "phonetic": "/spiːk ˈfluːəntli/",
+    "definition": "to speak easily and without stopping",
+    "translation": "nói trôi chảy",
+    "exampleSentence": "She speaks English fluently.",
+    "exampleTranslation": "Cô ấy nói tiếng Anh trôi chảy.",
+    "pos": "collocation"
+  },
+  {
+    "word": "practice speaking",
+    "phonetic": "/ˈpræktɪs ˈspiːkɪŋ/",
+    "definition": "to do something many times to get better at speaking",
+    "translation": "luyện nói",
+    "exampleSentence": "I practice speaking English every evening.",
+    "exampleTranslation": "Tối nào tôi cũng luyện nói tiếng Anh.",
+    "pos": "collocation"
+  },
+  {
+    "word": "improve your English",
+    "phonetic": "/ɪmˈpruːv jɔːr ˈɪŋɡlɪʃ/",
+    "definition": "to make your English better",
+    "translation": "cải thiện tiếng Anh",
+    "exampleSentence": "I want to improve my English.",
+    "exampleTranslation": "Tôi muốn cải thiện tiếng Anh của mình.",
+    "pos": "collocation"
+  },
+  {
+    "word": "correct a mistake",
+    "phonetic": "/kəˈrekt ə mɪˈsteɪk/",
+    "definition": "to change something wrong to make it right",
+    "translation": "sửa lỗi",
+    "exampleSentence": "The teacher corrected a mistake in my essay.",
+    "exampleTranslation": "Cô giáo sửa một lỗi trong bài luận của tôi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "cheat on an exam",
+    "phonetic": "/tʃiːt ɑːn ən ɪɡˈzæm/",
+    "definition": "to break the rules to get a better result in an exam",
+    "translation": "gian lận trong kỳ thi",
+    "exampleSentence": "He was caught cheating on an exam.",
+    "exampleTranslation": "Cậu ấy bị bắt quả tang gian lận trong kỳ thi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "ask a question",
+    "phonetic": "/æsk ə ˈkwestʃən/",
+    "definition": "to say something to get information",
+    "translation": "đặt câu hỏi",
+    "exampleSentence": "Does anyone want to ask a question?",
+    "exampleTranslation": "Có ai muốn đặt câu hỏi không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "answer a question",
+    "phonetic": "/ˈænsər ə ˈkwestʃən/",
+    "definition": "to give a reply to a question",
+    "translation": "trả lời câu hỏi",
+    "exampleSentence": "Please answer the question.",
+    "exampleTranslation": "Xin hãy trả lời câu hỏi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "raise your hand",
+    "phonetic": "/reɪz jɔːr hænd/",
+    "definition": "to lift your hand to ask or answer in class",
+    "translation": "giơ tay",
+    "exampleSentence": "Raise your hand if you know the answer.",
+    "exampleTranslation": "Hãy giơ tay nếu bạn biết câu trả lời.",
+    "pos": "collocation"
+  },
+  {
+    "word": "read aloud",
+    "phonetic": "/riːd əˈlaʊd/",
+    "definition": "to read so that other people can hear",
+    "translation": "đọc to",
+    "exampleSentence": "The teacher asked me to read aloud.",
+    "exampleTranslation": "Cô giáo bảo tôi đọc to.",
+    "pos": "collocation"
+  },
+  {
+    "word": "look up a word",
+    "phonetic": "/lʊk ʌp ə wɜːrd/",
+    "definition": "to search for a word in a dictionary",
+    "translation": "tra từ",
+    "exampleSentence": "I looked up the word in a dictionary.",
+    "exampleTranslation": "Tôi tra từ đó trong từ điển.",
+    "pos": "collocation"
+  },
+  {
+    "word": "spell a word",
+    "phonetic": "/spel ə wɜːrd/",
+    "definition": "to say or write the letters of a word in order",
+    "translation": "đánh vần một từ",
+    "exampleSentence": "Can you spell that word, please?",
+    "exampleTranslation": "Bạn đánh vần từ đó giúp tôi được không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "final exam",
+    "phonetic": "/ˈfaɪnl ɪɡˈzæm/",
+    "definition": "an important exam at the end of a course",
+    "translation": "kỳ thi cuối kỳ",
+    "exampleSentence": "The final exam is next week.",
+    "exampleTranslation": "Kỳ thi cuối kỳ diễn ra vào tuần sau.",
+    "pos": "collocation"
+  },
+  {
+    "word": "entrance exam",
+    "phonetic": "/ˈentrəns ɪɡˈzæm/",
+    "definition": "an exam you must pass to enter a school or university",
+    "translation": "kỳ thi đầu vào",
+    "exampleSentence": "She passed the entrance exam.",
+    "exampleTranslation": "Cô ấy đã đỗ kỳ thi đầu vào.",
+    "pos": "collocation"
+  },
+  {
+    "word": "school uniform",
+    "phonetic": "/skuːl ˈjuːnɪfɔːrm/",
+    "definition": "the special clothes that students wear at school",
+    "translation": "đồng phục học sinh",
+    "exampleSentence": "We wear a school uniform every day.",
+    "exampleTranslation": "Chúng tôi mặc đồng phục học sinh mỗi ngày.",
+    "pos": "collocation"
+  },
+  {
+    "word": "school year",
+    "phonetic": "/skuːl jɪr/",
+    "definition": "the period of the year when students go to school",
+    "translation": "năm học",
+    "exampleSentence": "The school year starts in September.",
+    "exampleTranslation": "Năm học bắt đầu vào tháng Chín.",
+    "pos": "collocation"
+  },
+  {
+    "word": "primary school",
+    "phonetic": "/ˈpraɪmeri skuːl/",
+    "definition": "a school for children aged about five to eleven",
+    "translation": "trường tiểu học",
+    "exampleSentence": "My daughter goes to primary school.",
+    "exampleTranslation": "Con gái tôi học trường tiểu học.",
+    "pos": "collocation"
+  },
+  {
+    "word": "high school",
+    "phonetic": "/haɪ skuːl/",
+    "definition": "a school for students aged about fourteen to eighteen",
+    "translation": "trường trung học phổ thông",
+    "exampleSentence": "He is in his last year of high school.",
+    "exampleTranslation": "Cậu ấy đang học năm cuối trung học phổ thông.",
+    "pos": "collocation"
+  },
+  {
+    "word": "boarding school",
+    "phonetic": "/ˈbɔːrdɪŋ skuːl/",
+    "definition": "a school where students live during the school year",
+    "translation": "trường nội trú",
+    "exampleSentence": "She went to a boarding school in the mountains.",
+    "exampleTranslation": "Cô ấy học ở một trường nội trú trên núi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "online course",
+    "phonetic": "/ˌɑːnˈlaɪn kɔːrs/",
+    "definition": "a course of study that you do on the internet",
+    "translation": "khóa học trực tuyến",
+    "exampleSentence": "I'm taking an online course in design.",
+    "exampleTranslation": "Tôi đang học một khóa trực tuyến về thiết kế.",
+    "pos": "collocation"
+  },
+  {
+    "word": "foreign language",
+    "phonetic": "/ˈfɔːrən ˈlæŋɡwɪdʒ/",
+    "definition": "a language that is not your own",
+    "translation": "ngoại ngữ",
+    "exampleSentence": "She speaks three foreign languages.",
+    "exampleTranslation": "Cô ấy nói ba ngoại ngữ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "native speaker",
+    "phonetic": "/ˈneɪtɪv ˈspiːkər/",
+    "definition": "a person who has spoken a language since they were a child",
+    "translation": "người bản ngữ",
+    "exampleSentence": "Our teacher is a native speaker of English.",
+    "exampleTranslation": "Giáo viên của chúng tôi là người bản ngữ nói tiếng Anh.",
+    "pos": "collocation"
+  },
+  {
+    "word": "language skills",
+    "phonetic": "/ˈlæŋɡwɪdʒ skɪlz/",
+    "definition": "your ability to use a language",
+    "translation": "kỹ năng ngôn ngữ",
+    "exampleSentence": "Good language skills help you find a job.",
+    "exampleTranslation": "Kỹ năng ngôn ngữ tốt giúp bạn tìm được việc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "reading skills",
+    "phonetic": "/ˈriːdɪŋ skɪlz/",
+    "definition": "your ability to read well",
+    "translation": "kỹ năng đọc",
+    "exampleSentence": "Reading every day improves your reading skills.",
+    "exampleTranslation": "Đọc mỗi ngày giúp cải thiện kỹ năng đọc của bạn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a gap year",
+    "phonetic": "/teɪk ə ɡæp jɪr/",
+    "definition": "to take a year off between school and university",
+    "translation": "nghỉ một năm trước khi vào đại học",
+    "exampleSentence": "He took a gap year to travel around Asia.",
+    "exampleTranslation": "Cậu ấy nghỉ một năm để đi du lịch khắp châu Á.",
+    "pos": "collocation"
+  },
+  {
+    "word": "win a scholarship",
+    "phonetic": "/wɪn ə ˈskɑːlərʃɪp/",
+    "definition": "to be given money to study",
+    "translation": "giành học bổng",
+    "exampleSentence": "She won a scholarship to study in Australia.",
+    "exampleTranslation": "Cô ấy giành học bổng đi học ở Úc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "pay tuition",
+    "phonetic": "/peɪ tuˈɪʃn/",
+    "definition": "to pay for lessons at a school or university",
+    "translation": "đóng học phí",
+    "exampleSentence": "Her parents pay tuition every semester.",
+    "exampleTranslation": "Bố mẹ cô ấy đóng học phí mỗi học kỳ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "meet the requirements",
+    "phonetic": "/miːt ðə rɪˈkwaɪərmənts/",
+    "definition": "to have what is needed for something",
+    "translation": "đáp ứng yêu cầu",
+    "exampleSentence": "You must meet the requirements to apply.",
+    "exampleTranslation": "Bạn phải đáp ứng các yêu cầu thì mới được nộp đơn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "teach a class",
+    "phonetic": "/tiːtʃ ə klæs/",
+    "definition": "to give a lesson to a group of students",
+    "translation": "dạy một lớp",
+    "exampleSentence": "She teaches a class of thirty students.",
+    "exampleTranslation": "Cô ấy dạy một lớp ba mươi học sinh.",
+    "pos": "collocation"
+  },
+  {
+    "word": "learn from your mistakes",
+    "phonetic": "/lɜːrn frəm jɔːr mɪˈsteɪks/",
+    "definition": "to understand what went wrong and do better next time",
+    "translation": "rút kinh nghiệm từ sai lầm",
+    "exampleSentence": "We all learn from our mistakes.",
+    "exampleTranslation": "Ai cũng rút kinh nghiệm từ sai lầm của mình.",
+    "pos": "collocation"
+  },
+  {
+    "word": "give homework",
+    "phonetic": "/ɡɪv ˈhoʊmwɜːrk/",
+    "definition": "to tell students to do work at home",
+    "translation": "giao bài tập về nhà",
+    "exampleSentence": "The teacher gives homework every day.",
+    "exampleTranslation": "Giáo viên giao bài tập về nhà mỗi ngày.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a lesson",
+    "phonetic": "/hæv ə ˈlesn/",
+    "definition": "to take part in a class",
+    "translation": "có một buổi học",
+    "exampleSentence": "I have a lesson at nine.",
+    "exampleTranslation": "Tôi có một buổi học lúc chín giờ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have an exam",
+    "phonetic": "/hæv ən ɪɡˈzæm/",
+    "definition": "to take an exam",
+    "translation": "có kỳ thi",
+    "exampleSentence": "We have an exam on Friday.",
+    "exampleTranslation": "Thứ Sáu chúng tôi có một kỳ thi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "private school",
+    "phonetic": "/ˈpraɪvət skuːl/",
+    "definition": "a school that parents pay for",
+    "translation": "trường tư",
+    "exampleSentence": "They sent their son to a private school.",
+    "exampleTranslation": "Họ cho con trai học ở một trường tư.",
+    "pos": "collocation"
+  }
+]

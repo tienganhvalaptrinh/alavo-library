@@ -1,0 +1,452 @@
+[
+  {
+    "word": "make a suggestion",
+    "phonetic": "/meɪk ə səˈdʒestʃən/",
+    "definition": "to say what you think someone should do",
+    "translation": "đề xuất, gợi ý",
+    "exampleSentence": "Can I make a suggestion?",
+    "exampleTranslation": "Tôi xin đề xuất một ý được không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a choice",
+    "phonetic": "/meɪk ə tʃɔɪs/",
+    "definition": "to decide which one you want",
+    "translation": "lựa chọn, chọn",
+    "exampleSentence": "You have to make a choice between the two jobs.",
+    "exampleTranslation": "Bạn phải chọn một trong hai công việc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a living",
+    "phonetic": "/meɪk ə ˈlɪvɪŋ/",
+    "definition": "to earn enough money to live",
+    "translation": "kiếm sống",
+    "exampleSentence": "He makes a living by driving a taxi.",
+    "exampleTranslation": "Anh ấy kiếm sống bằng nghề lái taxi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "make an appointment",
+    "phonetic": "/meɪk ən əˈpɔɪntmənt/",
+    "definition": "to arrange a time to see someone",
+    "translation": "đặt lịch hẹn",
+    "exampleSentence": "I'd like to make an appointment with the dentist.",
+    "exampleTranslation": "Tôi muốn đặt lịch hẹn với nha sĩ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a reservation",
+    "phonetic": "/meɪk ə ˌrezərˈveɪʃn/",
+    "definition": "to arrange for a table, room or seat to be kept for you",
+    "translation": "đặt chỗ",
+    "exampleSentence": "We made a reservation for six people.",
+    "exampleTranslation": "Chúng tôi đã đặt chỗ cho sáu người.",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a promise",
+    "phonetic": "/meɪk ə ˈprɑːmɪs/",
+    "definition": "to say that you will definitely do something",
+    "translation": "hứa",
+    "exampleSentence": "She made a promise to call every week.",
+    "exampleTranslation": "Cô ấy hứa sẽ gọi điện mỗi tuần.",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a noise",
+    "phonetic": "/meɪk ə nɔɪz/",
+    "definition": "to produce a sound",
+    "translation": "gây ra tiếng ồn",
+    "exampleSentence": "Please don't make a noise. The baby is sleeping.",
+    "exampleTranslation": "Làm ơn đừng gây ồn. Em bé đang ngủ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "make dinner",
+    "phonetic": "/meɪk ˈdɪnər/",
+    "definition": "to cook the evening meal",
+    "translation": "nấu bữa tối",
+    "exampleSentence": "I'm making dinner for my parents tonight.",
+    "exampleTranslation": "Tối nay tôi nấu bữa tối cho bố mẹ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "make the bed",
+    "phonetic": "/meɪk ðə bed/",
+    "definition": "to put the sheets and blankets neatly on a bed",
+    "translation": "dọn giường, trải giường",
+    "exampleSentence": "He makes the bed every morning.",
+    "exampleTranslation": "Anh ấy dọn giường mỗi sáng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a wish",
+    "phonetic": "/meɪk ə wɪʃ/",
+    "definition": "to silently ask for something you want to happen",
+    "translation": "ước một điều ước",
+    "exampleSentence": "Close your eyes and make a wish.",
+    "exampleTranslation": "Nhắm mắt lại và ước một điều đi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "make sense",
+    "phonetic": "/meɪk sens/",
+    "definition": "to be easy to understand or sensible",
+    "translation": "có lý, dễ hiểu",
+    "exampleSentence": "Your explanation makes sense.",
+    "exampleTranslation": "Lời giải thích của bạn rất hợp lý.",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a complaint",
+    "phonetic": "/meɪk ə kəmˈpleɪnt/",
+    "definition": "to say formally that you are not satisfied",
+    "translation": "khiếu nại, phàn nàn",
+    "exampleSentence": "I want to make a complaint about the service.",
+    "exampleTranslation": "Tôi muốn khiếu nại về dịch vụ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "do your best",
+    "phonetic": "/duː jɔːr best/",
+    "definition": "to try as hard as you can",
+    "translation": "cố gắng hết sức",
+    "exampleSentence": "Just do your best, and don't worry about the result.",
+    "exampleTranslation": "Cứ cố gắng hết sức, đừng lo về kết quả.",
+    "pos": "collocation"
+  },
+  {
+    "word": "do the cooking",
+    "phonetic": "/duː ðə ˈkʊkɪŋ/",
+    "definition": "to prepare the meals",
+    "translation": "nấu ăn, lo việc bếp núc",
+    "exampleSentence": "My father does the cooking at home.",
+    "exampleTranslation": "Ở nhà bố tôi nấu ăn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "do the ironing",
+    "phonetic": "/duː ðə ˈaɪərnɪŋ/",
+    "definition": "to press clothes with an iron",
+    "translation": "ủi quần áo",
+    "exampleSentence": "She does the ironing on Sunday evenings.",
+    "exampleTranslation": "Cô ấy ủi quần áo vào tối Chủ nhật.",
+    "pos": "collocation"
+  },
+  {
+    "word": "do a good job",
+    "phonetic": "/duː ə ɡʊd dʒɑːb/",
+    "definition": "to do work well",
+    "translation": "làm tốt việc",
+    "exampleSentence": "You did a good job on the report.",
+    "exampleTranslation": "Bạn đã làm bản báo cáo rất tốt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "do the gardening",
+    "phonetic": "/duː ðə ˈɡɑːrdnɪŋ/",
+    "definition": "to look after the plants in a garden",
+    "translation": "làm vườn",
+    "exampleSentence": "They do the gardening together on weekends.",
+    "exampleTranslation": "Họ cùng nhau làm vườn vào cuối tuần.",
+    "pos": "collocation"
+  },
+  {
+    "word": "do research",
+    "phonetic": "/duː ˈriːsɜːrtʃ/",
+    "definition": "to study a subject carefully to find facts",
+    "translation": "nghiên cứu, tìm hiểu",
+    "exampleSentence": "I did some research before buying the laptop.",
+    "exampleTranslation": "Tôi đã tìm hiểu kỹ trước khi mua máy tính xách tay.",
+    "pos": "collocation"
+  },
+  {
+    "word": "do the cleaning",
+    "phonetic": "/duː ðə ˈkliːnɪŋ/",
+    "definition": "to clean the house",
+    "translation": "dọn dẹp nhà cửa",
+    "exampleSentence": "Who does the cleaning in your house?",
+    "exampleTranslation": "Ở nhà bạn ai là người dọn dẹp?",
+    "pos": "collocation"
+  },
+  {
+    "word": "do your hair",
+    "phonetic": "/duː jɔːr her/",
+    "definition": "to brush, comb or style your hair",
+    "translation": "làm tóc, chải tóc, tạo kiểu tóc",
+    "exampleSentence": "She is doing her hair before the party.",
+    "exampleTranslation": "Cô ấy đang làm tóc trước buổi tiệc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a taxi",
+    "phonetic": "/teɪk ə ˈtæksi/",
+    "definition": "to travel by taxi",
+    "translation": "đi taxi",
+    "exampleSentence": "Let's take a taxi to the airport.",
+    "exampleTranslation": "Mình đi taxi ra sân bay nhé.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a train",
+    "phonetic": "/teɪk ə treɪn/",
+    "definition": "to travel by train",
+    "translation": "đi tàu hỏa",
+    "exampleSentence": "We took a train to the coast.",
+    "exampleTranslation": "Chúng tôi đi tàu hỏa ra vùng biển.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take notes",
+    "phonetic": "/teɪk nɑːts/",
+    "definition": "to write down important points",
+    "translation": "ghi chép",
+    "exampleSentence": "Take notes during the lecture.",
+    "exampleTranslation": "Hãy ghi chép trong lúc nghe giảng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a course",
+    "phonetic": "/teɪk ə kɔːrs/",
+    "definition": "to study a subject for a period of time",
+    "translation": "học một khóa học",
+    "exampleSentence": "She is taking a course in photography.",
+    "exampleTranslation": "Cô ấy đang học một khóa nhiếp ảnh.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take an exam",
+    "phonetic": "/teɪk ən ɪɡˈzæm/",
+    "definition": "to do a test of your knowledge",
+    "translation": "dự thi, làm bài thi",
+    "exampleSentence": "I have to take an exam on Monday.",
+    "exampleTranslation": "Thứ Hai tôi phải thi một bài.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a chance",
+    "phonetic": "/teɪk ə tʃæns/",
+    "definition": "to do something that may not succeed",
+    "translation": "liều một phen, thử vận may",
+    "exampleSentence": "I decided to take a chance and apply.",
+    "exampleTranslation": "Tôi quyết định liều ứng tuyển.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take care of",
+    "phonetic": "/teɪk ker əv/",
+    "definition": "to look after someone or something",
+    "translation": "chăm sóc, lo liệu",
+    "exampleSentence": "She takes care of her grandmother.",
+    "exampleTranslation": "Cô ấy chăm sóc bà của mình.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take place",
+    "phonetic": "/teɪk pleɪs/",
+    "definition": "to happen, especially at a planned time",
+    "translation": "diễn ra",
+    "exampleSentence": "The wedding will take place in May.",
+    "exampleTranslation": "Đám cưới sẽ diễn ra vào tháng Năm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take turns",
+    "phonetic": "/teɪk tɜːrnz/",
+    "definition": "to do something one after another in order",
+    "translation": "thay phiên nhau",
+    "exampleSentence": "The children take turns on the swing.",
+    "exampleTranslation": "Bọn trẻ thay phiên nhau chơi xích đu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take your time",
+    "phonetic": "/teɪk jɔːr taɪm/",
+    "definition": "to do something without hurrying",
+    "translation": "cứ từ từ, không cần vội",
+    "exampleSentence": "Take your time. We're not in a hurry.",
+    "exampleTranslation": "Cứ từ từ. Chúng ta không vội.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a deep breath",
+    "phonetic": "/teɪk ə diːp breθ/",
+    "definition": "to breathe in a lot of air slowly",
+    "translation": "hít một hơi thật sâu",
+    "exampleSentence": "Take a deep breath and relax.",
+    "exampleTranslation": "Hãy hít một hơi thật sâu và thư giãn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take part in",
+    "phonetic": "/teɪk pɑːrt ɪn/",
+    "definition": "to join an activity or event",
+    "translation": "tham gia",
+    "exampleSentence": "Over fifty people took part in the race.",
+    "exampleTranslation": "Hơn năm mươi người đã tham gia cuộc đua.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have dinner",
+    "phonetic": "/hæv ˈdɪnər/",
+    "definition": "to eat the evening meal",
+    "translation": "ăn tối",
+    "exampleSentence": "We have dinner at eight.",
+    "exampleTranslation": "Chúng tôi ăn tối lúc tám giờ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a drink",
+    "phonetic": "/hæv ə drɪŋk/",
+    "definition": "to drink something, often alcohol or a cold drink",
+    "translation": "uống gì đó",
+    "exampleSentence": "Do you want to have a drink after work?",
+    "exampleTranslation": "Bạn có muốn đi uống gì sau giờ làm không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a chat",
+    "phonetic": "/hæv ə tʃæt/",
+    "definition": "to talk in a friendly, informal way",
+    "translation": "trò chuyện, tán gẫu",
+    "exampleSentence": "We had a chat over coffee.",
+    "exampleTranslation": "Chúng tôi trò chuyện bên tách cà phê.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a baby",
+    "phonetic": "/hæv ə ˈbeɪbi/",
+    "definition": "to give birth to a child",
+    "translation": "sinh con",
+    "exampleSentence": "They are going to have a baby in June.",
+    "exampleTranslation": "Họ sắp có em bé vào tháng Sáu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have an idea",
+    "phonetic": "/hæv ən aɪˈdiːə/",
+    "definition": "to think of a plan or suggestion",
+    "translation": "nảy ra ý tưởng",
+    "exampleSentence": "I have an idea! Let's bake a cake.",
+    "exampleTranslation": "Tôi có ý này! Mình nướng bánh đi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a problem",
+    "phonetic": "/hæv ə ˈprɑːbləm/",
+    "definition": "to be in a difficult situation",
+    "translation": "gặp vấn đề, có vấn đề",
+    "exampleSentence": "I have a problem with my phone.",
+    "exampleTranslation": "Tôi gặp vấn đề với điện thoại.",
+    "pos": "collocation"
+  },
+  {
+    "word": "have a good time",
+    "phonetic": "/hæv ə ɡʊd taɪm/",
+    "definition": "to enjoy yourself",
+    "translation": "vui vẻ, có khoảng thời gian vui",
+    "exampleSentence": "Did you have a good time at the party?",
+    "exampleTranslation": "Bạn có vui ở buổi tiệc không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "have an accident",
+    "phonetic": "/hæv ən ˈæksɪdənt/",
+    "definition": "to be involved in a sudden event that causes damage or injury",
+    "translation": "bị tai nạn",
+    "exampleSentence": "He had an accident on his way home.",
+    "exampleTranslation": "Anh ấy bị tai nạn trên đường về nhà.",
+    "pos": "collocation"
+  },
+  {
+    "word": "get better",
+    "phonetic": "/ɡet ˈbetər/",
+    "definition": "to improve or recover",
+    "translation": "khá hơn, đỡ hơn",
+    "exampleSentence": "I hope you get better soon.",
+    "exampleTranslation": "Mong bạn sớm khỏe lại.",
+    "pos": "collocation"
+  },
+  {
+    "word": "get ready",
+    "phonetic": "/ɡet ˈredi/",
+    "definition": "to prepare yourself or something",
+    "translation": "chuẩn bị sẵn sàng",
+    "exampleSentence": "Get ready. The bus is coming.",
+    "exampleTranslation": "Chuẩn bị đi. Xe buýt sắp đến rồi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "get tired",
+    "phonetic": "/ɡet ˈtaɪərd/",
+    "definition": "to start to feel that you need rest",
+    "translation": "bắt đầu thấy mệt",
+    "exampleSentence": "I get tired after a long walk.",
+    "exampleTranslation": "Tôi thấy mệt sau một quãng đi bộ dài.",
+    "pos": "collocation"
+  },
+  {
+    "word": "get a receipt",
+    "phonetic": "/ɡet ə rɪˈsiːt/",
+    "definition": "to be given a note that shows you have paid",
+    "translation": "lấy hóa đơn, nhận biên lai",
+    "exampleSentence": "Remember to get a receipt when you pay.",
+    "exampleTranslation": "Nhớ lấy hóa đơn khi thanh toán.",
+    "pos": "collocation"
+  },
+  {
+    "word": "get permission",
+    "phonetic": "/ɡet pərˈmɪʃn/",
+    "definition": "to be allowed to do something",
+    "translation": "xin được phép, được cho phép",
+    "exampleSentence": "You need to get permission from your parents.",
+    "exampleTranslation": "Bạn cần xin phép bố mẹ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "get a discount",
+    "phonetic": "/ɡet ə ˈdɪskaʊnt/",
+    "definition": "to pay less than the normal price",
+    "translation": "được giảm giá",
+    "exampleSentence": "We got a discount because we paid in cash.",
+    "exampleTranslation": "Chúng tôi được giảm giá vì trả bằng tiền mặt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "give a hug",
+    "phonetic": "/ɡɪv ə hʌɡ/",
+    "definition": "to put your arms around someone to show love",
+    "translation": "ôm ai đó",
+    "exampleSentence": "She gave her brother a big hug.",
+    "exampleTranslation": "Cô ấy ôm em trai thật chặt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "give directions",
+    "phonetic": "/ɡɪv dəˈrekʃnz/",
+    "definition": "to tell someone how to get to a place",
+    "translation": "chỉ đường",
+    "exampleSentence": "Can you give me directions to the station?",
+    "exampleTranslation": "Bạn chỉ giúp tôi đường đến nhà ga được không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "give someone a ride",
+    "phonetic": "/ɡɪv ˈsʌmwʌn ə raɪd/",
+    "definition": "to take someone somewhere in your car",
+    "translation": "cho ai đi nhờ xe",
+    "exampleSentence": "Can you give me a ride to work?",
+    "exampleTranslation": "Bạn cho tôi đi nhờ xe đến chỗ làm được không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "give a presentation",
+    "phonetic": "/ɡɪv ə ˌpriːznˈteɪʃn/",
+    "definition": "to show and explain information to a group",
+    "translation": "thuyết trình",
+    "exampleSentence": "He gave a presentation on sales.",
+    "exampleTranslation": "Anh ấy thuyết trình về doanh số.",
+    "pos": "collocation"
+  }
+]

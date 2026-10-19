@@ -1,0 +1,452 @@
+[
+  {
+    "word": "hard work",
+    "phonetic": "/hɑːrd wɜːrk/",
+    "definition": "a lot of effort and time spent on a task",
+    "translation": "sự chăm chỉ, công việc nặng nhọc",
+    "exampleSentence": "Success comes from hard work.",
+    "exampleTranslation": "Thành công đến từ sự chăm chỉ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "deep sleep",
+    "phonetic": "/diːp sliːp/",
+    "definition": "sleep that is so heavy that it is hard to wake you",
+    "translation": "giấc ngủ say",
+    "exampleSentence": "The baby was in a deep sleep.",
+    "exampleTranslation": "Em bé đang ngủ say.",
+    "pos": "collocation"
+  },
+  {
+    "word": "bad habit",
+    "phonetic": "/bæd ˈhæbɪt/",
+    "definition": "something you do regularly that is not good for you",
+    "translation": "thói quen xấu",
+    "exampleSentence": "Biting your nails is a bad habit.",
+    "exampleTranslation": "Cắn móng tay là một thói quen xấu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "daily routine",
+    "phonetic": "/ˈdeɪli ruːˈtiːn/",
+    "definition": "the things you do every day",
+    "translation": "thói quen hằng ngày",
+    "exampleSentence": "My daily routine starts at six.",
+    "exampleTranslation": "Thói quen hằng ngày của tôi bắt đầu lúc sáu giờ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "busy schedule",
+    "phonetic": "/ˈbɪzi ˈskedʒuːl/",
+    "definition": "a plan with a lot of things to do",
+    "translation": "lịch trình bận rộn",
+    "exampleSentence": "She has a busy schedule this week.",
+    "exampleTranslation": "Tuần này cô ấy có lịch trình bận rộn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "tight schedule",
+    "phonetic": "/taɪt ˈskedʒuːl/",
+    "definition": "a plan with very little free time",
+    "translation": "lịch trình dày đặc",
+    "exampleSentence": "We are on a tight schedule.",
+    "exampleTranslation": "Chúng tôi đang có lịch trình dày đặc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "free time",
+    "phonetic": "/friː taɪm/",
+    "definition": "time when you are not working or studying",
+    "translation": "thời gian rảnh",
+    "exampleSentence": "What do you do in your free time?",
+    "exampleTranslation": "Bạn làm gì vào thời gian rảnh?",
+    "pos": "collocation"
+  },
+  {
+    "word": "spare time",
+    "phonetic": "/sper taɪm/",
+    "definition": "time when you are free to do what you like",
+    "translation": "thời gian rảnh rỗi",
+    "exampleSentence": "I read novels in my spare time.",
+    "exampleTranslation": "Tôi đọc tiểu thuyết vào thời gian rảnh rỗi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "great idea",
+    "phonetic": "/ɡreɪt aɪˈdiːə/",
+    "definition": "a very good plan or suggestion",
+    "translation": "ý tưởng tuyệt vời",
+    "exampleSentence": "That's a great idea!",
+    "exampleTranslation": "Ý tưởng tuyệt vời đó!",
+    "pos": "collocation"
+  },
+  {
+    "word": "bright idea",
+    "phonetic": "/braɪt aɪˈdiːə/",
+    "definition": "a clever idea",
+    "translation": "ý tưởng thông minh",
+    "exampleSentence": "Whose bright idea was this?",
+    "exampleTranslation": "Ý tưởng thông minh này của ai vậy?",
+    "pos": "collocation"
+  },
+  {
+    "word": "good idea",
+    "phonetic": "/ɡʊd aɪˈdiːə/",
+    "definition": "a sensible plan or suggestion",
+    "translation": "ý hay",
+    "exampleSentence": "It's a good idea to arrive early.",
+    "exampleTranslation": "Đến sớm là một ý hay.",
+    "pos": "collocation"
+  },
+  {
+    "word": "bad idea",
+    "phonetic": "/bæd aɪˈdiːə/",
+    "definition": "a plan that is not sensible",
+    "translation": "ý tồi",
+    "exampleSentence": "Driving at night is a bad idea.",
+    "exampleTranslation": "Lái xe vào ban đêm là một ý tồi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "tough decision",
+    "phonetic": "/tʌf dɪˈsɪʒn/",
+    "definition": "a choice that is hard to make",
+    "translation": "quyết định khó khăn",
+    "exampleSentence": "It was a tough decision to leave.",
+    "exampleTranslation": "Rời đi là một quyết định khó khăn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "final decision",
+    "phonetic": "/ˈfaɪnl dɪˈsɪʒn/",
+    "definition": "the choice that will not change",
+    "translation": "quyết định cuối cùng",
+    "exampleSentence": "The final decision is yours.",
+    "exampleTranslation": "Quyết định cuối cùng là của bạn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "serious problem",
+    "phonetic": "/ˈsɪriəs ˈprɑːbləm/",
+    "definition": "a problem that is important and dangerous",
+    "translation": "vấn đề nghiêm trọng",
+    "exampleSentence": "Pollution is a serious problem here.",
+    "exampleTranslation": "Ô nhiễm là một vấn đề nghiêm trọng ở đây.",
+    "pos": "collocation"
+  },
+  {
+    "word": "major problem",
+    "phonetic": "/ˈmeɪdʒər ˈprɑːbləm/",
+    "definition": "a big problem",
+    "translation": "vấn đề lớn",
+    "exampleSentence": "Parking is a major problem in the city.",
+    "exampleTranslation": "Chỗ đỗ xe là một vấn đề lớn trong thành phố.",
+    "pos": "collocation"
+  },
+  {
+    "word": "minor problem",
+    "phonetic": "/ˈmaɪnər ˈprɑːbləm/",
+    "definition": "a small problem that is not important",
+    "translation": "vấn đề nhỏ",
+    "exampleSentence": "It's only a minor problem.",
+    "exampleTranslation": "Chỉ là một vấn đề nhỏ thôi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "simple question",
+    "phonetic": "/ˈsɪmpl ˈkwestʃən/",
+    "definition": "a question that is easy to answer",
+    "translation": "câu hỏi đơn giản",
+    "exampleSentence": "That's a simple question.",
+    "exampleTranslation": "Đó là một câu hỏi đơn giản.",
+    "pos": "collocation"
+  },
+  {
+    "word": "difficult question",
+    "phonetic": "/ˈdɪfɪkəlt ˈkwestʃən/",
+    "definition": "a question that is hard to answer",
+    "translation": "câu hỏi khó",
+    "exampleSentence": "I couldn't answer the difficult question.",
+    "exampleTranslation": "Tôi không trả lời được câu hỏi khó đó.",
+    "pos": "collocation"
+  },
+  {
+    "word": "awkward question",
+    "phonetic": "/ˈɔːkwərd ˈkwestʃən/",
+    "definition": "a question that makes you feel uncomfortable",
+    "translation": "câu hỏi khó xử",
+    "exampleSentence": "I hope she doesn't ask any awkward questions.",
+    "exampleTranslation": "Mong là cô ấy không hỏi câu nào khó xử.",
+    "pos": "collocation"
+  },
+  {
+    "word": "short break",
+    "phonetic": "/ʃɔːrt breɪk/",
+    "definition": "a rest for a small amount of time",
+    "translation": "giờ nghỉ ngắn",
+    "exampleSentence": "Let's have a short break.",
+    "exampleTranslation": "Mình nghỉ giải lao một chút nhé.",
+    "pos": "collocation"
+  },
+  {
+    "word": "coffee break",
+    "phonetic": "/ˈkɔːfi breɪk/",
+    "definition": "a short rest from work to drink coffee",
+    "translation": "giờ nghỉ uống cà phê",
+    "exampleSentence": "We talked during the coffee break.",
+    "exampleTranslation": "Chúng tôi trò chuyện trong giờ nghỉ uống cà phê.",
+    "pos": "collocation"
+  },
+  {
+    "word": "deep breath",
+    "phonetic": "/diːp breθ/",
+    "definition": "a breath in which you fill your lungs",
+    "translation": "hơi thở sâu",
+    "exampleSentence": "He took a deep breath before he spoke.",
+    "exampleTranslation": "Anh ấy hít một hơi thật sâu trước khi nói.",
+    "pos": "collocation"
+  },
+  {
+    "word": "pleasant surprise",
+    "phonetic": "/ˈpleznt sərˈpraɪz/",
+    "definition": "something unexpected that makes you happy",
+    "translation": "bất ngờ thú vị",
+    "exampleSentence": "The gift was a pleasant surprise.",
+    "exampleTranslation": "Món quà là một bất ngờ thú vị.",
+    "pos": "collocation"
+  },
+  {
+    "word": "big surprise",
+    "phonetic": "/bɪɡ sərˈpraɪz/",
+    "definition": "something very unexpected",
+    "translation": "bất ngờ lớn",
+    "exampleSentence": "It came as a big surprise.",
+    "exampleTranslation": "Điều đó là một bất ngờ lớn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "loud noise",
+    "phonetic": "/laʊd nɔɪz/",
+    "definition": "a sound that is very strong",
+    "translation": "tiếng ồn lớn",
+    "exampleSentence": "We heard a loud noise outside.",
+    "exampleTranslation": "Chúng tôi nghe thấy một tiếng ồn lớn ở bên ngoài.",
+    "pos": "collocation"
+  },
+  {
+    "word": "bright light",
+    "phonetic": "/braɪt laɪt/",
+    "definition": "light that is very strong",
+    "translation": "ánh sáng chói",
+    "exampleSentence": "The bright light hurt my eyes.",
+    "exampleTranslation": "Ánh sáng chói làm tôi nhức mắt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "spare room",
+    "phonetic": "/sper ruːm/",
+    "definition": "a room in your home that nobody uses every day",
+    "translation": "phòng trống (dành cho khách)",
+    "exampleSentence": "Our guests are sleeping in the spare room.",
+    "exampleTranslation": "Khách của chúng tôi đang ngủ ở phòng trống.",
+    "pos": "collocation"
+  },
+  {
+    "word": "warm welcome",
+    "phonetic": "/wɔːrm ˈwelkəm/",
+    "definition": "a friendly greeting",
+    "translation": "sự chào đón nồng hậu",
+    "exampleSentence": "The hotel staff gave us a warm welcome.",
+    "exampleTranslation": "Nhân viên khách sạn chào đón chúng tôi rất nồng hậu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "sincere apology",
+    "phonetic": "/sɪnˈsɪr əˈpɑːlədʒi/",
+    "definition": "an honest statement that you are sorry",
+    "translation": "lời xin lỗi chân thành",
+    "exampleSentence": "Please accept my sincere apology.",
+    "exampleTranslation": "Xin hãy nhận lời xin lỗi chân thành của tôi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fierce competition",
+    "phonetic": "/fɪrs ˌkɑːmpəˈtɪʃn/",
+    "definition": "a very strong effort to win against others",
+    "translation": "sự cạnh tranh khốc liệt",
+    "exampleSentence": "There is fierce competition for jobs.",
+    "exampleTranslation": "Có sự cạnh tranh khốc liệt để giành việc làm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "happy ending",
+    "phonetic": "/ˈhæpi ˈendɪŋ/",
+    "definition": "an end of a story in which things go well",
+    "translation": "kết thúc có hậu",
+    "exampleSentence": "I like films with a happy ending.",
+    "exampleTranslation": "Tôi thích những bộ phim có kết thúc có hậu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "sweet dreams",
+    "phonetic": "/swiːt driːmz/",
+    "definition": "a kind wish before someone goes to sleep",
+    "translation": "chúc ngủ ngon, mơ đẹp",
+    "exampleSentence": "Good night, and sweet dreams!",
+    "exampleTranslation": "Chúc ngủ ngon và mơ đẹp nhé!",
+    "pos": "collocation"
+  },
+  {
+    "word": "sound advice",
+    "phonetic": "/saʊnd ədˈvaɪs/",
+    "definition": "advice that is sensible and reliable",
+    "translation": "lời khuyên đúng đắn",
+    "exampleSentence": "My lawyer gave me sound advice.",
+    "exampleTranslation": "Luật sư của tôi cho tôi một lời khuyên đúng đắn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "detailed information",
+    "phonetic": "/ˈdiːteɪld ˌɪnfərˈmeɪʃn/",
+    "definition": "information that includes many facts",
+    "translation": "thông tin chi tiết",
+    "exampleSentence": "The guidebook has detailed information about hotels.",
+    "exampleTranslation": "Cuốn sách hướng dẫn có thông tin chi tiết về các khách sạn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fresh air",
+    "phonetic": "/freʃ er/",
+    "definition": "clean, cool air outside",
+    "translation": "không khí trong lành",
+    "exampleSentence": "Let's go outside and get some fresh air.",
+    "exampleTranslation": "Mình ra ngoài hít thở không khí trong lành nhé.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fresh start",
+    "phonetic": "/freʃ stɑːrt/",
+    "definition": "a chance to begin again",
+    "translation": "khởi đầu mới",
+    "exampleSentence": "Moving to a new city gave him a fresh start.",
+    "exampleTranslation": "Chuyển đến thành phố mới cho anh ấy một khởi đầu mới.",
+    "pos": "collocation"
+  },
+  {
+    "word": "close call",
+    "phonetic": "/kloʊz kɔːl/",
+    "definition": "a situation in which something bad almost happened",
+    "translation": "suýt gặp nguy hiểm",
+    "exampleSentence": "That was a close call!",
+    "exampleTranslation": "Suýt nữa thì nguy rồi!",
+    "pos": "collocation"
+  },
+  {
+    "word": "narrow escape",
+    "phonetic": "/ˈnæroʊ ɪˈskeɪp/",
+    "definition": "a situation in which you only just avoid danger",
+    "translation": "thoát nạn trong gang tấc",
+    "exampleSentence": "They had a narrow escape from the fire.",
+    "exampleTranslation": "Họ thoát khỏi đám cháy trong gang tấc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "sharp knife",
+    "phonetic": "/ʃɑːrp naɪf/",
+    "definition": "a knife with an edge that cuts well",
+    "translation": "con dao sắc",
+    "exampleSentence": "Be careful with that sharp knife.",
+    "exampleTranslation": "Hãy cẩn thận với con dao sắc đó.",
+    "pos": "collocation"
+  },
+  {
+    "word": "strong smell",
+    "phonetic": "/strɔːŋ smel/",
+    "definition": "a smell that is easy to notice",
+    "translation": "mùi nồng",
+    "exampleSentence": "There is a strong smell of gas.",
+    "exampleTranslation": "Có mùi gas nồng nặc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "gentle breeze",
+    "phonetic": "/ˈdʒentl briːz/",
+    "definition": "a light, soft wind",
+    "translation": "làn gió nhẹ",
+    "exampleSentence": "A gentle breeze came from the sea.",
+    "exampleTranslation": "Một làn gió nhẹ thổi vào từ biển.",
+    "pos": "collocation"
+  },
+  {
+    "word": "warm smile",
+    "phonetic": "/wɔːrm smaɪl/",
+    "definition": "a friendly and kind smile",
+    "translation": "nụ cười ấm áp",
+    "exampleSentence": "She greeted us with a warm smile.",
+    "exampleTranslation": "Cô ấy chào chúng tôi bằng một nụ cười ấm áp.",
+    "pos": "collocation"
+  },
+  {
+    "word": "deep voice",
+    "phonetic": "/diːp vɔɪs/",
+    "definition": "a low voice",
+    "translation": "giọng trầm",
+    "exampleSentence": "He has a deep voice.",
+    "exampleTranslation": "Anh ấy có giọng trầm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "soft voice",
+    "phonetic": "/sɔːft vɔɪs/",
+    "definition": "a quiet and gentle voice",
+    "translation": "giọng nhẹ nhàng",
+    "exampleSentence": "She spoke in a soft voice.",
+    "exampleTranslation": "Cô ấy nói bằng giọng nhẹ nhàng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "loud voice",
+    "phonetic": "/laʊd vɔɪs/",
+    "definition": "a voice that is strong and easy to hear",
+    "translation": "giọng to",
+    "exampleSentence": "He called out in a loud voice.",
+    "exampleTranslation": "Anh ấy gọi lớn bằng giọng to.",
+    "pos": "collocation"
+  },
+  {
+    "word": "long hair",
+    "phonetic": "/lɔːŋ her/",
+    "definition": "hair that reaches below the shoulders",
+    "translation": "tóc dài",
+    "exampleSentence": "She has long black hair.",
+    "exampleTranslation": "Cô ấy có mái tóc đen dài.",
+    "pos": "collocation"
+  },
+  {
+    "word": "short hair",
+    "phonetic": "/ʃɔːrt her/",
+    "definition": "hair that is cut close to the head",
+    "translation": "tóc ngắn",
+    "exampleSentence": "He prefers short hair.",
+    "exampleTranslation": "Anh ấy thích để tóc ngắn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "beautiful view",
+    "phonetic": "/ˈbjuːtɪfl vjuː/",
+    "definition": "a wonderful scene that you can see",
+    "translation": "khung cảnh đẹp",
+    "exampleSentence": "The room has a beautiful view of the lake.",
+    "exampleTranslation": "Căn phòng có tầm nhìn đẹp ra hồ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "breathtaking view",
+    "phonetic": "/ˈbreθteɪkɪŋ vjuː/",
+    "definition": "a view so beautiful that it surprises you",
+    "translation": "khung cảnh ngoạn mục",
+    "exampleSentence": "We enjoyed a breathtaking view from the top.",
+    "exampleTranslation": "Chúng tôi được ngắm một khung cảnh ngoạn mục từ trên đỉnh.",
+    "pos": "collocation"
+  }
+]

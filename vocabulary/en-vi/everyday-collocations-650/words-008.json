@@ -1,0 +1,452 @@
+[
+  {
+    "word": "apply for a job",
+    "phonetic": "/əˈplaɪ fɔːr ə dʒɑːb/",
+    "definition": "to ask formally for a job",
+    "translation": "nộp đơn xin việc",
+    "exampleSentence": "She applied for a job at a bank.",
+    "exampleTranslation": "Cô ấy nộp đơn xin việc ở một ngân hàng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "find a job",
+    "phonetic": "/faɪnd ə dʒɑːb/",
+    "definition": "to succeed in getting work",
+    "translation": "tìm được việc",
+    "exampleSentence": "It took him three months to find a job.",
+    "exampleTranslation": "Anh ấy mất ba tháng để tìm được việc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "quit your job",
+    "phonetic": "/kwɪt jɔːr dʒɑːb/",
+    "definition": "to leave your job by your own choice",
+    "translation": "nghỉ việc",
+    "exampleSentence": "He quit his job to travel.",
+    "exampleTranslation": "Anh ấy nghỉ việc để đi du lịch.",
+    "pos": "collocation"
+  },
+  {
+    "word": "lose your job",
+    "phonetic": "/luːz jɔːr dʒɑːb/",
+    "definition": "to no longer have a job",
+    "translation": "mất việc",
+    "exampleSentence": "Many people lost their jobs last year.",
+    "exampleTranslation": "Nhiều người đã mất việc năm ngoái.",
+    "pos": "collocation"
+  },
+  {
+    "word": "go to work",
+    "phonetic": "/ɡoʊ tə wɜːrk/",
+    "definition": "to travel to your place of work",
+    "translation": "đi làm",
+    "exampleSentence": "I go to work by bus.",
+    "exampleTranslation": "Tôi đi làm bằng xe buýt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "work overtime",
+    "phonetic": "/wɜːrk ˈoʊvərtaɪm/",
+    "definition": "to work more hours than normal",
+    "translation": "làm thêm giờ",
+    "exampleSentence": "We had to work overtime this week.",
+    "exampleTranslation": "Tuần này chúng tôi phải làm thêm giờ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "work late",
+    "phonetic": "/wɜːrk leɪt/",
+    "definition": "to work until a late hour",
+    "translation": "làm việc muộn",
+    "exampleSentence": "She often works late on Fridays.",
+    "exampleTranslation": "Cô ấy thường làm việc muộn vào thứ Sáu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "work from home",
+    "phonetic": "/wɜːrk frəm hoʊm/",
+    "definition": "to do your job at home instead of in an office",
+    "translation": "làm việc tại nhà",
+    "exampleSentence": "I work from home two days a week.",
+    "exampleTranslation": "Tôi làm việc tại nhà hai ngày mỗi tuần.",
+    "pos": "collocation"
+  },
+  {
+    "word": "work part-time",
+    "phonetic": "/wɜːrk ˌpɑːrt ˈtaɪm/",
+    "definition": "to work fewer hours than a full working week",
+    "translation": "làm việc bán thời gian",
+    "exampleSentence": "She works part-time at a bookshop.",
+    "exampleTranslation": "Cô ấy làm bán thời gian ở một hiệu sách.",
+    "pos": "collocation"
+  },
+  {
+    "word": "work full-time",
+    "phonetic": "/wɜːrk ˌfʊl ˈtaɪm/",
+    "definition": "to work the normal number of hours in a week",
+    "translation": "làm việc toàn thời gian",
+    "exampleSentence": "He works full-time as a nurse.",
+    "exampleTranslation": "Anh ấy làm y tá toàn thời gian.",
+    "pos": "collocation"
+  },
+  {
+    "word": "attend a meeting",
+    "phonetic": "/əˈtend ə ˈmiːtɪŋ/",
+    "definition": "to be present at a meeting",
+    "translation": "dự họp",
+    "exampleSentence": "I have to attend a meeting at ten.",
+    "exampleTranslation": "Tôi phải dự một cuộc họp lúc mười giờ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "meet a deadline",
+    "phonetic": "/miːt ə ˈdedlaɪn/",
+    "definition": "to finish something by the agreed time",
+    "translation": "kịp thời hạn",
+    "exampleSentence": "We worked all night to meet the deadline.",
+    "exampleTranslation": "Chúng tôi làm việc suốt đêm để kịp thời hạn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "reach an agreement",
+    "phonetic": "/riːtʃ ən əˈɡriːmənt/",
+    "definition": "to decide something together after talking",
+    "translation": "đạt được thỏa thuận",
+    "exampleSentence": "The two sides reached an agreement.",
+    "exampleTranslation": "Hai bên đã đạt được thỏa thuận.",
+    "pos": "collocation"
+  },
+  {
+    "word": "sign a contract",
+    "phonetic": "/saɪn ə ˈkɑːntrækt/",
+    "definition": "to write your name on a legal agreement",
+    "translation": "ký hợp đồng",
+    "exampleSentence": "She signed a contract with the company.",
+    "exampleTranslation": "Cô ấy ký hợp đồng với công ty.",
+    "pos": "collocation"
+  },
+  {
+    "word": "write a report",
+    "phonetic": "/raɪt ə rɪˈpɔːrt/",
+    "definition": "to prepare a written account of something",
+    "translation": "viết báo cáo",
+    "exampleSentence": "I have to write a report by Friday.",
+    "exampleTranslation": "Tôi phải viết một bản báo cáo trước thứ Sáu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "send an email",
+    "phonetic": "/send ən ˈiːmeɪl/",
+    "definition": "to write and send a message by email",
+    "translation": "gửi email",
+    "exampleSentence": "Please send me an email with the details.",
+    "exampleTranslation": "Xin hãy gửi email cho tôi kèm thông tin chi tiết.",
+    "pos": "collocation"
+  },
+  {
+    "word": "reply to an email",
+    "phonetic": "/rɪˈplaɪ tə ən ˈiːmeɪl/",
+    "definition": "to answer an email",
+    "translation": "trả lời email",
+    "exampleSentence": "I forgot to reply to your email.",
+    "exampleTranslation": "Tôi quên trả lời email của bạn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a profit",
+    "phonetic": "/meɪk ə ˈprɑːfɪt/",
+    "definition": "to earn more money than you spend",
+    "translation": "có lãi, kiếm lời",
+    "exampleSentence": "The shop made a profit this year.",
+    "exampleTranslation": "Năm nay cửa hàng có lãi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "earn a living",
+    "phonetic": "/ɜːrn ə ˈlɪvɪŋ/",
+    "definition": "to earn enough money to live",
+    "translation": "kiếm sống",
+    "exampleSentence": "She earns a living as a translator.",
+    "exampleTranslation": "Cô ấy kiếm sống bằng nghề phiên dịch.",
+    "pos": "collocation"
+  },
+  {
+    "word": "earn money",
+    "phonetic": "/ɜːrn ˈmʌni/",
+    "definition": "to get money by working",
+    "translation": "kiếm tiền",
+    "exampleSentence": "He earns money by teaching English.",
+    "exampleTranslation": "Anh ấy kiếm tiền bằng cách dạy tiếng Anh.",
+    "pos": "collocation"
+  },
+  {
+    "word": "get a pay raise",
+    "phonetic": "/ɡet ə peɪ reɪz/",
+    "definition": "to be given more money for your work",
+    "translation": "được tăng lương",
+    "exampleSentence": "She got a pay raise after one year.",
+    "exampleTranslation": "Cô ấy được tăng lương sau một năm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "get promoted",
+    "phonetic": "/ɡet prəˈmoʊtɪd/",
+    "definition": "to be given a more senior job",
+    "translation": "được thăng chức",
+    "exampleSentence": "If you get promoted, you will get a pay rise.",
+    "exampleTranslation": "Nếu được thăng chức, bạn sẽ được tăng lương.",
+    "pos": "collocation"
+  },
+  {
+    "word": "get paid",
+    "phonetic": "/ɡet peɪd/",
+    "definition": "to receive your salary or wages",
+    "translation": "được trả lương",
+    "exampleSentence": "I get paid on the last day of the month.",
+    "exampleTranslation": "Tôi được trả lương vào ngày cuối tháng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a day off",
+    "phonetic": "/teɪk ə deɪ ɔːf/",
+    "definition": "to not work for a day",
+    "translation": "nghỉ một ngày",
+    "exampleSentence": "I'm going to take a day off next week.",
+    "exampleTranslation": "Tuần sau tôi sẽ nghỉ một ngày.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take time off",
+    "phonetic": "/teɪk taɪm ɔːf/",
+    "definition": "to be away from work for a period",
+    "translation": "nghỉ phép một thời gian",
+    "exampleSentence": "She took time off to look after her mother.",
+    "exampleTranslation": "Cô ấy nghỉ phép một thời gian để chăm mẹ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "go on strike",
+    "phonetic": "/ɡoʊ ɑːn straɪk/",
+    "definition": "to stop working as a protest",
+    "translation": "đình công",
+    "exampleSentence": "The workers went on strike.",
+    "exampleTranslation": "Công nhân đã đình công.",
+    "pos": "collocation"
+  },
+  {
+    "word": "run a company",
+    "phonetic": "/rʌn ə ˈkʌmpəni/",
+    "definition": "to manage a company",
+    "translation": "điều hành một công ty",
+    "exampleSentence": "He runs a company with fifty employees.",
+    "exampleTranslation": "Anh ấy điều hành một công ty có năm mươi nhân viên.",
+    "pos": "collocation"
+  },
+  {
+    "word": "start a business",
+    "phonetic": "/stɑːrt ə ˈbɪznəs/",
+    "definition": "to begin a new business",
+    "translation": "khởi nghiệp, mở doanh nghiệp",
+    "exampleSentence": "She wants to start a business.",
+    "exampleTranslation": "Cô ấy muốn khởi nghiệp.",
+    "pos": "collocation"
+  },
+  {
+    "word": "set up a company",
+    "phonetic": "/set ʌp ə ˈkʌmpəni/",
+    "definition": "to create a new company",
+    "translation": "thành lập công ty",
+    "exampleSentence": "They set up a company in 2020.",
+    "exampleTranslation": "Họ thành lập công ty vào năm 2020.",
+    "pos": "collocation"
+  },
+  {
+    "word": "open a bank account",
+    "phonetic": "/ˈoʊpən ə bæŋk əˈkaʊnt/",
+    "definition": "to start an account with a bank",
+    "translation": "mở tài khoản ngân hàng",
+    "exampleSentence": "I need to open a bank account.",
+    "exampleTranslation": "Tôi cần mở một tài khoản ngân hàng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "withdraw money",
+    "phonetic": "/wɪðˈdrɔː ˈmʌni/",
+    "definition": "to take money out of a bank account",
+    "translation": "rút tiền",
+    "exampleSentence": "You can withdraw money at any ATM.",
+    "exampleTranslation": "Bạn có thể rút tiền ở bất kỳ cây ATM nào.",
+    "pos": "collocation"
+  },
+  {
+    "word": "deposit money",
+    "phonetic": "/dɪˈpɑːzɪt ˈmʌni/",
+    "definition": "to put money into a bank account",
+    "translation": "gửi tiền",
+    "exampleSentence": "I deposited money in my savings account.",
+    "exampleTranslation": "Tôi gửi tiền vào tài khoản tiết kiệm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "transfer money",
+    "phonetic": "/trænsˈfɜːr ˈmʌni/",
+    "definition": "to send money from one account to another",
+    "translation": "chuyển tiền",
+    "exampleSentence": "I transferred money to my sister.",
+    "exampleTranslation": "Tôi chuyển tiền cho chị gái.",
+    "pos": "collocation"
+  },
+  {
+    "word": "borrow money",
+    "phonetic": "/ˈbɔːroʊ ˈmʌni/",
+    "definition": "to get money from someone and pay it back later",
+    "translation": "vay tiền",
+    "exampleSentence": "He had to borrow money from his friend.",
+    "exampleTranslation": "Anh ấy phải vay tiền của bạn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "lend money",
+    "phonetic": "/lend ˈmʌni/",
+    "definition": "to give someone money that they will pay back later",
+    "translation": "cho vay tiền",
+    "exampleSentence": "Can you lend me some money until Friday?",
+    "exampleTranslation": "Bạn cho tôi vay ít tiền đến thứ Sáu được không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "owe money",
+    "phonetic": "/oʊ ˈmʌni/",
+    "definition": "to have to pay someone money",
+    "translation": "nợ tiền",
+    "exampleSentence": "I owe money to the bank.",
+    "exampleTranslation": "Tôi nợ tiền ngân hàng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "repay a loan",
+    "phonetic": "/rɪˈpeɪ ə loʊn/",
+    "definition": "to pay back money you borrowed",
+    "translation": "trả nợ khoản vay",
+    "exampleSentence": "It took ten years to repay the loan.",
+    "exampleTranslation": "Phải mất mười năm để trả hết khoản vay.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take out a loan",
+    "phonetic": "/teɪk aʊt ə loʊn/",
+    "definition": "to borrow money from a bank",
+    "translation": "vay ngân hàng",
+    "exampleSentence": "They took out a loan to buy a house.",
+    "exampleTranslation": "Họ vay ngân hàng để mua nhà.",
+    "pos": "collocation"
+  },
+  {
+    "word": "pay taxes",
+    "phonetic": "/peɪ tæksɪz/",
+    "definition": "to give money to the government",
+    "translation": "đóng thuế",
+    "exampleSentence": "Everyone has to pay taxes.",
+    "exampleTranslation": "Ai cũng phải đóng thuế.",
+    "pos": "collocation"
+  },
+  {
+    "word": "invest money",
+    "phonetic": "/ɪnˈvest ˈmʌni/",
+    "definition": "to put money into something to make more money",
+    "translation": "đầu tư tiền",
+    "exampleSentence": "She invested money in a small business.",
+    "exampleTranslation": "Cô ấy đầu tư tiền vào một việc kinh doanh nhỏ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "lose money",
+    "phonetic": "/luːz ˈmʌni/",
+    "definition": "to have less money than before",
+    "translation": "mất tiền, thua lỗ",
+    "exampleSentence": "The company lost money last year.",
+    "exampleTranslation": "Năm ngoái công ty thua lỗ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "raise money",
+    "phonetic": "/reɪz ˈmʌni/",
+    "definition": "to collect money for a purpose",
+    "translation": "gây quỹ",
+    "exampleSentence": "The students raised money for charity.",
+    "exampleTranslation": "Các sinh viên gây quỹ từ thiện.",
+    "pos": "collocation"
+  },
+  {
+    "word": "tight budget",
+    "phonetic": "/taɪt ˈbʌdʒɪt/",
+    "definition": "a small amount of money to spend",
+    "translation": "ngân sách eo hẹp",
+    "exampleSentence": "We are on a tight budget this month.",
+    "exampleTranslation": "Tháng này chúng tôi có ngân sách eo hẹp.",
+    "pos": "collocation"
+  },
+  {
+    "word": "monthly salary",
+    "phonetic": "/ˈmʌnθli ˈsæləri/",
+    "definition": "the money you are paid each month",
+    "translation": "lương hằng tháng",
+    "exampleSentence": "Her monthly salary is two thousand dollars.",
+    "exampleTranslation": "Lương hằng tháng của cô ấy là hai nghìn đô.",
+    "pos": "collocation"
+  },
+  {
+    "word": "full-time job",
+    "phonetic": "/ˌfʊl ˈtaɪm dʒɑːb/",
+    "definition": "a job with the normal number of working hours",
+    "translation": "công việc toàn thời gian",
+    "exampleSentence": "He is looking for a full-time job.",
+    "exampleTranslation": "Anh ấy đang tìm một công việc toàn thời gian.",
+    "pos": "collocation"
+  },
+  {
+    "word": "part-time job",
+    "phonetic": "/ˌpɑːrt ˈtaɪm dʒɑːb/",
+    "definition": "a job with fewer hours than a full working week",
+    "translation": "công việc bán thời gian",
+    "exampleSentence": "She has a part-time job at a café.",
+    "exampleTranslation": "Cô ấy có một công việc bán thời gian ở quán cà phê.",
+    "pos": "collocation"
+  },
+  {
+    "word": "job interview",
+    "phonetic": "/dʒɑːb ˈɪntərvjuː/",
+    "definition": "a formal meeting to decide if you will get a job",
+    "translation": "buổi phỏng vấn xin việc",
+    "exampleSentence": "I have a job interview tomorrow.",
+    "exampleTranslation": "Ngày mai tôi có buổi phỏng vấn xin việc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "business trip",
+    "phonetic": "/ˈbɪznəs trɪp/",
+    "definition": "a trip made for work",
+    "translation": "chuyến công tác",
+    "exampleSentence": "He is away on a business trip.",
+    "exampleTranslation": "Anh ấy đang đi công tác.",
+    "pos": "collocation"
+  },
+  {
+    "word": "business card",
+    "phonetic": "/ˈbɪznəs kɑːrd/",
+    "definition": "a small card with your name and job details",
+    "translation": "danh thiếp",
+    "exampleSentence": "Here is my business card.",
+    "exampleTranslation": "Đây là danh thiếp của tôi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "work experience",
+    "phonetic": "/wɜːrk ɪkˈspɪriəns/",
+    "definition": "the skills and knowledge you get from doing a job",
+    "translation": "kinh nghiệm làm việc",
+    "exampleSentence": "This job needs two years of work experience.",
+    "exampleTranslation": "Công việc này cần hai năm kinh nghiệm làm việc.",
+    "pos": "collocation"
+  }
+]

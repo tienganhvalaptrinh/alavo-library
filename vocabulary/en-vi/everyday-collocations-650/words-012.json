@@ -1,0 +1,452 @@
+[
+  {
+    "word": "bus driver",
+    "phonetic": "/bʌs ˈdraɪvər/",
+    "definition": "a person whose job is to drive a bus",
+    "translation": "tài xế xe buýt",
+    "exampleSentence": "The bus driver was very friendly.",
+    "exampleTranslation": "Tài xế xe buýt rất thân thiện.",
+    "pos": "collocation"
+  },
+  {
+    "word": "parking lot",
+    "phonetic": "/ˈpɑːrkɪŋ lɑːt/",
+    "definition": "an open area where you can leave your car",
+    "translation": "bãi đỗ xe",
+    "exampleSentence": "I'll meet you in the parking lot.",
+    "exampleTranslation": "Mình gặp bạn ở bãi đỗ xe nhé.",
+    "pos": "collocation"
+  },
+  {
+    "word": "phone number",
+    "phonetic": "/foʊn ˈnʌmbər/",
+    "definition": "the numbers you press to call a phone",
+    "translation": "số điện thoại",
+    "exampleSentence": "Can I have your phone number?",
+    "exampleTranslation": "Cho tôi xin số điện thoại của bạn được không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "phone bill",
+    "phonetic": "/foʊn bɪl/",
+    "definition": "a statement of how much you must pay for phone calls",
+    "translation": "hóa đơn điện thoại",
+    "exampleSentence": "My phone bill is high this month.",
+    "exampleTranslation": "Tháng này hóa đơn điện thoại của tôi cao.",
+    "pos": "collocation"
+  },
+  {
+    "word": "text message",
+    "phonetic": "/tekst ˈmesɪdʒ/",
+    "definition": "a short written message sent from a phone",
+    "translation": "tin nhắn văn bản",
+    "exampleSentence": "I got a text message from my sister.",
+    "exampleTranslation": "Tôi nhận được một tin nhắn từ chị gái.",
+    "pos": "collocation"
+  },
+  {
+    "word": "email address",
+    "phonetic": "/ˈiːmeɪl əˈdres/",
+    "definition": "the letters and signs you use to send an email to someone",
+    "translation": "địa chỉ email",
+    "exampleSentence": "What's your email address?",
+    "exampleTranslation": "Địa chỉ email của bạn là gì?",
+    "pos": "collocation"
+  },
+  {
+    "word": "coffee shop",
+    "phonetic": "/ˈkɔːfi ʃɑːp/",
+    "definition": "a small restaurant that serves coffee and snacks",
+    "translation": "quán cà phê",
+    "exampleSentence": "We met at a coffee shop.",
+    "exampleTranslation": "Chúng tôi gặp nhau ở một quán cà phê.",
+    "pos": "collocation"
+  },
+  {
+    "word": "shopping mall",
+    "phonetic": "/ˈʃɑːpɪŋ mɔːl/",
+    "definition": "a large building with many shops inside",
+    "translation": "trung tâm mua sắm",
+    "exampleSentence": "The new shopping mall opens next month.",
+    "exampleTranslation": "Trung tâm mua sắm mới sẽ khai trương vào tháng sau.",
+    "pos": "collocation"
+  },
+  {
+    "word": "swimming pool",
+    "phonetic": "/ˈswɪmɪŋ puːl/",
+    "definition": "a large container of water for swimming",
+    "translation": "bể bơi",
+    "exampleSentence": "Our hotel has a big swimming pool.",
+    "exampleTranslation": "Khách sạn của chúng tôi có một bể bơi lớn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "living room",
+    "phonetic": "/ˈlɪvɪŋ ruːm/",
+    "definition": "the room in a house where people sit and relax",
+    "translation": "phòng khách",
+    "exampleSentence": "We watched TV in the living room.",
+    "exampleTranslation": "Chúng tôi xem ti vi trong phòng khách.",
+    "pos": "collocation"
+  },
+  {
+    "word": "dining room",
+    "phonetic": "/ˈdaɪnɪŋ ruːm/",
+    "definition": "the room in a house where people eat meals",
+    "translation": "phòng ăn",
+    "exampleSentence": "Dinner is served in the dining room.",
+    "exampleTranslation": "Bữa tối được dọn trong phòng ăn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "washing machine",
+    "phonetic": "/ˈwɑːʃɪŋ məˈʃiːn/",
+    "definition": "a machine for washing clothes",
+    "translation": "máy giặt",
+    "exampleSentence": "The washing machine is broken.",
+    "exampleTranslation": "Máy giặt bị hỏng rồi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "alarm clock",
+    "phonetic": "/əˈlɑːrm klɑːk/",
+    "definition": "a clock that makes a noise to wake you up",
+    "translation": "đồng hồ báo thức",
+    "exampleSentence": "My alarm clock rings at six.",
+    "exampleTranslation": "Đồng hồ báo thức của tôi reo lúc sáu giờ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "front door",
+    "phonetic": "/frʌnt dɔːr/",
+    "definition": "the main door at the front of a house",
+    "translation": "cửa trước, cửa chính",
+    "exampleSentence": "Someone is knocking at the front door.",
+    "exampleTranslation": "Có ai đó đang gõ cửa chính.",
+    "pos": "collocation"
+  },
+  {
+    "word": "birthday party",
+    "phonetic": "/ˈbɜːrθdeɪ ˈpɑːrti/",
+    "definition": "a party to celebrate someone's birthday",
+    "translation": "tiệc sinh nhật",
+    "exampleSentence": "We are having a birthday party for her.",
+    "exampleTranslation": "Chúng tôi đang tổ chức tiệc sinh nhật cho cô ấy.",
+    "pos": "collocation"
+  },
+  {
+    "word": "birthday cake",
+    "phonetic": "/ˈbɜːrθdeɪ keɪk/",
+    "definition": "a cake that you eat to celebrate a birthday",
+    "translation": "bánh sinh nhật",
+    "exampleSentence": "She blew out the candles on her birthday cake.",
+    "exampleTranslation": "Cô ấy thổi nến trên chiếc bánh sinh nhật.",
+    "pos": "collocation"
+  },
+  {
+    "word": "wedding dress",
+    "phonetic": "/ˈwedɪŋ dres/",
+    "definition": "the dress a woman wears at her wedding",
+    "translation": "váy cưới",
+    "exampleSentence": "Her wedding dress was white and simple.",
+    "exampleTranslation": "Váy cưới của cô ấy màu trắng và đơn giản.",
+    "pos": "collocation"
+  },
+  {
+    "word": "lunch break",
+    "phonetic": "/lʌntʃ breɪk/",
+    "definition": "the time in the middle of the day when you stop work to eat",
+    "translation": "giờ nghỉ trưa",
+    "exampleSentence": "I usually go for a walk during my lunch break.",
+    "exampleTranslation": "Tôi thường đi dạo vào giờ nghỉ trưa.",
+    "pos": "collocation"
+  },
+  {
+    "word": "dinner party",
+    "phonetic": "/ˈdɪnər ˈpɑːrti/",
+    "definition": "a social event where guests eat dinner at someone's home",
+    "translation": "bữa tiệc tối ở nhà",
+    "exampleSentence": "They invited us to a dinner party.",
+    "exampleTranslation": "Họ mời chúng tôi đến một bữa tiệc tối.",
+    "pos": "collocation"
+  },
+  {
+    "word": "bedtime story",
+    "phonetic": "/ˈbedtaɪm ˈstɔːri/",
+    "definition": "a story that you read to a child before they go to sleep",
+    "translation": "truyện kể trước khi ngủ",
+    "exampleSentence": "He reads his son a bedtime story every night.",
+    "exampleTranslation": "Mỗi tối anh ấy đọc truyện cho con trai trước khi ngủ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "traffic light",
+    "phonetic": "/ˈtræfɪk laɪt/",
+    "definition": "a set of red, yellow and green lights that controls traffic",
+    "translation": "đèn giao thông",
+    "exampleSentence": "Turn right at the traffic light.",
+    "exampleTranslation": "Rẽ phải ở chỗ đèn giao thông.",
+    "pos": "collocation"
+  },
+  {
+    "word": "road sign",
+    "phonetic": "/roʊd saɪn/",
+    "definition": "a sign by the road that gives information to drivers",
+    "translation": "biển báo giao thông",
+    "exampleSentence": "Read the road sign carefully.",
+    "exampleTranslation": "Hãy đọc kỹ biển báo giao thông.",
+    "pos": "collocation"
+  },
+  {
+    "word": "car accident",
+    "phonetic": "/kɑːr ˈæksɪdənt/",
+    "definition": "a crash involving a car",
+    "translation": "tai nạn ô tô",
+    "exampleSentence": "He was injured in a car accident.",
+    "exampleTranslation": "Anh ấy bị thương trong một vụ tai nạn ô tô.",
+    "pos": "collocation"
+  },
+  {
+    "word": "smoke alarm",
+    "phonetic": "/smoʊk əˈlɑːrm/",
+    "definition": "a device that makes a loud noise when it senses smoke",
+    "translation": "máy báo khói",
+    "exampleSentence": "The smoke alarm went off in the kitchen.",
+    "exampleTranslation": "Máy báo khói kêu trong bếp.",
+    "pos": "collocation"
+  },
+  {
+    "word": "social media",
+    "phonetic": "/ˈsoʊʃl ˈmiːdiə/",
+    "definition": "websites and apps where people share content and talk to each other",
+    "translation": "mạng xã hội",
+    "exampleSentence": "She spends a lot of time on social media.",
+    "exampleTranslation": "Cô ấy dành nhiều thời gian trên mạng xã hội.",
+    "pos": "collocation"
+  },
+  {
+    "word": "weather forecast",
+    "phonetic": "/ˈweðər ˈfɔːrkæst/",
+    "definition": "a report saying what the weather will be like",
+    "translation": "dự báo thời tiết",
+    "exampleSentence": "The weather forecast says it will rain tomorrow.",
+    "exampleTranslation": "Dự báo thời tiết nói ngày mai sẽ mưa.",
+    "pos": "collocation"
+  },
+  {
+    "word": "customer service",
+    "phonetic": "/ˈkʌstəmər ˈsɜːrvɪs/",
+    "definition": "the help that a company gives to its customers",
+    "translation": "dịch vụ khách hàng, chăm sóc khách hàng",
+    "exampleSentence": "I called customer service about my order.",
+    "exampleTranslation": "Tôi gọi chăm sóc khách hàng về đơn hàng của mình.",
+    "pos": "collocation"
+  },
+  {
+    "word": "opening hours",
+    "phonetic": "/ˈoʊpənɪŋ ˈaʊərz/",
+    "definition": "the times when a place is open",
+    "translation": "giờ mở cửa",
+    "exampleSentence": "What are the opening hours of the museum?",
+    "exampleTranslation": "Giờ mở cửa của bảo tàng là khi nào?",
+    "pos": "collocation"
+  },
+  {
+    "word": "highly recommend",
+    "phonetic": "/ˈhaɪli ˌrekəˈmend/",
+    "definition": "to say strongly that something is very good",
+    "translation": "rất khuyên dùng, rất giới thiệu",
+    "exampleSentence": "I highly recommend this restaurant.",
+    "exampleTranslation": "Tôi rất giới thiệu nhà hàng này.",
+    "pos": "collocation"
+  },
+  {
+    "word": "strongly agree",
+    "phonetic": "/ˈstrɔːŋli əˈɡriː/",
+    "definition": "to agree completely with something",
+    "translation": "hoàn toàn đồng ý",
+    "exampleSentence": "I strongly agree with your opinion.",
+    "exampleTranslation": "Tôi hoàn toàn đồng ý với ý kiến của bạn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fully aware",
+    "phonetic": "/ˈfʊli əˈwer/",
+    "definition": "knowing about something completely",
+    "translation": "hoàn toàn nhận thức được",
+    "exampleSentence": "I'm fully aware of the problem.",
+    "exampleTranslation": "Tôi hoàn toàn nhận thức được vấn đề.",
+    "pos": "collocation"
+  },
+  {
+    "word": "completely different",
+    "phonetic": "/kəmˈpliːtli ˈdɪfrənt/",
+    "definition": "not like something else at all",
+    "translation": "hoàn toàn khác",
+    "exampleSentence": "The two cities are completely different.",
+    "exampleTranslation": "Hai thành phố này hoàn toàn khác nhau.",
+    "pos": "collocation"
+  },
+  {
+    "word": "badly damaged",
+    "phonetic": "/ˈbædli ˈdæmɪdʒd/",
+    "definition": "harmed in a serious way",
+    "translation": "hư hại nặng",
+    "exampleSentence": "The car was badly damaged.",
+    "exampleTranslation": "Chiếc xe bị hư hại nặng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "seriously injured",
+    "phonetic": "/ˈsɪriəsli ˈɪndʒərd/",
+    "definition": "hurt in a way that is dangerous",
+    "translation": "bị thương nặng",
+    "exampleSentence": "Two people were seriously injured.",
+    "exampleTranslation": "Hai người bị thương nặng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "terribly sorry",
+    "phonetic": "/ˈterəbli ˈsɑːri/",
+    "definition": "very sorry",
+    "translation": "vô cùng xin lỗi",
+    "exampleSentence": "I'm terribly sorry for the delay.",
+    "exampleTranslation": "Tôi vô cùng xin lỗi vì sự chậm trễ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "extremely important",
+    "phonetic": "/ɪkˈstriːmli ɪmˈpɔːrtnt/",
+    "definition": "very important",
+    "translation": "cực kỳ quan trọng",
+    "exampleSentence": "Sleep is extremely important for children.",
+    "exampleTranslation": "Giấc ngủ cực kỳ quan trọng với trẻ em.",
+    "pos": "collocation"
+  },
+  {
+    "word": "perfectly normal",
+    "phonetic": "/ˈpɜːrfɪktli ˈnɔːrml/",
+    "definition": "completely usual and not strange",
+    "translation": "hoàn toàn bình thường",
+    "exampleSentence": "It's perfectly normal to feel nervous.",
+    "exampleTranslation": "Cảm thấy lo lắng là hoàn toàn bình thường.",
+    "pos": "collocation"
+  },
+  {
+    "word": "widely known",
+    "phonetic": "/ˈwaɪdli noʊn/",
+    "definition": "known by many people",
+    "translation": "được nhiều người biết đến",
+    "exampleSentence": "The singer is widely known in Asia.",
+    "exampleTranslation": "Ca sĩ này được nhiều người biết đến ở châu Á.",
+    "pos": "collocation"
+  },
+  {
+    "word": "freshly baked",
+    "phonetic": "/ˈfreʃli beɪkt/",
+    "definition": "baked a short time ago",
+    "translation": "mới nướng",
+    "exampleSentence": "I love the smell of freshly baked bread.",
+    "exampleTranslation": "Tôi thích mùi bánh mì mới nướng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "happily married",
+    "phonetic": "/ˈhæpɪli ˈmærid/",
+    "definition": "married and feeling happy",
+    "translation": "hạnh phúc trong hôn nhân",
+    "exampleSentence": "They have been happily married for thirty years.",
+    "exampleTranslation": "Họ đã có cuộc hôn nhân hạnh phúc suốt ba mươi năm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fast asleep",
+    "phonetic": "/fæst əˈsliːp/",
+    "definition": "sleeping deeply",
+    "translation": "ngủ say",
+    "exampleSentence": "The baby is fast asleep.",
+    "exampleTranslation": "Em bé đang ngủ say.",
+    "pos": "collocation"
+  },
+  {
+    "word": "wide awake",
+    "phonetic": "/waɪd əˈweɪk/",
+    "definition": "completely awake",
+    "translation": "tỉnh táo hoàn toàn",
+    "exampleSentence": "I was wide awake at three in the morning.",
+    "exampleTranslation": "Ba giờ sáng tôi vẫn tỉnh như sáo.",
+    "pos": "collocation"
+  },
+  {
+    "word": "bitterly cold",
+    "phonetic": "/ˈbɪtərli koʊld/",
+    "definition": "extremely cold",
+    "translation": "lạnh buốt",
+    "exampleSentence": "It was a bitterly cold night.",
+    "exampleTranslation": "Đó là một đêm lạnh buốt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "dead tired",
+    "phonetic": "/ded ˈtaɪərd/",
+    "definition": "extremely tired",
+    "translation": "mệt lả, mệt rã rời",
+    "exampleSentence": "I was dead tired after the trip.",
+    "exampleTranslation": "Sau chuyến đi tôi mệt rã rời.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fully booked",
+    "phonetic": "/ˈfʊli bʊkt/",
+    "definition": "having no rooms or seats left",
+    "translation": "kín chỗ, hết phòng",
+    "exampleSentence": "The hotel is fully booked this weekend.",
+    "exampleTranslation": "Cuối tuần này khách sạn kín phòng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "deeply grateful",
+    "phonetic": "/ˈdiːpli ˈɡreɪtfl/",
+    "definition": "feeling very thankful",
+    "translation": "vô cùng biết ơn",
+    "exampleSentence": "I am deeply grateful for your help.",
+    "exampleTranslation": "Tôi vô cùng biết ơn sự giúp đỡ của bạn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "painfully shy",
+    "phonetic": "/ˈpeɪnfəli ʃaɪ/",
+    "definition": "extremely shy in a way that makes you uncomfortable",
+    "translation": "rụt rè đến khổ sở",
+    "exampleSentence": "He was painfully shy as a child.",
+    "exampleTranslation": "Hồi nhỏ cậu ấy rụt rè đến khổ sở.",
+    "pos": "collocation"
+  },
+  {
+    "word": "perfectly clear",
+    "phonetic": "/ˈpɜːrfɪktli klɪr/",
+    "definition": "easy to understand in every way",
+    "translation": "hoàn toàn rõ ràng",
+    "exampleSentence": "Your instructions were perfectly clear.",
+    "exampleTranslation": "Hướng dẫn của bạn hoàn toàn rõ ràng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "absolutely delicious",
+    "phonetic": "/ˈæbsəluːtli dɪˈlɪʃəs/",
+    "definition": "extremely tasty",
+    "translation": "ngon tuyệt",
+    "exampleSentence": "The soup was absolutely delicious.",
+    "exampleTranslation": "Món súp ngon tuyệt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "firmly believe",
+    "phonetic": "/ˈfɜːrmli bɪˈliːv/",
+    "definition": "to believe something very strongly",
+    "translation": "tin chắc",
+    "exampleSentence": "I firmly believe that you can do it.",
+    "exampleTranslation": "Tôi tin chắc rằng bạn làm được.",
+    "pos": "collocation"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "word": "heavy rain",
+    "phonetic": "/ˈhevi reɪn/",
+    "definition": "a lot of rain falling quickly",
+    "translation": "mưa lớn",
+    "exampleSentence": "We were caught in heavy rain.",
+    "exampleTranslation": "Chúng tôi bị mắc mưa lớn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "light rain",
+    "phonetic": "/laɪt reɪn/",
+    "definition": "a small amount of rain",
+    "translation": "mưa nhẹ",
+    "exampleSentence": "There was a light rain this morning.",
+    "exampleTranslation": "Sáng nay có mưa nhẹ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "heavy snow",
+    "phonetic": "/ˈhevi snoʊ/",
+    "definition": "a lot of snow falling",
+    "translation": "tuyết rơi dày",
+    "exampleSentence": "Heavy snow closed the roads.",
+    "exampleTranslation": "Tuyết rơi dày làm đóng các con đường.",
+    "pos": "collocation"
+  },
+  {
+    "word": "strong wind",
+    "phonetic": "/strɔːŋ wɪnd/",
+    "definition": "a wind that blows with great force",
+    "translation": "gió mạnh",
+    "exampleSentence": "A strong wind blew the door shut.",
+    "exampleTranslation": "Một cơn gió mạnh làm cánh cửa đóng sập lại.",
+    "pos": "collocation"
+  },
+  {
+    "word": "thick fog",
+    "phonetic": "/θɪk fɔːɡ/",
+    "definition": "fog that is hard to see through",
+    "translation": "sương mù dày đặc",
+    "exampleSentence": "Thick fog delayed all the flights.",
+    "exampleTranslation": "Sương mù dày đặc làm trễ tất cả các chuyến bay.",
+    "pos": "collocation"
+  },
+  {
+    "word": "dark clouds",
+    "phonetic": "/dɑːrk klaʊdz/",
+    "definition": "clouds that look gray or black and may bring rain",
+    "translation": "mây đen",
+    "exampleSentence": "Dark clouds are gathering over the hills.",
+    "exampleTranslation": "Mây đen đang kéo đến trên những ngọn đồi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "clear sky",
+    "phonetic": "/klɪr skaɪ/",
+    "definition": "a sky with no clouds",
+    "translation": "bầu trời quang đãng",
+    "exampleSentence": "The stars were bright in the clear sky.",
+    "exampleTranslation": "Những vì sao sáng trên bầu trời quang đãng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "blue sky",
+    "phonetic": "/bluː skaɪ/",
+    "definition": "a sky with no clouds, showing its blue color",
+    "translation": "bầu trời xanh",
+    "exampleSentence": "We walked under a blue sky.",
+    "exampleTranslation": "Chúng tôi đi dạo dưới bầu trời xanh.",
+    "pos": "collocation"
+  },
+  {
+    "word": "bright sunshine",
+    "phonetic": "/braɪt ˈsʌnʃaɪn/",
+    "definition": "strong light from the sun",
+    "translation": "nắng chói chang",
+    "exampleSentence": "The children played in the bright sunshine.",
+    "exampleTranslation": "Bọn trẻ chơi dưới nắng chói chang.",
+    "pos": "collocation"
+  },
+  {
+    "word": "hot weather",
+    "phonetic": "/hɑːt ˈweðər/",
+    "definition": "weather with a high temperature",
+    "translation": "thời tiết nóng",
+    "exampleSentence": "I don't like hot weather.",
+    "exampleTranslation": "Tôi không thích thời tiết nóng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "freezing cold",
+    "phonetic": "/ˈfriːzɪŋ koʊld/",
+    "definition": "extremely cold",
+    "translation": "lạnh cóng",
+    "exampleSentence": "It's freezing cold outside.",
+    "exampleTranslation": "Ngoài trời lạnh cóng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "high temperature",
+    "phonetic": "/haɪ ˈtemprətʃər/",
+    "definition": "a measurement of heat that is above normal",
+    "translation": "nhiệt độ cao",
+    "exampleSentence": "High temperatures are expected this weekend.",
+    "exampleTranslation": "Cuối tuần này dự kiến có nhiệt độ cao.",
+    "pos": "collocation"
+  },
+  {
+    "word": "early morning",
+    "phonetic": "/ˈɜːrli ˈmɔːrnɪŋ/",
+    "definition": "the first part of the day",
+    "translation": "sáng sớm",
+    "exampleSentence": "I go jogging in the early morning.",
+    "exampleTranslation": "Tôi đi chạy bộ vào sáng sớm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "late afternoon",
+    "phonetic": "/leɪt ˌæftərˈnuːn/",
+    "definition": "the last part of the afternoon",
+    "translation": "chiều muộn",
+    "exampleSentence": "We arrived in the late afternoon.",
+    "exampleTranslation": "Chúng tôi đến vào chiều muộn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "late at night",
+    "phonetic": "/leɪt æt naɪt/",
+    "definition": "at a time near midnight or after",
+    "translation": "vào lúc đêm khuya",
+    "exampleSentence": "He often works late at night.",
+    "exampleTranslation": "Anh ấy thường làm việc vào lúc đêm khuya.",
+    "pos": "collocation"
+  },
+  {
+    "word": "all day long",
+    "phonetic": "/ɔːl deɪ lɔːŋ/",
+    "definition": "for the whole day",
+    "translation": "suốt cả ngày",
+    "exampleSentence": "It rained all day long.",
+    "exampleTranslation": "Trời mưa suốt cả ngày.",
+    "pos": "collocation"
+  },
+  {
+    "word": "once a week",
+    "phonetic": "/wʌns ə wiːk/",
+    "definition": "one time in each week",
+    "translation": "mỗi tuần một lần",
+    "exampleSentence": "We eat out once a week.",
+    "exampleTranslation": "Chúng tôi đi ăn ngoài mỗi tuần một lần.",
+    "pos": "collocation"
+  },
+  {
+    "word": "twice a month",
+    "phonetic": "/twaɪs ə mʌnθ/",
+    "definition": "two times in each month",
+    "translation": "mỗi tháng hai lần",
+    "exampleSentence": "She visits her parents twice a month.",
+    "exampleTranslation": "Cô ấy về thăm bố mẹ mỗi tháng hai lần.",
+    "pos": "collocation"
+  },
+  {
+    "word": "on time",
+    "phonetic": "/ɑːn taɪm/",
+    "definition": "at the planned time, not late",
+    "translation": "đúng giờ",
+    "exampleSentence": "The train arrived on time.",
+    "exampleTranslation": "Tàu đến đúng giờ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "just in time",
+    "phonetic": "/dʒʌst ɪn taɪm/",
+    "definition": "at the last possible moment",
+    "translation": "vừa kịp lúc",
+    "exampleSentence": "We got to the station just in time.",
+    "exampleTranslation": "Chúng tôi đến ga vừa kịp lúc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "right now",
+    "phonetic": "/raɪt naʊ/",
+    "definition": "at this moment",
+    "translation": "ngay lúc này",
+    "exampleSentence": "I can't talk right now.",
+    "exampleTranslation": "Lúc này tôi không nói chuyện được.",
+    "pos": "collocation"
+  },
+  {
+    "word": "for a while",
+    "phonetic": "/fɔːr ə waɪl/",
+    "definition": "for a short time",
+    "translation": "trong một lúc",
+    "exampleSentence": "Let's wait here for a while.",
+    "exampleTranslation": "Mình đợi ở đây một lúc nhé.",
+    "pos": "collocation"
+  },
+  {
+    "word": "pass the time",
+    "phonetic": "/pæs ðə taɪm/",
+    "definition": "to do something so that time seems to go faster",
+    "translation": "giết thời gian",
+    "exampleSentence": "I read a book to pass the time.",
+    "exampleTranslation": "Tôi đọc sách để giết thời gian.",
+    "pos": "collocation"
+  },
+  {
+    "word": "kill time",
+    "phonetic": "/kɪl taɪm/",
+    "definition": "to do something while you wait for something else",
+    "translation": "giết thời gian",
+    "exampleSentence": "We killed time at a café.",
+    "exampleTranslation": "Chúng tôi giết thời gian ở một quán cà phê.",
+    "pos": "collocation"
+  },
+  {
+    "word": "waste of time",
+    "phonetic": "/weɪst əv taɪm/",
+    "definition": "something that is not useful for the time it takes",
+    "translation": "lãng phí thời gian",
+    "exampleSentence": "The meeting was a waste of time.",
+    "exampleTranslation": "Cuộc họp chỉ là lãng phí thời gian.",
+    "pos": "collocation"
+  },
+  {
+    "word": "plenty of time",
+    "phonetic": "/ˈplenti əv taɪm/",
+    "definition": "more than enough time",
+    "translation": "còn nhiều thời gian",
+    "exampleSentence": "Don't rush. We have plenty of time.",
+    "exampleTranslation": "Đừng vội. Chúng ta còn nhiều thời gian.",
+    "pos": "collocation"
+  },
+  {
+    "word": "feel lonely",
+    "phonetic": "/fiːl ˈloʊnli/",
+    "definition": "to feel sad because you are alone",
+    "translation": "thấy cô đơn",
+    "exampleSentence": "She felt lonely in the new city.",
+    "exampleTranslation": "Cô ấy thấy cô đơn ở thành phố mới.",
+    "pos": "collocation"
+  },
+  {
+    "word": "feel nervous",
+    "phonetic": "/fiːl ˈnɜːrvəs/",
+    "definition": "to feel worried about something that is going to happen",
+    "translation": "thấy hồi hộp, lo lắng",
+    "exampleSentence": "I always feel nervous before an interview.",
+    "exampleTranslation": "Tôi luôn thấy lo lắng trước buổi phỏng vấn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "feel safe",
+    "phonetic": "/fiːl seɪf/",
+    "definition": "to feel that you are not in danger",
+    "translation": "thấy an toàn",
+    "exampleSentence": "I feel safe in this neighborhood.",
+    "exampleTranslation": "Tôi thấy an toàn ở khu phố này.",
+    "pos": "collocation"
+  },
+  {
+    "word": "feel at home",
+    "phonetic": "/fiːl æt hoʊm/",
+    "definition": "to feel comfortable in a place",
+    "translation": "thấy thoải mái như ở nhà",
+    "exampleSentence": "The staff made us feel at home.",
+    "exampleTranslation": "Nhân viên làm chúng tôi thấy thoải mái như ở nhà.",
+    "pos": "collocation"
+  },
+  {
+    "word": "feel guilty",
+    "phonetic": "/fiːl ˈɡɪlti/",
+    "definition": "to feel bad because you did something wrong",
+    "translation": "thấy có lỗi",
+    "exampleSentence": "I feel guilty about forgetting her birthday.",
+    "exampleTranslation": "Tôi thấy có lỗi vì quên sinh nhật cô ấy.",
+    "pos": "collocation"
+  },
+  {
+    "word": "be in a good mood",
+    "phonetic": "/biː ɪn ə ɡʊd muːd/",
+    "definition": "to feel cheerful",
+    "translation": "đang có tâm trạng tốt",
+    "exampleSentence": "She's in a good mood today.",
+    "exampleTranslation": "Hôm nay cô ấy có tâm trạng tốt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "burst into tears",
+    "phonetic": "/bɜːrst ˈɪntə terz/",
+    "definition": "to suddenly start crying",
+    "translation": "bật khóc",
+    "exampleSentence": "She burst into tears when she heard the news.",
+    "exampleTranslation": "Cô ấy bật khóc khi nghe tin.",
+    "pos": "collocation"
+  },
+  {
+    "word": "burst out laughing",
+    "phonetic": "/bɜːrst aʊt ˈlæfɪŋ/",
+    "definition": "to suddenly start laughing",
+    "translation": "bật cười",
+    "exampleSentence": "We all burst out laughing.",
+    "exampleTranslation": "Cả bọn chúng tôi bật cười.",
+    "pos": "collocation"
+  },
+  {
+    "word": "shake hands",
+    "phonetic": "/ʃeɪk hændz/",
+    "definition": "to hold someone's hand as a greeting",
+    "translation": "bắt tay",
+    "exampleSentence": "They shook hands and sat down.",
+    "exampleTranslation": "Họ bắt tay nhau rồi ngồi xuống.",
+    "pos": "collocation"
+  },
+  {
+    "word": "shake your head",
+    "phonetic": "/ʃeɪk jɔːr hed/",
+    "definition": "to move your head from side to side to say no",
+    "translation": "lắc đầu",
+    "exampleSentence": "He shook his head and said no.",
+    "exampleTranslation": "Anh ấy lắc đầu và nói không.",
+    "pos": "collocation"
+  },
+  {
+    "word": "nod your head",
+    "phonetic": "/nɑːd jɔːr hed/",
+    "definition": "to move your head up and down to say yes",
+    "translation": "gật đầu",
+    "exampleSentence": "She nodded her head in agreement.",
+    "exampleTranslation": "Cô ấy gật đầu đồng ý.",
+    "pos": "collocation"
+  },
+  {
+    "word": "shrug your shoulders",
+    "phonetic": "/ʃrʌɡ jɔːr ˈʃoʊldərz/",
+    "definition": "to raise your shoulders to show you do not know or care",
+    "translation": "nhún vai",
+    "exampleSentence": "He shrugged his shoulders and walked away.",
+    "exampleTranslation": "Anh ấy nhún vai rồi bỏ đi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "a cup of tea",
+    "phonetic": "/ə kʌp əv tiː/",
+    "definition": "tea served in a cup",
+    "translation": "một tách trà",
+    "exampleSentence": "Would you like a cup of tea?",
+    "exampleTranslation": "Bạn có muốn một tách trà không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "a glass of water",
+    "phonetic": "/ə ɡlæs əv ˈwɔːtər/",
+    "definition": "water in a drinking glass",
+    "translation": "một ly nước",
+    "exampleSentence": "Can I have a glass of water?",
+    "exampleTranslation": "Cho tôi một ly nước được không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "a bottle of water",
+    "phonetic": "/ə ˈbɑːtl əv ˈwɔːtər/",
+    "definition": "water in a bottle",
+    "translation": "một chai nước",
+    "exampleSentence": "I bought a bottle of water.",
+    "exampleTranslation": "Tôi đã mua một chai nước.",
+    "pos": "collocation"
+  },
+  {
+    "word": "a bunch of flowers",
+    "phonetic": "/ə bʌntʃ əv ˈflaʊərz/",
+    "definition": "several flowers tied together",
+    "translation": "một bó hoa",
+    "exampleSentence": "He brought her a bunch of flowers.",
+    "exampleTranslation": "Anh ấy mang đến cho cô ấy một bó hoa.",
+    "pos": "collocation"
+  },
+  {
+    "word": "a slice of pizza",
+    "phonetic": "/ə slaɪs əv ˈpiːtsə/",
+    "definition": "one piece cut from a pizza",
+    "translation": "một miếng pizza",
+    "exampleSentence": "I'd like a slice of pizza.",
+    "exampleTranslation": "Tôi muốn một miếng pizza.",
+    "pos": "collocation"
+  },
+  {
+    "word": "a loaf of bread",
+    "phonetic": "/ə loʊf əv bred/",
+    "definition": "one whole piece of bread",
+    "translation": "một ổ bánh mì",
+    "exampleSentence": "She bought a loaf of bread.",
+    "exampleTranslation": "Cô ấy mua một ổ bánh mì.",
+    "pos": "collocation"
+  },
+  {
+    "word": "a pair of shoes",
+    "phonetic": "/ə per əv ʃuːz/",
+    "definition": "two shoes that are worn together",
+    "translation": "một đôi giày",
+    "exampleSentence": "I need a new pair of shoes.",
+    "exampleTranslation": "Tôi cần một đôi giày mới.",
+    "pos": "collocation"
+  },
+  {
+    "word": "a bar of chocolate",
+    "phonetic": "/ə bɑːr əv ˈtʃɔːklət/",
+    "definition": "one long block of chocolate",
+    "translation": "một thanh sô-cô-la",
+    "exampleSentence": "He ate a bar of chocolate.",
+    "exampleTranslation": "Anh ấy ăn một thanh sô-cô-la.",
+    "pos": "collocation"
+  },
+  {
+    "word": "a carton of milk",
+    "phonetic": "/ə ˈkɑːrtn əv mɪlk/",
+    "definition": "a container of milk made of thin cardboard",
+    "translation": "một hộp sữa",
+    "exampleSentence": "Please buy a carton of milk.",
+    "exampleTranslation": "Làm ơn mua giúp một hộp sữa.",
+    "pos": "collocation"
+  },
+  {
+    "word": "a bowl of rice",
+    "phonetic": "/ə boʊl əv raɪs/",
+    "definition": "rice served in a bowl",
+    "translation": "một bát cơm",
+    "exampleSentence": "He ate a bowl of rice.",
+    "exampleTranslation": "Anh ấy ăn một bát cơm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "a piece of paper",
+    "phonetic": "/ə piːs əv ˈpeɪpər/",
+    "definition": "one sheet of paper",
+    "translation": "một mảnh giấy, một tờ giấy",
+    "exampleSentence": "Write your name on a piece of paper.",
+    "exampleTranslation": "Hãy viết tên bạn lên một tờ giấy.",
+    "pos": "collocation"
+  },
+  {
+    "word": "a piece of advice",
+    "phonetic": "/ə piːs əv ədˈvaɪs/",
+    "definition": "one suggestion about what someone should do",
+    "translation": "một lời khuyên",
+    "exampleSentence": "Let me give you a piece of advice.",
+    "exampleTranslation": "Để tôi cho bạn một lời khuyên.",
+    "pos": "collocation"
+  }
+]

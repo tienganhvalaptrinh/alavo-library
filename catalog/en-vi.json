@@ -32,7 +32,7 @@
     "wordCount": 150
   },
   {
-    "id": "toeic-service-list",
+    "id": "toeic-service-list-1250",
     "type": "vocabulary",
     "title": "TOEIC Service List",
     "description": "The 1,250 words that appear most often in TOEIC test materials, ordered by rank, with Vietnamese meanings and examples.",
@@ -44,8 +44,24 @@
     "version": "1.0.0",
     "license": "CC-BY-SA-4.0",
     "source": "Word list: TOEIC Service List 1.2 by Charles Browne and Brent Culligan (https://www.newgeneralservicelist.com/toeic-service-list), CC BY-SA 4.0. Phonetics, definitions, translations and examples written by the Alavo team.",
-    "manifest": "vocabulary/en-vi/toeic-service-list/manifest.json",
+    "manifest": "vocabulary/en-vi/toeic-service-list-1250/manifest.json",
     "wordCount": 1250
+  },
+  {
+    "id": "everyday-collocations-650",
+    "type": "vocabulary",
+    "title": "650 everyday collocations",
+    "description": "650 common word combinations used in daily life, such as make a decision and heavy rain, with Vietnamese meanings and examples.",
+    "category": "collocations",
+    "level": "mixed",
+    "order": 3,
+    "sourceLang": "en",
+    "targetLang": "vi",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "source": "Written by the Alavo team. Collocations chosen by hand from everyday topics and checked against entries in the Oxford Learner's Dictionaries and the Longman Dictionary of Contemporary English; definitions, translations and examples are original.",
+    "manifest": "vocabulary/en-vi/everyday-collocations-650/manifest.json",
+    "wordCount": 650
   },
   {
     "id": "prepositional-verbs-230",

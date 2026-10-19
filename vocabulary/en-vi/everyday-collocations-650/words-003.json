@@ -1,0 +1,452 @@
+[
+  {
+    "word": "keep a secret",
+    "phonetic": "/kiːp ə ˈsiːkrət/",
+    "definition": "to not tell anyone something private",
+    "translation": "giữ bí mật",
+    "exampleSentence": "Can you keep a secret?",
+    "exampleTranslation": "Bạn giữ bí mật được không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "keep a promise",
+    "phonetic": "/kiːp ə ˈprɑːmɪs/",
+    "definition": "to do what you said you would do",
+    "translation": "giữ lời hứa",
+    "exampleSentence": "He kept a promise and came back.",
+    "exampleTranslation": "Anh ấy giữ lời hứa và đã quay lại.",
+    "pos": "collocation"
+  },
+  {
+    "word": "keep in touch",
+    "phonetic": "/kiːp ɪn tʌtʃ/",
+    "definition": "to continue to contact someone",
+    "translation": "giữ liên lạc",
+    "exampleSentence": "Let's keep in touch after you move.",
+    "exampleTranslation": "Chúng ta giữ liên lạc nhé sau khi bạn chuyển đi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "keep quiet",
+    "phonetic": "/kiːp ˈkwaɪət/",
+    "definition": "to not speak or make a noise",
+    "translation": "giữ im lặng",
+    "exampleSentence": "Please keep quiet in the library.",
+    "exampleTranslation": "Xin hãy giữ yên lặng trong thư viện.",
+    "pos": "collocation"
+  },
+  {
+    "word": "keep calm",
+    "phonetic": "/kiːp kɑːm/",
+    "definition": "to stay relaxed in a difficult situation",
+    "translation": "giữ bình tĩnh",
+    "exampleSentence": "Keep calm and follow the instructions.",
+    "exampleTranslation": "Hãy giữ bình tĩnh và làm theo hướng dẫn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "keep the change",
+    "phonetic": "/kiːp ðə tʃeɪndʒ/",
+    "definition": "to let someone keep the extra money you gave them",
+    "translation": "không cần thối lại",
+    "exampleSentence": "Here is twenty dollars. Keep the change.",
+    "exampleTranslation": "Đây là hai mươi đô. Không cần thối lại.",
+    "pos": "collocation"
+  },
+  {
+    "word": "keep a diary",
+    "phonetic": "/kiːp ə ˈdaɪəri/",
+    "definition": "to write about your daily life regularly",
+    "translation": "viết nhật ký",
+    "exampleSentence": "She keeps a diary in English.",
+    "exampleTranslation": "Cô ấy viết nhật ký bằng tiếng Anh.",
+    "pos": "collocation"
+  },
+  {
+    "word": "save time",
+    "phonetic": "/seɪv taɪm/",
+    "definition": "to use less time to do something",
+    "translation": "tiết kiệm thời gian",
+    "exampleSentence": "Taking the train will save time.",
+    "exampleTranslation": "Đi tàu sẽ tiết kiệm thời gian.",
+    "pos": "collocation"
+  },
+  {
+    "word": "save money",
+    "phonetic": "/seɪv ˈmʌni/",
+    "definition": "to keep money instead of spending it",
+    "translation": "tiết kiệm tiền",
+    "exampleSentence": "I'm trying to save money for a new laptop.",
+    "exampleTranslation": "Tôi đang cố tiết kiệm tiền để mua máy tính xách tay mới.",
+    "pos": "collocation"
+  },
+  {
+    "word": "save energy",
+    "phonetic": "/seɪv ˈenərdʒi/",
+    "definition": "to use less electricity, gas or fuel",
+    "translation": "tiết kiệm năng lượng",
+    "exampleSentence": "Turn off the lights to save energy.",
+    "exampleTranslation": "Hãy tắt đèn để tiết kiệm năng lượng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "save a file",
+    "phonetic": "/seɪv ə faɪl/",
+    "definition": "to store a computer document",
+    "translation": "lưu tệp",
+    "exampleSentence": "Don't forget to save the file.",
+    "exampleTranslation": "Đừng quên lưu tệp.",
+    "pos": "collocation"
+  },
+  {
+    "word": "spend time",
+    "phonetic": "/spend taɪm/",
+    "definition": "to use time doing something",
+    "translation": "dành thời gian",
+    "exampleSentence": "I like to spend time with my family.",
+    "exampleTranslation": "Tôi thích dành thời gian cho gia đình.",
+    "pos": "collocation"
+  },
+  {
+    "word": "spend money",
+    "phonetic": "/spend ˈmʌni/",
+    "definition": "to use money to buy things",
+    "translation": "tiêu tiền",
+    "exampleSentence": "They spend too much money on clothes.",
+    "exampleTranslation": "Họ tiêu quá nhiều tiền vào quần áo.",
+    "pos": "collocation"
+  },
+  {
+    "word": "spend the night",
+    "phonetic": "/spend ðə naɪt/",
+    "definition": "to stay somewhere for the night",
+    "translation": "ở lại qua đêm",
+    "exampleSentence": "We spent the night at a friend's house.",
+    "exampleTranslation": "Chúng tôi ở lại qua đêm ở nhà một người bạn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "waste time",
+    "phonetic": "/weɪst taɪm/",
+    "definition": "to use time in a way that is not useful",
+    "translation": "lãng phí thời gian",
+    "exampleSentence": "Don't waste time on small problems.",
+    "exampleTranslation": "Đừng lãng phí thời gian vào những chuyện nhỏ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "waste money",
+    "phonetic": "/weɪst ˈmʌni/",
+    "definition": "to spend money in a way that is not useful",
+    "translation": "lãng phí tiền",
+    "exampleSentence": "I don't want to waste money on things I don't need.",
+    "exampleTranslation": "Tôi không muốn lãng phí tiền vào những thứ mình không cần.",
+    "pos": "collocation"
+  },
+  {
+    "word": "catch a cold",
+    "phonetic": "/kætʃ ə koʊld/",
+    "definition": "to become ill with a cold",
+    "translation": "bị cảm",
+    "exampleSentence": "Put on a coat, or you'll catch a cold.",
+    "exampleTranslation": "Mặc áo khoác vào, không thì bạn sẽ bị cảm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "catch a train",
+    "phonetic": "/kætʃ ə treɪn/",
+    "definition": "to get on a train in time",
+    "translation": "bắt kịp chuyến tàu",
+    "exampleSentence": "I need to catch a train at seven.",
+    "exampleTranslation": "Tôi cần bắt chuyến tàu lúc bảy giờ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "catch a flight",
+    "phonetic": "/kætʃ ə flaɪt/",
+    "definition": "to get on a plane in time",
+    "translation": "bắt chuyến bay",
+    "exampleSentence": "We have to catch a flight at dawn.",
+    "exampleTranslation": "Chúng tôi phải bắt chuyến bay lúc rạng sáng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "catch fire",
+    "phonetic": "/kætʃ ˈfaɪər/",
+    "definition": "to start to burn",
+    "translation": "bốc cháy, cháy",
+    "exampleSentence": "The old building caught fire last night.",
+    "exampleTranslation": "Tòa nhà cũ bốc cháy đêm qua.",
+    "pos": "collocation"
+  },
+  {
+    "word": "catch the bus",
+    "phonetic": "/kætʃ ðə bʌs/",
+    "definition": "to get on a bus in time",
+    "translation": "bắt kịp xe buýt",
+    "exampleSentence": "I ran to catch the bus.",
+    "exampleTranslation": "Tôi chạy để bắt kịp xe buýt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "miss the bus",
+    "phonetic": "/mɪs ðə bʌs/",
+    "definition": "to arrive too late to get on the bus",
+    "translation": "lỡ xe buýt",
+    "exampleSentence": "I missed the bus, so I walked.",
+    "exampleTranslation": "Tôi lỡ xe buýt nên đi bộ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "miss a flight",
+    "phonetic": "/mɪs ə flaɪt/",
+    "definition": "to arrive too late to get on the plane",
+    "translation": "lỡ chuyến bay",
+    "exampleSentence": "He missed a flight because of the traffic.",
+    "exampleTranslation": "Anh ấy lỡ chuyến bay vì kẹt xe.",
+    "pos": "collocation"
+  },
+  {
+    "word": "miss a deadline",
+    "phonetic": "/mɪs ə ˈdedlaɪn/",
+    "definition": "to not finish something by the agreed time",
+    "translation": "trễ hạn",
+    "exampleSentence": "We can't miss a deadline this time.",
+    "exampleTranslation": "Lần này chúng ta không được trễ hạn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "miss the point",
+    "phonetic": "/mɪs ðə pɔɪnt/",
+    "definition": "to not understand the main idea",
+    "translation": "không hiểu ý chính, bỏ lỡ trọng tâm",
+    "exampleSentence": "I think you are missing the point.",
+    "exampleTranslation": "Tôi nghĩ bạn chưa hiểu ý chính.",
+    "pos": "collocation"
+  },
+  {
+    "word": "run a business",
+    "phonetic": "/rʌn ə ˈbɪznəs/",
+    "definition": "to own and manage a business",
+    "translation": "điều hành doanh nghiệp, kinh doanh",
+    "exampleSentence": "She runs a small business from home.",
+    "exampleTranslation": "Cô ấy kinh doanh nhỏ ngay tại nhà.",
+    "pos": "collocation"
+  },
+  {
+    "word": "run errands",
+    "phonetic": "/rʌn ˈerəndz/",
+    "definition": "to go out to do small jobs, such as shopping",
+    "translation": "đi làm các việc vặt",
+    "exampleSentence": "I have to run some errands this afternoon.",
+    "exampleTranslation": "Chiều nay tôi phải đi làm vài việc vặt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "run late",
+    "phonetic": "/rʌn leɪt/",
+    "definition": "to be later than planned",
+    "translation": "bị trễ giờ",
+    "exampleSentence": "Sorry, I'm running late.",
+    "exampleTranslation": "Xin lỗi, tôi đang bị trễ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "run out of time",
+    "phonetic": "/rʌn aʊt əv taɪm/",
+    "definition": "to have no time left",
+    "translation": "hết thời gian",
+    "exampleSentence": "We ran out of time before we finished.",
+    "exampleTranslation": "Chúng tôi hết thời gian trước khi làm xong.",
+    "pos": "collocation"
+  },
+  {
+    "word": "hold a meeting",
+    "phonetic": "/hoʊld ə ˈmiːtɪŋ/",
+    "definition": "to organize a meeting",
+    "translation": "tổ chức cuộc họp",
+    "exampleSentence": "The team holds a meeting every Monday.",
+    "exampleTranslation": "Cả nhóm họp vào thứ Hai hằng tuần.",
+    "pos": "collocation"
+  },
+  {
+    "word": "hold hands",
+    "phonetic": "/hoʊld hændz/",
+    "definition": "to hold each other's hand",
+    "translation": "nắm tay nhau",
+    "exampleSentence": "They walked along the beach holding hands.",
+    "exampleTranslation": "Họ nắm tay nhau đi dọc bờ biển.",
+    "pos": "collocation"
+  },
+  {
+    "word": "hold your breath",
+    "phonetic": "/hoʊld jɔːr breθ/",
+    "definition": "to stop breathing for a short time",
+    "translation": "nín thở",
+    "exampleSentence": "Hold your breath and count to ten.",
+    "exampleTranslation": "Hãy nín thở và đếm đến mười.",
+    "pos": "collocation"
+  },
+  {
+    "word": "hold the line",
+    "phonetic": "/hoʊld ðə laɪn/",
+    "definition": "to wait on the phone without ending the call",
+    "translation": "giữ máy",
+    "exampleSentence": "Please hold the line. I'll transfer you.",
+    "exampleTranslation": "Xin vui lòng giữ máy. Tôi sẽ chuyển máy cho bạn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "set an alarm",
+    "phonetic": "/set ən əˈlɑːrm/",
+    "definition": "to prepare an alarm to ring at a certain time",
+    "translation": "đặt báo thức",
+    "exampleSentence": "I set an alarm for six o'clock.",
+    "exampleTranslation": "Tôi đặt báo thức lúc sáu giờ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "set the table",
+    "phonetic": "/set ðə ˈteɪbl/",
+    "definition": "to put plates, knives and forks on the table before a meal",
+    "translation": "dọn bàn ăn",
+    "exampleSentence": "Can you set the table for dinner?",
+    "exampleTranslation": "Bạn dọn bàn ăn giúp cho bữa tối được không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "set a goal",
+    "phonetic": "/set ə ɡoʊl/",
+    "definition": "to decide what you want to achieve",
+    "translation": "đặt mục tiêu",
+    "exampleSentence": "It's important to set a goal.",
+    "exampleTranslation": "Đặt mục tiêu là điều quan trọng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "set a date",
+    "phonetic": "/set ə deɪt/",
+    "definition": "to decide the day for an event",
+    "translation": "ấn định ngày",
+    "exampleSentence": "Have they set a date for the wedding?",
+    "exampleTranslation": "Họ đã ấn định ngày cưới chưa?",
+    "pos": "collocation"
+  },
+  {
+    "word": "break a promise",
+    "phonetic": "/breɪk ə ˈprɑːmɪs/",
+    "definition": "to not do what you said you would do",
+    "translation": "thất hứa",
+    "exampleSentence": "Never break a promise to your children.",
+    "exampleTranslation": "Đừng bao giờ thất hứa với con mình.",
+    "pos": "collocation"
+  },
+  {
+    "word": "break the law",
+    "phonetic": "/breɪk ðə lɔː/",
+    "definition": "to do something that is not allowed by law",
+    "translation": "vi phạm pháp luật",
+    "exampleSentence": "You break the law if you drive without a license.",
+    "exampleTranslation": "Lái xe không có bằng là vi phạm pháp luật.",
+    "pos": "collocation"
+  },
+  {
+    "word": "break a record",
+    "phonetic": "/breɪk ə ˈrekərd/",
+    "definition": "to do better than the best result so far",
+    "translation": "phá kỷ lục",
+    "exampleSentence": "He broke a record in the 100 meters.",
+    "exampleTranslation": "Anh ấy phá một kỷ lục ở nội dung 100 mét.",
+    "pos": "collocation"
+  },
+  {
+    "word": "break a habit",
+    "phonetic": "/breɪk ə ˈhæbɪt/",
+    "definition": "to stop doing something you do regularly",
+    "translation": "bỏ một thói quen",
+    "exampleSentence": "It's hard to break a habit.",
+    "exampleTranslation": "Bỏ một thói quen thật khó.",
+    "pos": "collocation"
+  },
+  {
+    "word": "lose weight",
+    "phonetic": "/luːz weɪt/",
+    "definition": "to become lighter",
+    "translation": "giảm cân",
+    "exampleSentence": "He wants to lose weight before summer.",
+    "exampleTranslation": "Anh ấy muốn giảm cân trước mùa hè.",
+    "pos": "collocation"
+  },
+  {
+    "word": "lose your way",
+    "phonetic": "/luːz jɔːr weɪ/",
+    "definition": "to not know where you are or which way to go",
+    "translation": "bị lạc đường",
+    "exampleSentence": "We lost our way in the forest.",
+    "exampleTranslation": "Chúng tôi bị lạc đường trong rừng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "lose track of time",
+    "phonetic": "/luːz træk əv taɪm/",
+    "definition": "to forget how much time has passed",
+    "translation": "quên mất thời gian",
+    "exampleSentence": "I lose track of time when I read.",
+    "exampleTranslation": "Tôi quên mất thời gian khi đọc sách.",
+    "pos": "collocation"
+  },
+  {
+    "word": "lose your temper",
+    "phonetic": "/luːz jɔːr ˈtempər/",
+    "definition": "to suddenly become very angry",
+    "translation": "nổi nóng",
+    "exampleSentence": "Try not to lose your temper.",
+    "exampleTranslation": "Cố đừng nổi nóng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "win a prize",
+    "phonetic": "/wɪn ə praɪz/",
+    "definition": "to get a reward for winning",
+    "translation": "giành giải thưởng",
+    "exampleSentence": "She won a prize in the science fair.",
+    "exampleTranslation": "Cô ấy giành giải ở hội thi khoa học.",
+    "pos": "collocation"
+  },
+  {
+    "word": "win a game",
+    "phonetic": "/wɪn ə ɡeɪm/",
+    "definition": "to be the best in a match",
+    "translation": "thắng một trận",
+    "exampleSentence": "Our team won the game.",
+    "exampleTranslation": "Đội chúng tôi thắng trận đấu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "win an argument",
+    "phonetic": "/wɪn ən ˈɑːrɡjumənt/",
+    "definition": "to prove that you are right in a discussion",
+    "translation": "thắng trong tranh luận",
+    "exampleSentence": "He always wants to win an argument.",
+    "exampleTranslation": "Anh ấy lúc nào cũng muốn thắng trong tranh luận.",
+    "pos": "collocation"
+  },
+  {
+    "word": "follow instructions",
+    "phonetic": "/ˈfɑːloʊ ɪnˈstrʌkʃnz/",
+    "definition": "to do what you are told to do",
+    "translation": "làm theo hướng dẫn",
+    "exampleSentence": "Read and follow the instructions carefully.",
+    "exampleTranslation": "Hãy đọc và làm theo hướng dẫn cẩn thận.",
+    "pos": "collocation"
+  },
+  {
+    "word": "follow the rules",
+    "phonetic": "/ˈfɑːloʊ ðə ruːlz/",
+    "definition": "to obey the rules",
+    "translation": "tuân thủ quy tắc",
+    "exampleSentence": "Everyone must follow the rules.",
+    "exampleTranslation": "Mọi người phải tuân thủ quy tắc.",
+    "pos": "collocation"
+  }
+]

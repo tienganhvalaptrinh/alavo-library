@@ -1,0 +1,452 @@
+[
+  {
+    "word": "brush your teeth",
+    "phonetic": "/brʌʃ jɔːr tiːθ/",
+    "definition": "to clean your teeth with a toothbrush",
+    "translation": "đánh răng",
+    "exampleSentence": "Brush your teeth twice a day.",
+    "exampleTranslation": "Hãy đánh răng hai lần mỗi ngày.",
+    "pos": "collocation"
+  },
+  {
+    "word": "wash your hair",
+    "phonetic": "/wɑːʃ jɔːr her/",
+    "definition": "to clean your hair with shampoo and water",
+    "translation": "gội đầu",
+    "exampleSentence": "I wash my hair every other day.",
+    "exampleTranslation": "Tôi gội đầu cách ngày.",
+    "pos": "collocation"
+  },
+  {
+    "word": "wash your hands",
+    "phonetic": "/wɑːʃ jɔːr hændz/",
+    "definition": "to clean your hands with soap and water",
+    "translation": "rửa tay",
+    "exampleSentence": "Wash your hands before you eat.",
+    "exampleTranslation": "Hãy rửa tay trước khi ăn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "comb your hair",
+    "phonetic": "/koʊm jɔːr her/",
+    "definition": "to make your hair tidy with a comb",
+    "translation": "chải tóc",
+    "exampleSentence": "He combed his hair in front of the mirror.",
+    "exampleTranslation": "Anh ấy chải tóc trước gương.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take a bath",
+    "phonetic": "/teɪk ə bæθ/",
+    "definition": "to wash your whole body in a bath",
+    "translation": "tắm bồn",
+    "exampleSentence": "I like to take a bath after work.",
+    "exampleTranslation": "Tôi thích tắm bồn sau giờ làm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "put on makeup",
+    "phonetic": "/pʊt ɑːn ˈmeɪkʌp/",
+    "definition": "to put cosmetics on your face",
+    "translation": "trang điểm",
+    "exampleSentence": "She put on makeup before the interview.",
+    "exampleTranslation": "Cô ấy trang điểm trước buổi phỏng vấn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take out the trash",
+    "phonetic": "/teɪk aʊt ðə træʃ/",
+    "definition": "to carry rubbish out of the house",
+    "translation": "đổ rác",
+    "exampleSentence": "Can you take out the trash tonight?",
+    "exampleTranslation": "Tối nay bạn đổ rác giúp được không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "turn on the light",
+    "phonetic": "/tɜːrn ɑːn ðə laɪt/",
+    "definition": "to make a light work",
+    "translation": "bật đèn",
+    "exampleSentence": "Please turn on the light.",
+    "exampleTranslation": "Làm ơn bật đèn lên.",
+    "pos": "collocation"
+  },
+  {
+    "word": "turn off the light",
+    "phonetic": "/tɜːrn ɔːf ðə laɪt/",
+    "definition": "to make a light stop working",
+    "translation": "tắt đèn",
+    "exampleSentence": "Turn off the light when you leave.",
+    "exampleTranslation": "Hãy tắt đèn khi bạn rời đi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "turn on the TV",
+    "phonetic": "/tɜːrn ɑːn ðə ˌtiː ˈviː/",
+    "definition": "to make a television start working",
+    "translation": "bật ti vi",
+    "exampleSentence": "He turned on the TV and sat down.",
+    "exampleTranslation": "Anh ấy bật ti vi rồi ngồi xuống.",
+    "pos": "collocation"
+  },
+  {
+    "word": "turn up the volume",
+    "phonetic": "/tɜːrn ʌp ðə ˈvɑːljəm/",
+    "definition": "to make a sound louder",
+    "translation": "vặn to âm lượng",
+    "exampleSentence": "Can you turn up the volume?",
+    "exampleTranslation": "Bạn vặn to âm lượng lên được không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "turn down the volume",
+    "phonetic": "/tɜːrn daʊn ðə ˈvɑːljəm/",
+    "definition": "to make a sound quieter",
+    "translation": "vặn nhỏ âm lượng",
+    "exampleSentence": "Please turn down the volume.",
+    "exampleTranslation": "Làm ơn vặn nhỏ âm lượng xuống.",
+    "pos": "collocation"
+  },
+  {
+    "word": "cook dinner",
+    "phonetic": "/kʊk ˈdɪnər/",
+    "definition": "to prepare the evening meal",
+    "translation": "nấu bữa tối",
+    "exampleSentence": "It's your turn to cook dinner.",
+    "exampleTranslation": "Đến lượt bạn nấu bữa tối.",
+    "pos": "collocation"
+  },
+  {
+    "word": "boil water",
+    "phonetic": "/bɔɪl ˈwɔːtər/",
+    "definition": "to heat water until it bubbles",
+    "translation": "đun sôi nước",
+    "exampleSentence": "Boil water for ten minutes before drinking.",
+    "exampleTranslation": "Hãy đun sôi nước mười phút trước khi uống.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fry an egg",
+    "phonetic": "/fraɪ ən eɡ/",
+    "definition": "to cook an egg in hot oil",
+    "translation": "rán trứng",
+    "exampleSentence": "He fried an egg for breakfast.",
+    "exampleTranslation": "Anh ấy rán một quả trứng cho bữa sáng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "cut the grass",
+    "phonetic": "/kʌt ðə ɡræs/",
+    "definition": "to make the grass shorter",
+    "translation": "cắt cỏ",
+    "exampleSentence": "I have to cut the grass this weekend.",
+    "exampleTranslation": "Cuối tuần này tôi phải cắt cỏ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "water the plants",
+    "phonetic": "/ˈwɔːtər ðə plænts/",
+    "definition": "to give water to plants",
+    "translation": "tưới cây",
+    "exampleSentence": "Don't forget to water the plants.",
+    "exampleTranslation": "Đừng quên tưới cây.",
+    "pos": "collocation"
+  },
+  {
+    "word": "feed the cat",
+    "phonetic": "/fiːd ðə kæt/",
+    "definition": "to give food to a cat",
+    "translation": "cho mèo ăn",
+    "exampleSentence": "Who feeds the cat in the morning?",
+    "exampleTranslation": "Buổi sáng ai là người cho mèo ăn?",
+    "pos": "collocation"
+  },
+  {
+    "word": "walk the dog",
+    "phonetic": "/wɔːk ðə dɔːɡ/",
+    "definition": "to take a dog for a walk",
+    "translation": "dắt chó đi dạo",
+    "exampleSentence": "I walk the dog every evening.",
+    "exampleTranslation": "Tối nào tôi cũng dắt chó đi dạo.",
+    "pos": "collocation"
+  },
+  {
+    "word": "clean the house",
+    "phonetic": "/kliːn ðə haʊs/",
+    "definition": "to make the house clean",
+    "translation": "dọn nhà",
+    "exampleSentence": "We clean the house on Saturdays.",
+    "exampleTranslation": "Chúng tôi dọn nhà vào thứ Bảy.",
+    "pos": "collocation"
+  },
+  {
+    "word": "sweep the floor",
+    "phonetic": "/swiːp ðə flɔːr/",
+    "definition": "to clean the floor with a broom",
+    "translation": "quét nhà",
+    "exampleSentence": "He swept the floor after dinner.",
+    "exampleTranslation": "Anh ấy quét nhà sau bữa tối.",
+    "pos": "collocation"
+  },
+  {
+    "word": "mop the floor",
+    "phonetic": "/mɑːp ðə flɔːr/",
+    "definition": "to clean the floor with a wet mop",
+    "translation": "lau nhà",
+    "exampleSentence": "She mops the floor once a week.",
+    "exampleTranslation": "Cô ấy lau nhà mỗi tuần một lần.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fold the clothes",
+    "phonetic": "/foʊld ðə kloʊðz/",
+    "definition": "to bend clothes into neat shapes",
+    "translation": "gấp quần áo",
+    "exampleSentence": "Can you fold the clothes for me?",
+    "exampleTranslation": "Bạn gấp giúp tôi quần áo được không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "load the dishwasher",
+    "phonetic": "/loʊd ðə ˈdɪʃwɔːʃər/",
+    "definition": "to put dirty plates and cups into a dishwasher",
+    "translation": "xếp bát đĩa vào máy rửa bát",
+    "exampleSentence": "I'll load the dishwasher after dinner.",
+    "exampleTranslation": "Sau bữa tối tôi sẽ xếp bát đĩa vào máy rửa bát.",
+    "pos": "collocation"
+  },
+  {
+    "word": "lock the door",
+    "phonetic": "/lɑːk ðə dɔːr/",
+    "definition": "to close the door with a key",
+    "translation": "khóa cửa",
+    "exampleSentence": "Don't forget to lock the door.",
+    "exampleTranslation": "Đừng quên khóa cửa.",
+    "pos": "collocation"
+  },
+  {
+    "word": "open the window",
+    "phonetic": "/ˈoʊpən ðə ˈwɪndoʊ/",
+    "definition": "to move a window so air comes in",
+    "translation": "mở cửa sổ",
+    "exampleSentence": "Could you open the window? It's hot.",
+    "exampleTranslation": "Bạn mở cửa sổ giúp được không? Nóng quá.",
+    "pos": "collocation"
+  },
+  {
+    "word": "close the window",
+    "phonetic": "/kloʊz ðə ˈwɪndoʊ/",
+    "definition": "to shut a window",
+    "translation": "đóng cửa sổ",
+    "exampleSentence": "Please close the window. It's cold.",
+    "exampleTranslation": "Làm ơn đóng cửa sổ lại. Lạnh quá.",
+    "pos": "collocation"
+  },
+  {
+    "word": "ring the doorbell",
+    "phonetic": "/rɪŋ ðə ˈdɔːrbel/",
+    "definition": "to press the button at a door so it makes a sound",
+    "translation": "bấm chuông cửa",
+    "exampleSentence": "He rang the doorbell twice.",
+    "exampleTranslation": "Anh ấy bấm chuông cửa hai lần.",
+    "pos": "collocation"
+  },
+  {
+    "word": "answer the phone",
+    "phonetic": "/ˈænsər ðə foʊn/",
+    "definition": "to pick up a phone when it rings",
+    "translation": "nghe điện thoại",
+    "exampleSentence": "Could you answer the phone? My hands are wet.",
+    "exampleTranslation": "Bạn nghe điện thoại giúp tôi được không? Tay tôi đang ướt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "charge the battery",
+    "phonetic": "/tʃɑːrdʒ ðə ˈbætəri/",
+    "definition": "to put electricity into a battery",
+    "translation": "sạc pin",
+    "exampleSentence": "Charge the battery overnight.",
+    "exampleTranslation": "Hãy sạc pin qua đêm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "check your email",
+    "phonetic": "/tʃek jɔːr ˈiːmeɪl/",
+    "definition": "to look at your new emails",
+    "translation": "kiểm tra email",
+    "exampleSentence": "I check my email first thing in the morning.",
+    "exampleTranslation": "Tôi kiểm tra email ngay đầu giờ sáng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "watch TV",
+    "phonetic": "/wɑːtʃ ˌtiː ˈviː/",
+    "definition": "to look at television programs",
+    "translation": "xem ti vi",
+    "exampleSentence": "We watch TV after dinner.",
+    "exampleTranslation": "Chúng tôi xem ti vi sau bữa tối.",
+    "pos": "collocation"
+  },
+  {
+    "word": "listen to music",
+    "phonetic": "/ˈlɪsn tə ˈmjuːzɪk/",
+    "definition": "to hear music with attention",
+    "translation": "nghe nhạc",
+    "exampleSentence": "I listen to music on the bus.",
+    "exampleTranslation": "Tôi nghe nhạc trên xe buýt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "read a book",
+    "phonetic": "/riːd ə bʊk/",
+    "definition": "to look at and understand a book",
+    "translation": "đọc sách",
+    "exampleSentence": "She likes to read a book before bed.",
+    "exampleTranslation": "Cô ấy thích đọc sách trước khi ngủ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "play video games",
+    "phonetic": "/pleɪ ˈvɪdioʊ ɡeɪmz/",
+    "definition": "to play games on a computer or console",
+    "translation": "chơi trò chơi điện tử",
+    "exampleSentence": "He plays video games with his friends.",
+    "exampleTranslation": "Anh ấy chơi trò chơi điện tử với bạn bè.",
+    "pos": "collocation"
+  },
+  {
+    "word": "surf the internet",
+    "phonetic": "/sɜːrf ðə ˈɪntərnet/",
+    "definition": "to look at different websites online",
+    "translation": "lướt web",
+    "exampleSentence": "I surfed the internet for an hour.",
+    "exampleTranslation": "Tôi lướt web suốt một tiếng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "go to bed",
+    "phonetic": "/ɡoʊ tə bed/",
+    "definition": "to get into bed to sleep",
+    "translation": "đi ngủ",
+    "exampleSentence": "I usually go to bed at eleven.",
+    "exampleTranslation": "Tôi thường đi ngủ lúc mười một giờ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "go to sleep",
+    "phonetic": "/ɡoʊ tə sliːp/",
+    "definition": "to start sleeping",
+    "translation": "đi vào giấc ngủ, ngủ",
+    "exampleSentence": "The baby went to sleep quickly.",
+    "exampleTranslation": "Em bé ngủ rất nhanh.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fall asleep",
+    "phonetic": "/fɔːl əˈsliːp/",
+    "definition": "to begin to sleep",
+    "translation": "ngủ thiếp đi",
+    "exampleSentence": "I fell asleep on the sofa.",
+    "exampleTranslation": "Tôi ngủ thiếp đi trên ghế sofa.",
+    "pos": "collocation"
+  },
+  {
+    "word": "sleep well",
+    "phonetic": "/sliːp wel/",
+    "definition": "to have a good night's sleep",
+    "translation": "ngủ ngon",
+    "exampleSentence": "Did you sleep well last night?",
+    "exampleTranslation": "Đêm qua bạn ngủ có ngon không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "get up early",
+    "phonetic": "/ɡet ʌp ˈɜːrli/",
+    "definition": "to leave your bed early",
+    "translation": "dậy sớm",
+    "exampleSentence": "I get up early on workdays.",
+    "exampleTranslation": "Tôi dậy sớm vào những ngày đi làm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "stay up late",
+    "phonetic": "/steɪ ʌp leɪt/",
+    "definition": "to not go to bed until late",
+    "translation": "thức khuya",
+    "exampleSentence": "We stayed up late to watch the match.",
+    "exampleTranslation": "Chúng tôi thức khuya xem trận đấu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "sleep in",
+    "phonetic": "/sliːp ɪn/",
+    "definition": "to sleep later than usual in the morning",
+    "translation": "ngủ nướng",
+    "exampleSentence": "I like to sleep in on Sundays.",
+    "exampleTranslation": "Tôi thích ngủ nướng vào Chủ nhật.",
+    "pos": "collocation"
+  },
+  {
+    "word": "wake up early",
+    "phonetic": "/weɪk ʌp ˈɜːrli/",
+    "definition": "to stop sleeping early in the morning",
+    "translation": "thức dậy sớm",
+    "exampleSentence": "He wakes up early to go jogging.",
+    "exampleTranslation": "Anh ấy thức dậy sớm để chạy bộ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "clear the table",
+    "phonetic": "/klɪr ðə ˈteɪbl/",
+    "definition": "to take dishes off the table after a meal",
+    "translation": "dọn bàn sau bữa ăn",
+    "exampleSentence": "Can you clear the table, please?",
+    "exampleTranslation": "Bạn dọn bàn giúp nhé?",
+    "pos": "collocation"
+  },
+  {
+    "word": "hang up the phone",
+    "phonetic": "/hæŋ ʌp ðə foʊn/",
+    "definition": "to end a phone call",
+    "translation": "cúp máy, gác máy",
+    "exampleSentence": "She hung up the phone and sighed.",
+    "exampleTranslation": "Cô ấy cúp máy rồi thở dài.",
+    "pos": "collocation"
+  },
+  {
+    "word": "tidy your room",
+    "phonetic": "/ˈtaɪdi jɔːr ruːm/",
+    "definition": "to put things in their places in your room",
+    "translation": "dọn phòng cho gọn gàng",
+    "exampleSentence": "Tidy your room before you go out.",
+    "exampleTranslation": "Hãy dọn phòng cho gọn gàng trước khi đi chơi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "wash the car",
+    "phonetic": "/wɑːʃ ðə kɑːr/",
+    "definition": "to clean a car with water",
+    "translation": "rửa xe",
+    "exampleSentence": "He washes the car every weekend.",
+    "exampleTranslation": "Anh ấy rửa xe vào mỗi cuối tuần.",
+    "pos": "collocation"
+  },
+  {
+    "word": "mow the lawn",
+    "phonetic": "/moʊ ðə lɔːn/",
+    "definition": "to cut the grass in a garden",
+    "translation": "cắt cỏ sân vườn",
+    "exampleSentence": "My dad mows the lawn on Saturdays.",
+    "exampleTranslation": "Bố tôi cắt cỏ sân vào thứ Bảy.",
+    "pos": "collocation"
+  },
+  {
+    "word": "make tea",
+    "phonetic": "/meɪk tiː/",
+    "definition": "to prepare tea as a drink",
+    "translation": "pha trà",
+    "exampleSentence": "I'll make tea for everyone.",
+    "exampleTranslation": "Mình sẽ pha trà cho mọi người.",
+    "pos": "collocation"
+  }
+]

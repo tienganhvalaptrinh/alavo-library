@@ -1,0 +1,82 @@
+{
+  "id": "everyday-collocations-650",
+  "type": "vocabulary",
+  "title": "650 everyday collocations",
+  "description": "650 common word combinations used in daily life, such as make a decision and heavy rain, with Vietnamese meanings and examples.",
+  "category": "collocations",
+  "level": "mixed",
+  "order": 3,
+  "sourceLang": "en",
+  "targetLang": "vi",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "source": "Written by the Alavo team. Collocations chosen by hand from everyday topics and checked against entries in the Oxford Learner's Dictionaries and the Longman Dictionary of Contemporary English; definitions, translations and examples are original.",
+  "wordCount": 650,
+  "files": [
+    {
+      "path": "words-001.json",
+      "count": 50,
+      "sha256": "0a9d05d31622388feb55c53cec7a580f36c5751decf82d812373be856d90fab4"
+    },
+    {
+      "path": "words-002.json",
+      "count": 50,
+      "sha256": "2f65ecbe1b9cc41a35bcf16dbfdebe616c40e4f612a4eb1d5c31e32cc239fc01"
+    },
+    {
+      "path": "words-003.json",
+      "count": 50,
+      "sha256": "11316307c4135781e557906ed54f6f3857ddf4ed7de6850ead035f734504c668"
+    },
+    {
+      "path": "words-004.json",
+      "count": 50,
+      "sha256": "67662b588e7216a5b232b28681f21fda79504f3c16174c9781d85a4aa1778d76"
+    },
+    {
+      "path": "words-005.json",
+      "count": 50,
+      "sha256": "41bd3d0b2a81328412df4c2c6ab7613f5f0b62c6dbe5de2f90008c2682c56338"
+    },
+    {
+      "path": "words-006.json",
+      "count": 50,
+      "sha256": "6f51290fce52f37220cade57b0c5a15f933d3565a7a88c970e5cb94f4e28e2cd"
+    },
+    {
+      "path": "words-007.json",
+      "count": 50,
+      "sha256": "c948a331c5ba3ef1f2fdb072da5ecb473d6d62459fd04641befa1a7f32494945"
+    },
+    {
+      "path": "words-008.json",
+      "count": 50,
+      "sha256": "793129c69945b6352f8e70a5c001a23f0af36269224805307a9382037ce8df8d"
+    },
+    {
+      "path": "words-009.json",
+      "count": 50,
+      "sha256": "ac696c721df802e2cf62a3811660ca9bb7120b1f0cefc9bc9e25a642a8cd0025"
+    },
+    {
+      "path": "words-010.json",
+      "count": 50,
+      "sha256": "3d37a847a7f2c6b01ab10b878d9ac609ae62e97c5a8fddb86556574c9614acda"
+    },
+    {
+      "path": "words-011.json",
+      "count": 50,
+      "sha256": "d81d7cdf9a7e2c8b16ffc89be0a4dcc89366e7826c52c28659d5ca59e706591f"
+    },
+    {
+      "path": "words-012.json",
+      "count": 50,
+      "sha256": "482d55eb0c0b4a05a98bb4e7fe0063af902891274a915f28161444f17a12ff24"
+    },
+    {
+      "path": "words-013.json",
+      "count": 50,
+      "sha256": "c57d38e94149cb6c98772d3e4bbe97a1b12e950e754530184e25706daf46c1bd"
+    }
+  ]
+}
