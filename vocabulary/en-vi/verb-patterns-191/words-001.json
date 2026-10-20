@@ -1,0 +1,452 @@
+[
+  {
+    "word": "afford to do",
+    "phonetic": "/əˈfɔːrd tə ˈduː/",
+    "definition": "to have enough money or time to do something; used with can/could (can afford + to-infinitive)",
+    "translation": "đủ khả năng (tiền, thời gian) để làm gì",
+    "exampleSentence": "We can't afford to go on vacation this year.",
+    "exampleTranslation": "Năm nay chúng tôi không đủ tiền để đi nghỉ.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "agree to do",
+    "phonetic": "/əˈɡriː tə ˈduː/",
+    "definition": "to say yes to a plan or request, and so promise to do it (agree + to-infinitive)",
+    "translation": "đồng ý làm gì",
+    "exampleSentence": "She agreed to help us move house.",
+    "exampleTranslation": "Cô ấy đồng ý giúp chúng tôi chuyển nhà.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "aim to do",
+    "phonetic": "/ˈeɪm tə ˈduː/",
+    "definition": "to try or plan to achieve something (aim + to-infinitive)",
+    "translation": "đặt mục tiêu làm gì, nhắm tới việc làm gì",
+    "exampleSentence": "We aim to finish by Friday.",
+    "exampleTranslation": "Chúng tôi đặt mục tiêu hoàn thành trước thứ Sáu.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "appear to do",
+    "phonetic": "/əˈpɪr tə ˈduː/",
+    "definition": "to seem to do or be something; more formal than seem (appear + to-infinitive)",
+    "translation": "có vẻ như làm gì, dường như",
+    "exampleSentence": "He appears to know the answer.",
+    "exampleTranslation": "Anh ấy có vẻ biết câu trả lời.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "arrange to do",
+    "phonetic": "/əˈreɪndʒ tə ˈduː/",
+    "definition": "to plan and organize something so that it can happen (arrange + to-infinitive)",
+    "translation": "sắp xếp để làm gì",
+    "exampleSentence": "I've arranged to meet Mark this weekend.",
+    "exampleTranslation": "Tôi đã sắp xếp gặp Mark vào cuối tuần này.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "attempt to do",
+    "phonetic": "/əˈtempt tə ˈduː/",
+    "definition": "to try to do something, especially something difficult; formal (attempt + to-infinitive)",
+    "translation": "cố gắng làm gì, thử làm gì",
+    "exampleSentence": "In this chapter I will attempt to explain what led to the revolution.",
+    "exampleTranslation": "Trong chương này, tôi sẽ cố gắng giải thích điều gì đã dẫn đến cuộc cách mạng.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "care to do",
+    "phonetic": "/ˈker tə ˈduː/",
+    "definition": "to want to do something; usually in questions and negatives (care + to-infinitive)",
+    "translation": "muốn làm gì, thích làm gì",
+    "exampleSentence": "She doesn't care to spend much time with her relatives.",
+    "exampleTranslation": "Cô ấy không thích dành nhiều thời gian cho họ hàng.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "choose to do",
+    "phonetic": "/ˈtʃuːz tə ˈduː/",
+    "definition": "to decide to do something because you want to (choose + to-infinitive)",
+    "translation": "chọn làm gì, quyết định làm gì",
+    "exampleSentence": "I chose to learn German rather than French.",
+    "exampleTranslation": "Tôi chọn học tiếng Đức thay vì tiếng Pháp.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "claim to do",
+    "phonetic": "/ˈkleɪm tə ˈduː/",
+    "definition": "to say that you can do or are something, although it has not been proved (claim + to-infinitive)",
+    "translation": "tuyên bố là làm được gì",
+    "exampleSentence": "He claims to speak five languages.",
+    "exampleTranslation": "Anh ta tuyên bố nói được năm thứ tiếng.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "consent to do",
+    "phonetic": "/kənˈsent tə ˈduː/",
+    "definition": "to agree to do something, or give permission for it (consent + to-infinitive)",
+    "translation": "đồng ý làm gì, bằng lòng làm gì",
+    "exampleSentence": "He rarely consents to do interviews.",
+    "exampleTranslation": "Ông ấy hiếm khi đồng ý trả lời phỏng vấn.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "dare to do",
+    "phonetic": "/ˈder tə ˈduː/",
+    "definition": "to be brave enough to do something risky or frightening (dare + to-infinitive)",
+    "translation": "dám làm gì",
+    "exampleSentence": "Only a few journalists dared to cover the story.",
+    "exampleTranslation": "Chỉ có vài nhà báo dám đưa tin về câu chuyện đó.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "decide to do",
+    "phonetic": "/dɪˈsaɪd tə ˈduː/",
+    "definition": "to make a choice after thinking about it (decide + to-infinitive)",
+    "translation": "quyết định làm gì",
+    "exampleSentence": "Tina has decided to go to Rome for her holiday.",
+    "exampleTranslation": "Tina đã quyết định đi Rome vào kỳ nghỉ.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "decide how to do",
+    "phonetic": "/dɪˈsaɪd ˌhaʊ tə ˈduː/",
+    "definition": "to make a choice about the way to do something (decide + how to-infinitive)",
+    "translation": "quyết định làm gì như thế nào",
+    "exampleSentence": "People have a right to decide how to spend their own money.",
+    "exampleTranslation": "Mọi người có quyền quyết định tiêu tiền của mình như thế nào.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "demand to do",
+    "phonetic": "/dɪˈmænd tə ˈduː/",
+    "definition": "to ask very firmly to do or know something, because you think you have a right to (demand + to-infinitive)",
+    "translation": "đòi được làm gì",
+    "exampleSentence": "I demand to know what is going on.",
+    "exampleTranslation": "Tôi đòi được biết chuyện gì đang xảy ra.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "deserve to do",
+    "phonetic": "/dɪˈzɜːrv tə ˈduː/",
+    "definition": "to have earned something by your good or bad actions (deserve + to-infinitive)",
+    "translation": "xứng đáng được làm gì",
+    "exampleSentence": "We didn't deserve to win.",
+    "exampleTranslation": "Chúng tôi không xứng đáng thắng.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "expect to do",
+    "phonetic": "/ɪkˈspekt tə ˈduː/",
+    "definition": "to think that you will do something because it seems likely or planned (expect + to-infinitive)",
+    "translation": "dự kiến làm gì, mong sẽ làm gì",
+    "exampleSentence": "I expect to be back within a week.",
+    "exampleTranslation": "Tôi dự kiến sẽ quay lại trong vòng một tuần.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "expect somebody to do",
+    "phonetic": "/ɪkˈspekt ˈsʌmbədi tə ˈduː/",
+    "definition": "to think that someone will do something (expect + somebody + to-infinitive)",
+    "translation": "mong ai làm gì, nghĩ ai sẽ làm gì",
+    "exampleSentence": "I didn't expect him to stay so long.",
+    "exampleTranslation": "Tôi không nghĩ anh ấy sẽ ở lại lâu như vậy.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "fail to do",
+    "phonetic": "/ˈfeɪl tə ˈduː/",
+    "definition": "to not succeed in doing something, or to not do something you should do (fail + to-infinitive)",
+    "translation": "không làm được gì, thất bại trong việc làm gì",
+    "exampleSentence": "Doctors failed to save the girl's life.",
+    "exampleTranslation": "Các bác sĩ đã không cứu được cô bé.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "guarantee to do",
+    "phonetic": "/ˌɡærənˈtiː tə ˈduː/",
+    "definition": "to promise that you will do something (guarantee + to-infinitive)",
+    "translation": "cam kết làm gì",
+    "exampleSentence": "I cannot guarantee to work for more than a year.",
+    "exampleTranslation": "Tôi không thể cam kết làm việc quá một năm.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "happen to do",
+    "phonetic": "/ˈhæpən tə ˈduː/",
+    "definition": "to do something by chance (happen + to-infinitive)",
+    "translation": "tình cờ làm gì",
+    "exampleSentence": "I happened to see James in town.",
+    "exampleTranslation": "Tôi tình cờ gặp James trong thị trấn.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "hesitate to do",
+    "phonetic": "/ˈhezɪteɪt tə ˈduː/",
+    "definition": "to wait before doing something because you are not sure; \"don't hesitate to\" tells someone it is right to do something (hesitate + to-infinitive)",
+    "translation": "ngần ngại làm gì, cứ thoải mái làm gì",
+    "exampleSentence": "Don't hesitate to contact me if you need more information.",
+    "exampleTranslation": "Cứ thoải mái liên hệ với tôi nếu bạn cần thêm thông tin.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "hope to do",
+    "phonetic": "/ˈhoʊp tə ˈduː/",
+    "definition": "to want something to happen and believe it is possible (hope + to-infinitive)",
+    "translation": "hy vọng làm được gì",
+    "exampleSentence": "Joan is hoping to study law at Harvard.",
+    "exampleTranslation": "Joan đang hy vọng được học luật ở Harvard.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "intend to do",
+    "phonetic": "/ɪnˈtend tə ˈduː/",
+    "definition": "to have something in your mind as a plan or purpose (intend + to-infinitive)",
+    "translation": "định làm gì, có ý định làm gì",
+    "exampleSentence": "I intend to spend the night there.",
+    "exampleTranslation": "Tôi định qua đêm ở đó.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "intend doing",
+    "phonetic": "/ɪnˈtend ˈduːɪŋ/",
+    "definition": "to have something in your mind as a plan; less common than intend + to-infinitive (intend + -ing)",
+    "translation": "định làm gì",
+    "exampleSentence": "We intend looking at the situation again.",
+    "exampleTranslation": "Chúng tôi định xem xét lại tình hình.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "intend somebody to do",
+    "phonetic": "/ɪnˈtend ˈsʌmbədi tə ˈduː/",
+    "definition": "to plan that someone will do something (intend + somebody + to-infinitive)",
+    "translation": "muốn ai làm gì, có ý định để ai làm gì",
+    "exampleSentence": "I didn't intend her to see the painting until it was finished.",
+    "exampleTranslation": "Tôi không định cho cô ấy xem bức tranh cho đến khi nó hoàn thành.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "learn to do",
+    "phonetic": "/ˈlɜːrn tə ˈduː/",
+    "definition": "to gain a skill by experience, study or being taught (learn + to-infinitive)",
+    "translation": "học làm gì",
+    "exampleSentence": "I learnt to drive when I was 17.",
+    "exampleTranslation": "Tôi học lái xe năm 17 tuổi.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "learn how to do",
+    "phonetic": "/ˈlɜːrn ˌhaʊ tə ˈduː/",
+    "definition": "to gain the knowledge or skill needed to do something (learn + how to-infinitive)",
+    "translation": "học cách làm gì",
+    "exampleSentence": "Hector spent the winter learning how to cope with his blindness.",
+    "exampleTranslation": "Hector dành cả mùa đông để học cách đối mặt với việc bị mù.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "long to do",
+    "phonetic": "/ˈlɔːŋ tə ˈduː/",
+    "definition": "to want something very much, especially when it seems unlikely to happen soon (long + to-infinitive)",
+    "translation": "khao khát làm gì",
+    "exampleSentence": "He longed to see her again.",
+    "exampleTranslation": "Anh ấy khao khát được gặp lại cô ấy.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "manage to do",
+    "phonetic": "/ˈmænɪdʒ tə ˈduː/",
+    "definition": "to succeed in doing something difficult, especially after trying hard (manage + to-infinitive)",
+    "translation": "xoay xở làm được gì",
+    "exampleSentence": "I finally managed to push the huge animal away.",
+    "exampleTranslation": "Cuối cùng tôi cũng xoay xở đẩy được con vật khổng lồ ra xa.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "mean to do",
+    "phonetic": "/ˈmiːn tə ˈduː/",
+    "definition": "to intend to do something (mean + to-infinitive)",
+    "translation": "định làm gì, có ý làm gì",
+    "exampleSentence": "I've been meaning to ask you to come for dinner.",
+    "exampleTranslation": "Tôi vẫn định mời bạn đến ăn tối.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "mean doing",
+    "phonetic": "/ˈmiːn ˈduːɪŋ/",
+    "definition": "to have a particular result, or to involve something (mean + -ing)",
+    "translation": "đồng nghĩa với việc làm gì, kéo theo việc làm gì",
+    "exampleSentence": "My new job will mean travelling all over the world.",
+    "exampleTranslation": "Công việc mới sẽ đồng nghĩa với việc đi khắp thế giới.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "need to do",
+    "phonetic": "/ˈniːd tə ˈduː/",
+    "definition": "to have to do something, or feel that you must (need + to-infinitive)",
+    "translation": "cần làm gì, phải làm gì",
+    "exampleSentence": "She needed to go out for a walk.",
+    "exampleTranslation": "Cô ấy cần ra ngoài đi dạo.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "need doing",
+    "phonetic": "/ˈniːd ˈduːɪŋ/",
+    "definition": "used to say that something should have something done to it (need + -ing)",
+    "translation": "cần được làm gì (vật cần được xử lý)",
+    "exampleSentence": "The house needed painting.",
+    "exampleTranslation": "Ngôi nhà cần được sơn lại.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "need somebody to do",
+    "phonetic": "/ˈniːd ˈsʌmbədi tə ˈduː/",
+    "definition": "to want someone to do something because you cannot do it without them (need + somebody + to-infinitive)",
+    "translation": "cần ai làm gì",
+    "exampleSentence": "I need you to help me with the cooking.",
+    "exampleTranslation": "Tôi cần bạn giúp tôi nấu ăn.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "neglect to do",
+    "phonetic": "/nɪˈɡlekt tə ˈduː/",
+    "definition": "to not do something that you should do, often by forgetting it; formal (neglect + to-infinitive)",
+    "translation": "quên không làm gì, sơ suất không làm gì",
+    "exampleSentence": "You neglected to mention that there was a second album.",
+    "exampleTranslation": "Bạn đã quên không nhắc rằng còn có album thứ hai.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "offer to do",
+    "phonetic": "/ˈɔːfər tə ˈduː/",
+    "definition": "to say that you are willing to do something for someone (offer + to-infinitive)",
+    "translation": "đề nghị làm gì, ngỏ ý làm gì",
+    "exampleSentence": "My dad has offered to pick us up.",
+    "exampleTranslation": "Bố tôi đã ngỏ ý đến đón chúng tôi.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "plan to do",
+    "phonetic": "/ˈplæn tə ˈduː/",
+    "definition": "to think carefully about something you want to do and decide how and when you will do it (plan + to-infinitive)",
+    "translation": "lên kế hoạch làm gì, dự định làm gì",
+    "exampleSentence": "They plan to get married next summer.",
+    "exampleTranslation": "Họ dự định kết hôn vào mùa hè năm sau.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "prepare to do",
+    "phonetic": "/prɪˈper tə ˈduː/",
+    "definition": "to make plans or get ready for something that will happen (prepare + to-infinitive)",
+    "translation": "chuẩn bị làm gì",
+    "exampleSentence": "Her parents were busy preparing to go on holiday.",
+    "exampleTranslation": "Bố mẹ cô ấy đang bận chuẩn bị đi nghỉ.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "pretend to do",
+    "phonetic": "/prɪˈtend tə ˈduː/",
+    "definition": "to behave as if something is true when you know it is not, to trick someone (pretend + to-infinitive)",
+    "translation": "giả vờ làm gì",
+    "exampleSentence": "She pretended not to notice.",
+    "exampleTranslation": "Cô ấy giả vờ như không để ý.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "promise to do",
+    "phonetic": "/ˈprɑːmɪs tə ˈduː/",
+    "definition": "to tell someone that you will definitely do something (promise + to-infinitive)",
+    "translation": "hứa làm gì",
+    "exampleSentence": "She has promised to do all she can to help.",
+    "exampleTranslation": "Cô ấy đã hứa sẽ làm hết sức để giúp.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "propose to do",
+    "phonetic": "/prəˈpoʊz tə ˈduː/",
+    "definition": "to intend to do something; formal (propose + to-infinitive)",
+    "translation": "định làm gì, dự định làm gì",
+    "exampleSentence": "How does he propose to deal with the situation?",
+    "exampleTranslation": "Ông ấy định xử lý tình huống này như thế nào?",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "propose doing",
+    "phonetic": "/prəˈpoʊz ˈduːɪŋ/",
+    "definition": "to suggest something as a plan or course of action (propose + -ing)",
+    "translation": "đề xuất làm gì",
+    "exampleSentence": "The report proposes expanding the airport.",
+    "exampleTranslation": "Báo cáo đề xuất mở rộng sân bay.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "prove to be",
+    "phonetic": "/ˈpruːv tə ˈbiː/",
+    "definition": "to turn out to be difficult, helpful, a problem and so on (prove + to-infinitive)",
+    "translation": "hóa ra là, tỏ ra là",
+    "exampleSentence": "The design proved to be a success.",
+    "exampleTranslation": "Thiết kế đó hóa ra rất thành công.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "refuse to do",
+    "phonetic": "/rɪˈfjuːz tə ˈduː/",
+    "definition": "to say firmly that you will not do something someone has asked you to do (refuse + to-infinitive)",
+    "translation": "từ chối làm gì",
+    "exampleSentence": "The chairman refused to answer any more questions.",
+    "exampleTranslation": "Chủ tịch từ chối trả lời thêm câu hỏi nào nữa.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "resolve to do",
+    "phonetic": "/rɪˈzɑːlv tə ˈduː/",
+    "definition": "to make a firm decision to do something; formal (resolve + to-infinitive)",
+    "translation": "quyết tâm làm gì",
+    "exampleSentence": "After the divorce she resolved never to marry again.",
+    "exampleTranslation": "Sau khi ly hôn, cô ấy quyết tâm không bao giờ kết hôn lần nữa.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "seek to do",
+    "phonetic": "/ˈsiːk tə ˈduː/",
+    "definition": "to try to achieve or get something; formal (seek + to-infinitive)",
+    "translation": "tìm cách làm gì, cố gắng làm gì",
+    "exampleSentence": "Local schools are seeking to reduce the dropout rate.",
+    "exampleTranslation": "Các trường địa phương đang tìm cách giảm tỷ lệ bỏ học.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "seem to do",
+    "phonetic": "/ˈsiːm tə ˈduː/",
+    "definition": "to give the impression of doing or being something (seem + to-infinitive)",
+    "translation": "có vẻ như làm gì, dường như",
+    "exampleSentence": "The rainbow seemed to end on the hillside.",
+    "exampleTranslation": "Cầu vồng dường như kết thúc ở sườn đồi.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "strive to do",
+    "phonetic": "/ˈstraɪv tə ˈduː/",
+    "definition": "to make a great effort to achieve something; formal (strive + to-infinitive)",
+    "translation": "nỗ lực làm gì, phấn đấu làm gì",
+    "exampleSentence": "I was still striving to be successful.",
+    "exampleTranslation": "Tôi vẫn đang nỗ lực để thành công.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "struggle to do",
+    "phonetic": "/ˈstrʌɡl tə ˈduː/",
+    "definition": "to try extremely hard to achieve something, even though it is very difficult (struggle + to-infinitive)",
+    "translation": "chật vật làm gì, vật lộn để làm gì",
+    "exampleSentence": "She is struggling to bring up a family alone.",
+    "exampleTranslation": "Cô ấy đang chật vật nuôi gia đình một mình.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "swear to do",
+    "phonetic": "/ˈswer tə ˈduː/",
+    "definition": "to promise that you will do something (swear + to-infinitive)",
+    "translation": "thề sẽ làm gì",
+    "exampleSentence": "Mona swore never to return home.",
+    "exampleTranslation": "Mona thề sẽ không bao giờ về nhà nữa.",
+    "pos": "verb pattern"
+  }
+]

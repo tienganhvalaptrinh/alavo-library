@@ -1,0 +1,452 @@
+[
+  {
+    "word": "in practice",
+    "phonetic": "/ɪn ˈpræktɪs/",
+    "definition": "says what really happens rather than what should happen or what people think happens",
+    "translation": "trong thực tế, khi áp dụng",
+    "exampleSentence": "The rule is simple, but it is hard to follow in practice.",
+    "exampleTranslation": "Quy tắc này đơn giản, nhưng khó làm theo trong thực tế.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "in theory",
+    "phonetic": "/ɪn ˈθɪəri/",
+    "definition": "says that something is supposed to be true, but may not be true in reality",
+    "translation": "về lý thuyết, trên lý thuyết",
+    "exampleSentence": "In theory, the trip takes an hour.",
+    "exampleTranslation": "Về lý thuyết, chuyến đi mất một giờ.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "in principle",
+    "phonetic": "/ɪn ˈprɪnsəpl/",
+    "definition": "says that something is possible because there is no good reason against it, although it has not happened yet",
+    "translation": "về nguyên tắc",
+    "exampleSentence": "In principle, I agree with your proposal.",
+    "exampleTranslation": "Về nguyên tắc, tôi đồng ý với đề xuất của bạn.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "in truth",
+    "phonetic": "/ɪn ˈtruːθ/",
+    "definition": "in fact",
+    "translation": "thật ra, nói thật là",
+    "exampleSentence": "In truth, I never liked that job.",
+    "exampleTranslation": "Nói thật là tôi chưa bao giờ thích công việc đó.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "technically",
+    "phonetic": "/ˈteknɪkli/",
+    "definition": "according to the exact details of a rule or law",
+    "translation": "về mặt kỹ thuật, nói chính xác thì",
+    "exampleSentence": "Technically, you are not allowed to park here.",
+    "exampleTranslation": "Nói chính xác thì bạn không được phép đậu xe ở đây.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "strictly speaking",
+    "phonetic": "/ˌstrɪktli ˈspiːkɪŋ/",
+    "definition": "used to say that something is true if you are being very exact and correct",
+    "translation": "nói đúng ra, nói chính xác",
+    "exampleSentence": "Strictly speaking, a tomato is a fruit.",
+    "exampleTranslation": "Nói đúng ra, cà chua là một loại quả.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "to say the least",
+    "phonetic": "/tə ˌseɪ ðə ˈliːst/",
+    "definition": "used to show that something is worse or more serious than you are actually saying",
+    "translation": "nói nhẹ nhất là",
+    "exampleSentence": "The service was slow, to say the least.",
+    "exampleTranslation": "Dịch vụ chậm, nói nhẹ nhất là vậy.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "it goes without saying",
+    "phonetic": "/ɪt ˌɡoʊz wɪðˌaʊt ˈseɪɪŋ/",
+    "definition": "used to say that something is so clearly true that it does not need to be said",
+    "translation": "không cần phải nói",
+    "exampleSentence": "It goes without saying that safety comes first.",
+    "exampleTranslation": "Không cần phải nói, an toàn là trên hết.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "to be fair",
+    "phonetic": "/tə bi ˈfer/",
+    "definition": "used to add something after someone has been criticized, to explain or excuse what they did",
+    "translation": "công bằng mà nói",
+    "exampleSentence": "To be fair, he didn't know the rules.",
+    "exampleTranslation": "Công bằng mà nói, anh ấy đâu biết luật.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "let's face it",
+    "phonetic": "/ˌlets ˈfeɪs ɪt/",
+    "definition": "used to say that someone must accept an unpleasant fact or situation",
+    "translation": "thôi thì cứ nhìn thẳng vào sự thật",
+    "exampleSentence": "Let's face it, we are not going to win.",
+    "exampleTranslation": "Thôi thì cứ nhìn thẳng vào sự thật, chúng ta sẽ không thắng đâu.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "truth be told",
+    "phonetic": "/ˌtruːθ bi ˈtoʊld/",
+    "definition": "used when you tell someone the real facts or your real opinion",
+    "translation": "nói thật lòng thì",
+    "exampleSentence": "Truth be told, I was scared.",
+    "exampleTranslation": "Nói thật lòng thì tôi đã rất sợ.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "to a large extent",
+    "phonetic": "/tə ə ˌlɑːrdʒ ɪkˈstent/",
+    "definition": "used to say how true something is or how big an effect is",
+    "translation": "ở mức độ lớn, phần lớn",
+    "exampleSentence": "The project's success depends to a large extent on the weather.",
+    "exampleTranslation": "Thành công của dự án phụ thuộc phần lớn vào thời tiết.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "well",
+    "phonetic": "/wel/",
+    "definition": "used to pause or give yourself time to think before you say something",
+    "translation": "ừm, à thì",
+    "exampleSentence": "Well, I'm not sure. Let me think about it.",
+    "exampleTranslation": "À thì, tôi không chắc. Để tôi nghĩ đã.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "now",
+    "phonetic": "/naʊ/",
+    "definition": "used to get someone's attention before you continue or change the subject",
+    "translation": "nào, bây giờ thì",
+    "exampleSentence": "Now, let's look at the next question.",
+    "exampleTranslation": "Nào, chúng ta xem câu hỏi tiếp theo.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "right",
+    "phonetic": "/raɪt/",
+    "definition": "used to get someone's attention before you start to say or do something; British English",
+    "translation": "được rồi, nào",
+    "exampleSentence": "Right, shall we get started?",
+    "exampleTranslation": "Được rồi, chúng ta bắt đầu nhé?",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "okay",
+    "phonetic": "/ˌoʊˈkeɪ/",
+    "definition": "used when you start to talk about something new, or when you pause before continuing",
+    "translation": "được rồi, nào",
+    "exampleSentence": "Okay, let's move on to the next topic.",
+    "exampleTranslation": "Được rồi, chúng ta chuyển sang chủ đề tiếp theo.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "oh",
+    "phonetic": "/oʊ/",
+    "definition": "used to get someone's attention or to continue what you are saying",
+    "translation": "ồ, à",
+    "exampleSentence": "Oh, I forgot to tell you. The meeting has moved.",
+    "exampleTranslation": "À, tôi quên nói với bạn. Cuộc họp đã dời lịch rồi.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "hmm",
+    "phonetic": "/hm/",
+    "definition": "a sound you make to show doubt, a pause or disagreement",
+    "translation": "ừm, hừm",
+    "exampleSentence": "Hmm, I'm not sure that's a good idea.",
+    "exampleTranslation": "Hừm, tôi không chắc đó là ý hay.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "um",
+    "phonetic": "/ʌm/",
+    "definition": "used when you cannot immediately decide what to say next",
+    "translation": "ừm, ờ",
+    "exampleSentence": "Um, I think the answer is B.",
+    "exampleTranslation": "Ờ, tôi nghĩ đáp án là B.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "er",
+    "phonetic": "/ɜː/",
+    "definition": "a sound you make when you do not know exactly what to say next; British English",
+    "translation": "ờ, ừm",
+    "exampleSentence": "I was, er, wondering if you could help.",
+    "exampleTranslation": "Tôi đang, ờ, không biết bạn có giúp được không.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "I mean",
+    "phonetic": "/aɪ ˈmiːn/",
+    "definition": "used when you explain something, give an example, correct yourself or pause to think what to say",
+    "translation": "ý tôi là",
+    "exampleSentence": "It's too expensive. I mean, who pays that much for a shirt?",
+    "exampleTranslation": "Đắt quá. Ý tôi là, ai lại trả chừng đó tiền cho một cái áo sơ mi?",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "like",
+    "phonetic": "/laɪk/",
+    "definition": "used in speech to fill a pause while you think what to say next; spoken",
+    "translation": "kiểu như, ờ thì",
+    "exampleSentence": "It was, like, really hot yesterday.",
+    "exampleTranslation": "Hôm qua trời, kiểu như, nóng kinh khủng.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "look",
+    "phonetic": "/lʊk/",
+    "definition": "used to get someone's attention so that you can suggest or tell them something",
+    "translation": "này, nghe này",
+    "exampleSentence": "Look, I know you're upset, but let's talk about it.",
+    "exampleTranslation": "Này, tôi biết bạn đang buồn, nhưng mình nói chuyện nhé.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "listen",
+    "phonetic": "/ˈlɪsn/",
+    "definition": "used to tell someone to pay attention to what you are going to say; spoken",
+    "translation": "nghe này, nghe tôi nói",
+    "exampleSentence": "Listen, I need to tell you something important.",
+    "exampleTranslation": "Nghe này, tôi cần nói với bạn một điều quan trọng.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "incidentally",
+    "phonetic": "/ˌɪnsɪˈdentli/",
+    "definition": "adds more information, or introduces a new subject you have just thought of",
+    "translation": "nhân tiện, tiện thể",
+    "exampleSentence": "Incidentally, have you seen Anna lately?",
+    "exampleTranslation": "Nhân tiện, gần đây bạn có gặp Anna không?",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "that reminds me",
+    "phonetic": "/ˌðæt rɪˈmaɪndz mi/",
+    "definition": "used when something has just made you remember something you wanted to say or do",
+    "translation": "nhắc mới nhớ",
+    "exampleSentence": "That reminds me, I need to call the bank.",
+    "exampleTranslation": "Nhắc mới nhớ, tôi cần gọi cho ngân hàng.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "come to think of it",
+    "phonetic": "/ˌkʌm tə ˈθɪŋk əv ɪt/",
+    "definition": "used to mention something you have just realized or remembered",
+    "translation": "nghĩ lại thì, nói mới nhớ",
+    "exampleSentence": "Come to think of it, I haven't seen him all week.",
+    "exampleTranslation": "Nghĩ lại thì cả tuần nay tôi chưa thấy anh ấy.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "I guess",
+    "phonetic": "/aɪ ˈɡes/",
+    "definition": "used to say you think something is true or likely, although you are not sure; spoken",
+    "translation": "tôi đoán là, chắc là",
+    "exampleSentence": "I guess you're right.",
+    "exampleTranslation": "Chắc là bạn đúng.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "I suppose",
+    "phonetic": "/aɪ səˈpoʊz/",
+    "definition": "used to say you think something is true, although you are not certain",
+    "translation": "tôi cho là, chắc là",
+    "exampleSentence": "I suppose we could try again tomorrow.",
+    "exampleTranslation": "Tôi nghĩ chúng ta có thể thử lại vào ngày mai.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "I think",
+    "phonetic": "/aɪ ˈθɪŋk/",
+    "definition": "used when you say you believe something is true, although you are not sure",
+    "translation": "tôi nghĩ là",
+    "exampleSentence": "I think the shop closes at six.",
+    "exampleTranslation": "Tôi nghĩ cửa hàng đóng cửa lúc sáu giờ.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "the thing is",
+    "phonetic": "/ðə ˈθɪŋ ɪz/",
+    "definition": "used when you are going to explain something, give a reason or give an opinion; spoken",
+    "translation": "vấn đề là, chuyện là",
+    "exampleSentence": "The thing is, I don't have enough money.",
+    "exampleTranslation": "Vấn đề là tôi không đủ tiền.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "the fact is",
+    "phonetic": "/ðə ˈfækt ɪz/",
+    "definition": "used when you tell someone what is actually true in a situation, especially when it may be unpleasant; spoken",
+    "translation": "sự thật là",
+    "exampleSentence": "The fact is, we can't afford a new car.",
+    "exampleTranslation": "Sự thật là chúng ta không đủ tiền mua xe mới.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "the trouble is",
+    "phonetic": "/ðə ˈtrʌbl ɪz/",
+    "definition": "used when you say what is bad about a person or situation or what causes problems",
+    "translation": "rắc rối là, vấn đề là",
+    "exampleSentence": "The trouble is, nobody knows the way.",
+    "exampleTranslation": "Rắc rối là không ai biết đường.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "what I mean is",
+    "phonetic": "/ˌwʌt aɪ ˈmiːn ɪz/",
+    "definition": "used to explain more about what you have said",
+    "translation": "ý tôi là",
+    "exampleSentence": "What I mean is, we need to start earlier.",
+    "exampleTranslation": "Ý tôi là chúng ta cần bắt đầu sớm hơn.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "with all due respect",
+    "phonetic": "/wɪð ˌɔːl ˌduː rɪˈspekt/",
+    "definition": "used to disagree with or criticize someone in a polite way; spoken",
+    "translation": "với tất cả sự kính trọng, xin phép được nói",
+    "exampleSentence": "With all due respect, I think you are wrong.",
+    "exampleTranslation": "Với tất cả sự kính trọng, tôi nghĩ ông đã nhầm.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "for what it's worth",
+    "phonetic": "/fər ˌwʌt ɪts ˈwɜːrθ/",
+    "definition": "used when you give someone information, to say that you are not sure how useful it is",
+    "translation": "có đáng giá hay không thì tôi vẫn nói",
+    "exampleSentence": "For what it's worth, I think she was telling the truth.",
+    "exampleTranslation": "Có đáng giá hay không thì tôi vẫn nói, tôi nghĩ cô ấy nói thật.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "if you like",
+    "phonetic": "/ɪf ju ˈlaɪk/",
+    "definition": "used to suggest or offer something to someone; British English",
+    "translation": "nếu bạn muốn",
+    "exampleSentence": "I can drive you home, if you like.",
+    "exampleTranslation": "Tôi có thể chở bạn về nhà, nếu bạn muốn.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "or whatever",
+    "phonetic": "/ɔːr wʌtˈevər/",
+    "definition": "used after one or two examples to mean other things of the same kind",
+    "translation": "hay gì đó, hoặc những thứ tương tự",
+    "exampleSentence": "You can bring chips or whatever.",
+    "exampleTranslation": "Bạn có thể mang khoai tây chiên hay gì đó.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "or something",
+    "phonetic": "/ɔːr ˈsʌmθɪŋ/",
+    "definition": "used when you do not remember or do not think it is necessary to give another example; spoken",
+    "translation": "hay gì đó",
+    "exampleSentence": "Let's get a pizza or something.",
+    "exampleTranslation": "Mình đi ăn pizza hay gì đó nhé.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "and stuff",
+    "phonetic": "/ən ˈstʌf/",
+    "definition": "used to say there are other similar things, but you are not going to name them; spoken and informal",
+    "translation": "và mấy thứ khác, đại loại thế",
+    "exampleSentence": "We played games and stuff.",
+    "exampleTranslation": "Bọn mình chơi game và mấy thứ khác.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "and all that",
+    "phonetic": "/ən ˌɔːl ˈðæt/",
+    "definition": "and similar things; British English",
+    "translation": "và những thứ như vậy, vân vân",
+    "exampleSentence": "He's got the money and the house and all that.",
+    "exampleTranslation": "Anh ấy có tiền, có nhà và những thứ như vậy.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "regarding",
+    "phonetic": "/rɪˈɡɑːrdɪŋ/",
+    "definition": "introduces the subject you are writing or talking about, especially in letters or speeches; formal",
+    "translation": "về, liên quan đến",
+    "exampleSentence": "I am writing regarding your application for the post.",
+    "exampleTranslation": "Tôi viết thư này liên quan đến đơn xin việc của bạn.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "concerning",
+    "phonetic": "/kənˈsɜːrnɪŋ/",
+    "definition": "introduces the subject you are talking about; in everyday English people usually say \"about\"",
+    "translation": "về, liên quan đến",
+    "exampleSentence": "We have some questions concerning your last invoice.",
+    "exampleTranslation": "Chúng tôi có vài câu hỏi liên quan đến hóa đơn gần nhất của bạn.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "with regard to",
+    "phonetic": "/wɪð rɪˈɡɑːrd tuː/",
+    "definition": "introduces the subject you are talking or writing about; formal",
+    "translation": "về vấn đề, đối với",
+    "exampleSentence": "With regard to your question, the answer is yes.",
+    "exampleTranslation": "Về câu hỏi của bạn, câu trả lời là có.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "as regards",
+    "phonetic": "/æz rɪˈɡɑːrdz/",
+    "definition": "introduces the subject you want to talk or write about; formal",
+    "translation": "về, đối với",
+    "exampleSentence": "As regards the price, we can discuss it later.",
+    "exampleTranslation": "Về giá cả, chúng ta có thể bàn sau.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "in terms of",
+    "phonetic": "/ɪn ˈtɜːrmz əv/",
+    "definition": "introduces the aspect of something you are talking about",
+    "translation": "xét về mặt, về phương diện",
+    "exampleSentence": "In terms of price, this laptop is a good choice.",
+    "exampleTranslation": "Xét về giá, chiếc máy tính xách tay này là lựa chọn tốt.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "in relation to",
+    "phonetic": "/ɪn rɪˈleɪʃn tuː/",
+    "definition": "shows that you are talking about something connected with or compared with another thing; formal",
+    "translation": "liên quan đến, so với",
+    "exampleSentence": "Prices have risen in relation to wages.",
+    "exampleTranslation": "Giá cả đã tăng so với tiền lương.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "with respect to",
+    "phonetic": "/wɪð rɪˈspekt tuː/",
+    "definition": "introduces a new subject or returns to one already mentioned; formal",
+    "translation": "đối với, về vấn đề",
+    "exampleSentence": "With respect to safety, the new rules are much stricter.",
+    "exampleTranslation": "Về an toàn, các quy định mới nghiêm ngặt hơn nhiều.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "according to",
+    "phonetic": "/əˈkɔːrdɪŋ tuː/",
+    "definition": "shows where information comes from, such as a person, report or source",
+    "translation": "theo, theo như",
+    "exampleSentence": "According to the weather forecast, it will rain tomorrow.",
+    "exampleTranslation": "Theo dự báo thời tiết, ngày mai trời sẽ mưa.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "in view of",
+    "phonetic": "/ɪn ˈvjuː əv/",
+    "definition": "introduces the reason for a decision or action; formal",
+    "translation": "xét đến, do",
+    "exampleSentence": "In view of the bad weather, the match has been cancelled.",
+    "exampleTranslation": "Do thời tiết xấu, trận đấu đã bị hủy.",
+    "pos": "discourse marker"
+  }
+]

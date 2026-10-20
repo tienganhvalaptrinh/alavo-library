@@ -1,0 +1,37 @@
+{
+  "id": "adjective-preposition-175",
+  "type": "vocabulary",
+  "title": "175 common adjective and preposition pairs",
+  "description": "175 common adjective and preposition pairs such as afraid of, good at, interested in and proud of, with Vietnamese meanings and examples.",
+  "category": "adjective-preposition",
+  "level": "mixed",
+  "order": 8,
+  "sourceLang": "en",
+  "targetLang": "vi",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "source": "Written by the Alavo team. Adjective and preposition pairs chosen by hand from everyday use, kept when Longman (LDOCE) shows the pattern for the adjective; definitions paraphrase LDOCE; translations and examples are original.",
+  "wordCount": 175,
+  "files": [
+    {
+      "path": "words-001.json",
+      "count": 50,
+      "sha256": "03d439bb1213ac8d2511bd62d26522ab075c91aa8af33feb17c79109421e2422"
+    },
+    {
+      "path": "words-002.json",
+      "count": 50,
+      "sha256": "07cb9ca2973f9c9fd4b30b0d4b90dc01cfabb9b2bf3ec283b11b16b9274e0671"
+    },
+    {
+      "path": "words-003.json",
+      "count": 50,
+      "sha256": "5da85acadfcaf085be8ec1927cab71caccd4ee771c6af490675c1db6fcae8adf"
+    },
+    {
+      "path": "words-004.json",
+      "count": 25,
+      "sha256": "bed5c285d87d61046f3aa55c6c85537f9a229ee4527a03ca76b17da9ebf5727e"
+    }
+  ]
+}

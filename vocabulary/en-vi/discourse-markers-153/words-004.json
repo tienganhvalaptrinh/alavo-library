@@ -1,0 +1,29 @@
+[
+  {
+    "word": "in light of",
+    "phonetic": "/ɪn ˈlaɪt əv/",
+    "definition": "shows that you do or decide something after considering another fact; \"in the light of\" is the British form",
+    "translation": "xét theo, dựa trên",
+    "exampleSentence": "In light of the new evidence, the case will be reviewed.",
+    "exampleTranslation": "Dựa trên bằng chứng mới, vụ việc sẽ được xem xét lại.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "in the first instance",
+    "phonetic": "/ɪn ðə ˌfɜːrst ˈɪnstəns/",
+    "definition": "at the start of a situation or series of actions; formal",
+    "translation": "trước hết, ở bước đầu tiên",
+    "exampleSentence": "In the first instance, please contact your manager.",
+    "exampleTranslation": "Trước hết, vui lòng liên hệ quản lý của bạn.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "as far as I can tell",
+    "phonetic": "/æz ˌfɑːr æz aɪ kæn ˈtel/",
+    "definition": "used to say you think something is true, although you may not know all the facts",
+    "translation": "theo những gì tôi thấy",
+    "exampleSentence": "As far as I can tell, the problem is with the battery.",
+    "exampleTranslation": "Theo những gì tôi thấy, vấn đề nằm ở pin.",
+    "pos": "discourse marker"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "word": "access to",
+    "phonetic": "/ˈækses tə/",
+    "definition": "the right or chance to enter a place, use something or see someone (access to + something)",
+    "translation": "quyền truy cập, quyền tiếp cận",
+    "exampleSentence": "Access to the papers is restricted to senior managers.",
+    "exampleTranslation": "Chỉ quản lý cấp cao mới được xem các tài liệu này.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "advantage of",
+    "phonetic": "/ədˈvæntɪdʒ əv/",
+    "definition": "a good or useful feature that something has (advantage of + something/-ing)",
+    "translation": "ưu điểm của",
+    "exampleSentence": "One advantage of living in a city is that you can eat out easily.",
+    "exampleTranslation": "Một ưu điểm của việc sống ở thành phố là bạn dễ dàng ăn ngoài.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "advice on",
+    "phonetic": "/ədˈvaɪs ɑːn/",
+    "definition": "an opinion you give someone about what they should do (advice on + something)",
+    "translation": "lời khuyên về",
+    "exampleSentence": "The website gives advice on saving energy.",
+    "exampleTranslation": "Trang web đưa ra lời khuyên về tiết kiệm năng lượng.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "agreement on",
+    "phonetic": "/əˈɡriːmənt ɑːn/",
+    "definition": "an arrangement or promise made by two or more people about a subject (agreement on + something)",
+    "translation": "thỏa thuận về",
+    "exampleSentence": "The two countries signed an agreement on arms reduction.",
+    "exampleTranslation": "Hai nước đã ký thỏa thuận về cắt giảm vũ khí.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "agreement with",
+    "phonetic": "/əˈɡriːmənt wɪð/",
+    "definition": "an arrangement or promise made with another person or group (agreement with + somebody)",
+    "translation": "thỏa thuận với",
+    "exampleSentence": "Haydon came to an agreement with his creditors.",
+    "exampleTranslation": "Haydon đạt được thỏa thuận với các chủ nợ.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "alternative to",
+    "phonetic": "/ɔːlˈtɜːrnətɪv tə/",
+    "definition": "something you can choose instead of something else (alternative to + something)",
+    "translation": "giải pháp thay thế cho",
+    "exampleSentence": "Is there a viable alternative to the present system?",
+    "exampleTranslation": "Có giải pháp nào khả thi để thay thế hệ thống hiện tại không?",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "anger at",
+    "phonetic": "/ˈæŋɡər ət/",
+    "definition": "a strong feeling of wanting to hurt or criticize someone because of something unfair (anger at + something)",
+    "translation": "sự tức giận trước",
+    "exampleSentence": "She struggled to control her anger at her son's disobedience.",
+    "exampleTranslation": "Bà cố kiềm chế cơn giận trước sự không nghe lời của con trai.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "answer to",
+    "phonetic": "/ˈænsər tə/",
+    "definition": "something you say or do in reply to a question or a problem (answer to + something)",
+    "translation": "câu trả lời cho, lời giải cho",
+    "exampleSentence": "These are important questions, and we want answers to them.",
+    "exampleTranslation": "Đây là những câu hỏi quan trọng và chúng tôi muốn có lời giải đáp.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "apology for",
+    "phonetic": "/əˈpɑːlədʒi fɔːr/",
+    "definition": "something you say or write to show you are sorry for something (apology for + something)",
+    "translation": "lời xin lỗi về",
+    "exampleSentence": "The minister had to issue a public apology for his remarks.",
+    "exampleTranslation": "Bộ trưởng phải công khai xin lỗi về phát ngôn của mình.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "approach to",
+    "phonetic": "/əˈproʊtʃ tə/",
+    "definition": "a method of doing something or dealing with a problem (approach to + something)",
+    "translation": "cách tiếp cận đối với",
+    "exampleSentence": "This school uses a new approach to teaching languages.",
+    "exampleTranslation": "Trường này dùng cách tiếp cận mới trong việc dạy ngoại ngữ.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "argument about",
+    "phonetic": "/ˈɑːrɡjumənt əˈbaʊt/",
+    "definition": "a disagreement between people about a subject (argument about + something)",
+    "translation": "cuộc tranh cãi về",
+    "exampleSentence": "There were many arguments about who was responsible for the accident.",
+    "exampleTranslation": "Đã có nhiều cuộc tranh cãi về việc ai chịu trách nhiệm cho tai nạn.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "argument with",
+    "phonetic": "/ˈɑːrɡjumənt wɪð/",
+    "definition": "a disagreement between you and another person (argument with + somebody)",
+    "translation": "cuộc tranh cãi với",
+    "exampleSentence": "She had a big argument with her husband.",
+    "exampleTranslation": "Cô ấy đã cãi nhau lớn với chồng.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "attack on",
+    "phonetic": "/əˈtæk ɑːn/",
+    "definition": "an act of violence intended to hurt a person or damage a place (attack on + somebody/something)",
+    "translation": "cuộc tấn công vào",
+    "exampleSentence": "There have been several attacks on foreigners recently.",
+    "exampleTranslation": "Gần đây đã xảy ra nhiều vụ tấn công người nước ngoài.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "attempt at",
+    "phonetic": "/əˈtempt ət/",
+    "definition": "an act of trying to do something, especially something difficult (attempt at + something/-ing)",
+    "translation": "nỗ lực làm gì",
+    "exampleSentence": "Her attempt at making bread was a disaster.",
+    "exampleTranslation": "Lần cô ấy thử làm bánh mì thật là một thảm họa.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "attention to",
+    "phonetic": "/əˈtenʃn tə/",
+    "definition": "care in listening to, looking at or thinking about someone or something (attention to + something)",
+    "translation": "sự chú ý đến",
+    "exampleSentence": "He read the final page, paying particular attention to the last paragraph.",
+    "exampleTranslation": "Anh ấy đọc trang cuối, đặc biệt chú ý đến đoạn cuối cùng.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "attitude to",
+    "phonetic": "/ˈætɪtuːd tə/",
+    "definition": "the opinions and feelings you usually have about something (attitude to + something)",
+    "translation": "thái độ đối với",
+    "exampleSentence": "The people have a very positive attitude to life.",
+    "exampleTranslation": "Người dân có thái độ rất tích cực với cuộc sống.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "attitude towards",
+    "phonetic": "/ˈætɪtuːd təˈwɔːrdz/",
+    "definition": "the opinions and feelings you usually have about someone or something (attitude towards + somebody/something)",
+    "translation": "thái độ đối với",
+    "exampleSentence": "Many teenagers have a negative attitude towards cooking.",
+    "exampleTranslation": "Nhiều thiếu niên có thái độ tiêu cực đối với việc nấu ăn.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "awareness of",
+    "phonetic": "/əˈwernəs əv/",
+    "definition": "knowledge or understanding that something exists (awareness of + something)",
+    "translation": "nhận thức về",
+    "exampleSentence": "The campaign raises awareness of the risks of smoking.",
+    "exampleTranslation": "Chiến dịch nâng cao nhận thức về tác hại của thuốc lá.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "basis for",
+    "phonetic": "/ˈbeɪsɪs fɔːr/",
+    "definition": "the facts or ideas from which something can develop (basis for + something)",
+    "translation": "cơ sở cho",
+    "exampleSentence": "The video will provide a basis for class discussion.",
+    "exampleTranslation": "Video sẽ làm cơ sở cho buổi thảo luận trên lớp.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "belief in",
+    "phonetic": "/bɪˈliːf ɪn/",
+    "definition": "the feeling that something is definitely true or exists (belief in + something)",
+    "translation": "niềm tin vào",
+    "exampleSentence": "He has a strong belief in God.",
+    "exampleTranslation": "Ông ấy có niềm tin mạnh mẽ vào Chúa.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "benefit of",
+    "phonetic": "/ˈbenɪfɪt əv/",
+    "definition": "an advantage or help that you get from something (benefit of + something/-ing)",
+    "translation": "lợi ích của",
+    "exampleSentence": "We talked about the benefits of contact lenses.",
+    "exampleTranslation": "Chúng tôi đã nói về lợi ích của kính áp tròng.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "bill for",
+    "phonetic": "/ˈbɪl fɔːr/",
+    "definition": "a written list showing how much you must pay for goods or services (bill for + something)",
+    "translation": "hóa đơn cho",
+    "exampleSentence": "The bill for the repairs came to $650.",
+    "exampleTranslation": "Hóa đơn sửa chữa lên tới 650 đô la.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "cause of",
+    "phonetic": "/ˈkɔːz əv/",
+    "definition": "a person, event or thing that makes something happen (cause of + something)",
+    "translation": "nguyên nhân của",
+    "exampleSentence": "Smoking is the leading cause of lung cancer.",
+    "exampleTranslation": "Hút thuốc là nguyên nhân hàng đầu của ung thư phổi.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "chance of",
+    "phonetic": "/ˈtʃæns əv/",
+    "definition": "the possibility that something will happen (chance of + something/-ing)",
+    "translation": "khả năng, cơ hội",
+    "exampleSentence": "What are the team's chances of success?",
+    "exampleTranslation": "Cơ hội thành công của đội là bao nhiêu?",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "change in",
+    "phonetic": "/ˈtʃeɪndʒ ɪn/",
+    "definition": "the process or result of something becoming different (change in + something)",
+    "translation": "sự thay đổi trong",
+    "exampleSentence": "There have been changes in the immigration laws.",
+    "exampleTranslation": "Đã có những thay đổi trong luật nhập cư.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "change of",
+    "phonetic": "/ˈtʃeɪndʒ əv/",
+    "definition": "the replacing of one thing with another (change of + something)",
+    "translation": "sự thay đổi về",
+    "exampleSentence": "A sudden change of temperature can make you ill.",
+    "exampleTranslation": "Sự thay đổi nhiệt độ đột ngột có thể làm bạn bị bệnh.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "choice between",
+    "phonetic": "/ˈtʃɔɪs bɪˈtwiːn/",
+    "definition": "the chance to choose one of several things (choice between + things)",
+    "translation": "sự lựa chọn giữa",
+    "exampleSentence": "Voters have a choice between three main parties.",
+    "exampleTranslation": "Cử tri có quyền lựa chọn giữa ba đảng chính.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "choice of",
+    "phonetic": "/ˈtʃɔɪs əv/",
+    "definition": "the range of things you can choose from (choice of + things)",
+    "translation": "sự lựa chọn về",
+    "exampleSentence": "You have a choice of hotel or self-catering accommodation.",
+    "exampleTranslation": "Bạn có thể chọn giữa khách sạn hoặc nơi ở tự nấu ăn.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "commitment to",
+    "phonetic": "/kəˈmɪtmənt tə/",
+    "definition": "a promise to do something or to behave in a particular way (commitment to + something/-ing)",
+    "translation": "cam kết đối với",
+    "exampleSentence": "Our company has a commitment to quality and customer service.",
+    "exampleTranslation": "Công ty chúng tôi cam kết về chất lượng và dịch vụ khách hàng.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "competition between",
+    "phonetic": "/ˌkɑːmpəˈtɪʃn bɪˈtwiːn/",
+    "definition": "a situation in which people try to be more successful than others (competition between + people)",
+    "translation": "sự cạnh tranh giữa",
+    "exampleSentence": "There is a lot of competition between children for their mother's attention.",
+    "exampleTranslation": "Có nhiều sự tranh giành giữa bọn trẻ để được mẹ chú ý.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "competition for",
+    "phonetic": "/ˌkɑːmpəˈtɪʃn fɔːr/",
+    "definition": "a situation in which people try to win or get something (competition for + something)",
+    "translation": "sự cạnh tranh để giành",
+    "exampleSentence": "Competition for the job was intense.",
+    "exampleTranslation": "Sự cạnh tranh cho vị trí đó rất gay gắt.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "complaint about",
+    "phonetic": "/kəmˈpleɪnt əˈbaʊt/",
+    "definition": "a statement saying you are not satisfied with something (complaint about + something)",
+    "translation": "lời phàn nàn về",
+    "exampleSentence": "There were complaints about the quality of his work.",
+    "exampleTranslation": "Đã có những lời phàn nàn về chất lượng công việc của anh ấy.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "concern about",
+    "phonetic": "/kənˈsɜːrn əˈbaʊt/",
+    "definition": "a feeling of worry about something important (concern about + something)",
+    "translation": "mối lo ngại về",
+    "exampleSentence": "There is growing concern about the environment.",
+    "exampleTranslation": "Mối lo ngại về môi trường ngày càng tăng.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "concern for",
+    "phonetic": "/kənˈsɜːrn fɔːr/",
+    "definition": "a feeling of care or worry for someone or something (concern for + somebody/something)",
+    "translation": "sự quan tâm đến",
+    "exampleSentence": "They showed deep concern for human rights.",
+    "exampleTranslation": "Họ thể hiện sự quan tâm sâu sắc đến nhân quyền.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "confidence in",
+    "phonetic": "/ˈkɑːnfɪdəns ɪn/",
+    "definition": "the feeling that you can trust someone or something to be good (confidence in + somebody/something)",
+    "translation": "sự tin tưởng vào",
+    "exampleSentence": "Public confidence in the government is at an all-time low.",
+    "exampleTranslation": "Niềm tin của công chúng vào chính phủ đang ở mức thấp nhất từ trước đến nay.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "connection between",
+    "phonetic": "/kəˈnekʃn bɪˈtwiːn/",
+    "definition": "the way in which two facts or events are related (connection between + two things)",
+    "translation": "mối liên hệ giữa",
+    "exampleSentence": "There is a clear connection between smoking and cancer.",
+    "exampleTranslation": "Có mối liên hệ rõ ràng giữa hút thuốc và ung thư.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "connection with",
+    "phonetic": "/kəˈnekʃn wɪð/",
+    "definition": "the way in which something is related to another thing or person (connection with + something/somebody)",
+    "translation": "mối liên hệ với",
+    "exampleSentence": "Mr O'Hara had no known connection with terrorist activity.",
+    "exampleTranslation": "Ông O'Hara không có mối liên hệ nào được biết đến với hoạt động khủng bố.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "contact with",
+    "phonetic": "/ˈkɑːntækt wɪð/",
+    "definition": "communication with a person, organization or country (contact with + somebody)",
+    "translation": "sự liên lạc với",
+    "exampleSentence": "Many of us have no direct contact with elderly people.",
+    "exampleTranslation": "Nhiều người trong chúng ta không có tiếp xúc trực tiếp với người cao tuổi.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "contrast between",
+    "phonetic": "/ˈkɑːntræst bɪˈtwiːn/",
+    "definition": "a clear difference between people, ideas or things being compared (contrast between + two things)",
+    "translation": "sự tương phản giữa",
+    "exampleSentence": "There is a sharp contrast between the rich and the poor.",
+    "exampleTranslation": "Có sự tương phản rõ rệt giữa người giàu và người nghèo.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "contribution to",
+    "phonetic": "/ˌkɑːntrɪˈbjuːʃn tə/",
+    "definition": "something you give or do to help something be successful (contribution to + something)",
+    "translation": "sự đóng góp cho",
+    "exampleSentence": "Einstein was awarded the Nobel Prize for his contribution to quantum theory.",
+    "exampleTranslation": "Einstein được trao giải Nobel vì đóng góp cho lý thuyết lượng tử.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "control of",
+    "phonetic": "/kənˈtroʊl əv/",
+    "definition": "the power to make someone or something do what you want (control of + somebody/something)",
+    "translation": "sự kiểm soát, quyền điều khiển",
+    "exampleSentence": "She is a good teacher and has control of her class.",
+    "exampleTranslation": "Cô ấy là một giáo viên giỏi và kiểm soát tốt lớp học.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "control over",
+    "phonetic": "/kənˈtroʊl ˈoʊvər/",
+    "definition": "the power to influence or direct someone or something (control over + somebody/something)",
+    "translation": "khả năng kiểm soát đối với",
+    "exampleSentence": "Babies are born with very little control over their movements.",
+    "exampleTranslation": "Trẻ sơ sinh có rất ít khả năng kiểm soát cử động của mình.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "cost of",
+    "phonetic": "/ˈkɔːst əv/",
+    "definition": "the amount of money you must pay to buy or do something (cost of + something)",
+    "translation": "chi phí của",
+    "exampleSentence": "The cost of accommodation has risen sharply.",
+    "exampleTranslation": "Chi phí chỗ ở đã tăng mạnh.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "criticism of",
+    "phonetic": "/ˈkrɪtɪsɪzəm əv/",
+    "definition": "remarks that say what you think is bad about someone or something (criticism of + somebody/something)",
+    "translation": "lời chỉ trích đối với",
+    "exampleSentence": "My main criticism of the scheme is that it does nothing to help families.",
+    "exampleTranslation": "Điều tôi chỉ trích chính ở kế hoạch này là nó không giúp ích gì cho các gia đình.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "cure for",
+    "phonetic": "/ˈkjʊr fɔːr/",
+    "definition": "a medicine or treatment that makes an illness go away (cure for + illness)",
+    "translation": "thuốc chữa, cách chữa cho",
+    "exampleSentence": "There is still no cure for the common cold.",
+    "exampleTranslation": "Vẫn chưa có thuốc chữa bệnh cảm lạnh thông thường.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "damage to",
+    "phonetic": "/ˈdæmɪdʒ tə/",
+    "definition": "physical harm done to something (damage to + something)",
+    "translation": "thiệt hại đối với",
+    "exampleSentence": "The storm caused serious damage to property.",
+    "exampleTranslation": "Cơn bão gây thiệt hại nghiêm trọng cho tài sản.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "danger of",
+    "phonetic": "/ˈdeɪndʒər əv/",
+    "definition": "the possibility that someone or something will be harmed or destroyed (danger of + something/-ing)",
+    "translation": "nguy cơ",
+    "exampleSentence": "The danger of a fire at home increases during the holidays.",
+    "exampleTranslation": "Nguy cơ cháy nhà tăng lên trong những ngày lễ.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "date of",
+    "phonetic": "/ˈdeɪt əv/",
+    "definition": "a particular day of the month or year (date of + event)",
+    "translation": "ngày của",
+    "exampleSentence": "What's the date of the next meeting?",
+    "exampleTranslation": "Ngày của cuộc họp tiếp theo là khi nào?",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "decision about",
+    "phonetic": "/dɪˈsɪʒn əˈbaʊt/",
+    "definition": "a choice you make after a period of discussion or thought (decision about + something)",
+    "translation": "quyết định về",
+    "exampleSentence": "The government has postponed its decision about when to hold the election.",
+    "exampleTranslation": "Chính phủ đã hoãn quyết định về thời điểm tổ chức bầu cử.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "decision on",
+    "phonetic": "/dɪˈsɪʒn ɑːn/",
+    "definition": "a choice you make after a period of discussion or thought (decision on + something)",
+    "translation": "quyết định về",
+    "exampleSentence": "We finally came to a firm decision on the matter.",
+    "exampleTranslation": "Cuối cùng chúng tôi đã đi đến quyết định dứt khoát về vấn đề này.",
+    "pos": "noun with preposition"
+  }
+]

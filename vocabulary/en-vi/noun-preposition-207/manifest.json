@@ -1,0 +1,42 @@
+{
+  "id": "noun-preposition-207",
+  "type": "vocabulary",
+  "title": "207 common noun and preposition pairs",
+  "description": "207 common noun and preposition pairs such as reason for, effect on, solution to and increase in, with Vietnamese meanings and examples.",
+  "category": "noun-preposition",
+  "level": "mixed",
+  "order": 9,
+  "sourceLang": "en",
+  "targetLang": "vi",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "source": "Written by the Alavo team. Noun and preposition pairs chosen by hand from everyday use, kept when Longman (LDOCE) shows the pattern for the noun; definitions paraphrase LDOCE; translations and examples are original.",
+  "wordCount": 207,
+  "files": [
+    {
+      "path": "words-001.json",
+      "count": 50,
+      "sha256": "8fdb556bbeffe40181ca369cebb84873a63b26314279efd4eb5dc280b13880d5"
+    },
+    {
+      "path": "words-002.json",
+      "count": 50,
+      "sha256": "dfaae9e53408d15936967379039a2d122edf3a64fc7a70c481b4a609dd5d6422"
+    },
+    {
+      "path": "words-003.json",
+      "count": 50,
+      "sha256": "6374891cd7f9accaf44b88933ea328379afabe5e3e45730660c8b457937186ea"
+    },
+    {
+      "path": "words-004.json",
+      "count": 50,
+      "sha256": "8bc62f12e13ba3e28bc703809230a51b19400e9565305f91b0f9d7e0a21963a1"
+    },
+    {
+      "path": "words-005.json",
+      "count": 7,
+      "sha256": "31d01e515023653204a659f7b5e235e2d5af8286575e944c3d7b162f668fa891"
+    }
+  ]
+}

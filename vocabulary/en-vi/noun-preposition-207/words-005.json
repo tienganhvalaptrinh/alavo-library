@@ -1,0 +1,65 @@
+[
+  {
+    "word": "use of",
+    "phonetic": "/ˈjuːs əv/",
+    "definition": "the action or fact of using something (use of + something)",
+    "translation": "việc sử dụng",
+    "exampleSentence": "The use of computers in education is increasing.",
+    "exampleTranslation": "Việc sử dụng máy tính trong giáo dục đang tăng lên.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "value of",
+    "phonetic": "/ˈvæljuː əv/",
+    "definition": "the amount of money something is worth (value of + something)",
+    "translation": "giá trị của",
+    "exampleSentence": "The alterations doubled the value of the house.",
+    "exampleTranslation": "Việc cải tạo đã làm giá trị ngôi nhà tăng gấp đôi.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "view on",
+    "phonetic": "/ˈvjuː ɑːn/",
+    "definition": "what you think or believe about something (view on + something)",
+    "translation": "quan điểm về",
+    "exampleSentence": "What's your view on the subject?",
+    "exampleTranslation": "Quan điểm của bạn về vấn đề này là gì?",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "view of",
+    "phonetic": "/ˈvjuː əv/",
+    "definition": "a way of thinking about or understanding something (view of + something)",
+    "translation": "cách nhìn về",
+    "exampleSentence": "Mum's view of the situation was different from mine.",
+    "exampleTranslation": "Cách nhìn của mẹ về tình huống đó khác với tôi.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "visit to",
+    "phonetic": "/ˈvɪzɪt tə/",
+    "definition": "an occasion when someone goes to spend time in a place or with a person (visit to + place/somebody)",
+    "translation": "chuyến thăm đến",
+    "exampleSentence": "We are planning a visit to Chicago.",
+    "exampleTranslation": "Chúng tôi đang lên kế hoạch cho một chuyến thăm Chicago.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "war on",
+    "phonetic": "/ˈwɔːr ɑːn/",
+    "definition": "a long struggle to control or get rid of something harmful (war on + something)",
+    "translation": "cuộc chiến chống lại",
+    "exampleSentence": "The state has launched a war on drugs.",
+    "exampleTranslation": "Nhà nước đã phát động cuộc chiến chống ma túy.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "way of",
+    "phonetic": "/ˈweɪ əv/",
+    "definition": "a method that you use to do or achieve something (way of + -ing)",
+    "translation": "cách để",
+    "exampleSentence": "Evening classes are one way of meeting new people.",
+    "exampleTranslation": "Các lớp học buổi tối là một cách để gặp người mới.",
+    "pos": "noun with preposition"
+  }
+]

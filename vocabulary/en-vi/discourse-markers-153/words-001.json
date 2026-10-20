@@ -1,0 +1,452 @@
+[
+  {
+    "word": "however",
+    "phonetic": "/haʊˈevər/",
+    "definition": "adds a fact or idea that seems surprising or very different from what you have just said",
+    "translation": "tuy nhiên",
+    "exampleSentence": "The hotel was expensive. However, the service was excellent.",
+    "exampleTranslation": "Khách sạn đắt. Tuy nhiên, dịch vụ rất tuyệt.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "nevertheless",
+    "phonetic": "/ˌnevərðəˈles/",
+    "definition": "in spite of a fact you have just mentioned; formal",
+    "translation": "tuy nhiên, dù vậy",
+    "exampleSentence": "The plan was risky. Nevertheless, we decided to go ahead.",
+    "exampleTranslation": "Kế hoạch có nhiều rủi ro. Dù vậy, chúng tôi vẫn quyết định thực hiện.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "nonetheless",
+    "phonetic": "/ˌnʌnðəˈles/",
+    "definition": "in spite of a fact you have just mentioned; formal",
+    "translation": "tuy nhiên, dù vậy",
+    "exampleSentence": "The results were small. Nonetheless, they were important.",
+    "exampleTranslation": "Kết quả khá nhỏ. Dù vậy, chúng rất quan trọng.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "yet",
+    "phonetic": "/jet/",
+    "definition": "introduces a fact or quality that is surprising after what you have just said",
+    "translation": "vậy mà, thế nhưng",
+    "exampleSentence": "He is very rich, yet he never spends money.",
+    "exampleTranslation": "Ông ấy rất giàu, vậy mà chẳng bao giờ tiêu tiền.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "still",
+    "phonetic": "/stɪl/",
+    "definition": "in spite of what has just been said or done",
+    "translation": "dù vậy, vẫn",
+    "exampleSentence": "I know it's cold, but I still want to go swimming.",
+    "exampleTranslation": "Tôi biết trời lạnh, nhưng tôi vẫn muốn đi bơi.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "though",
+    "phonetic": "/ðoʊ/",
+    "definition": "added at the end of a sentence to give a fact or opinion that is surprising after what you have just said; spoken",
+    "translation": "mặc dù vậy, nhưng mà",
+    "exampleSentence": "It was a long trip. I enjoyed it, though.",
+    "exampleTranslation": "Chuyến đi dài. Nhưng tôi vẫn thích.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "although",
+    "phonetic": "/ɔːlˈðoʊ/",
+    "definition": "introduces a statement that makes your main statement seem surprising or unlikely",
+    "translation": "mặc dù, dù cho",
+    "exampleSentence": "Although it was raining, we went for a walk.",
+    "exampleTranslation": "Mặc dù trời mưa, chúng tôi vẫn đi dạo.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "whereas",
+    "phonetic": "/werˈæz/",
+    "definition": "used to say that although something is true of one thing, it is not true of another; formal",
+    "translation": "trong khi, còn",
+    "exampleSentence": "Tom loves cities, whereas his wife prefers the countryside.",
+    "exampleTranslation": "Tom thích thành phố, trong khi vợ anh ấy thích nông thôn hơn.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "instead",
+    "phonetic": "/ɪnˈsted/",
+    "definition": "used to say what is done when you have just said that a particular thing is not done",
+    "translation": "thay vào đó",
+    "exampleSentence": "I didn't go to the gym. Instead, I stayed home and read.",
+    "exampleTranslation": "Tôi không đến phòng tập. Thay vào đó, tôi ở nhà đọc sách.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "conversely",
+    "phonetic": "/kənˈvɜːrsli/",
+    "definition": "used when one situation is the opposite of another",
+    "translation": "ngược lại",
+    "exampleSentence": "Some people work best in silence. Conversely, others need background noise.",
+    "exampleTranslation": "Một số người làm việc tốt nhất khi yên tĩnh. Ngược lại, người khác cần tiếng ồn xung quanh.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "otherwise",
+    "phonetic": "/ˈʌðərwaɪz/",
+    "definition": "used to say what bad thing will happen if something is not done",
+    "translation": "nếu không thì, kẻo",
+    "exampleSentence": "Hurry up, otherwise we'll miss the train.",
+    "exampleTranslation": "Nhanh lên, kẻo chúng ta lỡ tàu.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "then again",
+    "phonetic": "/ˌðen əˈɡen/",
+    "definition": "used to add a statement that says almost the opposite of what you have just said; spoken",
+    "translation": "mà nghĩ lại thì, nhưng mặt khác",
+    "exampleSentence": "It's a good price. Then again, we don't really need it.",
+    "exampleTranslation": "Giá tốt đấy. Mà nghĩ lại thì mình cũng không thật sự cần nó.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "admittedly",
+    "phonetic": "/ədˈmɪtɪdli/",
+    "definition": "used when you admit that something is true",
+    "translation": "phải thừa nhận là",
+    "exampleSentence": "Admittedly, the food was cold, but the staff were kind.",
+    "exampleTranslation": "Phải thừa nhận là đồ ăn nguội, nhưng nhân viên rất tử tế.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "granted",
+    "phonetic": "/ˈɡræntɪd/",
+    "definition": "used when you admit that something is true",
+    "translation": "đành công nhận là, thừa nhận là",
+    "exampleSentence": "Granted, the job is hard, but the pay is good.",
+    "exampleTranslation": "Đành công nhận là công việc khó, nhưng lương tốt.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "mind you",
+    "phonetic": "/ˈmaɪnd ju/",
+    "definition": "used when you say something that is almost the opposite of what you have just said, or that explains it; British English",
+    "translation": "nhưng phải nói, mà cũng phải nói là",
+    "exampleSentence": "I enjoyed the trip. Mind you, it was very tiring.",
+    "exampleTranslation": "Tôi thích chuyến đi. Nhưng phải nói là nó rất mệt.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "even then",
+    "phonetic": "/ˌiːvn ˈðen/",
+    "definition": "in spite of what has happened",
+    "translation": "dù vậy, ngay cả khi đó",
+    "exampleSentence": "I explained it twice. Even then, he didn't understand.",
+    "exampleTranslation": "Tôi giải thích hai lần. Dù vậy, anh ấy vẫn không hiểu.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "regardless",
+    "phonetic": "/rɪˈɡɑːrdləs/",
+    "definition": "without being affected or influenced by something",
+    "translation": "bất kể, mặc kệ",
+    "exampleSentence": "They went ahead with the party regardless.",
+    "exampleTranslation": "Họ vẫn tổ chức bữa tiệc, bất kể thế nào.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "anyway",
+    "phonetic": "/ˈeniweɪ/",
+    "definition": "in spite of what you have just mentioned; also used to return to the main subject",
+    "translation": "dù sao thì, dù gì đi nữa",
+    "exampleSentence": "It might rain, but we'll go anyway.",
+    "exampleTranslation": "Trời có thể mưa, nhưng dù sao chúng ta vẫn đi.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "either way",
+    "phonetic": "/ˌiːðər ˈweɪ/",
+    "definition": "used to say that something will be the same whichever of two things happens or is true",
+    "translation": "dù thế nào đi nữa",
+    "exampleSentence": "We can go by bus or by train. Either way, it takes two hours.",
+    "exampleTranslation": "Mình có thể đi xe buýt hoặc tàu. Dù đi cách nào cũng mất hai tiếng.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "at the same time",
+    "phonetic": "/ət ðə ˌseɪm ˈtaɪm/",
+    "definition": "used when you want to say that something else is also true",
+    "translation": "đồng thời, mặt khác",
+    "exampleSentence": "The job is stressful. At the same time, it is very rewarding.",
+    "exampleTranslation": "Công việc căng thẳng. Mặt khác, nó mang lại nhiều thành quả.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "similarly",
+    "phonetic": "/ˈsɪmələrli/",
+    "definition": "used to show that a new point is like the one before it",
+    "translation": "tương tự, tương tự như vậy",
+    "exampleSentence": "Cats need regular exercise. Similarly, dogs need daily walks.",
+    "exampleTranslation": "Mèo cần vận động thường xuyên. Tương tự, chó cần được đi dạo hằng ngày.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "equally",
+    "phonetic": "/ˈiːkwəli/",
+    "definition": "used when you introduce a second idea that is as important as the first",
+    "translation": "cũng quan trọng không kém là",
+    "exampleSentence": "Cost matters. Equally, we must think about quality.",
+    "exampleTranslation": "Chi phí là điều quan trọng. Cũng quan trọng không kém, chúng ta phải nghĩ đến chất lượng.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "by the same token",
+    "phonetic": "/baɪ ðə ˌseɪm ˈtoʊkən/",
+    "definition": "for the same reasons; used to say that something else is also true; formal",
+    "translation": "cũng với lý do đó, tương tự như vậy",
+    "exampleSentence": "Praise can motivate people. By the same token, harsh criticism can discourage them.",
+    "exampleTranslation": "Lời khen có thể thúc đẩy mọi người. Cũng với lý do đó, lời chê gay gắt có thể làm họ nản lòng.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "as opposed to",
+    "phonetic": "/æz əˈpoʊzd tuː/",
+    "definition": "used to compare two things and show that they are different",
+    "translation": "khác với, trái với",
+    "exampleSentence": "I prefer tea, as opposed to coffee.",
+    "exampleTranslation": "Tôi thích trà hơn, khác với cà phê.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "even though",
+    "phonetic": "/ˌiːvn ˈðoʊ/",
+    "definition": "used to emphasize that something is true although something else is also true",
+    "translation": "mặc dù, cho dù",
+    "exampleSentence": "He kept working even though he was ill.",
+    "exampleTranslation": "Anh ấy vẫn làm việc mặc dù đang bệnh.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "in any event",
+    "phonetic": "/ɪn ˌeni ɪˈvent/",
+    "definition": "used to say that something will definitely happen or be true whatever else happens",
+    "translation": "dù thế nào, trong mọi trường hợp",
+    "exampleSentence": "I may be late, but I'll be there in any event.",
+    "exampleTranslation": "Có thể tôi sẽ đến muộn, nhưng dù thế nào tôi cũng sẽ có mặt.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "moreover",
+    "phonetic": "/mɔːrˈoʊvər/",
+    "definition": "adds information that supports what you have just said; very formal",
+    "translation": "hơn nữa, ngoài ra",
+    "exampleSentence": "The plan is cheap. Moreover, it is quick.",
+    "exampleTranslation": "Kế hoạch này rẻ. Hơn nữa, nó còn nhanh.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "furthermore",
+    "phonetic": "/ˈfɜːrðərmɔːr/",
+    "definition": "adds to what has already been said; formal",
+    "translation": "hơn nữa, vả lại",
+    "exampleSentence": "The flat is small. Furthermore, it is far from the center.",
+    "exampleTranslation": "Căn hộ nhỏ. Hơn nữa, nó còn xa trung tâm.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "besides",
+    "phonetic": "/bɪˈsaɪdz/",
+    "definition": "used when you add another reason; spoken",
+    "translation": "vả lại, hơn nữa",
+    "exampleSentence": "I can't go. Besides, I haven't been invited.",
+    "exampleTranslation": "Tôi không đi được. Vả lại, tôi cũng chưa được mời.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "what's more",
+    "phonetic": "/ˌwʌts ˈmɔːr/",
+    "definition": "adds more information that emphasizes what you are saying",
+    "translation": "hơn nữa, không những thế",
+    "exampleSentence": "She is smart, and what's more, she works hard.",
+    "exampleTranslation": "Cô ấy thông minh, hơn nữa còn chăm chỉ.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "plus",
+    "phonetic": "/plʌs/",
+    "definition": "used to add more information; informal",
+    "translation": "thêm vào đó, cộng với",
+    "exampleSentence": "The apartment is big, plus it has a balcony.",
+    "exampleTranslation": "Căn hộ rộng, thêm vào đó còn có ban công.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "let alone",
+    "phonetic": "/ˌlet əˈloʊn/",
+    "definition": "used after a negative statement to say that the next thing is even more unlikely",
+    "translation": "chưa nói đến, huống chi",
+    "exampleSentence": "I can't cook an egg, let alone a whole dinner.",
+    "exampleTranslation": "Tôi còn không chiên nổi quả trứng, huống chi nấu cả bữa tối.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "therefore",
+    "phonetic": "/ˈðerfɔːr/",
+    "definition": "shows a result of something you have just mentioned; formal",
+    "translation": "do đó, vì vậy",
+    "exampleSentence": "The road is closed. Therefore, we must take another route.",
+    "exampleTranslation": "Đường bị đóng. Do đó, chúng ta phải đi đường khác.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "thus",
+    "phonetic": "/ðʌs/",
+    "definition": "shows a result of something you have just mentioned; formal",
+    "translation": "vì vậy, do đó",
+    "exampleSentence": "Sales fell sharply, and thus the company lost money.",
+    "exampleTranslation": "Doanh số giảm mạnh, và vì vậy công ty bị lỗ.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "hence",
+    "phonetic": "/hens/",
+    "definition": "for this reason; formal",
+    "translation": "do đó, vì thế",
+    "exampleSentence": "The roads were icy, hence the delay.",
+    "exampleTranslation": "Đường đóng băng, vì thế mới bị chậm trễ.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "consequently",
+    "phonetic": "/ˈkɑːnsɪkwentli/",
+    "definition": "as a result",
+    "translation": "do đó, kết quả là",
+    "exampleSentence": "He missed the deadline. Consequently, he lost the contract.",
+    "exampleTranslation": "Anh ấy trễ hạn nộp. Do đó, anh ấy mất hợp đồng.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "so",
+    "phonetic": "/soʊ/",
+    "definition": "used to say that someone does something because of the reason you have just stated",
+    "translation": "nên, vì vậy",
+    "exampleSentence": "I was tired, so I went to bed early.",
+    "exampleTranslation": "Tôi mệt nên đi ngủ sớm.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "as a consequence",
+    "phonetic": "/æz ə ˈkɑːnsɪkwens/",
+    "definition": "as a result of something; formal",
+    "translation": "do đó, hậu quả là",
+    "exampleSentence": "He didn't study. As a consequence, he failed the exam.",
+    "exampleTranslation": "Anh ấy không học bài. Hậu quả là anh ấy thi trượt.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "so that",
+    "phonetic": "/ˈsoʊ ðæt/",
+    "definition": "used to say that something happens or is true as a result of the situation you have just stated, or to give a purpose",
+    "translation": "để, để cho",
+    "exampleSentence": "I wrote it down so that I wouldn't forget.",
+    "exampleTranslation": "Tôi viết nó ra để không quên.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "in that case",
+    "phonetic": "/ɪn ˈðæt keɪs/",
+    "definition": "if that is the situation",
+    "translation": "nếu vậy thì, trong trường hợp đó",
+    "exampleSentence": "\"The shop is closed.\" \"In that case, let's go tomorrow.\"",
+    "exampleTranslation": "\"Cửa hàng đóng cửa rồi.\" \"Nếu vậy thì mai mình đi.\"",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "failing that",
+    "phonetic": "/ˌfeɪlɪŋ ˈðæt/",
+    "definition": "used to say that if your first suggestion does not work or is not possible, there is another possibility",
+    "translation": "nếu không được thì, nếu không",
+    "exampleSentence": "Try calling her. Failing that, send an email.",
+    "exampleTranslation": "Hãy thử gọi cho cô ấy. Nếu không được thì gửi email.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "or else",
+    "phonetic": "/ɔːr ˈels/",
+    "definition": "used to say that something bad will happen if someone does not do something; spoken",
+    "translation": "nếu không thì, kẻo",
+    "exampleSentence": "Be quiet, or else I'll tell your mother.",
+    "exampleTranslation": "Im lặng đi, nếu không tôi sẽ nói với mẹ con.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "ergo",
+    "phonetic": "/ˈɜːrɡoʊ/",
+    "definition": "therefore; formal",
+    "translation": "do đó, vì thế",
+    "exampleSentence": "I think, ergo I am.",
+    "exampleTranslation": "Tôi suy nghĩ, do đó tôi tồn tại.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "first",
+    "phonetic": "/fɜːrst/",
+    "definition": "used before you say the first of several things you want to say",
+    "translation": "đầu tiên, trước hết",
+    "exampleSentence": "First, wash your hands. Then dry them well.",
+    "exampleTranslation": "Đầu tiên, hãy rửa tay. Sau đó lau khô tay thật kỹ.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "firstly",
+    "phonetic": "/ˈfɜːrstli/",
+    "definition": "used to say that the fact or reason you are about to mention is the first one and others will follow",
+    "translation": "thứ nhất, trước hết",
+    "exampleSentence": "Firstly, I'd like to thank everyone for coming.",
+    "exampleTranslation": "Trước hết, tôi xin cảm ơn mọi người đã đến.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "second",
+    "phonetic": "/ˈsekənd/",
+    "definition": "used before you add a second piece of information to what you have already said",
+    "translation": "thứ hai là",
+    "exampleSentence": "First, it is too expensive. Second, it is too far.",
+    "exampleTranslation": "Thứ nhất, nó quá đắt. Thứ hai, nó quá xa.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "secondly",
+    "phonetic": "/ˈsekəndli/",
+    "definition": "used when you give a second point or a second reason for something",
+    "translation": "thứ hai, tiếp theo",
+    "exampleSentence": "Firstly, it's cheap. Secondly, it's close to home.",
+    "exampleTranslation": "Thứ nhất, nó rẻ. Thứ hai, nó gần nhà.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "next",
+    "phonetic": "/nekst/",
+    "definition": "immediately afterwards",
+    "translation": "tiếp theo, sau đó",
+    "exampleSentence": "Mix the flour and eggs. Next, add the milk.",
+    "exampleTranslation": "Trộn bột và trứng. Tiếp theo, thêm sữa.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "then",
+    "phonetic": "/ðen/",
+    "definition": "used to say what happens next or what you do next",
+    "translation": "sau đó, rồi",
+    "exampleSentence": "We had dinner and then we went for a walk.",
+    "exampleTranslation": "Chúng tôi ăn tối rồi đi dạo.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "afterwards",
+    "phonetic": "/ˈæftərwərdz/",
+    "definition": "after an event or time that has already been mentioned",
+    "translation": "sau đó, về sau",
+    "exampleSentence": "We watched the film and had coffee afterwards.",
+    "exampleTranslation": "Chúng tôi xem phim rồi sau đó uống cà phê.",
+    "pos": "discourse marker"
+  }
+]

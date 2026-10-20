@@ -1,0 +1,227 @@
+[
+  {
+    "word": "prone to",
+    "phonetic": "/ˈproʊn tə/",
+    "definition": "likely to do something or suffer from something bad (prone to + something/-ing)",
+    "translation": "dễ bị, có xu hướng",
+    "exampleSentence": "Some plants are very prone to disease.",
+    "exampleTranslation": "Một số loại cây rất dễ mắc bệnh.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "protective of",
+    "phonetic": "/prəˈtektɪv əv/",
+    "definition": "wanting to protect someone from harm or danger (protective of + somebody/something)",
+    "translation": "bảo vệ, che chở",
+    "exampleSentence": "He is very protective of his younger brother.",
+    "exampleTranslation": "Anh ấy rất che chở cho em trai.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "qualified for",
+    "phonetic": "/ˈkwɑːlɪfaɪd fɔːr/",
+    "definition": "having the knowledge or skills needed for something (qualified for + something)",
+    "translation": "đủ điều kiện, đủ năng lực cho",
+    "exampleSentence": "Dawn is well qualified for her new role.",
+    "exampleTranslation": "Dawn hoàn toàn đủ năng lực cho vai trò mới.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "reliant on",
+    "phonetic": "/rɪˈlaɪənt ɑːn/",
+    "definition": "dependent on someone or something (reliant on + somebody/something)",
+    "translation": "phụ thuộc vào",
+    "exampleSentence": "Most companies are now reliant on computer technology.",
+    "exampleTranslation": "Hầu hết các công ty hiện đều phụ thuộc vào công nghệ máy tính.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "remote from",
+    "phonetic": "/rɪˈmoʊt frəm/",
+    "definition": "very different from something, or far away from it (remote from + something)",
+    "translation": "xa rời, cách biệt với",
+    "exampleSentence": "The village was quiet and remote from city life.",
+    "exampleTranslation": "Ngôi làng yên tĩnh và cách biệt với cuộc sống thành thị.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "resistant to",
+    "phonetic": "/rɪˈzɪstənt tə/",
+    "definition": "not damaged or affected by something (resistant to + something)",
+    "translation": "kháng lại, chống chịu được",
+    "exampleSentence": "This is an infection that is resistant to antibiotics.",
+    "exampleTranslation": "Đây là một ca nhiễm trùng kháng kháng sinh.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "rich in",
+    "phonetic": "/ˈrɪtʃ ɪn/",
+    "definition": "containing a lot of something (rich in + something)",
+    "translation": "giàu",
+    "exampleSentence": "Citrus fruits are rich in vitamin C.",
+    "exampleTranslation": "Trái cây họ cam quýt giàu vitamin C.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "sad about",
+    "phonetic": "/ˈsæd əˈbaʊt/",
+    "definition": "not happy, especially because something unpleasant has happened (sad about + something)",
+    "translation": "buồn về",
+    "exampleSentence": "I was sad about the friends I was leaving behind.",
+    "exampleTranslation": "Tôi buồn vì phải bỏ lại những người bạn.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "sensitive to",
+    "phonetic": "/ˈsensətɪv tə/",
+    "definition": "able to understand other people's feelings, or easily affected by something (sensitive to + something/somebody)",
+    "translation": "nhạy cảm với",
+    "exampleSentence": "It has made me more sensitive to the needs of disabled people.",
+    "exampleTranslation": "Điều đó khiến tôi nhạy cảm hơn với nhu cầu của người khuyết tật.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "separate from",
+    "phonetic": "/ˈseprət frəm/",
+    "definition": "not related to or not affected by something else (separate from + something)",
+    "translation": "tách biệt khỏi",
+    "exampleSentence": "He tries to keep his work life separate from his private life.",
+    "exampleTranslation": "Anh ấy cố giữ cuộc sống công việc tách biệt khỏi đời tư.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "sceptical about",
+    "phonetic": "/ˈskeptɪkl əˈbaʊt/",
+    "definition": "tending to doubt what other people tell you; American English spells it skeptical (sceptical about + something)",
+    "translation": "hoài nghi về",
+    "exampleSentence": "I'm very sceptical about what I read in the press.",
+    "exampleTranslation": "Tôi rất hoài nghi về những gì mình đọc trên báo.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "skilled at",
+    "phonetic": "/ˈskɪld ət/",
+    "definition": "having the training and experience needed to do something well (skilled at + something/-ing)",
+    "translation": "có kỹ năng về",
+    "exampleSentence": "She is very skilled at dealing with the public.",
+    "exampleTranslation": "Cô ấy rất giỏi tiếp xúc với công chúng.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "strict with",
+    "phonetic": "/ˈstrɪkt wɪð/",
+    "definition": "expecting people to obey rules or do what you say (strict with + somebody)",
+    "translation": "nghiêm khắc với",
+    "exampleSentence": "The Stuarts are very strict with their children.",
+    "exampleTranslation": "Gia đình Stuart rất nghiêm khắc với con cái.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "subject to",
+    "phonetic": "/ˈsʌbdʒekt tə/",
+    "definition": "likely to be affected by something, or having to obey a rule (subject to + something)",
+    "translation": "có thể bị, phải tuân theo",
+    "exampleSentence": "All flights are subject to delay.",
+    "exampleTranslation": "Tất cả các chuyến bay đều có thể bị hoãn.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "successful in",
+    "phonetic": "/səkˈsesfl ɪn/",
+    "definition": "achieving what you wanted (successful in + something/-ing)",
+    "translation": "thành công trong",
+    "exampleSentence": "Were you successful in persuading him to change his mind?",
+    "exampleTranslation": "Bạn có thành công trong việc thuyết phục anh ấy đổi ý không?",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "suitable for",
+    "phonetic": "/ˈsuːtəbl fɔːr/",
+    "definition": "having the right qualities for a particular person or purpose (suitable for + somebody/something)",
+    "translation": "phù hợp với",
+    "exampleSentence": "The house is not really suitable for a large family.",
+    "exampleTranslation": "Ngôi nhà này không thực sự phù hợp cho một gia đình đông người.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "superior to",
+    "phonetic": "/suːˈpɪriər tə/",
+    "definition": "better, more powerful or more effective than another person or thing (superior to + somebody/something)",
+    "translation": "vượt trội hơn",
+    "exampleSentence": "Your computer is far superior to mine.",
+    "exampleTranslation": "Máy tính của bạn vượt trội hơn máy của tôi nhiều.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "sympathetic towards",
+    "phonetic": "/ˌsɪmpəˈθetɪk təˈwɔːrdz/",
+    "definition": "caring and feeling sorry about someone's problems (sympathetic towards + somebody)",
+    "translation": "cảm thông với",
+    "exampleSentence": "The teacher was sympathetic towards the students' difficulties.",
+    "exampleTranslation": "Giáo viên cảm thông với khó khăn của học sinh.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "tolerant of",
+    "phonetic": "/ˈtɑːlərənt əv/",
+    "definition": "allowing people to do, say or believe what they want without criticizing them (tolerant of + somebody/something)",
+    "translation": "khoan dung với",
+    "exampleSentence": "Luckily, my parents were tolerant of my choice of music.",
+    "exampleTranslation": "May mắn là bố mẹ tôi khoan dung với gu âm nhạc của tôi.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "unaware of",
+    "phonetic": "/ˌʌnəˈwer əv/",
+    "definition": "not noticing or realizing what is happening (unaware of + something)",
+    "translation": "không nhận ra, không biết về",
+    "exampleSentence": "Mike seems unaware of the trouble he is causing.",
+    "exampleTranslation": "Mike dường như không nhận ra rắc rối mình đang gây ra.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "unfamiliar with",
+    "phonetic": "/ˌʌnfəˈmɪliər wɪð/",
+    "definition": "not having any experience of something (unfamiliar with + something)",
+    "translation": "không quen với",
+    "exampleSentence": "We were unfamiliar with the neighbourhood.",
+    "exampleTranslation": "Chúng tôi không quen với khu phố này.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "unhappy about",
+    "phonetic": "/ʌnˈhæpi əˈbaʊt/",
+    "definition": "worried or annoyed because you do not like what is happening (unhappy about + something)",
+    "translation": "không hài lòng về",
+    "exampleSentence": "Dennis is unhappy about having to work on a Saturday.",
+    "exampleTranslation": "Dennis không vui vì phải làm việc vào thứ Bảy.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "unhappy with",
+    "phonetic": "/ʌnˈhæpi wɪð/",
+    "definition": "worried or annoyed because something is not as good as you want (unhappy with + something)",
+    "translation": "không hài lòng với",
+    "exampleSentence": "We were all unhappy with the quality of the service.",
+    "exampleTranslation": "Tất cả chúng tôi đều không hài lòng với chất lượng dịch vụ.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "unsure about",
+    "phonetic": "/ʌnˈʃʊr əˈbaʊt/",
+    "definition": "not certain about something or about what you have to do (unsure about + something)",
+    "translation": "không chắc về",
+    "exampleSentence": "If you are unsure about anything, just ask.",
+    "exampleTranslation": "Nếu bạn không chắc về điều gì, cứ hỏi.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "vulnerable to",
+    "phonetic": "/ˈvʌlnərəbl tə/",
+    "definition": "easily harmed or hurt by something (vulnerable to + something)",
+    "translation": "dễ bị tổn thương bởi",
+    "exampleSentence": "Children are most vulnerable to abuse within their own home.",
+    "exampleTranslation": "Trẻ em dễ bị xâm hại nhất ngay trong chính ngôi nhà của mình.",
+    "pos": "adjective with preposition"
+  }
+]

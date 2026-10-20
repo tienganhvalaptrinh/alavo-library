@@ -1,0 +1,452 @@
+[
+  {
+    "word": "worried about",
+    "phonetic": "/ˈwɜːrid əˈbaʊt/",
+    "definition": "unhappy because you keep thinking about a problem (worried about + somebody/something)",
+    "translation": "lo lắng về",
+    "exampleSentence": "I'm really worried about my brother.",
+    "exampleTranslation": "Tôi thật sự lo lắng cho em trai.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "wrong with",
+    "phonetic": "/ˈrɔːŋ wɪð/",
+    "definition": "used when there is a problem with someone or something (wrong with + somebody/something)",
+    "translation": "có vấn đề với, bị gì",
+    "exampleSentence": "What is wrong with our society? People just don't seem to care.",
+    "exampleTranslation": "Xã hội của chúng ta có vấn đề gì vậy? Dường như mọi người chẳng quan tâm.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "allergic to",
+    "phonetic": "/əˈlɜːrdʒɪk tə/",
+    "definition": "having an allergy to something (allergic to + something)",
+    "translation": "dị ứng với",
+    "exampleSentence": "I'm allergic to penicillin.",
+    "exampleTranslation": "Tôi dị ứng với penicillin.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "amazed at",
+    "phonetic": "/əˈmeɪzd ət/",
+    "definition": "very surprised at something (amazed at + something)",
+    "translation": "kinh ngạc trước",
+    "exampleSentence": "We were absolutely amazed at his rapid recovery.",
+    "exampleTranslation": "Chúng tôi hoàn toàn kinh ngạc trước sự hồi phục nhanh chóng của anh ấy.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "amazed by",
+    "phonetic": "/əˈmeɪzd baɪ/",
+    "definition": "very surprised by something (amazed by + something)",
+    "translation": "kinh ngạc bởi",
+    "exampleSentence": "She was amazed by how quickly he learned.",
+    "exampleTranslation": "Cô ấy kinh ngạc vì anh ấy học nhanh đến vậy.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "annoyed about",
+    "phonetic": "/əˈnɔɪd əˈbaʊt/",
+    "definition": "slightly angry about a situation (annoyed about + something)",
+    "translation": "bực mình về",
+    "exampleSentence": "He was annoyed about the mistake in the bill.",
+    "exampleTranslation": "Anh ấy bực mình về lỗi trong hóa đơn.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "annoyed with",
+    "phonetic": "/əˈnɔɪd wɪð/",
+    "definition": "slightly angry with someone (annoyed with + somebody)",
+    "translation": "bực với ai",
+    "exampleSentence": "She was annoyed with Duncan for forgetting to phone.",
+    "exampleTranslation": "Cô ấy bực Duncan vì quên gọi điện.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "astonished at",
+    "phonetic": "/əˈstɑːnɪʃt ət/",
+    "definition": "very surprised about something (astonished at + something)",
+    "translation": "sửng sốt trước",
+    "exampleSentence": "I was astonished at the size of the crowd.",
+    "exampleTranslation": "Tôi sửng sốt trước quy mô của đám đông.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "attached to",
+    "phonetic": "/əˈtætʃt tə/",
+    "definition": "liking someone or something very much because you have known them for a long time (attached to + somebody/something)",
+    "translation": "gắn bó với",
+    "exampleSentence": "It's easy to become attached to the children you work with.",
+    "exampleTranslation": "Rất dễ trở nên gắn bó với những đứa trẻ mà bạn làm việc cùng.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "available to",
+    "phonetic": "/əˈveɪləbl tə/",
+    "definition": "able to be used or obtained by someone (available to + somebody)",
+    "translation": "có sẵn cho ai",
+    "exampleSentence": "Not enough data is available to scientists.",
+    "exampleTranslation": "Các nhà khoa học không có đủ dữ liệu.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "bad for",
+    "phonetic": "/ˈbæd fɔːr/",
+    "definition": "damaging or harmful to someone or something (bad for + somebody/something)",
+    "translation": "có hại cho",
+    "exampleSentence": "Smoking is bad for your health.",
+    "exampleTranslation": "Hút thuốc có hại cho sức khỏe của bạn.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "blind to",
+    "phonetic": "/ˈblaɪnd tə/",
+    "definition": "completely failing to notice or realize something (blind to + something)",
+    "translation": "mù quáng trước, không nhận ra",
+    "exampleSentence": "International companies are often blind to local needs.",
+    "exampleTranslation": "Các công ty quốc tế thường không nhận ra nhu cầu địa phương.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "busy with",
+    "phonetic": "/ˈbɪzi wɪð/",
+    "definition": "working hard and having a lot of things to do (busy with + something)",
+    "translation": "bận với",
+    "exampleSentence": "Mr Haynes is busy with a customer at the moment.",
+    "exampleTranslation": "Hiện giờ ông Haynes đang bận tiếp một khách hàng.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "cruel to",
+    "phonetic": "/ˈkruːəl tə/",
+    "definition": "deliberately hurting people or animals (cruel to + somebody)",
+    "translation": "độc ác với ai",
+    "exampleSentence": "She was often cruel to her sister.",
+    "exampleTranslation": "Cô ấy thường độc ác với em gái mình.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "dependent on",
+    "phonetic": "/dɪˈpendənt ɑːn/",
+    "definition": "needing someone or something in order to exist or succeed (dependent on + somebody/something)",
+    "translation": "phụ thuộc vào",
+    "exampleSentence": "Norway's economy is heavily dependent on natural resources.",
+    "exampleTranslation": "Nền kinh tế Na Uy phụ thuộc nhiều vào tài nguyên thiên nhiên.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "devoted to",
+    "phonetic": "/dɪˈvoʊtɪd tə/",
+    "definition": "giving someone or something a lot of love and attention (devoted to + somebody/something)",
+    "translation": "tận tụy, hết lòng với",
+    "exampleSentence": "Isabella was devoted to her brother.",
+    "exampleTranslation": "Isabella hết lòng yêu thương anh trai.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "disgusted at",
+    "phonetic": "/dɪsˈɡʌstɪd ət/",
+    "definition": "very annoyed or upset by something unacceptable (disgusted at + something)",
+    "translation": "ghê tởm trước",
+    "exampleSentence": "I was disgusted at the way they treated the animals.",
+    "exampleTranslation": "Tôi ghê tởm cách họ đối xử với những con vật.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "disgusted with",
+    "phonetic": "/dɪsˈɡʌstɪd wɪð/",
+    "definition": "very annoyed or upset with someone or something unacceptable (disgusted with + somebody/something)",
+    "translation": "ghê tởm, chán ghét với",
+    "exampleSentence": "She was disgusted with herself for lying.",
+    "exampleTranslation": "Cô ấy chán ghét bản thân vì đã nói dối.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "dissatisfied with",
+    "phonetic": "/dɪsˈsætɪsfaɪd wɪð/",
+    "definition": "not satisfied because something is not as good as you expected (dissatisfied with + something)",
+    "translation": "không hài lòng với",
+    "exampleSentence": "If you are dissatisfied with this product, please return it.",
+    "exampleTranslation": "Nếu không hài lòng với sản phẩm này, xin vui lòng trả lại.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "engaged to",
+    "phonetic": "/ɪnˈɡeɪdʒd tə/",
+    "definition": "having agreed to marry someone (engaged to + somebody)",
+    "translation": "đã đính hôn với",
+    "exampleSentence": "Kate is engaged to Mark.",
+    "exampleTranslation": "Kate đã đính hôn với Mark.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "envious of",
+    "phonetic": "/ˈenviəs əv/",
+    "definition": "wanting something that someone else has (envious of + somebody/something)",
+    "translation": "ghen tị với",
+    "exampleSentence": "Colleagues were envious of her success.",
+    "exampleTranslation": "Các đồng nghiệp ghen tị với thành công của cô ấy.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "equal to",
+    "phonetic": "/ˈiːkwəl tə/",
+    "definition": "the same in size, number, amount or value as something else (equal to + something)",
+    "translation": "bằng với",
+    "exampleSentence": "The rent was equal to half his monthly income.",
+    "exampleTranslation": "Tiền thuê nhà bằng một nửa thu nhập hằng tháng của anh ấy.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "essential for",
+    "phonetic": "/ɪˈsenʃl fɔːr/",
+    "definition": "extremely important and necessary (essential for + somebody/something)",
+    "translation": "thiết yếu cho",
+    "exampleSentence": "A good diet is essential for everyone.",
+    "exampleTranslation": "Chế độ ăn tốt là thiết yếu đối với mọi người.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "exposed to",
+    "phonetic": "/ɪkˈspoʊzd tə/",
+    "definition": "not protected from something such as weather or danger (exposed to + something)",
+    "translation": "phơi nhiễm với, chịu tác động của",
+    "exampleSentence": "This is the side of the garden most exposed to wind.",
+    "exampleTranslation": "Đây là phần của khu vườn chịu gió nhiều nhất.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "faithful to",
+    "phonetic": "/ˈfeɪθfl tə/",
+    "definition": "remaining loyal to a person, belief or promise (faithful to + somebody/something)",
+    "translation": "trung thành với",
+    "exampleSentence": "He remained faithful to his principles to the last.",
+    "exampleTranslation": "Ông ấy trung thành với nguyên tắc của mình đến cùng.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "fascinated by",
+    "phonetic": "/ˈfæsɪneɪtɪd baɪ/",
+    "definition": "extremely interested in something or someone (fascinated by + somebody/something)",
+    "translation": "bị cuốn hút bởi",
+    "exampleSentence": "I was fascinated by her voice.",
+    "exampleTranslation": "Tôi bị cuốn hút bởi giọng nói của cô ấy.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "free from",
+    "phonetic": "/ˈfriː frəm/",
+    "definition": "not affected by something unpleasant or controlled by someone (free from + something)",
+    "translation": "không bị, thoát khỏi",
+    "exampleSentence": "Newspapers today are free from government control.",
+    "exampleTranslation": "Báo chí ngày nay không chịu sự kiểm soát của chính phủ.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "free of",
+    "phonetic": "/ˈfriː əv/",
+    "definition": "not having or not affected by something unpleasant (free of + something/somebody)",
+    "translation": "không có, thoát khỏi",
+    "exampleSentence": "I longed to be free of my family.",
+    "exampleTranslation": "Tôi khao khát thoát khỏi gia đình mình.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "generous to",
+    "phonetic": "/ˈdʒenərəs tə/",
+    "definition": "willing to give money, time or help to someone (generous to + somebody)",
+    "translation": "hào phóng với ai",
+    "exampleSentence": "She is always very generous to the kids.",
+    "exampleTranslation": "Cô ấy luôn rất hào phóng với bọn trẻ.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "generous with",
+    "phonetic": "/ˈdʒenərəs wɪð/",
+    "definition": "willing to give a lot of something such as money or time (generous with + something)",
+    "translation": "hào phóng về",
+    "exampleSentence": "Jim is very generous with his time.",
+    "exampleTranslation": "Jim rất hào phóng về thời gian của mình.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "harmful to",
+    "phonetic": "/ˈhɑːrmfl tə/",
+    "definition": "causing harm to someone or something (harmful to + somebody/something)",
+    "translation": "có hại cho",
+    "exampleSentence": "These are chemicals that are harmful to the environment.",
+    "exampleTranslation": "Đây là những hóa chất có hại cho môi trường.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "honest about",
+    "phonetic": "/ˈɑːnɪst əˈbaʊt/",
+    "definition": "not hiding the truth or the facts about something (honest about + something)",
+    "translation": "trung thực về",
+    "exampleSentence": "She was always very honest about her feelings.",
+    "exampleTranslation": "Cô ấy luôn rất trung thực về cảm xúc của mình.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "identical to",
+    "phonetic": "/aɪˈdentɪkl tə/",
+    "definition": "exactly the same, or very similar (identical to + somebody/something)",
+    "translation": "giống hệt",
+    "exampleSentence": "Infant formulas are almost identical to breast milk.",
+    "exampleTranslation": "Sữa công thức gần như giống hệt sữa mẹ.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "ill with",
+    "phonetic": "/ˈɪl wɪð/",
+    "definition": "suffering from a disease or not feeling well because of it (ill with + illness)",
+    "translation": "bị bệnh vì",
+    "exampleSentence": "Her husband has been ill with bladder trouble.",
+    "exampleTranslation": "Chồng cô ấy bị bệnh về bàng quang.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "independent of",
+    "phonetic": "/ˌɪndɪˈpendənt əv/",
+    "definition": "not owned or controlled by someone or something (independent of + somebody/something)",
+    "translation": "độc lập với",
+    "exampleSentence": "We need a central bank that is independent of the government.",
+    "exampleTranslation": "Chúng ta cần một ngân hàng trung ương độc lập với chính phủ.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "innocent of",
+    "phonetic": "/ˈɪnəsnt əv/",
+    "definition": "not guilty of a crime (innocent of + something)",
+    "translation": "vô tội về",
+    "exampleSentence": "He is innocent of murder.",
+    "exampleTranslation": "Anh ta vô tội trong vụ giết người.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "loyal to",
+    "phonetic": "/ˈlɔɪəl tə/",
+    "definition": "always supporting your friends, principles or country (loyal to + somebody/something)",
+    "translation": "trung thành với",
+    "exampleSentence": "The army has remained loyal to the government.",
+    "exampleTranslation": "Quân đội vẫn trung thành với chính phủ.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "mad about",
+    "phonetic": "/ˈmæd əˈbaʊt/",
+    "definition": "angry about something; also very enthusiastic about something (mad about + something)",
+    "translation": "giận về, mê",
+    "exampleSentence": "There's no need to get mad about it!",
+    "exampleTranslation": "Không cần phải nổi giận vì chuyện đó!",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "mad at",
+    "phonetic": "/ˈmæd ət/",
+    "definition": "angry with someone; mainly American English (mad at + somebody)",
+    "translation": "giận ai",
+    "exampleSentence": "Are you still mad at me?",
+    "exampleTranslation": "Bạn vẫn còn giận tôi à?",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "mean to",
+    "phonetic": "/ˈmiːn tə/",
+    "definition": "cruel or not kind to someone (mean to + somebody)",
+    "translation": "xấu tính với ai",
+    "exampleSentence": "Don't be so mean to her!",
+    "exampleTranslation": "Đừng xấu tính với cô ấy như vậy!",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "native to",
+    "phonetic": "/ˈneɪtɪv tə/",
+    "definition": "growing, living or produced naturally in one particular place (native to + place)",
+    "translation": "có nguồn gốc bản địa ở",
+    "exampleSentence": "These fish are native to North America.",
+    "exampleTranslation": "Những loài cá này có nguồn gốc bản địa ở Bắc Mỹ.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "necessary for",
+    "phonetic": "/ˈnesəseri fɔːr/",
+    "definition": "needed in order to have or do something (necessary for + something/-ing)",
+    "translation": "cần thiết cho",
+    "exampleSentence": "A good diet is necessary for maintaining a healthy body.",
+    "exampleTranslation": "Chế độ ăn tốt là cần thiết để giữ cơ thể khỏe mạnh.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "negative about",
+    "phonetic": "/ˈneɡətɪv əˈbaʊt/",
+    "definition": "considering only the bad qualities of a situation or person (negative about + something/somebody)",
+    "translation": "tiêu cực về",
+    "exampleSentence": "Jean rarely sounded so negative about her mother.",
+    "exampleTranslation": "Jean hiếm khi nói về mẹ mình một cách tiêu cực như vậy.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "new to",
+    "phonetic": "/ˈnuː tə/",
+    "definition": "not experienced or known before by someone (new to + somebody)",
+    "translation": "mới mẻ đối với",
+    "exampleSentence": "This idea was new to him.",
+    "exampleTranslation": "Ý tưởng này còn mới mẻ đối với anh ấy.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "nervous of",
+    "phonetic": "/ˈnɜːrvəs əv/",
+    "definition": "worried or frightened about someone or something and unable to relax (nervous of + somebody/something)",
+    "translation": "e ngại, sợ",
+    "exampleSentence": "We were all a bit nervous of him at first.",
+    "exampleTranslation": "Lúc đầu tất cả chúng tôi đều hơi e ngại anh ta.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "open to",
+    "phonetic": "/ˈoʊpən tə/",
+    "definition": "allowing everyone, or everyone in a group, to take part or use it (open to + somebody)",
+    "translation": "mở cho",
+    "exampleSentence": "The competition is open to all readers in the UK.",
+    "exampleTranslation": "Cuộc thi mở cho tất cả độc giả ở Anh.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "patient with",
+    "phonetic": "/ˈpeɪʃnt wɪð/",
+    "definition": "able to wait calmly or to accept difficulties without getting angry (patient with + somebody)",
+    "translation": "kiên nhẫn với",
+    "exampleSentence": "Louise was very patient with me.",
+    "exampleTranslation": "Louise rất kiên nhẫn với tôi.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "perfect for",
+    "phonetic": "/ˈpɜːrfɪkt fɔːr/",
+    "definition": "exactly what is needed for a particular purpose or person (perfect for + somebody/something)",
+    "translation": "hoàn hảo cho",
+    "exampleSentence": "The land is perfect for sheep farming.",
+    "exampleTranslation": "Vùng đất này hoàn hảo để chăn nuôi cừu.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "positive about",
+    "phonetic": "/ˈpɑːzətɪv əˈbaʊt/",
+    "definition": "hopeful and confident about something (positive about + something)",
+    "translation": "tích cực về",
+    "exampleSentence": "You've got to be more positive about your work.",
+    "exampleTranslation": "Bạn cần tích cực hơn về công việc của mình.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "prepared for",
+    "phonetic": "/prɪˈperd fɔːr/",
+    "definition": "ready to deal with a situation (prepared for + something)",
+    "translation": "chuẩn bị cho, sẵn sàng đối phó với",
+    "exampleSentence": "I wasn't prepared for all their questions.",
+    "exampleTranslation": "Tôi chưa chuẩn bị cho nhiều câu hỏi của họ như vậy.",
+    "pos": "adjective with preposition"
+  }
+]

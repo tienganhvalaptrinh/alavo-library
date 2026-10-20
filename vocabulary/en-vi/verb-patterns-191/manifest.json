@@ -1,0 +1,37 @@
+{
+  "id": "verb-patterns-191",
+  "type": "vocabulary",
+  "title": "191 common verb patterns",
+  "description": "191 verbs with the pattern that follows them, such as decide to do, enjoy doing, make somebody do and stop doing, with Vietnamese meanings and examples.",
+  "category": "verb-patterns",
+  "level": "mixed",
+  "order": 7,
+  "sourceLang": "en",
+  "targetLang": "vi",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "source": "Written by the Alavo team. Verb and pattern pairs chosen by hand (to-infinitive, -ing, object + infinitive, how/what + to-infinitive), kept when Longman (LDOCE) shows the pattern for the verb; definitions paraphrase LDOCE; translations and examples are original.",
+  "wordCount": 191,
+  "files": [
+    {
+      "path": "words-001.json",
+      "count": 50,
+      "sha256": "25ed9e172d9514ea948766d0f98ef98449ee430bde01f39b506dd096043eda28"
+    },
+    {
+      "path": "words-002.json",
+      "count": 50,
+      "sha256": "314322909b9e5bb3d1c6e557bbcb36b3a150914d529d31f0e7babb7dad643086"
+    },
+    {
+      "path": "words-003.json",
+      "count": 50,
+      "sha256": "c8dcdaca1ca10c68e7f68d68db9a95cc937276a4d5c1e1272b0aa658af4e149b"
+    },
+    {
+      "path": "words-004.json",
+      "count": 41,
+      "sha256": "235d1361c603ebdc9ddea95b29cb0d3b75d6ebebc774cfcec81ccbeced32f752"
+    }
+  ]
+}

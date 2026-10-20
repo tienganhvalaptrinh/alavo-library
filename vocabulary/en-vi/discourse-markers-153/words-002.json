@@ -1,0 +1,452 @@
+[
+  {
+    "word": "meanwhile",
+    "phonetic": "/ˈmiːnwaɪl/",
+    "definition": "while something else is happening",
+    "translation": "trong lúc đó, trong khi đó",
+    "exampleSentence": "I cooked dinner. Meanwhile, the kids did their homework.",
+    "exampleTranslation": "Tôi nấu bữa tối. Trong lúc đó, bọn trẻ làm bài tập.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "subsequently",
+    "phonetic": "/ˈsʌbsɪkwəntli/",
+    "definition": "after an event in the past",
+    "translation": "sau đó, về sau",
+    "exampleSentence": "The book was subsequently made into a film.",
+    "exampleTranslation": "Cuốn sách sau đó được chuyển thể thành phim.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "eventually",
+    "phonetic": "/ɪˈventʃuəli/",
+    "definition": "after a long time, or after many things have happened",
+    "translation": "cuối cùng thì, rốt cuộc",
+    "exampleSentence": "We got lost, but eventually we found the hotel.",
+    "exampleTranslation": "Chúng tôi bị lạc, nhưng cuối cùng cũng tìm thấy khách sạn.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "finally",
+    "phonetic": "/ˈfaɪnəli/",
+    "definition": "used to introduce the last in a series of things",
+    "translation": "cuối cùng, sau cùng",
+    "exampleSentence": "Finally, I would like to thank my family.",
+    "exampleTranslation": "Sau cùng, tôi xin cảm ơn gia đình tôi.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "lastly",
+    "phonetic": "/ˈlæstli/",
+    "definition": "used when you say the last thing at the end of a list or series of statements",
+    "translation": "cuối cùng là",
+    "exampleSentence": "Lastly, remember to lock the door when you leave.",
+    "exampleTranslation": "Cuối cùng là nhớ khóa cửa khi bạn ra ngoài.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "last but not least",
+    "phonetic": "/ˌlæst bət nɑːt ˈliːst/",
+    "definition": "used when you mention the last person or thing in a list, to emphasize that they are still important",
+    "translation": "cuối cùng nhưng không kém phần quan trọng",
+    "exampleSentence": "Last but not least, I want to thank our teacher.",
+    "exampleTranslation": "Cuối cùng nhưng không kém phần quan trọng, tôi muốn cảm ơn thầy giáo của chúng tôi.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "previously",
+    "phonetic": "/ˈpriːviəsli/",
+    "definition": "before now or before a particular time",
+    "translation": "trước đây, trước đó",
+    "exampleSentence": "Previously, she worked as a nurse.",
+    "exampleTranslation": "Trước đây, cô ấy làm y tá.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "overall",
+    "phonetic": "/ˌoʊvərˈɔːl/",
+    "definition": "generally, after considering everything",
+    "translation": "nhìn chung, xét tổng thể",
+    "exampleSentence": "Overall, the trip was a great success.",
+    "exampleTranslation": "Nhìn chung, chuyến đi rất thành công.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "in the final analysis",
+    "phonetic": "/ɪn ðə ˌfaɪnl əˈnæləsɪs/",
+    "definition": "used when you give the most basic or important fact about a situation",
+    "translation": "xét cho cùng, rốt cuộc thì",
+    "exampleSentence": "In the final analysis, it is your decision.",
+    "exampleTranslation": "Xét cho cùng, đó là quyết định của bạn.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "on balance",
+    "phonetic": "/ɑːn ˈbæləns/",
+    "definition": "used when you give an opinion after considering all the facts",
+    "translation": "xét mọi mặt, cân nhắc kỹ thì",
+    "exampleSentence": "On balance, I think we should accept the offer.",
+    "exampleTranslation": "Cân nhắc kỹ thì tôi nghĩ chúng ta nên nhận lời đề nghị.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "all things considered",
+    "phonetic": "/ˌɔːl ˌθɪŋz kənˈsɪdərd/",
+    "definition": "used when you give a judgement after thinking about all parts of a situation",
+    "translation": "xét mọi mặt, cân nhắc tất cả",
+    "exampleSentence": "All things considered, it was a good year.",
+    "exampleTranslation": "Xét mọi mặt, đó là một năm tốt.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "in a word",
+    "phonetic": "/ɪn ə ˈwɜːrd/",
+    "definition": "used before you give a very simple answer or explanation",
+    "translation": "nói tóm lại một từ",
+    "exampleSentence": "\"How was the party?\" \"In a word, boring.\"",
+    "exampleTranslation": "\"Buổi tiệc thế nào?\" \"Nói gọn một từ: chán.\"",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "briefly",
+    "phonetic": "/ˈbriːfli/",
+    "definition": "in as few words as possible",
+    "translation": "nói ngắn gọn, tóm lại",
+    "exampleSentence": "Briefly, the company needs more money.",
+    "exampleTranslation": "Nói ngắn gọn, công ty cần thêm tiền.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "in sum",
+    "phonetic": "/ɪn ˈsʌm/",
+    "definition": "used before a statement that gives the main information in a few simple words; formal",
+    "translation": "tóm lại",
+    "exampleSentence": "In sum, the project was a success.",
+    "exampleTranslation": "Tóm lại, dự án đã thành công.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "for one thing",
+    "phonetic": "/fər ˌwʌn ˈθɪŋ/",
+    "definition": "used to introduce one reason for what you have just said",
+    "translation": "một là, trước hết là",
+    "exampleSentence": "I'm not going. For one thing, I'm too tired.",
+    "exampleTranslation": "Tôi không đi đâu. Trước hết là tôi quá mệt.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "such as",
+    "phonetic": "/ˈsʌtʃ æz/",
+    "definition": "used when you give an example of something",
+    "translation": "chẳng hạn như, ví dụ như",
+    "exampleSentence": "I like fruit, such as mangoes and grapes.",
+    "exampleTranslation": "Tôi thích trái cây, chẳng hạn như xoài và nho.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "especially",
+    "phonetic": "/ɪˈspeʃəli/",
+    "definition": "used to emphasize that something is more true or important for one thing than for others",
+    "translation": "đặc biệt là, nhất là",
+    "exampleSentence": "I love summer, especially the long evenings.",
+    "exampleTranslation": "Tôi yêu mùa hè, nhất là những buổi tối dài.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "particularly",
+    "phonetic": "/pərˈtɪkjələrli/",
+    "definition": "more than usual or more than others",
+    "translation": "đặc biệt, nhất là",
+    "exampleSentence": "The roads are dangerous, particularly in winter.",
+    "exampleTranslation": "Đường rất nguy hiểm, đặc biệt là vào mùa đông.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "in particular",
+    "phonetic": "/ɪn pərˈtɪkjələr/",
+    "definition": "especially; used to name the most important thing in a group",
+    "translation": "đặc biệt là, nhất là",
+    "exampleSentence": "I like Italian food, pasta in particular.",
+    "exampleTranslation": "Tôi thích đồ ăn Ý, đặc biệt là mì ống.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "notably",
+    "phonetic": "/ˈnoʊtəbli/",
+    "definition": "used to say that a person or thing is a typical or the most important example of something",
+    "translation": "đáng chú ý là, nổi bật là",
+    "exampleSentence": "Many cities, notably Hanoi, are very crowded.",
+    "exampleTranslation": "Nhiều thành phố, đáng chú ý là Hà Nội, rất đông đúc.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "actually",
+    "phonetic": "/ˈæktʃuəli/",
+    "definition": "adds new information, gives your opinion or corrects what someone said; mainly spoken",
+    "translation": "thật ra, thực ra là",
+    "exampleSentence": "Actually, I don't like coffee. I prefer tea.",
+    "exampleTranslation": "Thật ra tôi không thích cà phê. Tôi thích trà hơn.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "indeed",
+    "phonetic": "/ɪnˈdiːd/",
+    "definition": "introduces an extra statement that emphasizes or supports what you have just said; formal",
+    "translation": "thật vậy, quả thật",
+    "exampleSentence": "The test was difficult. Indeed, only two students passed.",
+    "exampleTranslation": "Bài kiểm tra khó. Quả thật, chỉ có hai học sinh đỗ.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "obviously",
+    "phonetic": "/ˈɑːbviəsli/",
+    "definition": "shows that a fact can easily be noticed or understood",
+    "translation": "rõ ràng là, hiển nhiên",
+    "exampleSentence": "Obviously, we can't finish this today.",
+    "exampleTranslation": "Rõ ràng là hôm nay chúng ta không thể xong việc này.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "surely",
+    "phonetic": "/ˈʃʊrli/",
+    "definition": "shows that you think something must be true, especially when people seem to disagree with you",
+    "translation": "chắc chắn là, hẳn là",
+    "exampleSentence": "Surely you remember my name?",
+    "exampleTranslation": "Chắc chắn là bạn còn nhớ tên tôi chứ?",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "apparently",
+    "phonetic": "/əˈpærəntli/",
+    "definition": "says that you have heard something is true, although you are not completely sure",
+    "translation": "nghe nói, hình như",
+    "exampleSentence": "Apparently, the shop closed last month.",
+    "exampleTranslation": "Nghe nói cửa hàng đó đã đóng cửa từ tháng trước.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "evidently",
+    "phonetic": "/ˈevɪdəntli/",
+    "definition": "says that something is true because you can see that it is true",
+    "translation": "rõ ràng là, hiển nhiên là",
+    "exampleSentence": "Evidently, she had not read the instructions.",
+    "exampleTranslation": "Rõ ràng là cô ấy chưa đọc hướng dẫn.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "frankly",
+    "phonetic": "/ˈfræŋkli/",
+    "definition": "shows that you are saying what you really think",
+    "translation": "nói thẳng ra, thành thật mà nói",
+    "exampleSentence": "Frankly, I don't think it will work.",
+    "exampleTranslation": "Nói thẳng ra, tôi không nghĩ việc đó sẽ hiệu quả.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "seriously",
+    "phonetic": "/ˈsɪriəsli/",
+    "definition": "shows that what you say next is not a joke; spoken",
+    "translation": "nghiêm túc đấy, nói thật đấy",
+    "exampleSentence": "Seriously, you should see a doctor.",
+    "exampleTranslation": "Nói thật đấy, bạn nên đi khám bác sĩ.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "personally",
+    "phonetic": "/ˈpɜːrsənəli/",
+    "definition": "emphasizes that you are only giving your own opinion; spoken",
+    "translation": "cá nhân tôi thì, riêng tôi thì",
+    "exampleSentence": "Personally, I'd choose the blue one.",
+    "exampleTranslation": "Cá nhân tôi thì chọn cái màu xanh.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "unfortunately",
+    "phonetic": "/ʌnˈfɔːrtʃənətli/",
+    "definition": "introduces a fact that you wish were not true",
+    "translation": "không may là, tiếc là",
+    "exampleSentence": "Unfortunately, the tickets are sold out.",
+    "exampleTranslation": "Tiếc là vé đã bán hết.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "luckily",
+    "phonetic": "/ˈlʌkɪli/",
+    "definition": "says it is good that something happened, because the situation would have been worse otherwise",
+    "translation": "may mắn là",
+    "exampleSentence": "Luckily, nobody was hurt in the accident.",
+    "exampleTranslation": "May mắn là không ai bị thương trong vụ tai nạn.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "sadly",
+    "phonetic": "/ˈsædli/",
+    "definition": "introduces a fact that makes you feel sad; means the same as \"unfortunately\"",
+    "translation": "đáng buồn là",
+    "exampleSentence": "Sadly, the old theatre has closed.",
+    "exampleTranslation": "Đáng buồn là nhà hát cũ đã đóng cửa.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "hopefully",
+    "phonetic": "/ˈhoʊpfəli/",
+    "definition": "says what you hope will happen; some people think this use is incorrect",
+    "translation": "hy vọng là",
+    "exampleSentence": "Hopefully, the rain will stop by noon.",
+    "exampleTranslation": "Hy vọng là trời sẽ tạnh mưa trước trưa.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "basically",
+    "phonetic": "/ˈbeɪsɪkli/",
+    "definition": "gives the most important reason or fact, or a simple explanation; spoken",
+    "translation": "nói đơn giản thì, về cơ bản",
+    "exampleSentence": "Basically, we need more time.",
+    "exampleTranslation": "Nói đơn giản thì chúng ta cần thêm thời gian.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "essentially",
+    "phonetic": "/ɪˈsenʃəli/",
+    "definition": "introduces the most basic facts about something",
+    "translation": "về bản chất, về cơ bản",
+    "exampleSentence": "Essentially, the two plans are the same.",
+    "exampleTranslation": "Về bản chất, hai kế hoạch này giống nhau.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "naturally",
+    "phonetic": "/ˈnætʃrəli/",
+    "definition": "says that something is normal and not surprising",
+    "translation": "đương nhiên, tất nhiên",
+    "exampleSentence": "Naturally, she was upset when she lost.",
+    "exampleTranslation": "Đương nhiên cô ấy buồn khi thua cuộc.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "undoubtedly",
+    "phonetic": "/ʌnˈdaʊtɪdli/",
+    "definition": "says that something is definitely true",
+    "translation": "chắc chắn là, không nghi ngờ gì",
+    "exampleSentence": "This is undoubtedly her best film.",
+    "exampleTranslation": "Đây chắc chắn là bộ phim hay nhất của cô ấy.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "ironically",
+    "phonetic": "/aɪˈrɑːnɪkli/",
+    "definition": "introduces a situation in which the opposite of what you expected happens",
+    "translation": "trớ trêu thay",
+    "exampleSentence": "Ironically, the fire station burned down.",
+    "exampleTranslation": "Trớ trêu thay, trạm cứu hỏa lại bị cháy.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "surprisingly",
+    "phonetic": "/sərˈpraɪzɪŋli/",
+    "definition": "introduces a fact that is unexpected",
+    "translation": "đáng ngạc nhiên là",
+    "exampleSentence": "Surprisingly, the exam was easy.",
+    "exampleTranslation": "Đáng ngạc nhiên là bài thi lại dễ.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "interestingly",
+    "phonetic": "/ˈɪntrəstɪŋli/",
+    "definition": "introduces a fact that you think is interesting",
+    "translation": "điều thú vị là",
+    "exampleSentence": "Interestingly, most of the visitors were local people.",
+    "exampleTranslation": "Điều thú vị là phần lớn du khách là người địa phương.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "importantly",
+    "phonetic": "/ɪmˈpɔːrtntli/",
+    "definition": "shows that the next statement is as important as, or more important than, what you said before",
+    "translation": "quan trọng là",
+    "exampleSentence": "Importantly, the medicine has no side effects.",
+    "exampleTranslation": "Điều quan trọng là thuốc này không có tác dụng phụ.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "perhaps",
+    "phonetic": "/pərˈhæps/",
+    "definition": "says that something may be true, but you are not sure",
+    "translation": "có lẽ, có thể",
+    "exampleSentence": "Perhaps we should leave now.",
+    "exampleTranslation": "Có lẽ chúng ta nên đi ngay bây giờ.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "maybe",
+    "phonetic": "/ˈmeɪbi/",
+    "definition": "says that something may happen or be true, but you are not certain",
+    "translation": "có lẽ, biết đâu",
+    "exampleSentence": "Maybe he forgot about the meeting.",
+    "exampleTranslation": "Có lẽ anh ấy quên cuộc họp rồi.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "supposedly",
+    "phonetic": "/səˈpoʊzɪdli/",
+    "definition": "says what many people believe is true, especially when you disagree with them",
+    "translation": "được cho là, theo lời đồn",
+    "exampleSentence": "The medicine is supposedly safe, but I'm not sure.",
+    "exampleTranslation": "Thuốc này được cho là an toàn, nhưng tôi không chắc.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "allegedly",
+    "phonetic": "/əˈledʒɪdli/",
+    "definition": "reports what people say is true, although it has not been proved; formal",
+    "translation": "bị cho là, theo cáo buộc",
+    "exampleSentence": "He allegedly took the money from the company.",
+    "exampleTranslation": "Ông ta bị cho là đã lấy tiền của công ty.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "so to speak",
+    "phonetic": "/ˌsoʊ tə ˈspiːk/",
+    "definition": "used when you say something in words that do not have their usual meaning",
+    "translation": "có thể nói như vậy, nói theo kiểu",
+    "exampleSentence": "He is, so to speak, the heart of the team.",
+    "exampleTranslation": "Có thể nói anh ấy là trái tim của cả đội.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "as it were",
+    "phonetic": "/æz ɪt ˈwɜːr/",
+    "definition": "used when you describe something in a way that is not quite exact",
+    "translation": "có thể nói là, như thể",
+    "exampleSentence": "She was, as it were, a stranger in her own home.",
+    "exampleTranslation": "Cô ấy như thể là người lạ trong chính nhà mình.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "in essence",
+    "phonetic": "/ɪn ˈesns/",
+    "definition": "introduces the most basic and important part of an idea, belief or argument",
+    "translation": "về bản chất, về cốt lõi",
+    "exampleSentence": "In essence, the plan is very simple.",
+    "exampleTranslation": "Về cốt lõi, kế hoạch này rất đơn giản.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "in effect",
+    "phonetic": "/ɪn ɪˈfekt/",
+    "definition": "describes what you see as the real facts of a situation",
+    "translation": "thực chất là, trên thực tế",
+    "exampleSentence": "In effect, the manager made the decision alone.",
+    "exampleTranslation": "Thực chất là người quản lý đã tự quyết định một mình.",
+    "pos": "discourse marker"
+  },
+  {
+    "word": "in reality",
+    "phonetic": "/ɪn riˈæləti/",
+    "definition": "says that something is different from what people think",
+    "translation": "trong thực tế, thực ra",
+    "exampleSentence": "He looks calm, but in reality he is very nervous.",
+    "exampleTranslation": "Anh ấy trông bình tĩnh, nhưng thực ra rất lo lắng.",
+    "pos": "discourse marker"
+  }
+]

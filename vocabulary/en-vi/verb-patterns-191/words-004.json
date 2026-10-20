@@ -1,0 +1,371 @@
+[
+  {
+    "word": "get somebody to do",
+    "phonetic": "/ˈɡet ˈsʌmbədi tə ˈduː/",
+    "definition": "to persuade or force someone to do something (get + somebody + to-infinitive)",
+    "translation": "nhờ ai làm gì, bảo ai làm gì",
+    "exampleSentence": "I'll get Terry to check the wiring for me.",
+    "exampleTranslation": "Tôi sẽ nhờ Terry kiểm tra hệ thống dây điện giúp tôi.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "hire somebody to do",
+    "phonetic": "/ˈhaɪər ˈsʌmbədi tə ˈduː/",
+    "definition": "to employ someone for a short time to do a particular job (hire + somebody + to-infinitive)",
+    "translation": "thuê ai làm gì",
+    "exampleSentence": "A city lawyer has been hired to handle the case.",
+    "exampleTranslation": "Một luật sư thành phố đã được thuê để xử lý vụ việc.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "instruct somebody to do",
+    "phonetic": "/ɪnˈstrʌkt ˈsʌmbədi tə ˈduː/",
+    "definition": "to officially tell someone what to do (instruct + somebody + to-infinitive)",
+    "translation": "chỉ thị cho ai làm gì",
+    "exampleSentence": "His secretary was instructed to cancel all his engagements.",
+    "exampleTranslation": "Thư ký của ông ấy được chỉ thị hủy mọi cuộc hẹn.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "invite somebody to do",
+    "phonetic": "/ɪnˈvaɪt ˈsʌmbədi tə ˈduː/",
+    "definition": "to politely ask someone to do something (invite + somebody + to-infinitive)",
+    "translation": "mời ai làm gì",
+    "exampleSentence": "Anyone interested in contributing articles is invited to contact the editor.",
+    "exampleTranslation": "Ai quan tâm đến việc đóng góp bài viết xin mời liên hệ biên tập viên.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "lead somebody to do",
+    "phonetic": "/ˈliːd ˈsʌmbədi tə ˈduː/",
+    "definition": "to cause someone to do something (lead + somebody + to-infinitive)",
+    "translation": "dẫn đến việc ai làm gì",
+    "exampleSentence": "What led him to kill his wife?",
+    "exampleTranslation": "Điều gì đã khiến anh ta giết vợ?",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "oblige somebody to do",
+    "phonetic": "/əˈblaɪdʒ ˈsʌmbədi tə ˈduː/",
+    "definition": "to make someone have to do something because of a rule or situation; usually passive (oblige + somebody + to-infinitive)",
+    "translation": "buộc ai phải làm gì",
+    "exampleSentence": "The minister was obliged to report at least once every six months.",
+    "exampleTranslation": "Bộ trưởng bị buộc phải báo cáo ít nhất sáu tháng một lần.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "order somebody to do",
+    "phonetic": "/ˈɔːrdər ˈsʌmbədi tə ˈduː/",
+    "definition": "to tell someone that they must do something, using your official power (order + somebody + to-infinitive)",
+    "translation": "ra lệnh cho ai làm gì",
+    "exampleSentence": "Tom was ordered to pay £300 as compensation.",
+    "exampleTranslation": "Tom bị yêu cầu trả 300 bảng tiền bồi thường.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "permit somebody to do",
+    "phonetic": "/pərˈmɪt ˈsʌmbədi tə ˈduː/",
+    "definition": "to make it possible for someone to do something; formal (permit + somebody + to-infinitive)",
+    "translation": "cho phép ai làm gì",
+    "exampleSentence": "The moon permitted me to see a little way into the distance.",
+    "exampleTranslation": "Ánh trăng giúp tôi nhìn thấy được một đoạn xa.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "persuade somebody to do",
+    "phonetic": "/pərˈsweɪd ˈsʌmbədi tə ˈduː/",
+    "definition": "to make someone decide to do something, especially by giving reasons (persuade + somebody + to-infinitive)",
+    "translation": "thuyết phục ai làm gì",
+    "exampleSentence": "I finally managed to persuade her to go out for a drink with me.",
+    "exampleTranslation": "Cuối cùng tôi cũng thuyết phục được cô ấy đi uống nước với tôi.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "pressure somebody to do",
+    "phonetic": "/ˈpreʃər ˈsʌmbədi tə ˈduː/",
+    "definition": "to try to make someone do something by making them feel it is their duty (pressure + somebody + to-infinitive)",
+    "translation": "gây áp lực để ai làm gì",
+    "exampleSentence": "Don't let anyone pressure you to buy something you can't afford.",
+    "exampleTranslation": "Đừng để ai gây áp lực bắt bạn mua thứ bạn không đủ tiền mua.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "remind somebody to do",
+    "phonetic": "/rɪˈmaɪnd ˈsʌmbədi tə ˈduː/",
+    "definition": "to make someone remember something they must do (remind + somebody + to-infinitive)",
+    "translation": "nhắc ai làm gì",
+    "exampleSentence": "Remind me to buy some milk tonight.",
+    "exampleTranslation": "Nhắc tôi mua sữa tối nay nhé.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "teach somebody to do",
+    "phonetic": "/ˈtiːtʃ ˈsʌmbədi tə ˈduː/",
+    "definition": "to show someone how to do something (teach + somebody + to-infinitive)",
+    "translation": "dạy ai làm gì",
+    "exampleSentence": "My father taught me to swim.",
+    "exampleTranslation": "Bố tôi đã dạy tôi bơi.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "teach somebody how to do",
+    "phonetic": "/ˈtiːtʃ ˈsʌmbədi ˌhaʊ tə ˈduː/",
+    "definition": "to show someone the method for doing something (teach + somebody + how to-infinitive)",
+    "translation": "dạy ai cách làm gì",
+    "exampleSentence": "She teaches children how to read.",
+    "exampleTranslation": "Cô ấy dạy trẻ em cách đọc.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "tell somebody to do",
+    "phonetic": "/ˈtel ˈsʌmbədi tə ˈduː/",
+    "definition": "to say that someone must do something (tell + somebody + to-infinitive)",
+    "translation": "bảo ai làm gì",
+    "exampleSentence": "The teacher told the children to sit down quietly.",
+    "exampleTranslation": "Cô giáo bảo bọn trẻ ngồi xuống yên lặng.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "tell somebody what to do",
+    "phonetic": "/ˈtel ˈsʌmbədi ˌwʌt tə ˈduː/",
+    "definition": "to say what someone must do (tell + somebody + what to-infinitive)",
+    "translation": "bảo ai phải làm gì",
+    "exampleSentence": "Stop trying to tell me what to do all the time.",
+    "exampleTranslation": "Đừng lúc nào cũng cố bảo tôi phải làm gì.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "tempt somebody to do",
+    "phonetic": "/ˈtempt ˈsʌmbədi tə ˈduː/",
+    "definition": "to try to persuade someone to do something by making it seem attractive (tempt + somebody + to-infinitive)",
+    "translation": "cám dỗ ai làm gì",
+    "exampleSentence": "It would take a lot of money to tempt me to quit this job.",
+    "exampleTranslation": "Phải có rất nhiều tiền mới cám dỗ được tôi bỏ việc này.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "trust somebody to do",
+    "phonetic": "/ˈtrʌst ˈsʌmbədi tə ˈduː/",
+    "definition": "to believe that someone will do something properly (trust + somebody + to-infinitive)",
+    "translation": "tin tưởng ai sẽ làm gì",
+    "exampleSentence": "Can they be trusted to look after the house?",
+    "exampleTranslation": "Có thể tin họ trông nhà được không?",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "urge somebody to do",
+    "phonetic": "/ˈɜːrdʒ ˈsʌmbədi tə ˈduː/",
+    "definition": "to strongly suggest that someone does something (urge + somebody + to-infinitive)",
+    "translation": "thúc giục ai làm gì",
+    "exampleSentence": "She urged me to get in touch with him.",
+    "exampleTranslation": "Cô ấy thúc giục tôi liên lạc với anh ta.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "warn somebody to do",
+    "phonetic": "/ˈwɔːrn ˈsʌmbədi tə ˈduː/",
+    "definition": "to tell someone that something bad may happen so they can avoid it; usually with not (warn + somebody + to-infinitive)",
+    "translation": "cảnh báo ai nên làm gì, đừng làm gì",
+    "exampleSentence": "I warned you not to walk home alone.",
+    "exampleTranslation": "Tôi đã cảnh báo bạn đừng đi bộ về nhà một mình.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "inspire somebody to do",
+    "phonetic": "/ɪnˈspaɪər ˈsʌmbədi tə ˈduː/",
+    "definition": "to make someone feel confident and eager to do something (inspire + somebody + to-infinitive)",
+    "translation": "truyền cảm hứng cho ai làm gì",
+    "exampleSentence": "He inspired many young people to take up the sport.",
+    "exampleTranslation": "Anh ấy truyền cảm hứng cho nhiều bạn trẻ theo đuổi môn thể thao này.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "motivate somebody to do",
+    "phonetic": "/ˈmoʊtɪveɪt ˈsʌmbədi tə ˈduː/",
+    "definition": "to make someone want to achieve something and work hard for it (motivate + somebody + to-infinitive)",
+    "translation": "thúc đẩy ai làm gì",
+    "exampleSentence": "The profit-sharing plan is designed to motivate the staff to work hard.",
+    "exampleTranslation": "Chế độ chia lợi nhuận được thiết kế để thúc đẩy nhân viên làm việc chăm chỉ.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "nominate somebody to do",
+    "phonetic": "/ˈnɑːmɪneɪt ˈsʌmbədi tə ˈduː/",
+    "definition": "to officially suggest someone for a duty or position (nominate + somebody + to-infinitive)",
+    "translation": "đề cử ai làm gì",
+    "exampleSentence": "I nominate John to represent us at the meeting.",
+    "exampleTranslation": "Tôi đề cử John đại diện cho chúng ta tại cuộc họp.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "request somebody to do",
+    "phonetic": "/rɪˈkwest ˈsʌmbədi tə ˈduː/",
+    "definition": "to ask someone politely or formally to do something; often passive (request + somebody + to-infinitive)",
+    "translation": "yêu cầu ai làm gì",
+    "exampleSentence": "All club members are requested to attend the annual meeting.",
+    "exampleTranslation": "Tất cả thành viên câu lạc bộ được yêu cầu tham dự cuộc họp thường niên.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "make somebody do",
+    "phonetic": "/ˈmeɪk ˈsʌmbədi ˈduː/",
+    "definition": "to force someone to do something (make + somebody + infinitive without to)",
+    "translation": "bắt ai làm gì",
+    "exampleSentence": "My parents always make me do my homework before I go out.",
+    "exampleTranslation": "Bố mẹ tôi luôn bắt tôi làm bài tập trước khi ra ngoài.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "let somebody do",
+    "phonetic": "/ˈlet ˈsʌmbədi ˈduː/",
+    "definition": "to allow someone to do something (let + somebody + infinitive without to)",
+    "translation": "để cho ai làm gì, cho phép ai làm gì",
+    "exampleSentence": "Let Johnny have a go on the computer now.",
+    "exampleTranslation": "Để Johnny dùng thử máy tính bây giờ đi.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "have somebody do",
+    "phonetic": "/ˈhæv ˈsʌmbədi ˈduː/",
+    "definition": "to ask or order someone to do something (have + somebody + infinitive without to)",
+    "translation": "nhờ ai làm gì, bảo ai làm gì",
+    "exampleSentence": "I'll have Hudson show you to your room.",
+    "exampleTranslation": "Tôi sẽ nhờ Hudson đưa bạn về phòng.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "see somebody do",
+    "phonetic": "/ˈsiː ˈsʌmbədi ˈduː/",
+    "definition": "to notice someone doing something from beginning to end, using your eyes (see + somebody + infinitive without to)",
+    "translation": "thấy ai làm gì (từ đầu đến cuối)",
+    "exampleSentence": "I saw him leave a few minutes ago.",
+    "exampleTranslation": "Tôi thấy anh ấy rời đi cách đây vài phút.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "see somebody doing",
+    "phonetic": "/ˈsiː ˈsʌmbədi ˈduːɪŋ/",
+    "definition": "to notice someone while they are in the middle of doing something (see + somebody + -ing)",
+    "translation": "thấy ai đang làm gì",
+    "exampleSentence": "The suspect was seen entering the building.",
+    "exampleTranslation": "Nghi phạm bị thấy đang đi vào tòa nhà.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "hear somebody do",
+    "phonetic": "/ˈhɪr ˈsʌmbədi ˈduː/",
+    "definition": "to know from a sound that someone does something (hear + somebody + infinitive without to)",
+    "translation": "nghe thấy ai làm gì",
+    "exampleSentence": "She heard Tom go upstairs.",
+    "exampleTranslation": "Cô ấy nghe thấy Tom đi lên lầu.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "hear somebody doing",
+    "phonetic": "/ˈhɪr ˈsʌmbədi ˈduːɪŋ/",
+    "definition": "to know from a sound that someone is doing something (hear + somebody + -ing)",
+    "translation": "nghe thấy ai đang làm gì",
+    "exampleSentence": "Jenny could hear them arguing outside.",
+    "exampleTranslation": "Jenny nghe thấy họ đang cãi nhau bên ngoài.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "watch somebody do",
+    "phonetic": "/ˈwɑːtʃ ˈsʌmbədi ˈduː/",
+    "definition": "to look at someone for a period of time and pay attention to what happens (watch + somebody + infinitive without to)",
+    "translation": "xem ai làm gì",
+    "exampleSentence": "I watched him go, then went home.",
+    "exampleTranslation": "Tôi nhìn anh ấy đi rồi về nhà.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "watch somebody doing",
+    "phonetic": "/ˈwɑːtʃ ˈsʌmbədi ˈduːɪŋ/",
+    "definition": "to look at someone while they are doing something (watch + somebody + -ing)",
+    "translation": "xem ai đang làm gì",
+    "exampleSentence": "Ruth could not bear to watch her parents arguing.",
+    "exampleTranslation": "Ruth không chịu nổi khi phải nhìn bố mẹ mình cãi nhau.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "notice somebody doing",
+    "phonetic": "/ˈnoʊtɪs ˈsʌmbədi ˈduːɪŋ/",
+    "definition": "to realize that someone is doing something, because you see or hear it (notice + somebody + -ing)",
+    "translation": "nhận ra ai đang làm gì",
+    "exampleSentence": "Did you notice him leaving the party early?",
+    "exampleTranslation": "Bạn có để ý anh ấy rời bữa tiệc sớm không?",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "feel somebody do",
+    "phonetic": "/ˈfiːl ˈsʌmbədi ˈduː/",
+    "definition": "to notice something that happens to you, especially something touching you (feel + somebody + infinitive without to)",
+    "translation": "cảm thấy ai làm gì",
+    "exampleSentence": "She felt his arms go round her.",
+    "exampleTranslation": "Cô ấy cảm thấy vòng tay anh ôm lấy mình.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "overhear somebody doing",
+    "phonetic": "/ˌoʊvərˈhɪr ˈsʌmbədi ˈduːɪŋ/",
+    "definition": "to hear by accident what other people are saying (overhear + somebody + -ing)",
+    "translation": "tình cờ nghe thấy ai đang làm gì",
+    "exampleSentence": "She overheard the management discussing pay rises.",
+    "exampleTranslation": "Cô ấy tình cờ nghe ban quản lý đang bàn về việc tăng lương.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "catch somebody doing",
+    "phonetic": "/ˈkætʃ ˈsʌmbədi ˈduːɪŋ/",
+    "definition": "to see someone doing something they did not want you to know about (catch + somebody + -ing)",
+    "translation": "bắt gặp ai đang làm gì",
+    "exampleSentence": "I caught him reading my private letters.",
+    "exampleTranslation": "Tôi bắt gặp anh ta đang đọc thư riêng của tôi.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "find somebody doing",
+    "phonetic": "/ˈfaɪnd ˈsʌmbədi ˈduːɪŋ/",
+    "definition": "to discover someone in a particular condition or doing something (find + somebody + -ing)",
+    "translation": "thấy ai đang làm gì, bắt gặp ai đang làm gì",
+    "exampleSentence": "Often he found her quietly weeping alone.",
+    "exampleTranslation": "Anh ấy thường thấy cô ấy lặng lẽ khóc một mình.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "leave somebody doing",
+    "phonetic": "/ˈliːv ˈsʌmbədi ˈduːɪŋ/",
+    "definition": "to go away and let someone continue doing something (leave + somebody + -ing)",
+    "translation": "để ai tiếp tục làm gì, bỏ ai lại đang làm gì",
+    "exampleSentence": "Never leave children playing near water unattended.",
+    "exampleTranslation": "Đừng bao giờ để trẻ em chơi gần nước mà không có người trông.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "know how to do",
+    "phonetic": "/ˈnoʊ ˌhaʊ tə ˈduː/",
+    "definition": "to have the skill or knowledge to do something (know + how to-infinitive)",
+    "translation": "biết cách làm gì",
+    "exampleSentence": "Do you know how to change a fuse?",
+    "exampleTranslation": "Bạn có biết cách thay cầu chì không?",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "show somebody how to do",
+    "phonetic": "/ˈʃoʊ ˈsʌmbədi ˌhaʊ tə ˈduː/",
+    "definition": "to explain to someone how to do something, by doing it yourself or using actions (show + somebody + how to-infinitive)",
+    "translation": "chỉ cho ai cách làm gì",
+    "exampleSentence": "Maureen showed Peter how to feed the young animals.",
+    "exampleTranslation": "Maureen chỉ cho Peter cách cho thú con ăn.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "explain how to do",
+    "phonetic": "/ɪkˈspleɪn ˌhaʊ tə ˈduː/",
+    "definition": "to tell someone about the way to do something in a clear way (explain + how to-infinitive)",
+    "translation": "giải thích cách làm gì",
+    "exampleSentence": "The librarian will explain how to use the catalogue system.",
+    "exampleTranslation": "Thủ thư sẽ giải thích cách dùng hệ thống danh mục.",
+    "pos": "verb pattern"
+  }
+]

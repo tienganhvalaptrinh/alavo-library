@@ -1,0 +1,452 @@
+[
+  {
+    "word": "quit doing",
+    "phonetic": "/ˈkwɪt ˈduːɪŋ/",
+    "definition": "to stop doing something, especially something bad or annoying (quit + -ing)",
+    "translation": "bỏ làm gì, ngừng làm gì",
+    "exampleSentence": "He has six months to live if he doesn't quit drinking.",
+    "exampleTranslation": "Anh ấy chỉ còn sống được sáu tháng nếu không bỏ rượu.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "recall doing",
+    "phonetic": "/rɪˈkɔːl ˈduːɪŋ/",
+    "definition": "to remember something that happened in the past (recall + -ing)",
+    "translation": "nhớ lại đã làm gì",
+    "exampleSentence": "I don't recall seeing any cars parked outside.",
+    "exampleTranslation": "Tôi không nhớ đã thấy chiếc xe nào đỗ bên ngoài.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "recommend doing",
+    "phonetic": "/ˌrekəˈmend ˈduːɪŋ/",
+    "definition": "to advise doing something, especially because you have special knowledge; you cannot say \"recommend somebody to do\" (recommend + -ing)",
+    "translation": "khuyên nên làm gì",
+    "exampleSentence": "I would never recommend using a sunbed on a regular basis.",
+    "exampleTranslation": "Tôi sẽ không bao giờ khuyên dùng giường tắm nắng thường xuyên.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "report doing",
+    "phonetic": "/rɪˈpɔːrt ˈduːɪŋ/",
+    "definition": "to tell people about something you saw or know happened, as a witness or in the news (report + -ing)",
+    "translation": "cho biết đã thấy ai làm gì",
+    "exampleSentence": "Witnesses reported seeing three people flee the scene.",
+    "exampleTranslation": "Các nhân chứng cho biết đã thấy ba người bỏ chạy khỏi hiện trường.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "resent doing",
+    "phonetic": "/rɪˈzent ˈduːɪŋ/",
+    "definition": "to feel angry or upset about something that has happened to you (resent + -ing)",
+    "translation": "bực bội vì phải làm gì",
+    "exampleSentence": "I resented having to work such long hours.",
+    "exampleTranslation": "Tôi bực bội vì phải làm việc nhiều giờ như vậy.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "resist doing",
+    "phonetic": "/rɪˈzɪst ˈduːɪŋ/",
+    "definition": "to try to prevent a change, or to stop yourself being forced to do something (resist + -ing)",
+    "translation": "chống lại việc làm gì, cưỡng lại việc làm gì",
+    "exampleSentence": "For months the company has resisted changing its accounts system.",
+    "exampleTranslation": "Suốt nhiều tháng công ty đã chống lại việc thay đổi hệ thống kế toán.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "risk doing",
+    "phonetic": "/ˈrɪsk ˈduːɪŋ/",
+    "definition": "to get into a situation where something unpleasant may happen to you (risk + -ing)",
+    "translation": "liều làm gì, có nguy cơ làm gì",
+    "exampleSentence": "They may even risk losing their homes.",
+    "exampleTranslation": "Họ thậm chí có thể liều mất nhà.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "suggest doing",
+    "phonetic": "/səɡˈdʒest ˈduːɪŋ/",
+    "definition": "to tell someone your idea about what to do (suggest + -ing)",
+    "translation": "gợi ý làm gì, đề nghị làm gì",
+    "exampleSentence": "Tracey suggested meeting for a drink after work.",
+    "exampleTranslation": "Tracey gợi ý gặp nhau uống nước sau giờ làm.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "dread doing",
+    "phonetic": "/ˈdred ˈduːɪŋ/",
+    "definition": "to feel anxious about something that is going to happen (dread + -ing)",
+    "translation": "sợ phải làm gì",
+    "exampleSentence": "I'm dreading going back to work.",
+    "exampleTranslation": "Tôi đang sợ phải đi làm trở lại.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "entail doing",
+    "phonetic": "/ɪnˈteɪl ˈduːɪŋ/",
+    "definition": "to involve something as a necessary part or result; formal (entail + -ing)",
+    "translation": "đòi hỏi phải làm gì, kéo theo việc làm gì",
+    "exampleSentence": "The journey will entail changing trains twice.",
+    "exampleTranslation": "Chuyến đi sẽ đòi hỏi phải đổi tàu hai lần.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "spend time doing",
+    "phonetic": "/ˈspend ˈtaɪm ˈduːɪŋ/",
+    "definition": "to use time doing a particular thing (spend + time + -ing)",
+    "translation": "dành thời gian làm gì",
+    "exampleSentence": "Stacey spends all her free time painting.",
+    "exampleTranslation": "Stacey dành toàn bộ thời gian rảnh để vẽ.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "be worth doing",
+    "phonetic": "/bi ˈwɜːrθ ˈduːɪŋ/",
+    "definition": "used to say that someone should do something because they will gain something from it (be worth + -ing)",
+    "translation": "đáng để làm gì",
+    "exampleSentence": "It's worth checking the details of the contract before you sign it.",
+    "exampleTranslation": "Nên kiểm tra kỹ các chi tiết của hợp đồng trước khi ký.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "begin to do",
+    "phonetic": "/bɪˈɡɪn tə ˈduː/",
+    "definition": "to start doing something; the meaning is the same as begin + -ing (begin + to-infinitive)",
+    "translation": "bắt đầu làm gì",
+    "exampleSentence": "She began to feel a sense of panic.",
+    "exampleTranslation": "Cô ấy bắt đầu cảm thấy hoảng sợ.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "begin doing",
+    "phonetic": "/bɪˈɡɪn ˈduːɪŋ/",
+    "definition": "to start doing something; the meaning is the same as begin + to-infinitive (begin + -ing)",
+    "translation": "bắt đầu làm gì",
+    "exampleSentence": "I began teaching in 1984.",
+    "exampleTranslation": "Tôi bắt đầu đi dạy vào năm 1984.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "start to do",
+    "phonetic": "/ˈstɑːrt tə ˈduː/",
+    "definition": "to do something you were not doing before and continue doing it; the meaning is the same as start + -ing (start + to-infinitive)",
+    "translation": "bắt đầu làm gì",
+    "exampleSentence": "It's starting to rain.",
+    "exampleTranslation": "Trời bắt đầu mưa rồi.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "start doing",
+    "phonetic": "/ˈstɑːrt ˈduːɪŋ/",
+    "definition": "to do something you were not doing before and continue doing it; the meaning is the same as start + to-infinitive (start + -ing)",
+    "translation": "bắt đầu làm gì",
+    "exampleSentence": "Then the baby started crying.",
+    "exampleTranslation": "Rồi em bé bắt đầu khóc.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "continue to do",
+    "phonetic": "/kənˈtɪnjuː tə ˈduː/",
+    "definition": "to not stop doing something (continue + to-infinitive)",
+    "translation": "tiếp tục làm gì",
+    "exampleSentence": "Sheila continued to work after she had her baby.",
+    "exampleTranslation": "Sheila tiếp tục đi làm sau khi sinh em bé.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "continue doing",
+    "phonetic": "/kənˈtɪnjuː ˈduːɪŋ/",
+    "definition": "to not stop doing something (continue + -ing)",
+    "translation": "tiếp tục làm gì",
+    "exampleSentence": "Most elderly people want to continue living at home for as long as they can.",
+    "exampleTranslation": "Hầu hết người cao tuổi muốn tiếp tục sống ở nhà chừng nào còn có thể.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "like to do",
+    "phonetic": "/ˈlaɪk tə ˈduː/",
+    "definition": "to enjoy something, or to think it is a good thing to do (like + to-infinitive)",
+    "translation": "thích làm gì",
+    "exampleSentence": "I like to see people enjoying themselves.",
+    "exampleTranslation": "Tôi thích thấy mọi người vui vẻ.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "like doing",
+    "phonetic": "/ˈlaɪk ˈduːɪŋ/",
+    "definition": "to enjoy doing something (like + -ing)",
+    "translation": "thích làm gì",
+    "exampleSentence": "I don't like talking in public.",
+    "exampleTranslation": "Tôi không thích nói chuyện trước đám đông.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "love to do",
+    "phonetic": "/ˈlʌv tə ˈduː/",
+    "definition": "to like something very much (love + to-infinitive)",
+    "translation": "rất thích làm gì",
+    "exampleSentence": "We all love to talk about ourselves.",
+    "exampleTranslation": "Ai trong chúng ta cũng thích nói về bản thân.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "love doing",
+    "phonetic": "/ˈlʌv ˈduːɪŋ/",
+    "definition": "to enjoy doing something very much (love + -ing)",
+    "translation": "rất thích làm gì",
+    "exampleSentence": "I love going out to restaurants.",
+    "exampleTranslation": "Tôi rất thích đi ăn nhà hàng.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "hate to do",
+    "phonetic": "/ˈheɪt tə ˈduː/",
+    "definition": "to dislike something very much (hate + to-infinitive)",
+    "translation": "ghét làm gì, không muốn làm gì",
+    "exampleSentence": "I hate to see you unhappy.",
+    "exampleTranslation": "Tôi không muốn thấy bạn buồn.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "hate doing",
+    "phonetic": "/ˈheɪt ˈduːɪŋ/",
+    "definition": "to dislike doing something very much (hate + -ing)",
+    "translation": "ghét làm gì",
+    "exampleSentence": "Paul hates having his picture taken.",
+    "exampleTranslation": "Paul ghét bị chụp ảnh.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "prefer to do",
+    "phonetic": "/prɪˈfɜːr tə ˈduː/",
+    "definition": "to like one thing more than another, so you choose to do it (prefer + to-infinitive)",
+    "translation": "thích làm gì hơn",
+    "exampleSentence": "I prefer to wear clothes made of natural fibers.",
+    "exampleTranslation": "Tôi thích mặc quần áo làm từ sợi tự nhiên hơn.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "prefer doing",
+    "phonetic": "/prɪˈfɜːr ˈduːɪŋ/",
+    "definition": "to like doing one thing more than another (prefer + -ing)",
+    "translation": "thích làm gì hơn",
+    "exampleSentence": "Chantal prefers travelling by train.",
+    "exampleTranslation": "Chantal thích đi bằng tàu hơn.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "stop to do",
+    "phonetic": "/ˈstɑːp tə ˈduː/",
+    "definition": "to pause in what you are doing in order to do something else (stop + to-infinitive)",
+    "translation": "dừng lại để làm gì",
+    "exampleSentence": "I stopped to tie my shoe.",
+    "exampleTranslation": "Tôi dừng lại để buộc dây giày.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "stop doing",
+    "phonetic": "/ˈstɑːp ˈduːɪŋ/",
+    "definition": "to not continue doing something (stop + -ing)",
+    "translation": "ngừng làm gì",
+    "exampleSentence": "I stopped digging and looked at him.",
+    "exampleTranslation": "Tôi ngừng đào và nhìn anh ta.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "remember to do",
+    "phonetic": "/rɪˈmembər tə ˈduː/",
+    "definition": "to not forget something that you must do, get or bring (remember + to-infinitive)",
+    "translation": "nhớ làm gì (việc cần làm)",
+    "exampleSentence": "Remember to take your PE clothes to school.",
+    "exampleTranslation": "Nhớ mang đồ thể dục đến trường nhé.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "remember doing",
+    "phonetic": "/rɪˈmembər ˈduːɪŋ/",
+    "definition": "to have a picture or idea in your mind of something you did in the past (remember + -ing)",
+    "translation": "nhớ đã làm gì (việc đã xảy ra)",
+    "exampleSentence": "I remember meeting her at a party once.",
+    "exampleTranslation": "Tôi nhớ đã gặp cô ấy ở một bữa tiệc một lần.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "forget to do",
+    "phonetic": "/fərˈɡet tə ˈduː/",
+    "definition": "to not remember to do something that you should do (forget + to-infinitive)",
+    "translation": "quên làm gì (việc cần làm)",
+    "exampleSentence": "Someone has forgotten to turn off their headlights.",
+    "exampleTranslation": "Ai đó đã quên tắt đèn pha.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "try to do",
+    "phonetic": "/ˈtraɪ tə ˈduː/",
+    "definition": "to take action in order to do something that you may not be able to do (try + to-infinitive)",
+    "translation": "cố gắng làm gì",
+    "exampleSentence": "He tried to control his voice.",
+    "exampleTranslation": "Anh ấy cố kiềm chế giọng nói của mình.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "try doing",
+    "phonetic": "/ˈtraɪ ˈduːɪŋ/",
+    "definition": "to do something for a short time to find out if it works or is suitable (try + -ing)",
+    "translation": "thử làm gì",
+    "exampleSentence": "They decided to try living in America for a while.",
+    "exampleTranslation": "Họ quyết định thử sống ở Mỹ một thời gian.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "regret to do",
+    "phonetic": "/rɪˈɡret tə ˈduː/",
+    "definition": "used in official letters to say you are sorry about something you are about to say (regret + to-infinitive)",
+    "translation": "rất tiếc phải làm gì (thông báo)",
+    "exampleSentence": "I regret to inform you that your contract will not be renewed.",
+    "exampleTranslation": "Tôi rất tiếc phải thông báo rằng hợp đồng của bạn sẽ không được gia hạn.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "regret doing",
+    "phonetic": "/rɪˈɡret ˈduːɪŋ/",
+    "definition": "to feel sorry about something you did and wish you had not done it (regret + -ing)",
+    "translation": "hối hận vì đã làm gì",
+    "exampleSentence": "I regret leaving school so young.",
+    "exampleTranslation": "Tôi hối hận vì đã bỏ học quá sớm.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "go on to do",
+    "phonetic": "/ˈɡoʊ ɑːn tə ˈduː/",
+    "definition": "to do something after you have finished doing something else (go on + to-infinitive)",
+    "translation": "tiếp đó làm gì, sau đó làm gì",
+    "exampleSentence": "She went on to become a successful surgeon.",
+    "exampleTranslation": "Sau đó cô ấy trở thành một bác sĩ phẫu thuật thành công.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "go on doing",
+    "phonetic": "/ˈɡoʊ ɑːn ˈduːɪŋ/",
+    "definition": "to continue doing something (go on + -ing)",
+    "translation": "tiếp tục làm gì",
+    "exampleSentence": "He went on working until he was 91.",
+    "exampleTranslation": "Ông ấy tiếp tục làm việc cho đến năm 91 tuổi.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "advise somebody to do",
+    "phonetic": "/ədˈvaɪz ˈsʌmbədi tə ˈduː/",
+    "definition": "to tell someone what you think they should do, especially when you know more than they do (advise + somebody + to-infinitive)",
+    "translation": "khuyên ai làm gì",
+    "exampleSentence": "Evans advised him to leave London.",
+    "exampleTranslation": "Evans khuyên anh ta rời London.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "allow somebody to do",
+    "phonetic": "/əˈlaʊ ˈsʌmbədi tə ˈduː/",
+    "definition": "to let someone do something (allow + somebody + to-infinitive)",
+    "translation": "cho phép ai làm gì",
+    "exampleSentence": "My parents wouldn't allow me to go to the party.",
+    "exampleTranslation": "Bố mẹ tôi không cho phép tôi đi dự tiệc.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "ask somebody to do",
+    "phonetic": "/ˈæsk ˈsʌmbədi tə ˈduː/",
+    "definition": "to make a request to someone to do something (ask + somebody + to-infinitive)",
+    "translation": "nhờ ai làm gì, yêu cầu ai làm gì",
+    "exampleSentence": "Ask John to mail those letters tomorrow.",
+    "exampleTranslation": "Nhờ John gửi những lá thư đó vào ngày mai nhé.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "beg somebody to do",
+    "phonetic": "/ˈbeɡ ˈsʌmbədi tə ˈduː/",
+    "definition": "to ask someone for something in an anxious or urgent way because you want it very much (beg + somebody + to-infinitive)",
+    "translation": "van nài ai làm gì",
+    "exampleSentence": "I begged Helen to stay, but she wouldn't listen.",
+    "exampleTranslation": "Tôi van nài Helen ở lại, nhưng cô ấy không nghe.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "cause somebody to do",
+    "phonetic": "/ˈkɔːz ˈsʌmbədi tə ˈduː/",
+    "definition": "to make something happen to someone, so that they do something (cause + somebody + to-infinitive)",
+    "translation": "khiến ai làm gì",
+    "exampleSentence": "What caused you to change your mind?",
+    "exampleTranslation": "Điều gì khiến bạn đổi ý?",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "challenge somebody to do",
+    "phonetic": "/ˈtʃælɪndʒ ˈsʌmbədi tə ˈduː/",
+    "definition": "to invite someone to prove they can do something, or to dare them to do it (challenge + somebody + to-infinitive)",
+    "translation": "thách ai làm gì",
+    "exampleSentence": "I challenge Dr. Carver to deny his involvement!",
+    "exampleTranslation": "Tôi thách tiến sĩ Carver chối bỏ việc ông ta có liên quan!",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "command somebody to do",
+    "phonetic": "/kəˈmænd ˈsʌmbədi tə ˈduː/",
+    "definition": "to tell someone officially to do something, especially as a military leader (command + somebody + to-infinitive)",
+    "translation": "ra lệnh cho ai làm gì",
+    "exampleSentence": "The captain commanded the crew to report to the main deck.",
+    "exampleTranslation": "Thuyền trưởng ra lệnh cho thủy thủ đoàn tập trung ở boong chính.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "compel somebody to do",
+    "phonetic": "/kəmˈpel ˈsʌmbədi tə ˈduː/",
+    "definition": "to force someone to do something (compel + somebody + to-infinitive)",
+    "translation": "buộc ai phải làm gì",
+    "exampleSentence": "The law will compel employers to provide health insurance.",
+    "exampleTranslation": "Luật sẽ buộc các chủ doanh nghiệp phải cung cấp bảo hiểm y tế.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "convince somebody to do",
+    "phonetic": "/kənˈvɪns ˈsʌmbədi tə ˈduː/",
+    "definition": "to persuade someone to do something (convince + somebody + to-infinitive)",
+    "translation": "thuyết phục ai làm gì",
+    "exampleSentence": "I've been trying to convince Jean to come with me.",
+    "exampleTranslation": "Tôi đang cố thuyết phục Jean đi cùng tôi.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "enable somebody to do",
+    "phonetic": "/ɪˈneɪbl ˈsʌmbədi tə ˈduː/",
+    "definition": "to make it possible for someone to do something (enable + somebody + to-infinitive)",
+    "translation": "giúp ai có thể làm gì",
+    "exampleSentence": "The loan enabled Jan to buy the house.",
+    "exampleTranslation": "Khoản vay giúp Jan mua được căn nhà.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "encourage somebody to do",
+    "phonetic": "/ɪnˈkɜːrɪdʒ ˈsʌmbədi tə ˈduː/",
+    "definition": "to give someone the courage or confidence to do something (encourage + somebody + to-infinitive)",
+    "translation": "khuyến khích ai làm gì",
+    "exampleSentence": "His father encouraged him to begin playing the guitar.",
+    "exampleTranslation": "Bố anh ấy khuyến khích anh bắt đầu chơi guitar.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "forbid somebody to do",
+    "phonetic": "/fərˈbɪd ˈsʌmbədi tə ˈduː/",
+    "definition": "to tell someone they are not allowed to do something (forbid + somebody + to-infinitive)",
+    "translation": "cấm ai làm gì",
+    "exampleSentence": "He was forbidden to leave the house as a punishment.",
+    "exampleTranslation": "Anh ta bị cấm ra khỏi nhà để làm hình phạt.",
+    "pos": "verb pattern"
+  },
+  {
+    "word": "force somebody to do",
+    "phonetic": "/ˈfɔːrs ˈsʌmbədi tə ˈduː/",
+    "definition": "to make someone do something they do not want to do (force + somebody + to-infinitive)",
+    "translation": "ép ai làm gì",
+    "exampleSentence": "Government troops have forced the rebels to surrender.",
+    "exampleTranslation": "Quân đội chính phủ đã buộc quân nổi dậy đầu hàng.",
+    "pos": "verb pattern"
+  }
+]

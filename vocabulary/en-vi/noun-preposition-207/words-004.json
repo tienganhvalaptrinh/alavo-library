@@ -1,0 +1,452 @@
+[
+  {
+    "word": "protest against",
+    "phonetic": "/ˈproʊtest əˈɡenst/",
+    "definition": "something you do to show publicly that you think something is wrong (protest against + something)",
+    "translation": "cuộc biểu tình phản đối",
+    "exampleSentence": "Three people died yesterday in violent protests against the war.",
+    "exampleTranslation": "Hôm qua có ba người chết trong các cuộc biểu tình bạo lực phản đối chiến tranh.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "proof of",
+    "phonetic": "/ˈpruːf əv/",
+    "definition": "facts or documents that prove that something is true (proof of + something)",
+    "translation": "bằng chứng về",
+    "exampleSentence": "You need to show proof of identity.",
+    "exampleTranslation": "Bạn cần xuất trình giấy tờ chứng minh danh tính.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "pressure on",
+    "phonetic": "/ˈpreʃər ɑːn/",
+    "definition": "an attempt to persuade someone by using influence or arguments (pressure on + somebody)",
+    "translation": "áp lực đối với",
+    "exampleSentence": "There is a lot of pressure on young people to stay slim.",
+    "exampleTranslation": "Có rất nhiều áp lực đè lên giới trẻ phải giữ dáng thon.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "question about",
+    "phonetic": "/ˈkwestʃən əˈbaʊt/",
+    "definition": "a sentence you use to ask for information (question about + something)",
+    "translation": "câu hỏi về",
+    "exampleSentence": "They asked me a lot of difficult questions about my job.",
+    "exampleTranslation": "Họ hỏi tôi rất nhiều câu khó về công việc của tôi.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "question of",
+    "phonetic": "/ˈkwestʃən əv/",
+    "definition": "a subject or problem that needs to be discussed or dealt with (question of + something)",
+    "translation": "vấn đề về",
+    "exampleSentence": "We discussed the question of confidentiality.",
+    "exampleTranslation": "Chúng tôi đã bàn về vấn đề bảo mật.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "reaction to",
+    "phonetic": "/riˈækʃn tə/",
+    "definition": "something you feel or do because of something that has happened (reaction to + something)",
+    "translation": "phản ứng đối với",
+    "exampleSentence": "What was the government's reaction to the fuel crisis?",
+    "exampleTranslation": "Phản ứng của chính phủ trước cuộc khủng hoảng nhiên liệu là gì?",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "reason for",
+    "phonetic": "/ˈriːzn fɔːr/",
+    "definition": "the cause of something, or why someone does something (reason for + something/-ing)",
+    "translation": "lý do cho",
+    "exampleSentence": "People give different reasons for wanting to change jobs.",
+    "exampleTranslation": "Mỗi người đưa ra những lý do khác nhau để muốn đổi việc.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "recipe for",
+    "phonetic": "/ˈresəpi fɔːr/",
+    "definition": "a set of instructions for cooking a particular food (recipe for + something)",
+    "translation": "công thức nấu",
+    "exampleSentence": "Do you have a recipe for tomato soup?",
+    "exampleTranslation": "Bạn có công thức nấu món súp cà chua không?",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "record of",
+    "phonetic": "/ˈrekərd əv/",
+    "definition": "information about something that is written down or stored (record of + something)",
+    "translation": "bản ghi chép về",
+    "exampleSentence": "I try to keep a record of everything I spend.",
+    "exampleTranslation": "Tôi cố ghi lại mọi khoản mình chi tiêu.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "reduction in",
+    "phonetic": "/rɪˈdʌkʃn ɪn/",
+    "definition": "a decrease in the size, price or amount of something (reduction in + something)",
+    "translation": "sự giảm về",
+    "exampleSentence": "There has been a slight reduction in the price of oil.",
+    "exampleTranslation": "Giá dầu đã giảm nhẹ.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "reference to",
+    "phonetic": "/ˈrefrəns tə/",
+    "definition": "a part of what you say or write in which you mention someone or something (reference to + somebody/something)",
+    "translation": "sự đề cập đến",
+    "exampleSentence": "There is no direct reference to her own childhood in the novel.",
+    "exampleTranslation": "Cuốn tiểu thuyết không đề cập trực tiếp đến tuổi thơ của chính cô.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "relationship between",
+    "phonetic": "/rɪˈleɪʃnʃɪp bɪˈtwiːn/",
+    "definition": "the way two people or groups feel and behave towards each other (relationship between + two people)",
+    "translation": "mối quan hệ giữa",
+    "exampleSentence": "We talked about the special relationship between Britain and the US.",
+    "exampleTranslation": "Chúng tôi nói về mối quan hệ đặc biệt giữa Anh và Mỹ.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "relationship with",
+    "phonetic": "/rɪˈleɪʃnʃɪp wɪð/",
+    "definition": "the way you feel and behave towards another person or group (relationship with + somebody)",
+    "translation": "mối quan hệ với",
+    "exampleSentence": "I have a good relationship with my parents.",
+    "exampleTranslation": "Tôi có mối quan hệ tốt với bố mẹ.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "reliance on",
+    "phonetic": "/rɪˈlaɪəns ɑːn/",
+    "definition": "being dependent on someone or something (reliance on + somebody/something)",
+    "translation": "sự phụ thuộc vào",
+    "exampleSentence": "The country's reliance on imported oil is a problem.",
+    "exampleTranslation": "Sự phụ thuộc của đất nước vào dầu nhập khẩu là một vấn đề.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "remedy for",
+    "phonetic": "/ˈremədi fɔːr/",
+    "definition": "a way of dealing with a problem or making a bad situation better (remedy for + something)",
+    "translation": "biện pháp khắc phục cho",
+    "exampleSentence": "The program is one remedy for discrimination.",
+    "exampleTranslation": "Chương trình này là một biện pháp khắc phục nạn phân biệt đối xử.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "report on",
+    "phonetic": "/rɪˈpɔːrt ɑːn/",
+    "definition": "a written or spoken description of a situation or event (report on + something)",
+    "translation": "báo cáo về",
+    "exampleSentence": "Colleges must provide a written report on each student's progress.",
+    "exampleTranslation": "Các trường cao đẳng phải nộp báo cáo bằng văn bản về tiến độ của từng sinh viên.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "request for",
+    "phonetic": "/rɪˈkwest fɔːr/",
+    "definition": "a polite or formal demand for something (request for + something)",
+    "translation": "yêu cầu về",
+    "exampleSentence": "They have made an urgent request for international aid.",
+    "exampleTranslation": "Họ đã đưa ra yêu cầu khẩn cấp về viện trợ quốc tế.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "research into",
+    "phonetic": "/ˈriːsɜːrtʃ ˈɪntuː/",
+    "definition": "serious study of a subject in order to discover new facts (research into + subject)",
+    "translation": "nghiên cứu về",
+    "exampleSentence": "There is new research into the causes of cancer.",
+    "exampleTranslation": "Có nghiên cứu mới về nguyên nhân của bệnh ung thư.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "research on",
+    "phonetic": "/ˈriːsɜːrtʃ ɑːn/",
+    "definition": "serious study of a subject in order to discover new facts (research on + subject)",
+    "translation": "nghiên cứu về",
+    "exampleSentence": "Watson did pioneering research on the long-term effects of dieting.",
+    "exampleTranslation": "Watson đã có nghiên cứu tiên phong về tác động lâu dài của việc ăn kiêng.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "resemblance to",
+    "phonetic": "/rɪˈzembləns tə/",
+    "definition": "a similarity between two people or things (resemblance to + somebody/something)",
+    "translation": "sự giống với",
+    "exampleSentence": "Tina bears a striking resemblance to her mother.",
+    "exampleTranslation": "Tina giống mẹ một cách đáng kinh ngạc.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "respect for",
+    "phonetic": "/rɪˈspekt fɔːr/",
+    "definition": "a feeling of admiring someone or what they do (respect for + somebody/something)",
+    "translation": "sự tôn trọng dành cho",
+    "exampleSentence": "I have the greatest respect for Jane's work.",
+    "exampleTranslation": "Tôi hết sức tôn trọng công việc của Jane.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "response to",
+    "phonetic": "/rɪˈspɑːns tə/",
+    "definition": "something that is done as a reaction to something that has happened (response to + something)",
+    "translation": "phản hồi đối với",
+    "exampleSentence": "The public's response to our appeal for help was generous.",
+    "exampleTranslation": "Công chúng đã phản hồi rất hào phóng trước lời kêu gọi giúp đỡ của chúng tôi.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "responsibility for",
+    "phonetic": "/rɪˌspɑːnsəˈbɪləti fɔːr/",
+    "definition": "a duty to be in charge of someone or something (responsibility for + somebody/something)",
+    "translation": "trách nhiệm đối với",
+    "exampleSentence": "The minister has responsibility for the National Health Service.",
+    "exampleTranslation": "Bộ trưởng chịu trách nhiệm về Dịch vụ Y tế Quốc gia.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "result of",
+    "phonetic": "/rɪˈzʌlt əv/",
+    "definition": "something that happens because of something else (result of + something)",
+    "translation": "kết quả của",
+    "exampleSentence": "Accidents are the inevitable result of driving too fast.",
+    "exampleTranslation": "Tai nạn là kết quả tất yếu của việc lái xe quá nhanh.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "return to",
+    "phonetic": "/rɪˈtɜːrn tə/",
+    "definition": "the act of coming back to a place or state (return to + place)",
+    "translation": "sự trở về",
+    "exampleSentence": "Malcolm decided to delay his return to York.",
+    "exampleTranslation": "Malcolm quyết định hoãn việc trở về York.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "reward for",
+    "phonetic": "/rɪˈwɔːrd fɔːr/",
+    "definition": "something you get because you have done something good (reward for + something)",
+    "translation": "phần thưởng cho",
+    "exampleSentence": "Parents often give their children rewards for passing exams.",
+    "exampleTranslation": "Bố mẹ thường thưởng cho con khi thi đỗ.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "risk of",
+    "phonetic": "/ˈrɪsk əv/",
+    "definition": "the possibility that something bad or dangerous may happen (risk of + something/-ing)",
+    "translation": "nguy cơ",
+    "exampleSentence": "Skiers always face the risk of serious injury.",
+    "exampleTranslation": "Người trượt tuyết luôn đối mặt với nguy cơ chấn thương nặng.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "role in",
+    "phonetic": "/ˈroʊl ɪn/",
+    "definition": "the way in which someone or something is involved in an activity or situation (role in + something)",
+    "translation": "vai trò trong",
+    "exampleSentence": "Women's role in society has changed a lot.",
+    "exampleTranslation": "Vai trò của phụ nữ trong xã hội đã thay đổi nhiều.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "rule of",
+    "phonetic": "/ˈruːl əv/",
+    "definition": "an official instruction that says how things must be done (rule of + something)",
+    "translation": "quy tắc của",
+    "exampleSentence": "Everyone must learn the rules of the game.",
+    "exampleTranslation": "Mọi người phải học các quy tắc của trò chơi.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "sale of",
+    "phonetic": "/ˈseɪl əv/",
+    "definition": "the act of selling something (sale of + something)",
+    "translation": "việc bán",
+    "exampleSentence": "The sale of marijuana remains illegal.",
+    "exampleTranslation": "Việc bán cần sa vẫn là bất hợp pháp.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "shortage of",
+    "phonetic": "/ˈʃɔːrtɪdʒ əv/",
+    "definition": "a situation in which there is not enough of something people need (shortage of + something)",
+    "translation": "sự thiếu hụt",
+    "exampleSentence": "The country has a shortage of skilled labour.",
+    "exampleTranslation": "Đất nước đang thiếu lao động có tay nghề.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "sign of",
+    "phonetic": "/ˈsaɪn əv/",
+    "definition": "an event or fact that shows something is happening or exists (sign of + something)",
+    "translation": "dấu hiệu của",
+    "exampleSentence": "A red morning sky is a sign of an impending storm.",
+    "exampleTranslation": "Bầu trời đỏ buổi sáng là dấu hiệu của một cơn bão sắp đến.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "solution to",
+    "phonetic": "/səˈluːʃn tə/",
+    "definition": "a way of solving a problem or dealing with a difficult situation (solution to + problem)",
+    "translation": "giải pháp cho",
+    "exampleSentence": "There are no simple solutions to the problem of overpopulation.",
+    "exampleTranslation": "Không có giải pháp đơn giản nào cho vấn đề dân số quá đông.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "solution for",
+    "phonetic": "/səˈluːʃn fɔːr/",
+    "definition": "a way of solving a problem or dealing with a difficult situation (solution for + problem/person)",
+    "translation": "giải pháp cho",
+    "exampleSentence": "We are looking for a solution for this problem.",
+    "exampleTranslation": "Chúng tôi đang tìm giải pháp cho vấn đề này.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "source of",
+    "phonetic": "/ˈsɔːrs əv/",
+    "definition": "a thing, place or activity that you get something from (source of + something)",
+    "translation": "nguồn của",
+    "exampleSentence": "Beans are a very good source of protein.",
+    "exampleTranslation": "Đậu là nguồn protein rất tốt.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "speech on",
+    "phonetic": "/ˈspiːtʃ ɑːn/",
+    "definition": "a formal talk about a particular subject (speech on + subject)",
+    "translation": "bài phát biểu về",
+    "exampleSentence": "The president gave a major speech on relations with China.",
+    "exampleTranslation": "Tổng thống có bài phát biểu quan trọng về quan hệ với Trung Quốc.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "stay in",
+    "phonetic": "/ˈsteɪ ɪn/",
+    "definition": "a limited time of living or staying in a place (stay in + place)",
+    "translation": "thời gian lưu lại ở",
+    "exampleSentence": "I met her towards the end of my stay in Los Angeles.",
+    "exampleTranslation": "Tôi gặp cô ấy vào cuối thời gian lưu lại ở Los Angeles.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "success in",
+    "phonetic": "/səkˈses ɪn/",
+    "definition": "the achievement of a high position or a goal in a particular area (success in + something/-ing)",
+    "translation": "thành công trong",
+    "exampleSentence": "He has already had a lot of success in his career.",
+    "exampleTranslation": "Anh ấy đã gặt hái nhiều thành công trong sự nghiệp.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "suggestion for",
+    "phonetic": "/səɡˈdʒestʃən fɔːr/",
+    "definition": "an idea or plan that someone mentions for others to consider (suggestion for + something)",
+    "translation": "gợi ý cho",
+    "exampleSentence": "Here are some suggestions for further activities.",
+    "exampleTranslation": "Sau đây là một vài gợi ý cho các hoạt động tiếp theo.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "support for",
+    "phonetic": "/səˈpɔːrt fɔːr/",
+    "definition": "approval, encouragement and help for a person or idea (support for + somebody/something)",
+    "translation": "sự ủng hộ dành cho",
+    "exampleSentence": "There was widespread support for the plan.",
+    "exampleTranslation": "Kế hoạch nhận được sự ủng hộ rộng rãi.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "suspicion of",
+    "phonetic": "/səˈspɪʃn əv/",
+    "definition": "a feeling that someone is probably guilty of doing something wrong (suspicion of + something)",
+    "translation": "sự nghi ngờ về",
+    "exampleSentence": "She was arrested on suspicion of murder.",
+    "exampleTranslation": "Cô ấy bị bắt vì bị nghi giết người.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "sympathy for",
+    "phonetic": "/ˈsɪmpəθi fɔːr/",
+    "definition": "the feeling of being sorry for someone who is in a bad situation (sympathy for + somebody)",
+    "translation": "sự đồng cảm với",
+    "exampleSentence": "I have a lot of sympathy for her; she brought up the children alone.",
+    "exampleTranslation": "Tôi rất cảm thông với cô ấy; cô ấy một mình nuôi các con.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "talent for",
+    "phonetic": "/ˈtælənt fɔːr/",
+    "definition": "a natural ability to do something well (talent for + something/-ing)",
+    "translation": "tài năng về",
+    "exampleSentence": "She showed a talent for acting at an early age.",
+    "exampleTranslation": "Cô ấy sớm bộc lộ tài năng diễn xuất từ nhỏ.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "taste for",
+    "phonetic": "/ˈteɪst fɔːr/",
+    "definition": "a liking for something that you have developed (taste for + something)",
+    "translation": "sở thích về, khẩu vị với",
+    "exampleSentence": "In France she developed a taste for fine wines.",
+    "exampleTranslation": "Ở Pháp, cô ấy hình thành sở thích với rượu vang hảo hạng.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "taste in",
+    "phonetic": "/ˈteɪst ɪn/",
+    "definition": "the kind of things that someone likes (taste in + something)",
+    "translation": "gu về",
+    "exampleSentence": "He asked about my taste in music.",
+    "exampleTranslation": "Anh ấy hỏi về gu âm nhạc của tôi.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "tax on",
+    "phonetic": "/ˈtæks ɑːn/",
+    "definition": "an amount of money you must pay to the government on something (tax on + something)",
+    "translation": "thuế đánh vào",
+    "exampleSentence": "The government plans a new tax on fuel.",
+    "exampleTranslation": "Chính phủ dự định đánh một loại thuế mới lên nhiên liệu.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "threat to",
+    "phonetic": "/ˈθret tə/",
+    "definition": "someone or something regarded as a possible danger (threat to + somebody/something)",
+    "translation": "mối đe dọa đối với",
+    "exampleSentence": "The fighting is a major threat to stability in the region.",
+    "exampleTranslation": "Giao tranh là mối đe dọa lớn đối với sự ổn định của khu vực.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "threat of",
+    "phonetic": "/ˈθret əv/",
+    "definition": "a statement that you will cause harm or trouble, or the possibility of something bad (threat of + something)",
+    "translation": "nguy cơ, lời đe dọa",
+    "exampleSentence": "The country lives under the threat of military invasion.",
+    "exampleTranslation": "Đất nước sống dưới nguy cơ bị xâm lược quân sự.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "tour of",
+    "phonetic": "/ˈtʊr əv/",
+    "definition": "a journey for pleasure during which you visit several places (tour of + place)",
+    "translation": "chuyến tham quan",
+    "exampleSentence": "They took a ten-day tour of China.",
+    "exampleTranslation": "Họ có một chuyến du lịch Trung Quốc mười ngày.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "trouble with",
+    "phonetic": "/ˈtrʌbl wɪð/",
+    "definition": "problems or difficulties with something (trouble with + something)",
+    "translation": "rắc rối với",
+    "exampleSentence": "We're having a lot of trouble with the new computer system.",
+    "exampleTranslation": "Chúng tôi đang gặp nhiều rắc rối với hệ thống máy tính mới.",
+    "pos": "noun with preposition"
+  }
+]

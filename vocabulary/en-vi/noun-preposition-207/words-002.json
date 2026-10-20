@@ -1,0 +1,452 @@
+[
+  {
+    "word": "decline in",
+    "phonetic": "/dɪˈklaɪn ɪn/",
+    "definition": "a decrease in the quality, quantity or importance of something (decline in + something)",
+    "translation": "sự suy giảm về",
+    "exampleSentence": "There has been a decline in the size of families.",
+    "exampleTranslation": "Quy mô gia đình đã giảm đi.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "decrease in",
+    "phonetic": "/ˈdiːkriːs ɪn/",
+    "definition": "the process of becoming less, or the amount by which something becomes less (decrease in + something)",
+    "translation": "sự giảm về",
+    "exampleSentence": "There has been a significant decrease in the number of deaths from lung cancer.",
+    "exampleTranslation": "Số ca tử vong do ung thư phổi đã giảm đáng kể.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "delay in",
+    "phonetic": "/dɪˈleɪ ɪn/",
+    "definition": "a time when someone or something has to wait, or the length of the wait (delay in + -ing)",
+    "translation": "sự chậm trễ trong",
+    "exampleSentence": "Why was there a delay in warning the public?",
+    "exampleTranslation": "Tại sao lại có sự chậm trễ trong việc cảnh báo công chúng?",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "demand for",
+    "phonetic": "/dɪˈmænd fɔːr/",
+    "definition": "the need or wish that people have for particular goods or services (demand for + something)",
+    "translation": "nhu cầu về",
+    "exampleSentence": "There is a growing demand for new housing.",
+    "exampleTranslation": "Nhu cầu về nhà ở mới ngày càng tăng.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "description of",
+    "phonetic": "/dɪˈskrɪpʃn əv/",
+    "definition": "a piece of writing or speech that gives details about what someone or something is like (description of + somebody/something)",
+    "translation": "mô tả về",
+    "exampleSentence": "The booklet gives a brief description of each place.",
+    "exampleTranslation": "Cuốn sách nhỏ có mô tả ngắn gọn về từng địa điểm.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "desire for",
+    "phonetic": "/dɪˈzaɪər fɔːr/",
+    "definition": "a strong hope or wish for something (desire for + something)",
+    "translation": "khát khao về",
+    "exampleSentence": "He had a great desire for knowledge.",
+    "exampleTranslation": "Anh ấy có khát khao tri thức rất lớn.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "difference between",
+    "phonetic": "/ˈdɪfrəns bɪˈtwiːn/",
+    "definition": "a way in which two or more things are not like each other (difference between + two things)",
+    "translation": "sự khác biệt giữa",
+    "exampleSentence": "Do children know the difference between right and wrong?",
+    "exampleTranslation": "Trẻ em có biết sự khác biệt giữa đúng và sai không?",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "difference in",
+    "phonetic": "/ˈdɪfrəns ɪn/",
+    "definition": "a way in which two or more things are not alike in some respect (difference in + something)",
+    "translation": "sự khác biệt về",
+    "exampleSentence": "Researchers found important differences in the way boys and girls learn.",
+    "exampleTranslation": "Các nhà nghiên cứu tìm thấy những khác biệt quan trọng trong cách trẻ trai và trẻ gái học.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "difficulty in",
+    "phonetic": "/ˈdɪfɪkəlti ɪn/",
+    "definition": "a problem you have when doing something; the in is optional (difficulty in + -ing)",
+    "translation": "khó khăn trong việc",
+    "exampleSentence": "They had great difficulty in finding a replacement.",
+    "exampleTranslation": "Họ gặp rất nhiều khó khăn khi tìm người thay thế.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "difficulty with",
+    "phonetic": "/ˈdɪfɪkəlti wɪð/",
+    "definition": "a problem or something that causes trouble (difficulty with + something)",
+    "translation": "khó khăn với",
+    "exampleSentence": "There are several difficulties with this theory.",
+    "exampleTranslation": "Lý thuyết này có nhiều điểm khó khăn.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "direction of",
+    "phonetic": "/dəˈrekʃn əv/",
+    "definition": "the way something moves, faces or is aimed (direction of + something)",
+    "translation": "hướng của",
+    "exampleSentence": "The suspects were last seen heading in the direction of Miami.",
+    "exampleTranslation": "Nghi phạm được thấy lần cuối đang đi về hướng Miami.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "discount on",
+    "phonetic": "/ˈdɪskaʊnt ɑːn/",
+    "definition": "a reduction in the usual price of something (discount on + something)",
+    "translation": "giảm giá cho",
+    "exampleSentence": "The Young Persons Railcard gives you a discount on rail travel.",
+    "exampleTranslation": "Thẻ tàu dành cho người trẻ giúp bạn được giảm giá khi đi tàu.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "discussion about",
+    "phonetic": "/dɪˈskʌʃn əˈbaʊt/",
+    "definition": "talk in which people exchange ideas about something (discussion about + something)",
+    "translation": "cuộc thảo luận về",
+    "exampleSentence": "We have had discussions about her legal situation.",
+    "exampleTranslation": "Chúng tôi đã thảo luận về tình hình pháp lý của cô ấy.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "discussion of",
+    "phonetic": "/dɪˈskʌʃn əv/",
+    "definition": "talk in which people exchange ideas about something (discussion of + something)",
+    "translation": "cuộc thảo luận về",
+    "exampleSentence": "The book includes a discussion of important issues.",
+    "exampleTranslation": "Cuốn sách có phần thảo luận về những vấn đề quan trọng.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "disadvantage of",
+    "phonetic": "/ˌdɪsədˈvæntɪdʒ əv/",
+    "definition": "something that causes problems or makes someone or something less successful (disadvantage of + something)",
+    "translation": "nhược điểm của",
+    "exampleSentence": "The disadvantage of the material is that it fades in strong sunlight.",
+    "exampleTranslation": "Nhược điểm của loại vải này là nó bị phai màu dưới nắng gắt.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "doubt about",
+    "phonetic": "/ˈdaʊt əˈbaʊt/",
+    "definition": "a feeling of being not sure whether something is true or right (doubt about + something)",
+    "translation": "nghi ngờ về",
+    "exampleSentence": "The incident raises doubts about the safety of nuclear power.",
+    "exampleTranslation": "Sự cố này làm dấy lên nghi ngờ về độ an toàn của điện hạt nhân.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "drop in",
+    "phonetic": "/ˈdrɑːp ɪn/",
+    "definition": "a reduction in the amount, level or number of something (drop in + something)",
+    "translation": "sự sụt giảm về",
+    "exampleSentence": "Manufacturers report a big drop in new orders.",
+    "exampleTranslation": "Các nhà sản xuất cho biết đơn hàng mới giảm mạnh.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "effect of",
+    "phonetic": "/ɪˈfekt əv/",
+    "definition": "a change caused by an event or action (effect of + something)",
+    "translation": "tác động của",
+    "exampleSentence": "I could feel the effects of the thin mountain air.",
+    "exampleTranslation": "Tôi cảm nhận được tác động của không khí loãng trên núi.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "effect on",
+    "phonetic": "/ɪˈfekt ɑːn/",
+    "definition": "a change caused in someone or something by an event (effect on + somebody/something)",
+    "translation": "ảnh hưởng đến",
+    "exampleSentence": "My parents' divorce had a big effect on me.",
+    "exampleTranslation": "Việc bố mẹ ly hôn ảnh hưởng lớn đến tôi.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "emphasis on",
+    "phonetic": "/ˈemfəsɪs ɑːn/",
+    "definition": "special attention or importance given to something (emphasis on + something)",
+    "translation": "sự nhấn mạnh vào",
+    "exampleSentence": "In Japan there is a lot of emphasis on politeness.",
+    "exampleTranslation": "Ở Nhật Bản, người ta rất nhấn mạnh vào sự lịch sự.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "end of",
+    "phonetic": "/ˈend əv/",
+    "definition": "the last part of a period of time, event or story (end of + something)",
+    "translation": "cuối, phần cuối của",
+    "exampleSentence": "Costs are expected to double by the end of 2030.",
+    "exampleTranslation": "Chi phí dự kiến sẽ tăng gấp đôi vào cuối năm 2030.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "entrance to",
+    "phonetic": "/ˈentrəns tə/",
+    "definition": "a door or gate you go through to enter a place (entrance to + place)",
+    "translation": "lối vào",
+    "exampleSentence": "Meet me at the main entrance to the school.",
+    "exampleTranslation": "Gặp tôi ở lối vào chính của trường nhé.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "evidence of",
+    "phonetic": "/ˈevɪdəns əv/",
+    "definition": "facts or signs that show something exists or is true (evidence of + something)",
+    "translation": "bằng chứng về",
+    "exampleSentence": "At present we have no evidence of life on other planets.",
+    "exampleTranslation": "Hiện nay chúng ta chưa có bằng chứng về sự sống trên hành tinh khác.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "evidence for",
+    "phonetic": "/ˈevɪdəns fɔːr/",
+    "definition": "facts or signs that support a claim (evidence for + something)",
+    "translation": "bằng chứng cho",
+    "exampleSentence": "There is no evidence for these claims.",
+    "exampleTranslation": "Không có bằng chứng nào cho những tuyên bố này.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "example of",
+    "phonetic": "/ɪɡˈzæmpl əv/",
+    "definition": "a specific fact or thing used to explain or support a general idea (example of + something)",
+    "translation": "ví dụ về",
+    "exampleSentence": "Can anyone give me an example of a transitive verb?",
+    "exampleTranslation": "Ai có thể cho tôi một ví dụ về ngoại động từ không?",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "excuse for",
+    "phonetic": "/ɪkˈskjuːs fɔːr/",
+    "definition": "a reason you give to explain careless or bad behaviour (excuse for + something/-ing)",
+    "translation": "lý do biện hộ cho",
+    "exampleSentence": "What's your excuse for being late this time?",
+    "exampleTranslation": "Lần này bạn có lý do gì cho việc đến muộn?",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "exception to",
+    "phonetic": "/ɪkˈsepʃn tə/",
+    "definition": "something or someone not included in a general statement or rule (exception to + the rule)",
+    "translation": "ngoại lệ của",
+    "exampleSentence": "Most of the boys were shy, but Larry was the exception to the rule.",
+    "exampleTranslation": "Hầu hết các cậu bé đều nhút nhát, nhưng Larry là ngoại lệ.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "experience in",
+    "phonetic": "/ɪkˈspɪriəns ɪn/",
+    "definition": "knowledge or skill you gain from doing a job or activity (experience in + something/-ing)",
+    "translation": "kinh nghiệm trong",
+    "exampleSentence": "I had some experience in fashion design.",
+    "exampleTranslation": "Tôi đã có chút kinh nghiệm trong thiết kế thời trang.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "experience of",
+    "phonetic": "/ɪkˈspɪriəns əv/",
+    "definition": "knowledge or skill you gain from doing something, or something that happened to you (experience of + something/-ing)",
+    "translation": "kinh nghiệm về",
+    "exampleSentence": "You've got a lot of experience of lecturing.",
+    "exampleTranslation": "Bạn có nhiều kinh nghiệm giảng dạy.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "explanation for",
+    "phonetic": "/ˌekspləˈneɪʃn fɔːr/",
+    "definition": "the reasons you give for why something happened (explanation for + something)",
+    "translation": "lời giải thích cho",
+    "exampleSentence": "Can you think of any explanation for this failure?",
+    "exampleTranslation": "Bạn có nghĩ ra lời giải thích nào cho thất bại này không?",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "explanation of",
+    "phonetic": "/ˌekspləˈneɪʃn əv/",
+    "definition": "a statement that describes how something works or why it is so (explanation of + something)",
+    "translation": "lời giải thích về",
+    "exampleSentence": "I'll give you a quick explanation of how the machine works.",
+    "exampleTranslation": "Tôi sẽ giải thích nhanh cho bạn cách máy này hoạt động.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "faith in",
+    "phonetic": "/ˈfeɪθ ɪn/",
+    "definition": "a strong feeling of trust or confidence in someone or something (faith in + somebody/something)",
+    "translation": "niềm tin vào",
+    "exampleSentence": "I still have faith in him.",
+    "exampleTranslation": "Tôi vẫn còn niềm tin vào anh ấy.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "fall in",
+    "phonetic": "/ˈfɔːl ɪn/",
+    "definition": "a reduction in the amount, level or price of something (fall in + something)",
+    "translation": "sự sụt giảm về",
+    "exampleSentence": "There has been a fall in oil prices.",
+    "exampleTranslation": "Giá dầu đã giảm.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "fear of",
+    "phonetic": "/ˈfɪr əv/",
+    "definition": "the feeling you get when you are afraid that something bad may happen (fear of + something/-ing)",
+    "translation": "nỗi sợ",
+    "exampleSentence": "She has a fear of flying.",
+    "exampleTranslation": "Cô ấy sợ đi máy bay.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "feeling of",
+    "phonetic": "/ˈfiːlɪŋ əv/",
+    "definition": "an emotion that you feel, such as anger, sadness or happiness (feeling of + emotion)",
+    "translation": "cảm giác",
+    "exampleSentence": "He had a terrible feeling of guilt.",
+    "exampleTranslation": "Anh ấy có cảm giác tội lỗi khủng khiếp.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "fight for",
+    "phonetic": "/ˈfaɪt fɔːr/",
+    "definition": "the process of trying to achieve something or stop something bad (fight for + something)",
+    "translation": "cuộc đấu tranh cho",
+    "exampleSentence": "They joined the fight for justice and democracy.",
+    "exampleTranslation": "Họ tham gia cuộc đấu tranh cho công lý và dân chủ.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "gift for",
+    "phonetic": "/ˈɡɪft fɔːr/",
+    "definition": "a natural ability (gift for + something/-ing)",
+    "translation": "năng khiếu về",
+    "exampleSentence": "She has a gift for languages.",
+    "exampleTranslation": "Cô ấy có năng khiếu ngoại ngữ.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "guide to",
+    "phonetic": "/ˈɡaɪd tə/",
+    "definition": "a book or text that gives information about a particular subject (guide to + subject)",
+    "translation": "cẩm nang về, hướng dẫn về",
+    "exampleSentence": "I bought a guide to North American birds.",
+    "exampleTranslation": "Tôi mua một cuốn cẩm nang về các loài chim Bắc Mỹ.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "hatred of",
+    "phonetic": "/ˈheɪtrɪd əv/",
+    "definition": "an angry feeling of extreme dislike for someone or something (hatred of + somebody/something)",
+    "translation": "sự căm ghét",
+    "exampleSentence": "He showed an intense hatred of all foreigners.",
+    "exampleTranslation": "Ông ta bộc lộ sự căm ghét tột độ với mọi người nước ngoài.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "help with",
+    "phonetic": "/ˈhelp wɪð/",
+    "definition": "things you do to make it easier for someone to do something (help with + something)",
+    "translation": "sự giúp đỡ về",
+    "exampleSentence": "Do you want any help with the washing up?",
+    "exampleTranslation": "Bạn có cần giúp rửa chén không?",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "hope of",
+    "phonetic": "/ˈhoʊp əv/",
+    "definition": "a chance of succeeding or of something good happening (hope of + something/-ing)",
+    "translation": "hy vọng",
+    "exampleSentence": "It was rush hour, and there was no hope of getting a seat.",
+    "exampleTranslation": "Lúc đó là giờ cao điểm nên không còn hy vọng kiếm được chỗ ngồi.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "idea of",
+    "phonetic": "/aɪˈdiːə əv/",
+    "definition": "an image in your mind of what something is like or should be (idea of + something/-ing)",
+    "translation": "ý niệm về",
+    "exampleSentence": "I only have a vague idea of the kind of work I'll be doing.",
+    "exampleTranslation": "Tôi chỉ có ý niệm mơ hồ về loại công việc mình sẽ làm.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "idea for",
+    "phonetic": "/aɪˈdiːə fɔːr/",
+    "definition": "a plan or suggestion for a possible course of action (idea for + something)",
+    "translation": "ý tưởng cho",
+    "exampleSentence": "The idea for the book came from an old war movie.",
+    "exampleTranslation": "Ý tưởng cho cuốn sách đến từ một bộ phim chiến tranh cũ.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "impact of",
+    "phonetic": "/ˈɪmpækt əv/",
+    "definition": "the effect or influence of an event or situation (impact of + something)",
+    "translation": "tác động của",
+    "exampleSentence": "They discussed the impact of global warming.",
+    "exampleTranslation": "Họ thảo luận về tác động của hiện tượng nóng lên toàn cầu.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "impact on",
+    "phonetic": "/ˈɪmpækt ɑːn/",
+    "definition": "the effect or influence that something has on someone or something (impact on + somebody/something)",
+    "translation": "tác động lên",
+    "exampleSentence": "Higher mortgage rates have already had a major impact on spending.",
+    "exampleTranslation": "Lãi suất thế chấp cao hơn đã tác động mạnh đến chi tiêu.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "improvement in",
+    "phonetic": "/ɪmˈpruːvmənt ɪn/",
+    "definition": "the act of improving something, or the state of being better (improvement in + something)",
+    "translation": "sự cải thiện về",
+    "exampleSentence": "There has been a big improvement in the children's behaviour.",
+    "exampleTranslation": "Hành vi của bọn trẻ đã cải thiện nhiều.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "increase in",
+    "phonetic": "/ˈɪnkriːs ɪn/",
+    "definition": "a rise in amount, number or degree (increase in + something)",
+    "translation": "sự gia tăng về",
+    "exampleSentence": "There has been an increase in the crime rate.",
+    "exampleTranslation": "Tỷ lệ tội phạm đã tăng.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "influence on",
+    "phonetic": "/ˈɪnfluəns ɑːn/",
+    "definition": "the power to affect how someone or something develops or behaves (influence on + somebody/something)",
+    "translation": "ảnh hưởng lên",
+    "exampleSentence": "His works have had an influence on many modern writers.",
+    "exampleTranslation": "Các tác phẩm của ông đã ảnh hưởng đến nhiều nhà văn hiện đại.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "influence over",
+    "phonetic": "/ˈɪnfluəns ˈoʊvər/",
+    "definition": "the power to affect how someone or something develops or behaves (influence over + somebody/something)",
+    "translation": "sức ảnh hưởng đối với",
+    "exampleSentence": "The unions have a lot of influence over local politics.",
+    "exampleTranslation": "Các công đoàn có nhiều ảnh hưởng đối với chính trị địa phương.",
+    "pos": "noun with preposition"
+  },
+  {
+    "word": "information about",
+    "phonetic": "/ˌɪnfərˈmeɪʃn əˈbaʊt/",
+    "definition": "facts or details that tell you something about a situation or person (information about + something)",
+    "translation": "thông tin về",
+    "exampleSentence": "The book contains information about a wide variety of subjects.",
+    "exampleTranslation": "Cuốn sách có thông tin về rất nhiều chủ đề.",
+    "pos": "noun with preposition"
+  }
+]

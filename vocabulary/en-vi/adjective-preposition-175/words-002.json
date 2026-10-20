@@ -1,0 +1,452 @@
+[
+  {
+    "word": "guilty about",
+    "phonetic": "/ˈɡɪlti əˈbaʊt/",
+    "definition": "feeling very ashamed and sad because you know you have done something wrong (guilty about + something)",
+    "translation": "cảm thấy có lỗi về điều gì",
+    "exampleSentence": "I feel really guilty about forgetting her birthday again.",
+    "exampleTranslation": "Tôi thấy rất có lỗi vì lại quên sinh nhật cô ấy.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "guilty of",
+    "phonetic": "/ˈɡɪlti əv/",
+    "definition": "having done something that is a crime (guilty of + something)",
+    "translation": "phạm tội gì",
+    "exampleSentence": "The jury found her guilty of murder.",
+    "exampleTranslation": "Bồi thẩm đoàn kết luận cô ta phạm tội giết người.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "happy about",
+    "phonetic": "/ˈhæpi əˈbaʊt/",
+    "definition": "having feelings of pleasure because something good has happened (happy about + something)",
+    "translation": "vui về điều gì",
+    "exampleSentence": "She's very happy about the baby.",
+    "exampleTranslation": "Cô ấy rất vui về đứa bé.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "happy for",
+    "phonetic": "/ˈhæpi fɔːr/",
+    "definition": "pleased because something good has happened to someone (happy for + somebody)",
+    "translation": "mừng cho ai",
+    "exampleSentence": "What a wonderful opportunity! I'm so happy for you.",
+    "exampleTranslation": "Thật là một cơ hội tuyệt vời! Tôi mừng cho bạn lắm.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "happy with",
+    "phonetic": "/ˈhæpi wɪð/",
+    "definition": "satisfied or not worried about something (happy with + somebody/something)",
+    "translation": "hài lòng với",
+    "exampleSentence": "On the whole, I'm happy with the way I look.",
+    "exampleTranslation": "Nhìn chung, tôi hài lòng với ngoại hình của mình.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "hopeless at",
+    "phonetic": "/ˈhoʊpləs ət/",
+    "definition": "very bad at something; informal and especially British English (hopeless at + something/-ing)",
+    "translation": "quá tệ về điều gì",
+    "exampleSentence": "My brother was always pretty hopeless at ball games.",
+    "exampleTranslation": "Anh trai tôi lúc nào cũng khá tệ ở các môn bóng.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "impressed by",
+    "phonetic": "/ɪmˈprest baɪ/",
+    "definition": "feeling admiration and respect for someone or something (impressed by + somebody/something)",
+    "translation": "ấn tượng bởi",
+    "exampleSentence": "We were very impressed by the standard of work.",
+    "exampleTranslation": "Chúng tôi rất ấn tượng với chất lượng công việc.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "interested in",
+    "phonetic": "/ˈɪntrəstɪd ɪn/",
+    "definition": "giving a lot of attention to something because you want to know more about it (interested in + something/-ing)",
+    "translation": "quan tâm đến, hứng thú với",
+    "exampleSentence": "I've always been interested in music.",
+    "exampleTranslation": "Tôi luôn quan tâm đến âm nhạc.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "involved in",
+    "phonetic": "/ɪnˈvɑːlvd ɪn/",
+    "definition": "taking part in an activity or event, or connected with it in some way (involved in + something)",
+    "translation": "tham gia vào, dính líu đến",
+    "exampleSentence": "More than 30 software firms were involved in the project.",
+    "exampleTranslation": "Hơn 30 công ty phần mềm đã tham gia dự án.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "involved with",
+    "phonetic": "/ɪnˈvɑːlvd wɪð/",
+    "definition": "taking part in an activity or connected with something or someone (involved with + something/somebody)",
+    "translation": "có liên quan, gắn bó với",
+    "exampleSentence": "Landel has been involved with the Hercules project for years.",
+    "exampleTranslation": "Landel đã gắn bó với dự án Hercules nhiều năm.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "jealous of",
+    "phonetic": "/ˈdʒeləs əv/",
+    "definition": "unhappy because someone has something that you wish you had (jealous of + somebody/something)",
+    "translation": "ghen tị với",
+    "exampleSentence": "Why are you so jealous of his success?",
+    "exampleTranslation": "Sao bạn lại ghen tị với thành công của anh ấy đến thế?",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "keen on",
+    "phonetic": "/ˈkiːn ɑːn/",
+    "definition": "very interested in something or enjoying it; especially British English (keen on + something/-ing)",
+    "translation": "mê, thích",
+    "exampleSentence": "Daniel is very keen on tennis.",
+    "exampleTranslation": "Daniel rất mê quần vợt.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "kind to",
+    "phonetic": "/ˈkaɪnd tə/",
+    "definition": "saying or doing things that show you care about other people (kind to + somebody)",
+    "translation": "tốt bụng với ai",
+    "exampleSentence": "They've been very kind to me.",
+    "exampleTranslation": "Họ đã rất tốt với tôi.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "late for",
+    "phonetic": "/ˈleɪt fɔːr/",
+    "definition": "arriving or happening after the expected time (late for + something)",
+    "translation": "muộn, trễ",
+    "exampleSentence": "Cheryl was late for school.",
+    "exampleTranslation": "Cheryl đến trường muộn.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "married to",
+    "phonetic": "/ˈmærid tə/",
+    "definition": "having a husband or a wife (married to + somebody)",
+    "translation": "kết hôn với, lấy ai",
+    "exampleSentence": "Nicole is married to my brother.",
+    "exampleTranslation": "Nicole kết hôn với anh trai tôi.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "nervous about",
+    "phonetic": "/ˈnɜːrvəs əˈbaʊt/",
+    "definition": "worried or frightened about something and unable to relax (nervous about + something/-ing)",
+    "translation": "lo lắng về điều gì",
+    "exampleSentence": "She was so nervous about her exams that she couldn't sleep.",
+    "exampleTranslation": "Cô ấy lo lắng về kỳ thi đến mức không ngủ được.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "nice to",
+    "phonetic": "/ˈnaɪs tə/",
+    "definition": "friendly, kind or polite towards someone (nice to + somebody)",
+    "translation": "tốt với ai",
+    "exampleSentence": "They were very nice to me while I was ill.",
+    "exampleTranslation": "Họ rất tốt với tôi khi tôi ốm.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "obsessed with",
+    "phonetic": "/əbˈsest wɪð/",
+    "definition": "thinking or worrying about someone or something all the time (obsessed with + somebody/something)",
+    "translation": "ám ảnh bởi, bị ám ảnh với",
+    "exampleSentence": "Jody has been obsessed with some lifeguard for months.",
+    "exampleTranslation": "Jody đã bị ám ảnh bởi một nhân viên cứu hộ suốt mấy tháng.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "opposed to",
+    "phonetic": "/əˈpoʊzd tə/",
+    "definition": "disagreeing with something such as a plan or system (opposed to + something)",
+    "translation": "phản đối",
+    "exampleSentence": "Most of us are opposed to the death penalty.",
+    "exampleTranslation": "Hầu hết chúng tôi phản đối án tử hình.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "pleased about",
+    "phonetic": "/ˈpliːzd əˈbaʊt/",
+    "definition": "happy or satisfied about something (pleased about + something)",
+    "translation": "hài lòng về điều gì",
+    "exampleSentence": "I could tell they were pleased about the news.",
+    "exampleTranslation": "Tôi nhận ra họ rất hài lòng về tin này.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "pleased with",
+    "phonetic": "/ˈpliːzd wɪð/",
+    "definition": "happy or satisfied with someone or something (pleased with + somebody/something)",
+    "translation": "hài lòng với",
+    "exampleSentence": "Gwinn was pleased with the results.",
+    "exampleTranslation": "Gwinn hài lòng với kết quả.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "popular with",
+    "phonetic": "/ˈpɑːpjələr wɪð/",
+    "definition": "liked by a lot of people (popular with + somebody)",
+    "translation": "được yêu thích bởi, được ưa chuộng",
+    "exampleSentence": "The president is very popular with young voters.",
+    "exampleTranslation": "Tổng thống rất được cử tri trẻ yêu thích.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "proud of",
+    "phonetic": "/ˈpraʊd əv/",
+    "definition": "feeling pleased about something you have done or something connected with you (proud of + somebody/something)",
+    "translation": "tự hào về",
+    "exampleSentence": "Her parents are very proud of her.",
+    "exampleTranslation": "Bố mẹ cô ấy rất tự hào về cô.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "ready for",
+    "phonetic": "/ˈredi fɔːr/",
+    "definition": "prepared for what you are going to do (ready for + something)",
+    "translation": "sẵn sàng cho",
+    "exampleSentence": "I don't feel that I'm ready for my driving test yet.",
+    "exampleTranslation": "Tôi chưa thấy mình sẵn sàng cho kỳ thi lái xe.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "related to",
+    "phonetic": "/rɪˈleɪtɪd tə/",
+    "definition": "connected in some way to something or someone (related to + somebody/something)",
+    "translation": "liên quan đến, có họ với",
+    "exampleSentence": "He suffers from memory loss related to his illness.",
+    "exampleTranslation": "Ông ấy bị mất trí nhớ có liên quan đến bệnh của mình.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "relevant to",
+    "phonetic": "/ˈreləvənt tə/",
+    "definition": "directly connected with the subject or problem being discussed (relevant to + something)",
+    "translation": "có liên quan đến",
+    "exampleSentence": "What experience do you have that is relevant to this position?",
+    "exampleTranslation": "Bạn có kinh nghiệm nào liên quan đến vị trí này?",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "responsible for",
+    "phonetic": "/rɪˈspɑːnsəbl fɔːr/",
+    "definition": "being the cause of something bad, or being in charge of something (responsible for + something)",
+    "translation": "chịu trách nhiệm về",
+    "exampleSentence": "Police believe the same man is responsible for three other murders.",
+    "exampleTranslation": "Cảnh sát tin rằng cùng một người đã gây ra ba vụ giết người khác.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "rude to",
+    "phonetic": "/ˈruːd tə/",
+    "definition": "speaking or behaving in a way that is not polite (rude to + somebody)",
+    "translation": "thô lỗ với ai",
+    "exampleSentence": "Why are you so rude to her?",
+    "exampleTranslation": "Sao bạn lại thô lỗ với cô ấy thế?",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "safe from",
+    "phonetic": "/ˈseɪf frəm/",
+    "definition": "not in danger of being harmed, lost or stolen (safe from + something)",
+    "translation": "an toàn khỏi",
+    "exampleSentence": "The birds' nests are high up, safe from predators.",
+    "exampleTranslation": "Tổ chim nằm trên cao, an toàn khỏi kẻ săn mồi.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "satisfied with",
+    "phonetic": "/ˈsætɪsfaɪd wɪð/",
+    "definition": "feeling that something is as good as it should be (satisfied with + something)",
+    "translation": "hài lòng với",
+    "exampleSentence": "I'm not satisfied with the way he cut my hair.",
+    "exampleTranslation": "Tôi không hài lòng với cách anh ấy cắt tóc cho tôi.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "scared of",
+    "phonetic": "/ˈskerd əv/",
+    "definition": "frightened of something, or nervous about it (scared of + somebody/something/-ing)",
+    "translation": "sợ",
+    "exampleSentence": "I've always been scared of dogs.",
+    "exampleTranslation": "Tôi luôn sợ chó.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "serious about",
+    "phonetic": "/ˈsɪriəs əˈbaʊt/",
+    "definition": "really meaning what you say or plan to do (serious about + something/-ing)",
+    "translation": "nghiêm túc về điều gì",
+    "exampleSentence": "Is she serious about giving up her job?",
+    "exampleTranslation": "Cô ấy có nghiêm túc về việc bỏ việc không?",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "shocked at",
+    "phonetic": "/ˈʃɑːkt ət/",
+    "definition": "feeling surprised and upset by something unexpected and unpleasant (shocked at + something)",
+    "translation": "sốc trước điều gì",
+    "exampleSentence": "He is shocked at what happened to his son.",
+    "exampleTranslation": "Ông ấy sốc trước những gì đã xảy ra với con trai mình.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "shocked by",
+    "phonetic": "/ˈʃɑːkt baɪ/",
+    "definition": "feeling surprised and upset because of something unexpected and unpleasant (shocked by + something)",
+    "translation": "sốc vì",
+    "exampleSentence": "I was deeply shocked by Jo's death.",
+    "exampleTranslation": "Tôi sốc nặng trước cái chết của Jo.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "short of",
+    "phonetic": "/ˈʃɔːrt əv/",
+    "definition": "not having enough of something (short of + something)",
+    "translation": "thiếu",
+    "exampleSentence": "Our libraries are short of funds.",
+    "exampleTranslation": "Các thư viện của chúng tôi thiếu kinh phí.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "sick of",
+    "phonetic": "/ˈsɪk əv/",
+    "definition": "angry or bored with something that has been happening for a long time; spoken (sick of + something/-ing)",
+    "translation": "chán ngấy",
+    "exampleSentence": "I am sick of working for other people.",
+    "exampleTranslation": "Tôi chán ngấy việc làm thuê cho người khác.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "similar to",
+    "phonetic": "/ˈsɪmələr tə/",
+    "definition": "almost the same as something or someone (similar to + somebody/something)",
+    "translation": "giống với",
+    "exampleSentence": "Her ideas are quite similar to mine.",
+    "exampleTranslation": "Ý tưởng của cô ấy khá giống ý tưởng của tôi.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "sorry about",
+    "phonetic": "/ˈsɑːri əˈbaʊt/",
+    "definition": "feeling sad about a situation and wishing it were different (sorry about + something)",
+    "translation": "buồn về, tiếc về điều gì",
+    "exampleSentence": "I'm so sorry about your father.",
+    "exampleTranslation": "Tôi rất tiếc về chuyện của bố bạn.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "sorry for",
+    "phonetic": "/ˈsɑːri fɔːr/",
+    "definition": "feeling ashamed or unhappy about something bad you have done (sorry for + something/-ing)",
+    "translation": "xin lỗi vì điều gì",
+    "exampleSentence": "She was genuinely sorry for what she had done.",
+    "exampleTranslation": "Cô ấy thật lòng hối hận vì những gì mình đã làm.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "sure about",
+    "phonetic": "/ˈʃʊr əˈbaʊt/",
+    "definition": "confident that you know something or that something is true (sure about + something)",
+    "translation": "chắc chắn về điều gì",
+    "exampleSentence": "Are you sure about that?",
+    "exampleTranslation": "Bạn có chắc về điều đó không?",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "sure of",
+    "phonetic": "/ˈʃʊr əv/",
+    "definition": "confident that you know something or that something is true (sure of + something)",
+    "translation": "chắc chắn về điều gì",
+    "exampleSentence": "He wasn't even sure of his mother's name.",
+    "exampleTranslation": "Anh ấy thậm chí không chắc tên mẹ mình.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "surprised at",
+    "phonetic": "/sərˈpraɪzd ət/",
+    "definition": "having a feeling of surprise because of something (surprised at + something)",
+    "translation": "ngạc nhiên trước",
+    "exampleSentence": "We were greatly surprised at the news.",
+    "exampleTranslation": "Chúng tôi vô cùng ngạc nhiên trước tin này.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "surprised by",
+    "phonetic": "/sərˈpraɪzd baɪ/",
+    "definition": "having a feeling of surprise because of something (surprised by + something)",
+    "translation": "ngạc nhiên vì",
+    "exampleSentence": "He was a little surprised by her request.",
+    "exampleTranslation": "Anh ấy hơi ngạc nhiên trước yêu cầu của cô ấy.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "suspicious of",
+    "phonetic": "/səˈspɪʃəs əv/",
+    "definition": "thinking that someone might be guilty of something wrong (suspicious of + somebody/something)",
+    "translation": "nghi ngờ, đa nghi về",
+    "exampleSentence": "Some of his colleagues became suspicious of his behaviour.",
+    "exampleTranslation": "Một số đồng nghiệp bắt đầu nghi ngờ hành vi của anh ấy.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "sympathetic to",
+    "phonetic": "/ˌsɪmpəˈθetɪk tə/",
+    "definition": "caring about and feeling sorry for someone's problems, or agreeing with an idea (sympathetic to + somebody/something)",
+    "translation": "cảm thông với, ủng hộ",
+    "exampleSentence": "I'm sympathetic to parents who worry about what their children see online.",
+    "exampleTranslation": "Tôi cảm thông với các bậc cha mẹ lo lắng về những gì con mình xem trên mạng.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "tired of",
+    "phonetic": "/ˈtaɪərd əv/",
+    "definition": "bored with something because it is no longer interesting (tired of + something/-ing)",
+    "translation": "chán, mệt mỏi vì",
+    "exampleSentence": "I'm tired of watching television; let's go for a walk.",
+    "exampleTranslation": "Tôi chán xem tivi rồi; mình đi dạo đi.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "typical of",
+    "phonetic": "/ˈtɪpɪkl əv/",
+    "definition": "having the usual features of a particular group or kind (typical of + somebody/something)",
+    "translation": "điển hình của",
+    "exampleSentence": "This painting is typical of his work.",
+    "exampleTranslation": "Bức tranh này điển hình cho tác phẩm của ông ấy.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "upset about",
+    "phonetic": "/ʌpˈset əˈbaʊt/",
+    "definition": "unhappy and worried because something unpleasant has happened (upset about + something)",
+    "translation": "buồn bã về điều gì",
+    "exampleSentence": "She was deeply upset about the way her father treated her.",
+    "exampleTranslation": "Cô ấy rất buồn về cách bố đối xử với mình.",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "upset with",
+    "phonetic": "/ʌpˈset wɪð/",
+    "definition": "angry and annoyed with someone (upset with + somebody)",
+    "translation": "giận, phật ý với ai",
+    "exampleSentence": "You're not still upset with me, are you?",
+    "exampleTranslation": "Bạn vẫn chưa hết giận tôi, đúng không?",
+    "pos": "adjective with preposition"
+  },
+  {
+    "word": "useful for",
+    "phonetic": "/ˈjuːsfl fɔːr/",
+    "definition": "helping you to do or get what you want (useful for + something/-ing)",
+    "translation": "hữu ích cho",
+    "exampleSentence": "The space under the desk is useful for storing CDs.",
+    "exampleTranslation": "Khoảng trống dưới bàn hữu ích để cất đĩa CD.",
+    "pos": "adjective with preposition"
+  }
+]
