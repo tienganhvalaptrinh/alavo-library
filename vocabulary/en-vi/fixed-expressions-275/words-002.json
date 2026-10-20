@@ -1,0 +1,452 @@
+[
+  {
+    "word": "good point",
+    "phonetic": "/ˌɡʊd ˈpɔɪnt/",
+    "definition": "used to say that someone has said something interesting or important that you had not thought of",
+    "translation": "bạn nói có lý, ý hay đấy",
+    "exampleSentence": "\"We should check the weather first.\" \"Good point.\"",
+    "exampleTranslation": "\"Mình nên xem dự báo thời tiết trước.\" \"Bạn nói có lý.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "why not",
+    "phonetic": "/ˌwaɪ ˈnɑːt/",
+    "definition": "used to say that you agree with a suggestion",
+    "translation": "sao lại không, được thôi",
+    "exampleSentence": "\"Shall we get pizza?\" \"Why not?\"",
+    "exampleTranslation": "\"Mình ăn pizza nhé?\" \"Sao lại không?\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "what a shame",
+    "phonetic": "/ˌwʌt ə ˈʃeɪm/",
+    "definition": "used when you wish a situation were different and you feel sad or disappointed",
+    "translation": "tiếc quá, thật đáng tiếc",
+    "exampleSentence": "You can't come? What a shame!",
+    "exampleTranslation": "Bạn không đến được à? Tiếc quá!",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "tell me about it",
+    "phonetic": "/ˌtel mi əˈbaʊt ɪt/",
+    "definition": "used to say that you already know how bad something is, especially because you have experienced it",
+    "translation": "khỏi phải nói, tôi biết quá rõ",
+    "exampleSentence": "\"This traffic is terrible.\" \"Tell me about it. I've been stuck for an hour.\"",
+    "exampleTranslation": "\"Giao thông tệ quá.\" \"Khỏi phải nói. Tôi kẹt cả tiếng rồi.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "you don't say",
+    "phonetic": "/ju ˌdoʊnt ˈseɪ/",
+    "definition": "used to show surprise at what someone tells you, or sometimes to show you are not surprised at all",
+    "translation": "thật à, thế cơ à",
+    "exampleSentence": "\"It's cold today.\" \"You don't say. I'm wearing three jackets.\"",
+    "exampleTranslation": "\"Hôm nay trời lạnh.\" \"Thế cơ à. Tôi mặc ba cái áo khoác đây này.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "I'm all ears",
+    "phonetic": "/aɪm ˌɔːl ˈɪrz/",
+    "definition": "an informal way to say you are very keen to hear what someone is going to tell you",
+    "translation": "tôi đang rất muốn nghe đây",
+    "exampleSentence": "Tell me what happened. I'm all ears.",
+    "exampleTranslation": "Kể tôi nghe chuyện gì đã xảy ra đi. Tôi đang rất muốn nghe đây.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "so what",
+    "phonetic": "/ˌsoʊ ˈwʌt/",
+    "definition": "used to say that you do not care about something or do not think it is important",
+    "translation": "thì sao, thì đã sao",
+    "exampleSentence": "\"You're late again.\" \"So what? The meeting hasn't started.\"",
+    "exampleTranslation": "\"Bạn lại đến muộn.\" \"Thì sao? Cuộc họp có bắt đầu đâu.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "who cares",
+    "phonetic": "/ˌhuː ˈkerz/",
+    "definition": "used to say that something does not worry you because it is not important",
+    "translation": "ai quan tâm chứ, kệ đi",
+    "exampleSentence": "\"We might lose.\" \"Who cares? It's just a game.\"",
+    "exampleTranslation": "\"Có thể mình sẽ thua.\" \"Ai quan tâm chứ? Chỉ là một trò chơi thôi mà.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "so far so good",
+    "phonetic": "/ˌsoʊ ˌfɑːr ˌsoʊ ˈɡʊd/",
+    "definition": "used to say that things have been going well until now",
+    "translation": "đến giờ vẫn ổn",
+    "exampleSentence": "\"How's the new job?\" \"So far so good.\"",
+    "exampleTranslation": "\"Công việc mới thế nào?\" \"Đến giờ vẫn ổn.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "what if",
+    "phonetic": "/ˈwʌt ɪf/",
+    "definition": "used to ask what you should do or what will happen if something happens, especially something unpleasant",
+    "translation": "lỡ như, nếu như thì sao",
+    "exampleSentence": "What if the train is late?",
+    "exampleTranslation": "Lỡ tàu bị trễ thì sao?",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "what about",
+    "phonetic": "/ˈwʌt əˌbaʊt/",
+    "definition": "used to make a suggestion",
+    "translation": "còn... thì sao, hay là",
+    "exampleSentence": "What about going to the beach this weekend?",
+    "exampleTranslation": "Cuối tuần này mình đi biển thì sao?",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "how about",
+    "phonetic": "/ˈhaʊ əˌbaʊt/",
+    "definition": "used to make a suggestion about what to do",
+    "translation": "hay là, thế còn... thì sao",
+    "exampleSentence": "How about a cup of tea?",
+    "exampleTranslation": "Uống một tách trà nhé?",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "what do you mean",
+    "phonetic": "/ˌwʌt də ju ˈmiːn/",
+    "definition": "used when you do not understand what someone is trying to say",
+    "translation": "ý bạn là gì, bạn nói vậy nghĩa là sao",
+    "exampleSentence": "What do you mean, you can't come?",
+    "exampleTranslation": "Ý bạn là gì, bạn không đến được sao?",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "you know",
+    "phonetic": "/ju ˈnoʊ/",
+    "definition": "used to emphasize a statement or to check that someone understands",
+    "translation": "bạn biết đấy",
+    "exampleSentence": "I was so nervous, you know, I couldn't speak.",
+    "exampleTranslation": "Tôi đã rất hồi hộp, bạn biết đấy, đến mức không nói được.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "let me see",
+    "phonetic": "/ˌlet mi ˈsiː/",
+    "definition": "used when you are trying to remember something",
+    "translation": "để tôi xem nào, để tôi nhớ đã",
+    "exampleSentence": "Let me see. Her birthday is in May, I think.",
+    "exampleTranslation": "Để tôi nhớ đã. Sinh nhật cô ấy là tháng Năm thì phải.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "let me think",
+    "phonetic": "/ˌlet mi ˈθɪŋk/",
+    "definition": "used to say that you need time to think about or remember something",
+    "translation": "để tôi nghĩ đã",
+    "exampleSentence": "Let me think. I'll tell you tomorrow.",
+    "exampleTranslation": "Để tôi nghĩ đã. Mai tôi sẽ báo bạn.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "come off it",
+    "phonetic": "/ˌkʌm ˈɔːf ɪt/",
+    "definition": "used to tell someone you do not believe what they are saying; mainly British English",
+    "translation": "thôi đi, đừng có xạo",
+    "exampleSentence": "Come off it! You never cook.",
+    "exampleTranslation": "Thôi đi! Bạn có bao giờ nấu ăn đâu.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "oh dear",
+    "phonetic": "/ˌoʊ ˈdɪr/",
+    "definition": "used to show that you are surprised, upset or annoyed because something bad has happened",
+    "translation": "ôi trời, chết thật",
+    "exampleSentence": "Oh dear, I've lost my keys.",
+    "exampleTranslation": "Ôi trời, tôi làm mất chìa khóa rồi.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "for heaven's sake",
+    "phonetic": "/fər ˌhevnz ˈseɪk/",
+    "definition": "used to show that you are annoyed or angry",
+    "translation": "trời ơi, làm ơn đi",
+    "exampleSentence": "For heaven's sake, turn that music down!",
+    "exampleTranslation": "Trời ơi, làm ơn vặn nhỏ nhạc xuống!",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "give me a break",
+    "phonetic": "/ˌɡɪv mi ə ˈbreɪk/",
+    "definition": "used when you want someone to stop doing or saying something that annoys you",
+    "translation": "thôi đi mà, tha cho tôi đi",
+    "exampleSentence": "Give me a break! I've heard that excuse a hundred times.",
+    "exampleTranslation": "Thôi đi mà! Tôi nghe cái cớ đó cả trăm lần rồi.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "that's it",
+    "phonetic": "/ˌðæts ˈɪt/",
+    "definition": "used to say that something is completely finished or that a situation cannot be changed",
+    "translation": "thế là hết, xong rồi",
+    "exampleSentence": "That's it. I'm quitting this job.",
+    "exampleTranslation": "Thế là hết. Tôi bỏ công việc này.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "that's life",
+    "phonetic": "/ˌðæts ˈlaɪf/",
+    "definition": "used to say that something is disappointing but you have to accept it",
+    "translation": "đời là thế, cuộc sống mà",
+    "exampleSentence": "We missed the bus, but that's life.",
+    "exampleTranslation": "Mình lỡ xe buýt rồi, nhưng đời là thế mà.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "there you go",
+    "phonetic": "/ˌðer ju ˈɡoʊ/",
+    "definition": "used when you give something to someone or when you have done something for them",
+    "translation": "đây nhé, xong rồi nhé",
+    "exampleSentence": "There you go. Your coffee is ready.",
+    "exampleTranslation": "Đây nhé. Cà phê của bạn xong rồi.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "here we go again",
+    "phonetic": "/ˌhɪr wi ˌɡoʊ əˈɡen/",
+    "definition": "an informal way to say that something unpleasant is starting to happen again",
+    "translation": "lại nữa rồi, lại bắt đầu nữa rồi",
+    "exampleSentence": "Here we go again. They're arguing about money.",
+    "exampleTranslation": "Lại nữa rồi. Họ lại cãi nhau về tiền.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "no wonder",
+    "phonetic": "/ˌnoʊ ˈwʌndər/",
+    "definition": "used to say that you are not surprised by something",
+    "translation": "chẳng trách, thảo nào",
+    "exampleSentence": "No wonder you're tired. You were up all night.",
+    "exampleTranslation": "Thảo nào bạn mệt. Bạn thức cả đêm mà.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "no doubt",
+    "phonetic": "/ˌnoʊ ˈdaʊt/",
+    "definition": "used when you think that something is probably true",
+    "translation": "chắc chắn là, hẳn là",
+    "exampleSentence": "No doubt she'll call you when she arrives.",
+    "exampleTranslation": "Hẳn là cô ấy sẽ gọi cho bạn khi đến nơi.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "no comment",
+    "phonetic": "/ˌnoʊ ˈkɑːment/",
+    "definition": "used by people in public life when they do not want to answer questions",
+    "translation": "không bình luận",
+    "exampleSentence": "When reporters asked about the scandal, he just said, \"No comment.\"",
+    "exampleTranslation": "Khi phóng viên hỏi về vụ bê bối, ông ấy chỉ nói: \"Không bình luận.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "no offence",
+    "phonetic": "/ˌnoʊ əˈfens/",
+    "definition": "used to tell someone you hope what you are going to say will not upset them",
+    "translation": "không có ý xúc phạm, xin đừng phật lòng",
+    "exampleSentence": "No offence, but I think your idea won't work.",
+    "exampleTranslation": "Không có ý xúc phạm, nhưng tôi nghĩ ý tưởng của bạn sẽ không hiệu quả.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "no hard feelings",
+    "phonetic": "/ˌnoʊ ˌhɑːrd ˈfiːlɪŋz/",
+    "definition": "used to tell someone you are not angry with them and hope they are not angry with you",
+    "translation": "không giận nhau nhé",
+    "exampleSentence": "I'm sorry I won the game. No hard feelings?",
+    "exampleTranslation": "Xin lỗi vì tôi thắng ván này. Không giận nhau nhé?",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "no harm done",
+    "phonetic": "/ˌnoʊ ˌhɑːrm ˈdʌn/",
+    "definition": "used to tell someone not to worry about something they have done",
+    "translation": "không sao cả, chẳng có hại gì",
+    "exampleSentence": "You spilled a little water? No harm done.",
+    "exampleTranslation": "Bạn làm đổ chút nước à? Không sao cả.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "it's no use",
+    "phonetic": "/ɪts ˌnoʊ ˈjuːs/",
+    "definition": "used to say you will stop doing something because you think it will not succeed",
+    "translation": "vô ích thôi, chẳng ích gì",
+    "exampleSentence": "It's no use. I can't open this door.",
+    "exampleTranslation": "Vô ích thôi. Tôi không mở được cánh cửa này.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "it's up to you",
+    "phonetic": "/ɪts ˌʌp tə ˈju/",
+    "definition": "used to say that someone can decide about something",
+    "translation": "tùy bạn quyết định",
+    "exampleSentence": "We can eat out or stay home. It's up to you.",
+    "exampleTranslation": "Mình có thể đi ăn ngoài hoặc ở nhà. Tùy bạn quyết định.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "it depends",
+    "phonetic": "/ɪt dɪˈpendz/",
+    "definition": "used when you cannot give a definite answer because it is affected by something else",
+    "translation": "còn tùy, tùy trường hợp",
+    "exampleSentence": "\"Will you come on Saturday?\" \"It depends. I might have to work.\"",
+    "exampleTranslation": "\"Thứ Bảy bạn đến chứ?\" \"Còn tùy. Có thể tôi phải đi làm.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "it doesn't matter",
+    "phonetic": "/ɪt ˌdʌznt ˈmætər/",
+    "definition": "used to tell someone you are not angry or upset about something they have done",
+    "translation": "không sao đâu, không quan trọng",
+    "exampleSentence": "\"Sorry I'm late.\" \"It doesn't matter. We've only just started.\"",
+    "exampleTranslation": "\"Xin lỗi tôi đến muộn.\" \"Không sao đâu. Chúng tôi mới bắt đầu thôi.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "it serves you right",
+    "phonetic": "/ɪt ˌsɜːrvz ju ˈraɪt/",
+    "definition": "used to say that someone deserves something unpleasant that happens to them because they were stupid or unkind",
+    "translation": "đáng đời bạn, bạn tự chuốc lấy",
+    "exampleSentence": "You ignored the warning, so it serves you right.",
+    "exampleTranslation": "Bạn đã phớt lờ lời cảnh báo nên đáng đời bạn.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "it's a deal",
+    "phonetic": "/ɪts ə ˈdiːl/",
+    "definition": "used to say that you agree to do something",
+    "translation": "chốt nhé, đồng ý",
+    "exampleSentence": "You cook, I'll wash up. It's a deal!",
+    "exampleTranslation": "Bạn nấu, tôi rửa bát. Chốt nhé!",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "it's about time",
+    "phonetic": "/ɪts əˌbaʊt ˈtaɪm/",
+    "definition": "used to say strongly that something should happen soon or should have happened already",
+    "translation": "đã đến lúc rồi, muộn rồi đấy",
+    "exampleSentence": "It's about time you cleaned your room.",
+    "exampleTranslation": "Đã đến lúc con dọn phòng rồi đấy.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "what's the matter",
+    "phonetic": "/ˌwɑːts ðə ˈmætər/",
+    "definition": "used to ask why someone seems worried, unhappy or ill, or why something seems wrong",
+    "translation": "có chuyện gì vậy, bạn bị sao vậy",
+    "exampleSentence": "What's the matter? You look upset.",
+    "exampleTranslation": "Có chuyện gì vậy? Trông bạn buồn quá.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "cut it out",
+    "phonetic": "/ˌkʌt ɪt ˈaʊt/",
+    "definition": "used to tell someone to stop doing something because it annoys you",
+    "translation": "thôi đi, dừng lại đi",
+    "exampleSentence": "Cut it out! I'm trying to study.",
+    "exampleTranslation": "Thôi đi! Tôi đang học bài.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "knock it off",
+    "phonetic": "/ˌnɑːk ɪt ˈɔːf/",
+    "definition": "used to tell someone to stop doing something because it annoys you",
+    "translation": "thôi đi, đừng làm thế nữa",
+    "exampleSentence": "Knock it off, you two! You're driving me crazy.",
+    "exampleTranslation": "Thôi đi hai đứa! Hai đứa làm tôi phát điên.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "mind your own business",
+    "phonetic": "/ˌmaɪnd jɔːr ˌoʊn ˈbɪznəs/",
+    "definition": "an informal way to tell someone not to ask questions about something that does not involve them",
+    "translation": "lo việc của bạn đi, đừng xen vào chuyện người khác",
+    "exampleSentence": "How much do I earn? Mind your own business!",
+    "exampleTranslation": "Tôi kiếm được bao nhiêu à? Lo việc của bạn đi!",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "hang in there",
+    "phonetic": "/ˌhæŋ ɪn ˈðer/",
+    "definition": "used to tell someone to stay brave and determined in a difficult situation",
+    "translation": "cố lên, ráng chịu đựng nhé",
+    "exampleSentence": "I know it's hard, but hang in there. It will get better.",
+    "exampleTranslation": "Mình biết là khó, nhưng cố lên. Mọi chuyện sẽ khá hơn.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "take it easy",
+    "phonetic": "/ˌteɪk ɪt ˈiːzi/",
+    "definition": "to relax and not do very much",
+    "translation": "thư giãn đi, nghỉ ngơi đi",
+    "exampleSentence": "The doctor told him to take it easy for a few weeks.",
+    "exampleTranslation": "Bác sĩ bảo anh ấy nghỉ ngơi vài tuần.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "calm down",
+    "phonetic": "/ˌkɑːm ˈdaʊn/",
+    "definition": "to become quiet and relaxed after being angry, excited, nervous or upset",
+    "translation": "bình tĩnh lại",
+    "exampleSentence": "Calm down. Everything is going to be fine.",
+    "exampleTranslation": "Bình tĩnh nào. Mọi chuyện sẽ ổn thôi.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "hurry up",
+    "phonetic": "/ˌhɜːri ˈʌp/",
+    "definition": "used to tell someone to do something more quickly",
+    "translation": "nhanh lên",
+    "exampleSentence": "Hurry up, or we'll miss the bus.",
+    "exampleTranslation": "Nhanh lên, không thì mình lỡ xe buýt đấy.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "guess what",
+    "phonetic": "/ˌɡes ˈwʌt/",
+    "definition": "used before you tell someone something that will surprise them",
+    "translation": "đoán xem nào, bạn biết gì không",
+    "exampleSentence": "Guess what? I got the job!",
+    "exampleTranslation": "Đoán xem nào? Tôi được nhận vào làm rồi!",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "mark my words",
+    "phonetic": "/ˌmɑːrk maɪ ˈwɜːrdz/",
+    "definition": "used to tell someone to pay attention to what you are saying, usually before a warning or prediction",
+    "translation": "cứ nhớ lời tôi nói",
+    "exampleSentence": "Mark my words, this company will be famous one day.",
+    "exampleTranslation": "Cứ nhớ lời tôi nói, công ty này sẽ nổi tiếng một ngày nào đó.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "believe it or not",
+    "phonetic": "/bɪˌliːv ɪt ɔːr ˈnɑːt/",
+    "definition": "used when you say something that is true but surprising",
+    "translation": "bạn tin hay không thì tùy",
+    "exampleSentence": "Believe it or not, I've never ridden a bike.",
+    "exampleTranslation": "Bạn tin hay không thì tùy, tôi chưa bao giờ đi xe đạp.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "if you ask me",
+    "phonetic": "/ɪf ju ˈæsk mi/",
+    "definition": "used to emphasize that you are giving your own opinion",
+    "translation": "theo tôi thì, nếu bạn hỏi tôi",
+    "exampleSentence": "If you ask me, he's too young for the job.",
+    "exampleTranslation": "Theo tôi thì anh ấy còn quá trẻ cho công việc này.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "if I were you",
+    "phonetic": "/ɪf aɪ wər ˈju/",
+    "definition": "used when giving advice about what you think someone should do",
+    "translation": "nếu tôi là bạn thì",
+    "exampleSentence": "If I were you, I'd talk to her today.",
+    "exampleTranslation": "Nếu tôi là bạn thì tôi sẽ nói chuyện với cô ấy ngay hôm nay.",
+    "pos": "fixed expression"
+  }
+]

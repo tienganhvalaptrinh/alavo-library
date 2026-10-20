@@ -1,0 +1,452 @@
+[
+  {
+    "word": "if you don't mind",
+    "phonetic": "/ɪf ju ˌdoʊnt ˈmaɪnd/",
+    "definition": "used to politely check that someone is willing to do something or let you do something",
+    "translation": "nếu bạn không phiền",
+    "exampleSentence": "I'd like to open the window, if you don't mind.",
+    "exampleTranslation": "Tôi muốn mở cửa sổ, nếu bạn không phiền.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "if anything",
+    "phonetic": "/ɪf ˈeniθɪŋ/",
+    "definition": "used when you add something to emphasize what you have just said",
+    "translation": "nếu có gì thì, thậm chí còn",
+    "exampleSentence": "I'm not tired. If anything, I feel more awake than before.",
+    "exampleTranslation": "Tôi không mệt. Nếu có gì thì tôi còn tỉnh táo hơn trước.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "that's that",
+    "phonetic": "/ˌðæts ˈðæt/",
+    "definition": "used to emphasize that a situation or decision cannot be changed",
+    "translation": "thế là xong, vậy là hết chuyện",
+    "exampleSentence": "I've made up my mind, and that's that.",
+    "exampleTranslation": "Tôi đã quyết định rồi, vậy là hết chuyện.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "that's enough",
+    "phonetic": "/ˌðæts ɪˈnʌf/",
+    "definition": "used to tell someone to stop doing something",
+    "translation": "đủ rồi đấy, thôi đi",
+    "exampleSentence": "That's enough! Go to your room.",
+    "exampleTranslation": "Đủ rồi đấy! Về phòng đi.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "you name it",
+    "phonetic": "/ju ˈneɪm ɪt/",
+    "definition": "used after a list of things to say that there are many more you could mention",
+    "translation": "bạn kể tên gì cũng có",
+    "exampleSentence": "They sell shoes, bags, hats, you name it.",
+    "exampleTranslation": "Họ bán giày, túi, mũ, bạn kể tên gì cũng có.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "say no more",
+    "phonetic": "/ˌseɪ ˌnoʊ ˈmɔːr/",
+    "definition": "used to say you understand what someone means, although they have not said it directly",
+    "translation": "tôi hiểu rồi, khỏi nói thêm",
+    "exampleSentence": "\"I need a quiet night with my partner.\" \"Say no more.\"",
+    "exampleTranslation": "\"Tôi cần một buổi tối yên tĩnh với người yêu.\" \"Tôi hiểu rồi, khỏi nói thêm.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "speak up",
+    "phonetic": "/ˌspiːk ˈʌp/",
+    "definition": "used to ask someone to speak more loudly",
+    "translation": "nói to lên",
+    "exampleSentence": "Could you speak up, please? I can't hear you.",
+    "exampleTranslation": "Bạn nói to lên được không? Tôi không nghe được.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "go for it",
+    "phonetic": "/ˌɡoʊ fər ˈɪt/",
+    "definition": "used to encourage someone to try to achieve something",
+    "translation": "cứ làm đi, cố lên",
+    "exampleSentence": "If you want to start your own business, go for it!",
+    "exampleTranslation": "Nếu bạn muốn tự kinh doanh thì cứ làm đi!",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "good heavens",
+    "phonetic": "/ˌɡʊd ˈhevnz/",
+    "definition": "used to show surprise, especially when you are annoyed",
+    "translation": "trời ơi, ôi trời",
+    "exampleSentence": "Good heavens! Is that the time?",
+    "exampleTranslation": "Trời ơi! Giờ đã muộn thế này rồi sao?",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "goodness gracious",
+    "phonetic": "/ˌɡʊdnəs ˈɡreɪʃəs/",
+    "definition": "said when you are surprised or sometimes angry",
+    "translation": "trời đất ơi, chết thật",
+    "exampleSentence": "Goodness gracious! Look at all this mess.",
+    "exampleTranslation": "Trời đất ơi! Nhìn đống bừa bộn này xem.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "thank goodness",
+    "phonetic": "/ˌθæŋk ˈɡʊdnəs/",
+    "definition": "used to show that you are very glad about something",
+    "translation": "may quá, tạ ơn trời",
+    "exampleSentence": "Thank goodness you're safe!",
+    "exampleTranslation": "May quá, bạn bình an!",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "thank God",
+    "phonetic": "/ˌθæŋk ˈɡɑːd/",
+    "definition": "used to show that you are very glad about something",
+    "translation": "tạ ơn trời, may quá",
+    "exampleSentence": "Thank God it's Friday!",
+    "exampleTranslation": "Tạ ơn trời, hôm nay là thứ Sáu!",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "heaven knows",
+    "phonetic": "/ˌhevn ˈnoʊz/",
+    "definition": "used to emphasize that you do not know something",
+    "translation": "có trời mới biết",
+    "exampleSentence": "Heaven knows where he put the keys.",
+    "exampleTranslation": "Có trời mới biết anh ấy để chìa khóa ở đâu.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "God knows",
+    "phonetic": "/ˌɡɑːd ˈnoʊz/",
+    "definition": "used to show you are annoyed because you do not know something, or because something seems unreasonable",
+    "translation": "có trời mới biết",
+    "exampleSentence": "God knows how long this meeting will last.",
+    "exampleTranslation": "Có trời mới biết cuộc họp này kéo dài bao lâu.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "I wonder if",
+    "phonetic": "/aɪ ˈwʌndər ɪf/",
+    "definition": "used to ask politely for something or to ask someone to do something",
+    "translation": "không biết bạn có thể... không",
+    "exampleSentence": "I wonder if you could help me with this form.",
+    "exampleTranslation": "Không biết bạn có thể giúp tôi điền mẫu đơn này không.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "how dare you",
+    "phonetic": "/ˌhaʊ ˈder ju/",
+    "definition": "said to show that you are very angry and shocked about what someone has done or said",
+    "translation": "sao bạn dám, sao bạn dám như vậy",
+    "exampleSentence": "How dare you speak to me like that!",
+    "exampleTranslation": "Sao bạn dám nói với tôi như vậy!",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "by the way",
+    "phonetic": "/ˌbaɪ ðə ˈweɪ/",
+    "definition": "used when you say something that is not related to the main subject you were talking about",
+    "translation": "nhân tiện, tiện thể",
+    "exampleSentence": "By the way, Vicky called while you were out.",
+    "exampleTranslation": "Nhân tiện, Vicky có gọi khi bạn đi vắng.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in other words",
+    "phonetic": "/ɪn ˌʌðər ˈwɜːrdz/",
+    "definition": "used when you say an idea again in a different and usually simpler way",
+    "translation": "nói cách khác",
+    "exampleSentence": "He is not available. In other words, he doesn't want to see you.",
+    "exampleTranslation": "Ông ấy không rảnh. Nói cách khác, ông ấy không muốn gặp bạn.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "for example",
+    "phonetic": "/fər ɪɡˈzæmpl/",
+    "definition": "used before you mention a specific thing or person to explain or support what you mean",
+    "translation": "ví dụ, chẳng hạn",
+    "exampleSentence": "Many countries, for example Japan, drive on the left.",
+    "exampleTranslation": "Nhiều nước, ví dụ như Nhật Bản, đi bên trái đường.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "for instance",
+    "phonetic": "/fər ˈɪnstəns/",
+    "definition": "used before you mention a specific thing or person to explain or support what you mean",
+    "translation": "chẳng hạn, ví dụ",
+    "exampleSentence": "Some jobs, for instance nursing, need a lot of patience.",
+    "exampleTranslation": "Một số nghề, chẳng hạn điều dưỡng, cần rất nhiều sự kiên nhẫn.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in fact",
+    "phonetic": "/ɪn ˈfækt/",
+    "definition": "used when you add something, often surprising, to emphasize what you have just said",
+    "translation": "thực ra, trên thực tế",
+    "exampleSentence": "I like cold weather. In fact, I prefer it to summer.",
+    "exampleTranslation": "Tôi thích thời tiết lạnh. Thực ra tôi thích nó hơn mùa hè.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "as a matter of fact",
+    "phonetic": "/æz ə ˌmætər əv ˈfækt/",
+    "definition": "used when you add more details to what you have just said",
+    "translation": "thực ra, nói đúng ra thì",
+    "exampleSentence": "\"Do you know Tom?\" \"As a matter of fact, he's my cousin.\"",
+    "exampleTranslation": "\"Bạn có biết Tom không?\" \"Thực ra anh ấy là anh họ của tôi.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "to be honest",
+    "phonetic": "/tə bi ˈɑːnɪst/",
+    "definition": "used when you tell someone what you really think",
+    "translation": "nói thật là",
+    "exampleSentence": "To be honest, I didn't enjoy the film.",
+    "exampleTranslation": "Nói thật là tôi không thích bộ phim đó.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "to tell the truth",
+    "phonetic": "/tə ˌtel ðə ˈtruːθ/",
+    "definition": "used to emphasize that you are being very honest",
+    "translation": "nói thật, thành thật mà nói",
+    "exampleSentence": "To tell the truth, I forgot your birthday.",
+    "exampleTranslation": "Thành thật mà nói, tôi đã quên sinh nhật của bạn.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "to be frank",
+    "phonetic": "/tə bi ˈfræŋk/",
+    "definition": "used when you are going to say something true that other people may not like",
+    "translation": "nói thẳng ra là",
+    "exampleSentence": "To be frank, your work needs a lot of improvement.",
+    "exampleTranslation": "Nói thẳng ra, bài làm của bạn cần cải thiện nhiều.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in short",
+    "phonetic": "/ɪn ˈʃɔːrt/",
+    "definition": "used when you want to give the main point of something",
+    "translation": "tóm lại",
+    "exampleSentence": "The food was cold and the service was slow. In short, we won't go back.",
+    "exampleTranslation": "Đồ ăn nguội và phục vụ chậm. Tóm lại, chúng tôi sẽ không quay lại.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in brief",
+    "phonetic": "/ɪn ˈbriːf/",
+    "definition": "in as few words as possible",
+    "translation": "nói ngắn gọn, tóm gọn lại",
+    "exampleSentence": "In brief, the plan failed because we ran out of money.",
+    "exampleTranslation": "Nói ngắn gọn, kế hoạch thất bại vì chúng tôi hết tiền.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in a nutshell",
+    "phonetic": "/ɪn ə ˈnʌtʃel/",
+    "definition": "used when you state the main facts about something in a short, clear way",
+    "translation": "nói gọn lại, tóm lại một câu",
+    "exampleSentence": "In a nutshell, we need more staff and more money.",
+    "exampleTranslation": "Nói gọn lại, chúng ta cần thêm nhân viên và thêm tiền.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in conclusion",
+    "phonetic": "/ɪn kənˈkluːʒn/",
+    "definition": "used in writing or a speech to show that you are about to finish",
+    "translation": "tóm lại, để kết luận",
+    "exampleSentence": "In conclusion, exercise is good for both body and mind.",
+    "exampleTranslation": "Để kết luận, tập thể dục tốt cho cả cơ thể lẫn tinh thần.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "to sum up",
+    "phonetic": "/tə ˌsʌm ˈʌp/",
+    "definition": "used to give the main points of a report or speech in a short statement at the end",
+    "translation": "tóm tắt lại, tổng kết",
+    "exampleSentence": "To sum up, the project was late but successful.",
+    "exampleTranslation": "Tóm tắt lại, dự án bị trễ nhưng thành công.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "all in all",
+    "phonetic": "/ˌɔːl ɪn ˈɔːl/",
+    "definition": "used to show that you are considering every part of a situation",
+    "translation": "nhìn chung, xét cho cùng",
+    "exampleSentence": "All in all, it was a good trip.",
+    "exampleTranslation": "Nhìn chung, đó là một chuyến đi tốt.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "on the whole",
+    "phonetic": "/ɑːn ðə ˈhoʊl/",
+    "definition": "used to say that something is generally true",
+    "translation": "nhìn chung, về cơ bản",
+    "exampleSentence": "On the whole, people here are very friendly.",
+    "exampleTranslation": "Nhìn chung, người dân ở đây rất thân thiện.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "generally speaking",
+    "phonetic": "/ˌdʒenrəli ˈspiːkɪŋ/",
+    "definition": "used to introduce a statement that is true in most cases but not always",
+    "translation": "nói chung, nhìn chung",
+    "exampleSentence": "Generally speaking, the shops open at nine.",
+    "exampleTranslation": "Nói chung, các cửa hàng mở cửa lúc chín giờ.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "as a rule",
+    "phonetic": "/æz ə ˈruːl/",
+    "definition": "used to say what is normal or usually true",
+    "translation": "theo thông lệ, thường thì",
+    "exampleSentence": "As a rule, I go to bed before eleven.",
+    "exampleTranslation": "Thường thì tôi đi ngủ trước mười một giờ.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "by and large",
+    "phonetic": "/baɪ ənd ˈlɑːrdʒ/",
+    "definition": "used when you make a general statement",
+    "translation": "nhìn chung, nói chung",
+    "exampleSentence": "By and large, the students enjoyed the course.",
+    "exampleTranslation": "Nhìn chung, học viên thích khóa học này.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "more or less",
+    "phonetic": "/ˌmɔːr ər ˈles/",
+    "definition": "almost, or approximately",
+    "translation": "gần như, khoảng chừng",
+    "exampleSentence": "I've more or less finished the report.",
+    "exampleTranslation": "Tôi gần như đã làm xong báo cáo.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "to some extent",
+    "phonetic": "/tə ˌsʌm ɪkˈstent/",
+    "definition": "partly, but not completely",
+    "translation": "ở một mức độ nào đó",
+    "exampleSentence": "To some extent, I agree with you.",
+    "exampleTranslation": "Ở một mức độ nào đó, tôi đồng ý với bạn.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in a way",
+    "phonetic": "/ɪn ə ˈweɪ/",
+    "definition": "used to say that a statement is true in one respect but not in every respect",
+    "translation": "theo một cách nào đó, ở một khía cạnh nào đó",
+    "exampleSentence": "In a way, losing the job was a good thing.",
+    "exampleTranslation": "Theo một cách nào đó, mất việc lại là điều tốt.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in my opinion",
+    "phonetic": "/ɪn ˌmaɪ əˈpɪnjən/",
+    "definition": "used when you give your own ideas or beliefs about something",
+    "translation": "theo ý kiến của tôi",
+    "exampleSentence": "In my opinion, the first plan is better.",
+    "exampleTranslation": "Theo ý kiến của tôi, kế hoạch đầu tiên tốt hơn.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "as far as I know",
+    "phonetic": "/æz ˌfɑːr əz aɪ ˈnoʊ/",
+    "definition": "used to say that you think something is true, although you may not know all the facts",
+    "translation": "theo những gì tôi biết",
+    "exampleSentence": "As far as I know, the shop closes at six.",
+    "exampleTranslation": "Theo những gì tôi biết, cửa hàng đóng cửa lúc sáu giờ.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "as far as I'm concerned",
+    "phonetic": "/æz ˌfɑːr əz aɪm kənˈsɜːrnd/",
+    "definition": "used when you give your opinion about something",
+    "translation": "theo tôi thì, về phần tôi",
+    "exampleSentence": "As far as I'm concerned, the meeting was a waste of time.",
+    "exampleTranslation": "Theo tôi thì cuộc họp đó là phí thời gian.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "as for",
+    "phonetic": "/ˈæz fɔːr/",
+    "definition": "used when you start to talk about someone or something new that is connected with what you were saying",
+    "translation": "còn về, về phần",
+    "exampleSentence": "I'll cook dinner. As for the dishes, you can wash them.",
+    "exampleTranslation": "Tôi sẽ nấu bữa tối. Còn về chén bát thì bạn rửa nhé.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "as well",
+    "phonetic": "/æz ˈwel/",
+    "definition": "in addition to something or someone else",
+    "translation": "cũng, nữa",
+    "exampleSentence": "I'm going to the party, and my brother is coming as well.",
+    "exampleTranslation": "Tôi sẽ đi dự tiệc, và em trai tôi cũng đi nữa.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "as a result",
+    "phonetic": "/æz ə rɪˈzʌlt/",
+    "definition": "used to say that something happens because of something that happened before",
+    "translation": "kết quả là, do đó",
+    "exampleSentence": "It rained all week. As a result, the match was cancelled.",
+    "exampleTranslation": "Trời mưa cả tuần. Do đó, trận đấu bị hủy.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "on the one hand",
+    "phonetic": "/ɑːn ðə ˈwʌn hænd/",
+    "definition": "used to introduce the first of two opposite points or facts",
+    "translation": "một mặt thì",
+    "exampleSentence": "On the one hand, the job pays well. On the other hand, the hours are long.",
+    "exampleTranslation": "Một mặt, công việc trả lương cao. Mặt khác, giờ làm rất dài.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "on the other hand",
+    "phonetic": "/ɑːn ði ˌʌðər ˈhænd/",
+    "definition": "used to give another opinion or fact that should be considered as well as the one you have just given",
+    "translation": "mặt khác",
+    "exampleSentence": "Cities are exciting. On the other hand, they can be very noisy.",
+    "exampleTranslation": "Thành phố rất sôi động. Mặt khác, chúng có thể rất ồn ào.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "on the contrary",
+    "phonetic": "/ɑːn ðə ˈkɑːntreri/",
+    "definition": "used to disagree with a negative statement by someone else, or to answer no to a question",
+    "translation": "ngược lại, trái lại",
+    "exampleSentence": "\"Are you bored?\" \"On the contrary, I'm enjoying myself.\"",
+    "exampleTranslation": "\"Bạn chán à?\" \"Ngược lại, tôi đang rất vui.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "by contrast",
+    "phonetic": "/baɪ ˈkɑːntræst/",
+    "definition": "used to show that two things you are comparing are very different",
+    "translation": "ngược lại, trái lại",
+    "exampleSentence": "Summers here are dry. By contrast, winters are very wet.",
+    "exampleTranslation": "Mùa hè ở đây khô. Ngược lại, mùa đông rất ẩm ướt.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in contrast",
+    "phonetic": "/ɪn ˈkɑːntræst/",
+    "definition": "used to show that two things you are comparing are very different",
+    "translation": "ngược lại, trái ngược với",
+    "exampleSentence": "Her sister is shy. In contrast, she loves meeting new people.",
+    "exampleTranslation": "Em gái cô ấy nhút nhát. Ngược lại, cô ấy thích gặp người mới.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in addition",
+    "phonetic": "/ɪn əˈdɪʃn/",
+    "definition": "used to add another piece of information to what you have just said",
+    "translation": "ngoài ra, thêm vào đó",
+    "exampleSentence": "The hotel is cheap. In addition, it is close to the beach.",
+    "exampleTranslation": "Khách sạn giá rẻ. Ngoài ra, nó còn gần bãi biển.",
+    "pos": "fixed expression"
+  }
+]

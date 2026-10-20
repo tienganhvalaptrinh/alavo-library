@@ -1,0 +1,47 @@
+{
+  "id": "fixed-expressions-275",
+  "type": "vocabulary",
+  "title": "275 common fixed expressions",
+  "description": "275 common fixed expressions such as by the way, no worries and sooner or later, with Vietnamese meanings and examples.",
+  "category": "fixed-expressions",
+  "level": "mixed",
+  "order": 5,
+  "sourceLang": "en",
+  "targetLang": "vi",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "source": "Written by the Alavo team. Expressions chosen by hand for everyday speech and writing, kept when Longman (LDOCE) lists them as an entry or phrase; definitions paraphrase LDOCE; translations and examples are original.",
+  "wordCount": 275,
+  "files": [
+    {
+      "path": "words-001.json",
+      "count": 50,
+      "sha256": "88e212bc567a0cdea2a3b2a53e2d125a8d9f009a976fba2bdcba33d07ce29af2"
+    },
+    {
+      "path": "words-002.json",
+      "count": 50,
+      "sha256": "f69587c70263e55d5fe28ed942b40c892f27cc4239d333a72ff2e8bd2f382dff"
+    },
+    {
+      "path": "words-003.json",
+      "count": 50,
+      "sha256": "ff0d026699bc2e9687088052829c6f00a87a3bc96c169b6777d3969705e086a6"
+    },
+    {
+      "path": "words-004.json",
+      "count": 50,
+      "sha256": "2547329cc4800c86185a25dc33be18a01bc6e93a96513036d9b3b68f76de25b4"
+    },
+    {
+      "path": "words-005.json",
+      "count": 50,
+      "sha256": "d3ff417b11611c4a6c6fe74ae923ddcda2456701fa5b2a21a96add54f43e4af7"
+    },
+    {
+      "path": "words-006.json",
+      "count": 25,
+      "sha256": "71ca896b655550601aab539f28fa30c489151417983a2b15ec46a1139d9560ab"
+    }
+  ]
+}

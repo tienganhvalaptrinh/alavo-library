@@ -1,0 +1,452 @@
+[
+  {
+    "word": "first and foremost",
+    "phonetic": "/ˌfɜːrst ən ˈfɔːrmoʊst/",
+    "definition": "used to emphasize the most important quality, purpose or reason",
+    "translation": "trước hết và quan trọng nhất",
+    "exampleSentence": "First and foremost, this job is about helping people.",
+    "exampleTranslation": "Trước hết và quan trọng nhất, công việc này là để giúp đỡ mọi người.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "here and there",
+    "phonetic": "/ˌhɪr ən ˈðer/",
+    "definition": "scattered around or happening in several different places",
+    "translation": "đây đó, rải rác",
+    "exampleSentence": "There were small shops here and there along the road.",
+    "exampleTranslation": "Dọc con đường có những cửa hàng nhỏ rải rác đây đó.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "back and forth",
+    "phonetic": "/ˌbæk ən ˈfɔːrθ/",
+    "definition": "going in one direction and then in the opposite direction, again and again",
+    "translation": "qua lại, tới lui",
+    "exampleSentence": "The ferry goes back and forth across the river.",
+    "exampleTranslation": "Chiếc phà đi qua đi lại trên sông.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "up and down",
+    "phonetic": "/ˌʌp ən ˈdaʊn/",
+    "definition": "backwards and forwards, or moving to a higher and then a lower position again and again",
+    "translation": "lên xuống, qua lại",
+    "exampleSentence": "The children were jumping up and down with excitement.",
+    "exampleTranslation": "Bọn trẻ nhảy lên nhảy xuống vì phấn khích.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "ups and downs",
+    "phonetic": "/ˌʌps ən ˈdaʊnz/",
+    "definition": "the mixture of good and bad experiences in any situation or relationship",
+    "translation": "thăng trầm, lúc lên lúc xuống",
+    "exampleSentence": "Every marriage has its ups and downs.",
+    "exampleTranslation": "Hôn nhân nào cũng có lúc thăng lúc trầm.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "give and take",
+    "phonetic": "/ˌɡɪv ən ˈteɪk/",
+    "definition": "the willingness of two people to understand each other and let each other have some of what they want",
+    "translation": "sự nhường nhịn lẫn nhau",
+    "exampleSentence": "A good friendship needs some give and take.",
+    "exampleTranslation": "Tình bạn tốt cần có sự nhường nhịn lẫn nhau.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "trial and error",
+    "phonetic": "/ˌtraɪəl ən ˈerər/",
+    "definition": "a way of learning in which you test many different methods to find the best one",
+    "translation": "thử và sai",
+    "exampleSentence": "I learned to cook by trial and error.",
+    "exampleTranslation": "Tôi học nấu ăn bằng cách thử và sai.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "pros and cons",
+    "phonetic": "/ˌproʊz ən ˈkɑːnz/",
+    "definition": "the advantages and disadvantages of something",
+    "translation": "ưu và nhược điểm, mặt lợi và mặt hại",
+    "exampleSentence": "Let's look at the pros and cons before we decide.",
+    "exampleTranslation": "Hãy xem xét ưu và nhược điểm trước khi quyết định.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "odds and ends",
+    "phonetic": "/ˌɑːdz ən ˈendz/",
+    "definition": "small things of various kinds that are not worth much",
+    "translation": "đồ lặt vặt",
+    "exampleSentence": "The drawer is full of odds and ends.",
+    "exampleTranslation": "Ngăn kéo đầy đồ lặt vặt.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "safe and sound",
+    "phonetic": "/ˌseɪf ən ˈsaʊnd/",
+    "definition": "unharmed, especially after being in danger",
+    "translation": "bình an vô sự",
+    "exampleSentence": "The missing children were found safe and sound.",
+    "exampleTranslation": "Những đứa trẻ mất tích được tìm thấy bình an vô sự.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "black and white",
+    "phonetic": "/ˌblæk ən ˈwaɪt/",
+    "definition": "showing pictures only in black, white and grey; also used about ideas that are too simple, as if everything is either good or bad",
+    "translation": "trắng đen (ảnh, phim); rạch ròi một chiều",
+    "exampleSentence": "My grandfather has an old black and white photo of the farm.",
+    "exampleTranslation": "Ông tôi có một tấm ảnh trắng đen cũ chụp trang trại.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "sick and tired",
+    "phonetic": "/ˌsɪk ən ˈtaɪrd/",
+    "definition": "angry or bored with something that has been happening for a long time",
+    "translation": "chán ngấy, phát ngán",
+    "exampleSentence": "I'm sick and tired of waiting for him.",
+    "exampleTranslation": "Tôi chán ngấy việc chờ anh ta rồi.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "wait and see",
+    "phonetic": "/ˌweɪt ən ˈsiː/",
+    "definition": "used to say that someone should be patient because they will find out something later",
+    "translation": "cứ chờ xem, đợi xem sao",
+    "exampleSentence": "We don't know the result yet. We'll just have to wait and see.",
+    "exampleTranslation": "Chúng ta chưa biết kết quả. Cứ phải chờ xem thôi.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "touch and go",
+    "phonetic": "/ˌtʌtʃ ən ˈɡoʊ/",
+    "definition": "used about a situation in which there is a serious risk that something bad could happen",
+    "translation": "ngàn cân treo sợi tóc, rất mong manh",
+    "exampleSentence": "It was touch and go whether the patient would survive.",
+    "exampleTranslation": "Bệnh nhân có qua khỏi hay không thật sự rất mong manh.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "law and order",
+    "phonetic": "/ˌlɔː ən ˈɔːrdər/",
+    "definition": "a situation in which people respect the law and crime is controlled by the police",
+    "translation": "an ninh trật tự",
+    "exampleSentence": "The new mayor promised to restore law and order.",
+    "exampleTranslation": "Thị trưởng mới hứa sẽ lập lại an ninh trật tự.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "time and again",
+    "phonetic": "/ˌtaɪm ən əˈɡen/",
+    "definition": "very often; used to show that something keeps happening",
+    "translation": "hết lần này đến lần khác",
+    "exampleSentence": "I've told him time and again to lock the door.",
+    "exampleTranslation": "Tôi đã nhắc anh ấy hết lần này đến lần khác phải khóa cửa.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "rain or shine",
+    "phonetic": "/ˌreɪn ər ˈʃaɪn/",
+    "definition": "whatever happens or whatever the weather is like",
+    "translation": "dù mưa hay nắng, bất kể thế nào",
+    "exampleSentence": "He walks to work every day, rain or shine.",
+    "exampleTranslation": "Ngày nào anh ấy cũng đi bộ đi làm, dù mưa hay nắng.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "sink or swim",
+    "phonetic": "/ˌsɪŋk ɔːr ˈswɪm/",
+    "definition": "to succeed or fail without help from anyone else",
+    "translation": "tự bơi hay chìm, thành bại tự lo",
+    "exampleSentence": "On her first day at work, they just said, \"Sink or swim.\"",
+    "exampleTranslation": "Ngày đầu đi làm, họ chỉ nói: \"Tự lo liệu nhé.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "like it or not",
+    "phonetic": "/ˌlaɪk ɪt ɔːr ˈnɑːt/",
+    "definition": "used to emphasize that something unpleasant is true or will happen and cannot be changed",
+    "translation": "dù muốn hay không",
+    "exampleSentence": "Like it or not, we have to pay the tax.",
+    "exampleTranslation": "Dù muốn hay không, chúng ta cũng phải đóng thuế.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "by accident",
+    "phonetic": "/baɪ ˈæksɪdənt/",
+    "definition": "in a way that is not planned or intended",
+    "translation": "tình cờ, vô tình",
+    "exampleSentence": "I deleted the file by accident.",
+    "exampleTranslation": "Tôi vô tình xóa mất tập tin.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "by chance",
+    "phonetic": "/baɪ ˈtʃæns/",
+    "definition": "without being planned or caused by people",
+    "translation": "tình cờ, ngẫu nhiên",
+    "exampleSentence": "We met by chance at the airport.",
+    "exampleTranslation": "Chúng tôi tình cờ gặp nhau ở sân bay.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "by mistake",
+    "phonetic": "/baɪ mɪˈsteɪk/",
+    "definition": "without intending to do it",
+    "translation": "do nhầm lẫn, nhầm",
+    "exampleSentence": "I took your umbrella by mistake.",
+    "exampleTranslation": "Tôi cầm nhầm ô của bạn.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "by heart",
+    "phonetic": "/baɪ ˈhɑːrt/",
+    "definition": "if you know something by heart, you remember all of it exactly",
+    "translation": "thuộc lòng",
+    "exampleSentence": "She knows the whole poem by heart.",
+    "exampleTranslation": "Cô ấy thuộc lòng cả bài thơ.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "by far",
+    "phonetic": "/baɪ ˈfɑːr/",
+    "definition": "used to say that something is much better, worse, bigger and so on than anything else",
+    "translation": "khác xa, vượt xa",
+    "exampleSentence": "This is by far the best restaurant in town.",
+    "exampleTranslation": "Đây là nhà hàng ngon nhất thành phố, hơn hẳn những nơi khác.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "by all means",
+    "phonetic": "/baɪ ˌɔːl ˈmiːnz/",
+    "definition": "used to mean \"of course\" when you politely allow someone to do something or agree with a suggestion",
+    "translation": "tất nhiên rồi, cứ tự nhiên",
+    "exampleSentence": "\"May I sit here?\" \"By all means.\"",
+    "exampleTranslation": "\"Tôi ngồi đây được không?\" \"Tất nhiên rồi, cứ tự nhiên.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "by no means",
+    "phonetic": "/baɪ ˌnoʊ ˈmiːnz/",
+    "definition": "not at all",
+    "translation": "hoàn toàn không, không đời nào",
+    "exampleSentence": "The exam was by no means easy.",
+    "exampleTranslation": "Bài thi hoàn toàn không dễ.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "by any chance",
+    "phonetic": "/baɪ ˌeni ˈtʃæns/",
+    "definition": "used to ask politely whether something is true",
+    "translation": "không biết có tình cờ... không",
+    "exampleSentence": "Do you know where the station is, by any chance?",
+    "exampleTranslation": "Bạn có biết nhà ga ở đâu không?",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "by the time",
+    "phonetic": "/baɪ ðə ˈtaɪm/",
+    "definition": "used to talk about the point when something happens or should happen",
+    "translation": "đến lúc, vào lúc",
+    "exampleSentence": "By the time we got there, the film had started.",
+    "exampleTranslation": "Đến lúc chúng tôi tới nơi, bộ phim đã bắt đầu.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in a hurry",
+    "phonetic": "/ɪn ə ˈhɜːri/",
+    "definition": "doing something quickly because you do not have much time",
+    "translation": "vội, đang vội",
+    "exampleSentence": "I can't stop. I'm in a hurry.",
+    "exampleTranslation": "Tôi không dừng lại được. Tôi đang vội.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in a row",
+    "phonetic": "/ɪn ə ˈroʊ/",
+    "definition": "happening a number of times, one after the other",
+    "translation": "liên tiếp, liền nhau",
+    "exampleSentence": "She won three games in a row.",
+    "exampleTranslation": "Cô ấy thắng ba ván liên tiếp.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in common",
+    "phonetic": "/ɪn ˈkɑːmən/",
+    "definition": "if things or people have something in common, they share the same features",
+    "translation": "chung, giống nhau",
+    "exampleSentence": "We have a lot in common.",
+    "exampleTranslation": "Chúng tôi có rất nhiều điểm chung.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in person",
+    "phonetic": "/ɪn ˈpɜːrsn/",
+    "definition": "if you do something in person, you go and do it yourself instead of using a letter or phone",
+    "translation": "trực tiếp, đích thân",
+    "exampleSentence": "You need to collect the ticket in person.",
+    "exampleTranslation": "Bạn cần đích thân đến nhận vé.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in public",
+    "phonetic": "/ɪn ˈpʌblɪk/",
+    "definition": "if you do something in public, you do it where anyone can see",
+    "translation": "nơi công cộng, trước mặt mọi người",
+    "exampleSentence": "She doesn't like speaking in public.",
+    "exampleTranslation": "Cô ấy không thích nói chuyện trước đám đông.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in private",
+    "phonetic": "/ɪn ˈpraɪvət/",
+    "definition": "without other people being present",
+    "translation": "riêng tư, kín đáo",
+    "exampleSentence": "Can we talk in private?",
+    "exampleTranslation": "Chúng ta nói chuyện riêng được không?",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in vain",
+    "phonetic": "/ɪn ˈveɪn/",
+    "definition": "without success in spite of your efforts",
+    "translation": "vô ích, uổng công",
+    "exampleSentence": "He tried in vain to start the car.",
+    "exampleTranslation": "Anh ấy cố khởi động xe nhưng vô ích.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in charge of",
+    "phonetic": "/ɪn ˈtʃɑːrdʒ əv/",
+    "definition": "having control of or responsibility for a group of people or an activity",
+    "translation": "phụ trách, chịu trách nhiệm",
+    "exampleSentence": "Who is in charge of the project?",
+    "exampleTranslation": "Ai phụ trách dự án này?",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "on purpose",
+    "phonetic": "/ɑːn ˈpɜːrpəs/",
+    "definition": "deliberately",
+    "translation": "cố ý, có chủ ý",
+    "exampleSentence": "I didn't break it on purpose.",
+    "exampleTranslation": "Tôi không cố ý làm vỡ nó.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "on foot",
+    "phonetic": "/ɑːn ˈfʊt/",
+    "definition": "if you go somewhere on foot, you walk there",
+    "translation": "đi bộ",
+    "exampleSentence": "We went to the market on foot.",
+    "exampleTranslation": "Chúng tôi đi bộ ra chợ.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "on average",
+    "phonetic": "/ɑːn ˈævərɪdʒ/",
+    "definition": "based on a calculation of what usually happens or what the usual amount is",
+    "translation": "trung bình",
+    "exampleSentence": "On average, I read two books a month.",
+    "exampleTranslation": "Trung bình mỗi tháng tôi đọc hai cuốn sách.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "on the spot",
+    "phonetic": "/ɑːn ðə ˈspɑːt/",
+    "definition": "if you do something on the spot, you do it immediately, often without thinking carefully",
+    "translation": "ngay tại chỗ, ngay lập tức",
+    "exampleSentence": "They offered her the job on the spot.",
+    "exampleTranslation": "Họ đề nghị nhận cô ấy vào làm ngay tại chỗ.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "on the go",
+    "phonetic": "/ɑːn ðə ˈɡoʊ/",
+    "definition": "very busy doing a lot of things; informal",
+    "translation": "bận rộn suốt ngày",
+    "exampleSentence": "I've been on the go since six this morning.",
+    "exampleTranslation": "Tôi bận rộn suốt từ sáu giờ sáng nay.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "on second thought",
+    "phonetic": "/ɑːn ˌsekənd ˈθɔːt/",
+    "definition": "used to say that you have changed your mind about something; British English says \"on second thoughts\"",
+    "translation": "nghĩ lại thì, suy nghĩ lại thì",
+    "exampleSentence": "I'll have tea. On second thought, make it coffee.",
+    "exampleTranslation": "Cho tôi trà. Nghĩ lại thì cho tôi cà phê.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "on and off",
+    "phonetic": "/ɑːn ən ˈɔːf/",
+    "definition": "for short periods but not regularly over a long time",
+    "translation": "lúc có lúc không, ngắt quãng",
+    "exampleSentence": "It rained on and off all day.",
+    "exampleTranslation": "Trời mưa lúc có lúc không cả ngày.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "at ease",
+    "phonetic": "/ət ˈiːz/",
+    "definition": "feeling relaxed, especially in a situation where people might feel nervous",
+    "translation": "thoải mái, tự nhiên",
+    "exampleSentence": "She felt at ease with her new classmates.",
+    "exampleTranslation": "Cô ấy cảm thấy thoải mái với các bạn học mới.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "at risk",
+    "phonetic": "/ət ˈrɪsk/",
+    "definition": "in a situation where you may be harmed",
+    "translation": "có nguy cơ, đứng trước nguy hiểm",
+    "exampleSentence": "Children are most at risk from this disease.",
+    "exampleTranslation": "Trẻ em có nguy cơ cao nhất mắc căn bệnh này.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "at random",
+    "phonetic": "/ət ˈrændəm/",
+    "definition": "without any definite plan, aim or pattern",
+    "translation": "ngẫu nhiên, bất kỳ",
+    "exampleSentence": "The winners were chosen at random.",
+    "exampleTranslation": "Những người thắng cuộc được chọn ngẫu nhiên.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "at a loss",
+    "phonetic": "/ət ə ˈlɔːs/",
+    "definition": "confused and not sure what to do or say",
+    "translation": "bối rối, lúng túng",
+    "exampleSentence": "I was at a loss for words.",
+    "exampleTranslation": "Tôi lúng túng không biết nói gì.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "at stake",
+    "phonetic": "/ət ˈsteɪk/",
+    "definition": "if something you value is at stake, you will lose it if a plan or action fails",
+    "translation": "đang bị đe dọa, có nguy cơ mất",
+    "exampleSentence": "Our jobs are at stake if we lose this client.",
+    "exampleTranslation": "Công việc của chúng ta sẽ bị đe dọa nếu mất khách hàng này.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "at all costs",
+    "phonetic": "/ət ˌɔːl ˈkɔːsts/",
+    "definition": "whatever happens, whatever it takes",
+    "translation": "bằng mọi giá",
+    "exampleSentence": "We must protect the children at all costs.",
+    "exampleTranslation": "Chúng ta phải bảo vệ bọn trẻ bằng mọi giá.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "at times",
+    "phonetic": "/ət ˈtaɪmz/",
+    "definition": "sometimes",
+    "translation": "đôi khi, thỉnh thoảng",
+    "exampleSentence": "At times, I feel very lonely.",
+    "exampleTranslation": "Đôi khi tôi cảm thấy rất cô đơn.",
+    "pos": "fixed expression"
+  }
+]

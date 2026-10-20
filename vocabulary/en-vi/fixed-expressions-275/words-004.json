@@ -1,0 +1,452 @@
+[
+  {
+    "word": "first of all",
+    "phonetic": "/ˌfɜːrst əv ˈɔːl/",
+    "definition": "used before you say the first of several things you want to say",
+    "translation": "trước hết, đầu tiên",
+    "exampleSentence": "First of all, I'd like to thank everyone for coming.",
+    "exampleTranslation": "Trước hết, tôi xin cảm ơn mọi người đã đến.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "to begin with",
+    "phonetic": "/tə bɪˌɡɪn ˈwɪð/",
+    "definition": "used to introduce the first and most important point you want to make",
+    "translation": "trước tiên, để bắt đầu",
+    "exampleSentence": "To begin with, we don't have enough money.",
+    "exampleTranslation": "Trước tiên, chúng ta không có đủ tiền.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "for a start",
+    "phonetic": "/fər ə ˈstɑːrt/",
+    "definition": "used to emphasize the first in a list of facts or opinions; informal and mainly British",
+    "translation": "trước hết là, thứ nhất là",
+    "exampleSentence": "I can't buy that car. For a start, it's far too expensive.",
+    "exampleTranslation": "Tôi không thể mua chiếc xe đó. Trước hết là nó đắt quá.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in the first place",
+    "phonetic": "/ɪn ðə ˌfɜːrst ˈpleɪs/",
+    "definition": "used to talk about the beginning of a situation, or the situation before something happened",
+    "translation": "ngay từ đầu, ngay từ lúc đầu",
+    "exampleSentence": "Why did you take the job in the first place?",
+    "exampleTranslation": "Ngay từ đầu, tại sao bạn nhận công việc đó?",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "at first",
+    "phonetic": "/ət ˈfɜːrst/",
+    "definition": "used to talk about the beginning of a situation, especially when it is different now",
+    "translation": "lúc đầu, ban đầu",
+    "exampleSentence": "At first I didn't like him, but now we're friends.",
+    "exampleTranslation": "Lúc đầu tôi không thích anh ấy, nhưng giờ chúng tôi là bạn.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "at last",
+    "phonetic": "/ət ˈlæst/",
+    "definition": "after you have been hoping, waiting or working for something for a long time",
+    "translation": "cuối cùng thì, rốt cuộc",
+    "exampleSentence": "At last, the bus has arrived!",
+    "exampleTranslation": "Cuối cùng thì xe buýt cũng đến!",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "at least",
+    "phonetic": "/ət ˈliːst/",
+    "definition": "not less than a particular number or amount",
+    "translation": "ít nhất, tối thiểu",
+    "exampleSentence": "The trip will take at least three hours.",
+    "exampleTranslation": "Chuyến đi sẽ mất ít nhất ba tiếng.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "at most",
+    "phonetic": "/ət ˈmoʊst/",
+    "definition": "used to say that an amount cannot be larger than the amount you mention",
+    "translation": "nhiều nhất, tối đa",
+    "exampleSentence": "The repair will cost $50 at most.",
+    "exampleTranslation": "Việc sửa chữa sẽ tốn nhiều nhất là 50 đô la.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "at any rate",
+    "phonetic": "/ət ˌeni ˈreɪt/",
+    "definition": "used when you state one definite fact in a situation that is uncertain or unsatisfactory",
+    "translation": "dù sao đi nữa, ít ra thì",
+    "exampleSentence": "I'm not sure he'll come, but I'll be there at any rate.",
+    "exampleTranslation": "Tôi không chắc anh ấy sẽ đến, nhưng dù sao tôi cũng sẽ có mặt.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in any case",
+    "phonetic": "/ɪn ˌeni ˈkeɪs/",
+    "definition": "whatever happens or happened",
+    "translation": "dù thế nào đi nữa, trong mọi trường hợp",
+    "exampleSentence": "It might rain, but we'll go in any case.",
+    "exampleTranslation": "Trời có thể mưa, nhưng dù thế nào chúng ta cũng sẽ đi.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "after all",
+    "phonetic": "/ˌæftər ˈɔːl/",
+    "definition": "in spite of what you thought was true or expected to happen",
+    "translation": "rốt cuộc thì, hóa ra",
+    "exampleSentence": "I thought it would rain, but it was sunny after all.",
+    "exampleTranslation": "Tôi tưởng trời sẽ mưa, nhưng rốt cuộc trời lại nắng.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "above all",
+    "phonetic": "/əˌbʌv ˈɔːl/",
+    "definition": "used to say that something is more important than anything else",
+    "translation": "trên hết, quan trọng nhất là",
+    "exampleSentence": "Above all, stay calm.",
+    "exampleTranslation": "Trên hết, hãy giữ bình tĩnh.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "all the same",
+    "phonetic": "/ˌɔːl ðə ˈseɪm/",
+    "definition": "in spite of something that you have just mentioned",
+    "translation": "dù vậy, tuy nhiên",
+    "exampleSentence": "It was a small gift, but she liked it all the same.",
+    "exampleTranslation": "Đó là món quà nhỏ, nhưng cô ấy vẫn thích.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "even so",
+    "phonetic": "/ˌiːvn ˈsoʊ/",
+    "definition": "used to introduce something that is true although it is different from what you have just said",
+    "translation": "dù vậy, mặc dù thế",
+    "exampleSentence": "The road was icy. Even so, we arrived on time.",
+    "exampleTranslation": "Đường đóng băng. Dù vậy, chúng tôi vẫn đến đúng giờ.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "having said that",
+    "phonetic": "/ˌhævɪŋ ˌsed ˈðæt/",
+    "definition": "used to say that something is true in spite of what you have just said",
+    "translation": "dù nói vậy, tuy nhiên",
+    "exampleSentence": "The job is hard. Having said that, I enjoy it.",
+    "exampleTranslation": "Công việc này khó. Dù nói vậy, tôi vẫn thích nó.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "that is",
+    "phonetic": "/ðæt ˈɪz/",
+    "definition": "used to give more exact information about something or to correct a statement",
+    "translation": "tức là, nói chính xác hơn",
+    "exampleSentence": "We meet on the first Monday, that is, on the 4th.",
+    "exampleTranslation": "Chúng tôi họp vào thứ Hai đầu tiên, tức là ngày 4.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "that is to say",
+    "phonetic": "/ðæt ɪz tə ˈseɪ/",
+    "definition": "used before you give more details or say something more exactly",
+    "translation": "nghĩa là, tức là",
+    "exampleSentence": "She works nights, that is to say, she sleeps during the day.",
+    "exampleTranslation": "Cô ấy làm ca đêm, nghĩa là ban ngày cô ấy ngủ.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in the meantime",
+    "phonetic": "/ɪn ðə ˈmiːntaɪm/",
+    "definition": "in the period of time between now and a future event, or between two events",
+    "translation": "trong lúc đó, trong khi chờ đợi",
+    "exampleSentence": "The food will be ready in ten minutes. In the meantime, have a drink.",
+    "exampleTranslation": "Mười phút nữa đồ ăn sẽ xong. Trong lúc đó, mời bạn uống chút gì.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in the end",
+    "phonetic": "/ɪn ði ˈend/",
+    "definition": "after a period of time, or after everything has been done",
+    "translation": "cuối cùng, rốt cuộc",
+    "exampleSentence": "We argued for hours, but in the end we agreed.",
+    "exampleTranslation": "Chúng tôi tranh cãi hàng giờ, nhưng cuối cùng cũng đồng ý.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in the long run",
+    "phonetic": "/ɪn ðə ˌlɔːŋ ˈrʌn/",
+    "definition": "later in the future, not immediately",
+    "translation": "về lâu dài",
+    "exampleSentence": "Saving money now will help you in the long run.",
+    "exampleTranslation": "Tiết kiệm tiền từ bây giờ sẽ giúp bạn về lâu dài.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in advance",
+    "phonetic": "/ɪn ədˈvæns/",
+    "definition": "before something happens or is expected to happen",
+    "translation": "trước, từ trước",
+    "exampleSentence": "Please book your tickets in advance.",
+    "exampleTranslation": "Vui lòng đặt vé trước.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in time",
+    "phonetic": "/ɪn ˈtaɪm/",
+    "definition": "before the time by which something needs to be done",
+    "translation": "kịp lúc, kịp giờ",
+    "exampleSentence": "We got to the station in time to catch the train.",
+    "exampleTranslation": "Chúng tôi đến ga kịp giờ để bắt chuyến tàu.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "in case",
+    "phonetic": "/ɪn ˈkeɪs/",
+    "definition": "as a way of being safe from something that might happen",
+    "translation": "phòng khi, đề phòng",
+    "exampleSentence": "Take an umbrella in case it rains.",
+    "exampleTranslation": "Mang theo ô phòng khi trời mưa.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "as long as",
+    "phonetic": "/æz ˈlɔːŋ æz/",
+    "definition": "used to say that one thing can happen or be true only if another thing happens or is true",
+    "translation": "miễn là, với điều kiện là",
+    "exampleSentence": "You can stay here as long as you are quiet.",
+    "exampleTranslation": "Bạn có thể ở đây miễn là bạn giữ yên lặng.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "as if",
+    "phonetic": "/æz ˈɪf/",
+    "definition": "in a way that makes it seem that something is true or is happening",
+    "translation": "như thể là, cứ như là",
+    "exampleSentence": "She looked at me as if she had seen a ghost.",
+    "exampleTranslation": "Cô ấy nhìn tôi như thể vừa thấy ma.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "so far",
+    "phonetic": "/ˌsoʊ ˈfɑːr/",
+    "definition": "until now",
+    "translation": "cho đến nay, tính đến giờ",
+    "exampleSentence": "So far, the trip has been wonderful.",
+    "exampleTranslation": "Cho đến nay, chuyến đi thật tuyệt vời.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "from now on",
+    "phonetic": "/frəm ˌnaʊ ˈɑːn/",
+    "definition": "starting from now and continuing in the future",
+    "translation": "từ giờ trở đi",
+    "exampleSentence": "From now on, I'll get up earlier.",
+    "exampleTranslation": "Từ giờ trở đi, tôi sẽ dậy sớm hơn.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "ever since",
+    "phonetic": "/ˌevər ˈsɪns/",
+    "definition": "continuously since a particular time",
+    "translation": "kể từ đó, từ đó đến nay",
+    "exampleSentence": "I moved here in 2015 and I've lived here ever since.",
+    "exampleTranslation": "Tôi chuyển đến đây năm 2015 và sống ở đây từ đó đến nay.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "for good",
+    "phonetic": "/fər ˈɡʊd/",
+    "definition": "permanently",
+    "translation": "mãi mãi, vĩnh viễn",
+    "exampleSentence": "He left the country for good.",
+    "exampleTranslation": "Anh ấy rời khỏi đất nước vĩnh viễn.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "for the time being",
+    "phonetic": "/fər ðə ˌtaɪm ˈbiːɪŋ/",
+    "definition": "for a short period from now, but not permanently",
+    "translation": "tạm thời, trước mắt",
+    "exampleSentence": "You can stay with us for the time being.",
+    "exampleTranslation": "Trước mắt bạn có thể ở với chúng tôi.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "for the moment",
+    "phonetic": "/fər ðə ˈmoʊmənt/",
+    "definition": "used to say that something is true now but will probably change",
+    "translation": "hiện tại, lúc này",
+    "exampleSentence": "I'm fine for the moment, thank you.",
+    "exampleTranslation": "Lúc này tôi ổn rồi, cảm ơn bạn.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "for the most part",
+    "phonetic": "/fər ðə ˌmoʊst ˈpɑːrt/",
+    "definition": "used to say that something is generally true but not completely true",
+    "translation": "phần lớn, nhìn chung",
+    "exampleSentence": "For the most part, the weather was good.",
+    "exampleTranslation": "Phần lớn thời gian, thời tiết khá tốt.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "for sure",
+    "phonetic": "/fər ˈʃʊr/",
+    "definition": "certainly or definitely",
+    "translation": "chắc chắn, nhất định",
+    "exampleSentence": "I don't know for sure when she's arriving.",
+    "exampleTranslation": "Tôi không biết chắc khi nào cô ấy đến.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "once in a while",
+    "phonetic": "/ˌwʌns ɪn ə ˈwaɪl/",
+    "definition": "sometimes, but not often",
+    "translation": "thỉnh thoảng",
+    "exampleSentence": "We eat out once in a while.",
+    "exampleTranslation": "Thỉnh thoảng chúng tôi đi ăn ngoài.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "every now and then",
+    "phonetic": "/ˌevri ˌnaʊ ənd ˈðen/",
+    "definition": "sometimes, but not often or regularly",
+    "translation": "thỉnh thoảng, lâu lâu",
+    "exampleSentence": "Every now and then, I call my old teacher.",
+    "exampleTranslation": "Lâu lâu tôi lại gọi cho thầy giáo cũ.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "from time to time",
+    "phonetic": "/frəm ˌtaɪm tə ˈtaɪm/",
+    "definition": "sometimes, but not regularly or very often",
+    "translation": "thỉnh thoảng, đôi khi",
+    "exampleSentence": "We still visit the village from time to time.",
+    "exampleTranslation": "Thỉnh thoảng chúng tôi vẫn về thăm ngôi làng.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "now and then",
+    "phonetic": "/ˌnaʊ ənd ˈðen/",
+    "definition": "sometimes, but not often",
+    "translation": "thỉnh thoảng, đôi lúc",
+    "exampleSentence": "I see him now and then at the gym.",
+    "exampleTranslation": "Thỉnh thoảng tôi gặp anh ấy ở phòng tập.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "day by day",
+    "phonetic": "/ˌdeɪ baɪ ˈdeɪ/",
+    "definition": "slowly and gradually, as each day passes",
+    "translation": "từng ngày một",
+    "exampleSentence": "She is getting stronger day by day.",
+    "exampleTranslation": "Cô ấy khỏe lên từng ngày.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "step by step",
+    "phonetic": "/ˌstep baɪ ˈstep/",
+    "definition": "slowly and carefully, doing one stage at a time",
+    "translation": "từng bước một",
+    "exampleSentence": "Let me show you step by step.",
+    "exampleTranslation": "Để tôi chỉ bạn từng bước một.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "little by little",
+    "phonetic": "/ˌlɪtl baɪ ˈlɪtl/",
+    "definition": "gradually",
+    "translation": "dần dần, từng chút một",
+    "exampleSentence": "Little by little, his English improved.",
+    "exampleTranslation": "Dần dần, tiếng Anh của anh ấy tiến bộ.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "bit by bit",
+    "phonetic": "/ˌbɪt baɪ ˈbɪt/",
+    "definition": "gradually; used especially in British English",
+    "translation": "từng chút một, dần dần",
+    "exampleSentence": "They saved the money bit by bit.",
+    "exampleTranslation": "Họ tiết kiệm số tiền đó từng chút một.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "one by one",
+    "phonetic": "/ˌwʌn baɪ ˈwʌn/",
+    "definition": "used when one person or thing in a group does something, then the next, then the next",
+    "translation": "từng người một, lần lượt",
+    "exampleSentence": "The children came into the room one by one.",
+    "exampleTranslation": "Bọn trẻ lần lượt bước vào phòng.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "side by side",
+    "phonetic": "/ˌsaɪd baɪ ˈsaɪd/",
+    "definition": "next to each other",
+    "translation": "cạnh nhau, sát cánh",
+    "exampleSentence": "The two brothers walked side by side.",
+    "exampleTranslation": "Hai anh em đi cạnh nhau.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "face to face",
+    "phonetic": "/ˌfeɪs tə ˈfeɪs/",
+    "definition": "if two people are face to face, they are very close and looking at each other",
+    "translation": "trực tiếp, mặt đối mặt",
+    "exampleSentence": "I'd rather talk to him face to face.",
+    "exampleTranslation": "Tôi muốn nói chuyện trực tiếp với anh ấy hơn.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "hand in hand",
+    "phonetic": "/ˌhænd ɪn ˈhænd/",
+    "definition": "if two things go hand in hand, they are closely connected",
+    "translation": "đi đôi với nhau, gắn liền với nhau",
+    "exampleSentence": "Poverty and poor health often go hand in hand.",
+    "exampleTranslation": "Nghèo đói và sức khỏe kém thường đi đôi với nhau.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "again and again",
+    "phonetic": "/əˌɡen ənd əˈɡen/",
+    "definition": "very often, many times",
+    "translation": "lặp đi lặp lại, hết lần này đến lần khác",
+    "exampleSentence": "He asked the same question again and again.",
+    "exampleTranslation": "Anh ấy hỏi đi hỏi lại cùng một câu.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "over and over",
+    "phonetic": "/ˌoʊvər ənd ˈoʊvər/",
+    "definition": "many times",
+    "translation": "lặp đi lặp lại, hết lần này đến lần khác",
+    "exampleSentence": "I read the message over and over.",
+    "exampleTranslation": "Tôi đọc đi đọc lại tin nhắn đó.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "more and more",
+    "phonetic": "/ˌmɔːr ən ˈmɔːr/",
+    "definition": "used to say that a quality or situation gradually increases",
+    "translation": "ngày càng nhiều, ngày càng",
+    "exampleSentence": "More and more people are working from home.",
+    "exampleTranslation": "Ngày càng có nhiều người làm việc tại nhà.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "sooner or later",
+    "phonetic": "/ˌsuːnər ɔːr ˈleɪtər/",
+    "definition": "used to say that something is certain to happen at some time in the future, though you cannot say exactly when",
+    "translation": "sớm muộn gì, sớm hay muộn",
+    "exampleSentence": "Sooner or later, you will have to tell her.",
+    "exampleTranslation": "Sớm muộn gì bạn cũng phải nói với cô ấy.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "once and for all",
+    "phonetic": "/ˌwʌns ən fər ˈɔːl/",
+    "definition": "completely and finally",
+    "translation": "một lần cho xong, dứt khoát",
+    "exampleSentence": "Let's settle this once and for all.",
+    "exampleTranslation": "Hãy giải quyết chuyện này dứt khoát một lần cho xong.",
+    "pos": "fixed expression"
+  }
+]

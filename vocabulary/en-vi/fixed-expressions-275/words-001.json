@@ -1,0 +1,452 @@
+[
+  {
+    "word": "how do you do",
+    "phonetic": "/ˌhaʊ də ju ˈduː/",
+    "definition": "a formal greeting used when you meet someone for the first time; the other person usually answers with the same words",
+    "translation": "rất hân hạnh được gặp (câu chào trang trọng khi mới gặp)",
+    "exampleSentence": "How do you do? I'm Anna Clark.",
+    "exampleTranslation": "Xin chào, rất hân hạnh. Tôi là Anna Clark.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "nice to meet you",
+    "phonetic": "/ˌnaɪs tə ˈmiːt ju/",
+    "definition": "a friendly greeting used when you meet someone for the first time",
+    "translation": "rất vui được gặp bạn",
+    "exampleSentence": "Nice to meet you. I've heard a lot about you.",
+    "exampleTranslation": "Rất vui được gặp bạn. Tôi nghe nói về bạn nhiều rồi.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "long time no see",
+    "phonetic": "/ˌlɔːŋ taɪm ˌnoʊ ˈsiː/",
+    "definition": "a humorous way to say hello to someone you have not seen for a long time",
+    "translation": "lâu quá không gặp",
+    "exampleSentence": "Long time no see! How have you been?",
+    "exampleTranslation": "Lâu quá không gặp! Dạo này bạn thế nào?",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "how come",
+    "phonetic": "/ˌhaʊ ˈkʌm/",
+    "definition": "an informal way to ask why something happened, especially when you are surprised",
+    "translation": "sao lại, tại sao lại (hỏi khi ngạc nhiên)",
+    "exampleSentence": "How come you're still here? I thought you'd left.",
+    "exampleTranslation": "Sao bạn vẫn còn ở đây? Tôi tưởng bạn đi rồi.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "take care",
+    "phonetic": "/ˌteɪk ˈker/",
+    "definition": "something you say when saying goodbye to family and friends",
+    "translation": "giữ gìn sức khỏe nhé, bảo trọng",
+    "exampleSentence": "Take care! See you next week.",
+    "exampleTranslation": "Bảo trọng nhé! Hẹn gặp tuần sau.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "have a nice day",
+    "phonetic": "/ˌhæv ə ˌnaɪs ˈdeɪ/",
+    "definition": "used to say goodbye, especially to customers leaving a shop or restaurant; more common in American English",
+    "translation": "chúc một ngày tốt lành",
+    "exampleSentence": "Here's your receipt. Have a nice day!",
+    "exampleTranslation": "Hóa đơn của bạn đây ạ. Chúc bạn một ngày tốt lành!",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "good luck",
+    "phonetic": "/ˌɡʊd ˈlʌk/",
+    "definition": "used to say that you hope someone will be successful",
+    "translation": "chúc may mắn",
+    "exampleSentence": "Good luck with your interview tomorrow.",
+    "exampleTranslation": "Chúc bạn phỏng vấn ngày mai may mắn.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "best wishes",
+    "phonetic": "/ˌbest ˈwɪʃɪz/",
+    "definition": "used in cards and letters to say you hope someone will be happy, successful or healthy",
+    "translation": "xin gửi lời chúc tốt đẹp nhất",
+    "exampleSentence": "Best wishes for the new year.",
+    "exampleTranslation": "Gửi bạn những lời chúc tốt đẹp nhất cho năm mới.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "bless you",
+    "phonetic": "/ˈbles ju/",
+    "definition": "what you say to someone who has just sneezed",
+    "translation": "chúc bạn khỏe (nói khi ai đó vừa hắt hơi)",
+    "exampleSentence": "\"Achoo!\" \"Bless you!\"",
+    "exampleTranslation": "\"Hắt xì!\" \"Chúc bạn khỏe!\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "excuse me",
+    "phonetic": "/ɪkˈskjuːz mi/",
+    "definition": "used to get someone's attention politely, especially before you ask a question",
+    "translation": "xin lỗi, cho tôi hỏi",
+    "exampleSentence": "Excuse me, where is the nearest bank?",
+    "exampleTranslation": "Xin lỗi, cho tôi hỏi ngân hàng gần nhất ở đâu ạ?",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "pardon me",
+    "phonetic": "/ˈpɑːrdn mi/",
+    "definition": "used to say sorry politely when you have bumped into or interrupted someone by accident",
+    "translation": "xin lỗi (khi lỡ va vào hoặc ngắt lời ai)",
+    "exampleSentence": "Oh, pardon me. I didn't see you there.",
+    "exampleTranslation": "Ôi, xin lỗi. Tôi không thấy bạn đứng đó.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "I beg your pardon",
+    "phonetic": "/aɪ ˌbeɡ jər ˈpɑːrdn/",
+    "definition": "a polite way to ask someone to repeat what they have just said",
+    "translation": "xin lỗi, bạn nói gì ạ? (nhờ nhắc lại một cách lịch sự)",
+    "exampleSentence": "I beg your pardon? I didn't catch that.",
+    "exampleTranslation": "Xin lỗi, bạn nói gì ạ? Tôi nghe chưa rõ.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "my bad",
+    "phonetic": "/ˌmaɪ ˈbæd/",
+    "definition": "an informal way to say you made a mistake or that something is your fault",
+    "translation": "lỗi của tôi, tôi nhầm",
+    "exampleSentence": "Oh, my bad. I sent it to the wrong person.",
+    "exampleTranslation": "À, lỗi của tôi. Tôi gửi nhầm người rồi.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "no problem",
+    "phonetic": "/ˌnoʊ ˈprɑːbləm/",
+    "definition": "used to answer when someone thanks you or says sorry",
+    "translation": "không có gì, không sao đâu",
+    "exampleSentence": "\"Thanks for the ride.\" \"No problem.\"",
+    "exampleTranslation": "\"Cảm ơn đã cho đi nhờ nhé.\" \"Không có gì.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "no worries",
+    "phonetic": "/ˌnoʊ ˈwɜːriz/",
+    "definition": "used to agree to a request and say that it is not a problem; mainly British and Australian",
+    "translation": "không sao đâu, cứ yên tâm",
+    "exampleSentence": "\"Can you send it today?\" \"No worries.\"",
+    "exampleTranslation": "\"Hôm nay bạn gửi được không?\" \"Được chứ, cứ yên tâm.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "don't mention it",
+    "phonetic": "/ˌdoʊnt ˈmenʃn ɪt/",
+    "definition": "a polite way to say there is no need to thank you",
+    "translation": "đừng khách sáo, không có gì",
+    "exampleSentence": "\"Thank you so much for your help.\" \"Don't mention it.\"",
+    "exampleTranslation": "\"Cảm ơn bạn rất nhiều vì đã giúp.\" \"Đừng khách sáo.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "you're welcome",
+    "phonetic": "/jʊr ˈwelkəm/",
+    "definition": "a polite reply when someone thanks you",
+    "translation": "không có gì, rất sẵn lòng",
+    "exampleSentence": "\"Thanks for dinner.\" \"You're welcome.\"",
+    "exampleTranslation": "\"Cảm ơn bữa tối nhé.\" \"Không có gì.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "much obliged",
+    "phonetic": "/ˌmʌtʃ əˈblaɪdʒd/",
+    "definition": "a very polite and old-fashioned way of saying thank you",
+    "translation": "rất cảm ơn (cách nói trang trọng, hơi cổ)",
+    "exampleSentence": "Much obliged for your kindness.",
+    "exampleTranslation": "Rất cảm ơn lòng tốt của bạn.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "be my guest",
+    "phonetic": "/ˌbi maɪ ˈɡest/",
+    "definition": "used to give someone permission to do what they have asked to do",
+    "translation": "cứ tự nhiên, mời bạn",
+    "exampleSentence": "\"May I borrow your pen?\" \"Be my guest.\"",
+    "exampleTranslation": "\"Cho tôi mượn bút được không?\" \"Cứ tự nhiên.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "help yourself",
+    "phonetic": "/ˌhelp jɔːrˈself/",
+    "definition": "to take what you want without asking permission, used especially when offering food",
+    "translation": "cứ tự nhiên lấy, mời bạn dùng",
+    "exampleSentence": "There's plenty of food, so help yourself.",
+    "exampleTranslation": "Còn nhiều đồ ăn lắm, bạn cứ tự nhiên lấy nhé.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "make yourself at home",
+    "phonetic": "/ˌmeɪk jɔːrˈself ət ˈhoʊm/",
+    "definition": "used to tell a visitor to relax as if they were in their own home",
+    "translation": "cứ tự nhiên như ở nhà",
+    "exampleSentence": "Come in and make yourself at home.",
+    "exampleTranslation": "Mời vào, cứ tự nhiên như ở nhà nhé.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "here you are",
+    "phonetic": "/ˌhɪr ju ˈɑːr/",
+    "definition": "used when you give something to someone",
+    "translation": "đây ạ, của bạn đây",
+    "exampleSentence": "Here you are. Two coffees.",
+    "exampleTranslation": "Của bạn đây ạ. Hai ly cà phê.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "here you go",
+    "phonetic": "/ˌhɪr ju ˈɡoʊ/",
+    "definition": "used when you give something to someone",
+    "translation": "đây nhé, của bạn đây",
+    "exampleSentence": "Here you go. That's your change.",
+    "exampleTranslation": "Đây nhé. Tiền thối của bạn.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "just a moment",
+    "phonetic": "/ˌdʒʌst ə ˈmoʊmənt/",
+    "definition": "used to ask someone to wait for a short time while you do something",
+    "translation": "xin chờ một chút",
+    "exampleSentence": "Just a moment, please. I'll check the file.",
+    "exampleTranslation": "Xin chờ một chút. Tôi sẽ kiểm tra tập tin.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "speak of the devil",
+    "phonetic": "/ˌspiːk əv ðə ˈdevl/",
+    "definition": "used when someone you have just been talking about appears",
+    "translation": "vừa nhắc là tới",
+    "exampleSentence": "Speak of the devil! We were just talking about you.",
+    "exampleTranslation": "Vừa nhắc là tới! Bọn tôi đang nói về bạn đây.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "happy birthday",
+    "phonetic": "/ˌhæpi ˈbɜːrθdeɪ/",
+    "definition": "used to wish someone happiness on their birthday",
+    "translation": "chúc mừng sinh nhật",
+    "exampleSentence": "Happy birthday, Tom! Make a wish.",
+    "exampleTranslation": "Chúc mừng sinh nhật, Tom! Ước đi nào.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "happy new year",
+    "phonetic": "/ˌhæpi nuː ˈjɪr/",
+    "definition": "used to wish someone happiness at the start of a new year",
+    "translation": "chúc mừng năm mới",
+    "exampleSentence": "Happy New Year! Let's hope it's a good one.",
+    "exampleTranslation": "Chúc mừng năm mới! Hy vọng đây là một năm tốt đẹp.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "well done",
+    "phonetic": "/ˌwel ˈdʌn/",
+    "definition": "used to praise someone for doing something very well",
+    "translation": "làm tốt lắm",
+    "exampleSentence": "Well done! You passed the test.",
+    "exampleTranslation": "Làm tốt lắm! Bạn đã đỗ bài kiểm tra rồi.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "way to go",
+    "phonetic": "/ˌweɪ tə ˈɡoʊ/",
+    "definition": "used to tell someone they have done something very well; American English",
+    "translation": "giỏi lắm, tuyệt quá",
+    "exampleSentence": "You got the job? Way to go!",
+    "exampleTranslation": "Bạn được nhận rồi à? Giỏi quá!",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "sleep tight",
+    "phonetic": "/ˌsliːp ˈtaɪt/",
+    "definition": "said before bed, especially to a child, to say you hope they sleep well",
+    "translation": "ngủ ngon nhé",
+    "exampleSentence": "Good night, sweetie. Sleep tight!",
+    "exampleTranslation": "Chúc con ngủ ngon. Ngủ thật ngon nhé!",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "bon appetit",
+    "phonetic": "/ˌbɑːn ɑːpəˈtiː/",
+    "definition": "said to someone before they start a meal, to say you hope they enjoy it",
+    "translation": "chúc ăn ngon miệng",
+    "exampleSentence": "Dinner is ready. Bon appetit!",
+    "exampleTranslation": "Bữa tối xong rồi. Chúc mọi người ăn ngon miệng!",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "many happy returns",
+    "phonetic": "/ˌmeni ˌhæpi rɪˈtɜːrnz/",
+    "definition": "used to wish someone a happy birthday",
+    "translation": "chúc mừng sinh nhật",
+    "exampleSentence": "Many happy returns, Grandma!",
+    "exampleTranslation": "Chúc bà sinh nhật vui vẻ!",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "watch out",
+    "phonetic": "/ˌwɑːtʃ ˈaʊt/",
+    "definition": "an informal way to tell someone to be careful",
+    "translation": "coi chừng, cẩn thận",
+    "exampleSentence": "Watch out! There's a car coming.",
+    "exampleTranslation": "Coi chừng! Có xe đang tới.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "same here",
+    "phonetic": "/ˌseɪm ˈhɪr/",
+    "definition": "used to say you feel the same as someone else",
+    "translation": "tôi cũng vậy",
+    "exampleSentence": "\"I'm exhausted.\" \"Same here.\"",
+    "exampleTranslation": "\"Tôi mệt rã rời.\" \"Tôi cũng vậy.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "me neither",
+    "phonetic": "/ˌmi ˈniːðər/",
+    "definition": "used to agree with a negative statement that someone has just made",
+    "translation": "tôi cũng không",
+    "exampleSentence": "\"I don't like horror films.\" \"Me neither.\"",
+    "exampleTranslation": "\"Tôi không thích phim kinh dị.\" \"Tôi cũng không.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "the same to you",
+    "phonetic": "/ðə ˌseɪm tə ˈju/",
+    "definition": "used as a reply to a greeting or good wish",
+    "translation": "bạn cũng vậy nhé",
+    "exampleSentence": "\"Merry Christmas!\" \"The same to you!\"",
+    "exampleTranslation": "\"Chúc Giáng sinh vui vẻ!\" \"Bạn cũng vậy nhé!\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "never mind",
+    "phonetic": "/ˌnevər ˈmaɪnd/",
+    "definition": "used to tell someone not to worry or be upset about something",
+    "translation": "đừng bận tâm, không sao đâu",
+    "exampleSentence": "Never mind. We can try again tomorrow.",
+    "exampleTranslation": "Đừng bận tâm. Mai mình thử lại.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "no way",
+    "phonetic": "/ˌnoʊ ˈweɪ/",
+    "definition": "used to emphasize that you will not agree or will not be able to do something",
+    "translation": "không đời nào, không thể nào",
+    "exampleSentence": "\"Can you lend me your car?\" \"No way!\"",
+    "exampleTranslation": "\"Cho tôi mượn xe được không?\" \"Không đời nào!\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "you bet",
+    "phonetic": "/ju ˈbet/",
+    "definition": "used to emphasize that you agree with someone or are keen to do what they suggest",
+    "translation": "chắc chắn rồi, quá chuẩn",
+    "exampleSentence": "\"Are you coming to the party?\" \"You bet!\"",
+    "exampleTranslation": "\"Bạn đến dự tiệc chứ?\" \"Chắc chắn rồi!\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "of course",
+    "phonetic": "/əv ˈkɔːrs/",
+    "definition": "used to say yes or to give permission politely",
+    "translation": "tất nhiên rồi, dĩ nhiên",
+    "exampleSentence": "\"Can I use your phone?\" \"Of course.\"",
+    "exampleTranslation": "\"Tôi dùng điện thoại của bạn được không?\" \"Tất nhiên rồi.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "of course not",
+    "phonetic": "/əv ˌkɔːrs ˈnɑːt/",
+    "definition": "used to say very strongly that something is not true or correct",
+    "translation": "tất nhiên là không",
+    "exampleSentence": "\"Do you mind if I open the window?\" \"Of course not.\"",
+    "exampleTranslation": "\"Tôi mở cửa sổ có phiền bạn không?\" \"Tất nhiên là không.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "not at all",
+    "phonetic": "/ˌnɑːt ət ˈɔːl/",
+    "definition": "a polite reply when someone has thanked you or asked if you mind doing something; mainly British English",
+    "translation": "không có gì, không phiền chút nào",
+    "exampleSentence": "\"Do you mind waiting?\" \"Not at all.\"",
+    "exampleTranslation": "\"Bạn chờ một chút có phiền không?\" \"Không phiền chút nào.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "not really",
+    "phonetic": "/ˌnɑːt ˈriːəli/",
+    "definition": "used to say \"no\" or \"not\" in a less strong way",
+    "translation": "không hẳn, không hẳn vậy",
+    "exampleSentence": "\"Did you enjoy the film?\" \"Not really.\"",
+    "exampleTranslation": "\"Bạn có thích bộ phim không?\" \"Không hẳn.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "I guess so",
+    "phonetic": "/aɪ ˌɡes ˈsoʊ/",
+    "definition": "used to agree with a statement or question, but without being sure or enthusiastic",
+    "translation": "chắc là vậy, tôi đoán thế",
+    "exampleSentence": "\"Is it going to rain?\" \"I guess so.\"",
+    "exampleTranslation": "\"Trời sắp mưa à?\" \"Chắc là vậy.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "I hope so",
+    "phonetic": "/aɪ ˌhoʊp ˈsoʊ/",
+    "definition": "used to say that you hope something that has been mentioned will happen or is true",
+    "translation": "hy vọng là vậy",
+    "exampleSentence": "\"Will the train be on time?\" \"I hope so.\"",
+    "exampleTranslation": "\"Tàu sẽ đến đúng giờ chứ?\" \"Hy vọng là vậy.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "that's right",
+    "phonetic": "/ˌðæts ˈraɪt/",
+    "definition": "used to agree with what someone says or to answer \"yes\" to a question",
+    "translation": "đúng rồi, chính xác",
+    "exampleSentence": "\"So you live in Hue?\" \"That's right.\"",
+    "exampleTranslation": "\"Vậy bạn sống ở Huế à?\" \"Đúng rồi.\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "no kidding",
+    "phonetic": "/ˌnoʊ ˈkɪdɪŋ/",
+    "definition": "used to say that you understand and agree with what someone has just said",
+    "translation": "thật hả, đúng thế thật",
+    "exampleSentence": "\"This soup is really salty.\" \"No kidding!\"",
+    "exampleTranslation": "\"Món súp này mặn thật.\" \"Đúng thế thật!\"",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "you're kidding",
+    "phonetic": "/jʊr ˈkɪdɪŋ/",
+    "definition": "used when you are so surprised by what someone tells you that you do not completely believe it",
+    "translation": "bạn đùa à, thật không đấy",
+    "exampleSentence": "You're kidding! I won the prize?",
+    "exampleTranslation": "Bạn đùa à! Tôi trúng giải thật sao?",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "you must be joking",
+    "phonetic": "/ju ˌmʌst bi ˈdʒoʊkɪŋ/",
+    "definition": "used to tell someone that what they suggest is so strange or silly that you cannot believe they are serious",
+    "translation": "bạn đang đùa đấy à",
+    "exampleSentence": "You must be joking! I'm not paying that much.",
+    "exampleTranslation": "Bạn đang đùa đấy à! Tôi không trả nhiều như vậy đâu.",
+    "pos": "fixed expression"
+  },
+  {
+    "word": "fair enough",
+    "phonetic": "/ˌfer ɪˈnʌf/",
+    "definition": "used to say that you agree with a suggestion or that something seems reasonable; especially British English",
+    "translation": "cũng hợp lý, được thôi",
+    "exampleSentence": "\"I'd rather not go out tonight.\" \"Fair enough.\"",
+    "exampleTranslation": "\"Tối nay tôi không muốn đi chơi lắm.\" \"Cũng được thôi.\"",
+    "pos": "fixed expression"
+  }
+]
