@@ -1,0 +1,47 @@
+{
+  "id": "everyday-idioms-270",
+  "type": "vocabulary",
+  "title": "270 common everyday idioms",
+  "description": "270 common everyday idioms such as break the ice, piece of cake, spill the beans and under the weather, with Vietnamese meanings and examples.",
+  "category": "idioms",
+  "level": "mixed",
+  "order": 10,
+  "sourceLang": "en",
+  "targetLang": "vi",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "source": "Written by the Alavo team. Idioms and informal expressions chosen by hand for everyday conversation (feelings, money, work, communication, relationships, luck, daily life), kept when Longman (LDOCE) lists them; definitions paraphrase LDOCE; translations and examples are original.",
+  "wordCount": 270,
+  "files": [
+    {
+      "path": "words-001.json",
+      "count": 50,
+      "sha256": "a73f5349742c846d55adaf37391c1797d4aeb3c8710ff82e35fcd1bd428cfdf1"
+    },
+    {
+      "path": "words-002.json",
+      "count": 50,
+      "sha256": "43681a28fe82e383fb159d6728898d1ff1bed69b1aa21bd7da6d8dbfe20353bd"
+    },
+    {
+      "path": "words-003.json",
+      "count": 50,
+      "sha256": "1d0ac312aa69727ce3e038c1ffad9910ce46e969d7a241291cb5937a03dba436"
+    },
+    {
+      "path": "words-004.json",
+      "count": 50,
+      "sha256": "5cc6fdee03dc14e536cbc459c414762890cb8611efb5eb74fa1770d78f0ac945"
+    },
+    {
+      "path": "words-005.json",
+      "count": 50,
+      "sha256": "220017f719cdedd678b274d964727c16499837a6472cb4bea0885640f2cb4a35"
+    },
+    {
+      "path": "words-006.json",
+      "count": 20,
+      "sha256": "e8240f992af7d919314ecde0bef3bc254b811741143052d392bdffbc337c8cfa"
+    }
+  ]
+}

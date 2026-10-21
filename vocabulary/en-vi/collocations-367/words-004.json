@@ -1,0 +1,452 @@
+[
+  {
+    "word": "sound asleep",
+    "phonetic": "/ˌsaʊnd əˈsliːp/",
+    "definition": "sleeping deeply",
+    "translation": "ngủ say",
+    "exampleSentence": "The baby was sound asleep.",
+    "exampleTranslation": "Em bé đang ngủ say.",
+    "pos": "collocation"
+  },
+  {
+    "word": "rise sharply",
+    "phonetic": "/ˌraɪz ˈʃɑːrpli/",
+    "definition": "to increase quickly by a large amount",
+    "translation": "tăng mạnh",
+    "exampleSentence": "The value of the painting has risen sharply in recent years.",
+    "exampleTranslation": "Giá trị bức tranh tăng mạnh trong những năm gần đây.",
+    "pos": "collocation"
+  },
+  {
+    "word": "grow rapidly",
+    "phonetic": "/ˌɡroʊ ˈræpɪdli/",
+    "definition": "to increase quickly in size, number or strength",
+    "translation": "phát triển nhanh",
+    "exampleSentence": "The population is growing rapidly.",
+    "exampleTranslation": "Dân số đang tăng nhanh.",
+    "pos": "collocation"
+  },
+  {
+    "word": "change dramatically",
+    "phonetic": "/ˌtʃeɪndʒ drəˈmætɪkli/",
+    "definition": "to become very different in a short time",
+    "translation": "thay đổi mạnh mẽ",
+    "exampleSentence": "People's work environment has changed dramatically.",
+    "exampleTranslation": "Môi trường làm việc của mọi người đã thay đổi mạnh mẽ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "differ significantly",
+    "phonetic": "/ˌdɪfər sɪɡˈnɪfɪkəntli/",
+    "definition": "to be clearly and importantly different",
+    "translation": "khác biệt đáng kể",
+    "exampleSentence": "The two sets of results did not differ significantly.",
+    "exampleTranslation": "Hai bộ kết quả không khác biệt đáng kể.",
+    "pos": "collocation"
+  },
+  {
+    "word": "vary widely",
+    "phonetic": "/ˌveri ˈwaɪdli/",
+    "definition": "to be different to a large degree",
+    "translation": "khác nhau rất nhiều",
+    "exampleSentence": "The quality of the applicants varies widely.",
+    "exampleTranslation": "Chất lượng của các ứng viên khác nhau rất nhiều.",
+    "pos": "collocation"
+  },
+  {
+    "word": "increase steadily",
+    "phonetic": "/ɪnˌkriːs ˈstedɪli/",
+    "definition": "to become higher gradually and continually",
+    "translation": "tăng đều đặn",
+    "exampleSentence": "Debt was increasing steadily.",
+    "exampleTranslation": "Nợ tăng đều đặn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "listen carefully",
+    "phonetic": "/ˌlɪsn ˈkerfəli/",
+    "definition": "to pay close attention to what someone says",
+    "translation": "lắng nghe cẩn thận",
+    "exampleSentence": "He listened carefully to every word I said.",
+    "exampleTranslation": "Anh ấy lắng nghe cẩn thận từng lời tôi nói.",
+    "pos": "collocation"
+  },
+  {
+    "word": "think carefully",
+    "phonetic": "/ˌθɪŋk ˈkerfəli/",
+    "definition": "to use your mind with care before deciding something",
+    "translation": "suy nghĩ kỹ",
+    "exampleSentence": "Think carefully about every spending decision you make.",
+    "exampleTranslation": "Hãy suy nghĩ kỹ về mọi quyết định chi tiêu của bạn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "work hard",
+    "phonetic": "/ˌwɜːrk ˈhɑːrd/",
+    "definition": "to work using a lot of effort and energy",
+    "translation": "làm việc chăm chỉ",
+    "exampleSentence": "She has worked hard all her life.",
+    "exampleTranslation": "Cô ấy làm việc chăm chỉ cả đời.",
+    "pos": "collocation"
+  },
+  {
+    "word": "try hard",
+    "phonetic": "/ˌtraɪ ˈhɑːrd/",
+    "definition": "to make a big effort to do something",
+    "translation": "cố gắng hết sức",
+    "exampleSentence": "She was trying hard not to show her impatience.",
+    "exampleTranslation": "Cô ấy đang cố hết sức để không lộ vẻ sốt ruột.",
+    "pos": "collocation"
+  },
+  {
+    "word": "die peacefully",
+    "phonetic": "/ˌdaɪ ˈpiːsfəli/",
+    "definition": "to die in a calm way without pain",
+    "translation": "qua đời thanh thản",
+    "exampleSentence": "She died peacefully in her sleep at the age of 98.",
+    "exampleTranslation": "Bà qua đời thanh thản trong giấc ngủ ở tuổi 98.",
+    "pos": "collocation"
+  },
+  {
+    "word": "sleep soundly",
+    "phonetic": "/ˌsliːp ˈsaʊndli/",
+    "definition": "to sleep deeply without being disturbed",
+    "translation": "ngủ say, ngủ ngon",
+    "exampleSentence": "Within seconds, Maggie was sleeping soundly.",
+    "exampleTranslation": "Chỉ vài giây sau, Maggie đã ngủ say.",
+    "pos": "collocation"
+  },
+  {
+    "word": "breathe deeply",
+    "phonetic": "/ˌbriːð ˈdiːpli/",
+    "definition": "to take a lot of air into your lungs",
+    "translation": "hít thở sâu",
+    "exampleSentence": "She breathed deeply in the cool night air.",
+    "exampleTranslation": "Cô ấy hít thở sâu trong làn không khí mát đêm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "smile warmly",
+    "phonetic": "/ˌsmaɪl ˈwɔːrmli/",
+    "definition": "to smile in a friendly way",
+    "translation": "mỉm cười thân thiện",
+    "exampleSentence": "The man looked at Kim and smiled warmly.",
+    "exampleTranslation": "Người đàn ông nhìn Kim và mỉm cười thân thiện.",
+    "pos": "collocation"
+  },
+  {
+    "word": "wait patiently",
+    "phonetic": "/ˌweɪt ˈpeɪʃntli/",
+    "definition": "to wait calmly without getting annoyed",
+    "translation": "kiên nhẫn chờ đợi",
+    "exampleSentence": "I sat waiting patiently for the wedding to end.",
+    "exampleTranslation": "Tôi ngồi kiên nhẫn chờ đám cưới kết thúc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "behave badly",
+    "phonetic": "/bɪˌheɪv ˈbædli/",
+    "definition": "to do and say things that are not good or polite",
+    "translation": "cư xử không tốt",
+    "exampleSentence": "His teacher said he'd been behaving badly at school.",
+    "exampleTranslation": "Giáo viên nói cậu bé cư xử không tốt ở trường.",
+    "pos": "collocation"
+  },
+  {
+    "word": "treat fairly",
+    "phonetic": "/ˌtriːt ˈferli/",
+    "definition": "to deal with someone in a fair and reasonable way",
+    "translation": "đối xử công bằng",
+    "exampleSentence": "I just want to be treated fairly.",
+    "exampleTranslation": "Tôi chỉ muốn được đối xử công bằng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "pay dearly",
+    "phonetic": "/ˌpeɪ ˈdɪrli/",
+    "definition": "to suffer or be punished for something you did",
+    "translation": "phải trả giá đắt",
+    "exampleSentence": "They paid dearly for their mistakes.",
+    "exampleTranslation": "Họ phải trả giá đắt cho những sai lầm của mình.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fail miserably",
+    "phonetic": "/ˌfeɪl ˈmɪzərəbli/",
+    "definition": "to fail in a very bad way",
+    "translation": "thất bại thảm hại",
+    "exampleSentence": "Millions have tried to quit smoking and failed miserably.",
+    "exampleTranslation": "Hàng triệu người đã cố bỏ thuốc và thất bại thảm hại.",
+    "pos": "collocation"
+  },
+  {
+    "word": "perform well",
+    "phonetic": "/pərˌfɔːrm ˈwel/",
+    "definition": "to work or do something well",
+    "translation": "làm tốt, hoạt động tốt",
+    "exampleSentence": "Many religious schools perform well academically.",
+    "exampleTranslation": "Nhiều trường tôn giáo có kết quả học tập tốt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "do well",
+    "phonetic": "/ˌduː ˈwel/",
+    "definition": "to be successful, especially in work or school",
+    "translation": "làm tốt, thành công",
+    "exampleSentence": "Elizabeth has done well for herself since she moved to London.",
+    "exampleTranslation": "Elizabeth đã thành công kể từ khi chuyển đến London.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fit perfectly",
+    "phonetic": "/ˌfɪt ˈpɜːrfɪktli/",
+    "definition": "to be exactly the right size or shape",
+    "translation": "vừa vặn hoàn hảo",
+    "exampleSentence": "The uniform fitted her perfectly.",
+    "exampleTranslation": "Bộ đồng phục vừa với cô ấy hoàn hảo.",
+    "pos": "collocation"
+  },
+  {
+    "word": "carry out a survey",
+    "phonetic": "/ˌkæri ˌaʊt ə ˈsɜːrveɪ/",
+    "definition": "to ask a large number of people questions to find out what they think",
+    "translation": "tiến hành khảo sát",
+    "exampleSentence": "The committee has carried out a survey of parking problems.",
+    "exampleTranslation": "Ủy ban đã tiến hành khảo sát về vấn đề đỗ xe.",
+    "pos": "collocation"
+  },
+  {
+    "word": "reach a decision",
+    "phonetic": "/ˌriːtʃ ə dɪˈsɪʒn/",
+    "definition": "to decide something after thinking or discussing",
+    "translation": "đi đến quyết định",
+    "exampleSentence": "I hope they reach a decision soon.",
+    "exampleTranslation": "Tôi hy vọng họ sớm đi đến quyết định.",
+    "pos": "collocation"
+  },
+  {
+    "word": "raise awareness",
+    "phonetic": "/ˌreɪz əˈwernəs/",
+    "definition": "to make people more informed about an issue",
+    "translation": "nâng cao nhận thức",
+    "exampleSentence": "Health officials have tried to raise awareness of the disease.",
+    "exampleTranslation": "Các quan chức y tế đã cố nâng cao nhận thức về căn bệnh này.",
+    "pos": "collocation"
+  },
+  {
+    "word": "raise concerns",
+    "phonetic": "/ˌreɪz kənˈsɜːrnz/",
+    "definition": "to make people worried about something",
+    "translation": "làm dấy lên lo ngại",
+    "exampleSentence": "The incident has raised concerns over safety at the power plant.",
+    "exampleTranslation": "Sự cố làm dấy lên lo ngại về an toàn tại nhà máy điện.",
+    "pos": "collocation"
+  },
+  {
+    "word": "meet requirements",
+    "phonetic": "/ˌmiːt rɪˈkwaɪərmənts/",
+    "definition": "to have what is officially needed",
+    "translation": "đáp ứng yêu cầu",
+    "exampleSentence": "The new bathroom has to meet safety requirements.",
+    "exampleTranslation": "Phòng tắm mới phải đáp ứng các yêu cầu về an toàn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "meet demand",
+    "phonetic": "/ˌmiːt dɪˈmænd/",
+    "definition": "to produce or supply as much as people want",
+    "translation": "đáp ứng nhu cầu",
+    "exampleSentence": "The factory cannot produce enough to meet demand.",
+    "exampleTranslation": "Nhà máy không thể sản xuất đủ để đáp ứng nhu cầu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "face a challenge",
+    "phonetic": "/ˌfeɪs ə ˈtʃælɪndʒ/",
+    "definition": "to have to deal with something difficult",
+    "translation": "đối mặt với thách thức",
+    "exampleSentence": "The company still faces some serious challenges.",
+    "exampleTranslation": "Công ty vẫn đang đối mặt với một số thách thức nghiêm trọng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "overcome an obstacle",
+    "phonetic": "/ˌoʊvərˈkʌm ən ˈɑːbstəkl/",
+    "definition": "to find a way to deal with something that stops you succeeding",
+    "translation": "vượt qua trở ngại",
+    "exampleSentence": "She overcame many obstacles to become a doctor.",
+    "exampleTranslation": "Cô ấy vượt qua nhiều trở ngại để trở thành bác sĩ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take responsibility",
+    "phonetic": "/ˌteɪk rɪˌspɑːnsəˈbɪləti/",
+    "definition": "to accept that you are the cause of something or must deal with it",
+    "translation": "chịu trách nhiệm",
+    "exampleSentence": "He took responsibility for his mistake.",
+    "exampleTranslation": "Anh ấy chịu trách nhiệm về lỗi của mình.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take action",
+    "phonetic": "/ˌteɪk ˈækʃn/",
+    "definition": "to do something to deal with a problem",
+    "translation": "hành động, ra tay xử lý",
+    "exampleSentence": "The government must take action to control inflation.",
+    "exampleTranslation": "Chính phủ phải hành động để kiềm chế lạm phát.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take measures",
+    "phonetic": "/ˌteɪk ˈmeʒərz/",
+    "definition": "to do things in order to deal with a problem",
+    "translation": "áp dụng các biện pháp",
+    "exampleSentence": "We are taking measures to improve safety.",
+    "exampleTranslation": "Chúng tôi đang áp dụng các biện pháp để cải thiện an toàn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take steps",
+    "phonetic": "/ˌteɪk ˈsteps/",
+    "definition": "to do something in order to achieve a particular aim",
+    "translation": "thực hiện các bước, có biện pháp",
+    "exampleSentence": "The authority will take steps to reunite the family.",
+    "exampleTranslation": "Cơ quan chức năng sẽ có biện pháp để đoàn tụ gia đình.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take risks",
+    "phonetic": "/ˌteɪk ˈrɪsks/",
+    "definition": "to decide to do something even though you know it may be dangerous or have bad results",
+    "translation": "chấp nhận rủi ro",
+    "exampleSentence": "You have to take risks if you want to succeed.",
+    "exampleTranslation": "Bạn phải chấp nhận rủi ro nếu muốn thành công.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take part",
+    "phonetic": "/ˌteɪk ˈpɑːrt/",
+    "definition": "to be involved in an activity, sport or event",
+    "translation": "tham gia",
+    "exampleSentence": "About 400 students took part in the protest.",
+    "exampleTranslation": "Khoảng 400 sinh viên đã tham gia cuộc biểu tình.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take effect",
+    "phonetic": "/ˌteɪk ɪˈfekt/",
+    "definition": "to start to produce results",
+    "translation": "có hiệu lực, bắt đầu phát huy tác dụng",
+    "exampleSentence": "The medicine started to take effect after an hour.",
+    "exampleTranslation": "Thuốc bắt đầu có tác dụng sau một giờ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "take shape",
+    "phonetic": "/ˌteɪk ˈʃeɪp/",
+    "definition": "to develop into a clear and definite form",
+    "translation": "dần thành hình",
+    "exampleSentence": "The plan is slowly taking shape.",
+    "exampleTranslation": "Kế hoạch đang dần thành hình.",
+    "pos": "collocation"
+  },
+  {
+    "word": "play a role",
+    "phonetic": "/ˌpleɪ ə ˈroʊl/",
+    "definition": "to have an effect or influence on something",
+    "translation": "đóng vai trò",
+    "exampleSentence": "Teachers play an important role in children's lives.",
+    "exampleTranslation": "Giáo viên đóng vai trò quan trọng trong cuộc sống của trẻ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "make an attempt",
+    "phonetic": "/ˌmeɪk ən əˈtempt/",
+    "definition": "to try to do something",
+    "translation": "nỗ lực thử làm gì",
+    "exampleSentence": "She made several attempts to escape.",
+    "exampleTranslation": "Cô ấy đã nhiều lần cố gắng trốn thoát.",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a point",
+    "phonetic": "/ˌmeɪk ə ˈpɔɪnt/",
+    "definition": "to give an opinion or fact that supports your argument",
+    "translation": "nêu một ý kiến, nhấn mạnh một điểm",
+    "exampleSentence": "He made the point that change takes time.",
+    "exampleTranslation": "Anh ấy nhấn mạnh rằng thay đổi cần có thời gian.",
+    "pos": "collocation"
+  },
+  {
+    "word": "make an exception",
+    "phonetic": "/ˌmeɪk ən ɪkˈsepʃn/",
+    "definition": "to treat someone or something differently from the usual rule",
+    "translation": "cho phép ngoại lệ",
+    "exampleSentence": "We usually require a deposit, but I'll make an exception.",
+    "exampleTranslation": "Thường chúng tôi yêu cầu đặt cọc, nhưng tôi sẽ cho ngoại lệ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a comparison",
+    "phonetic": "/ˌmeɪk ə kəmˈpærɪsn/",
+    "definition": "to compare people or things",
+    "translation": "so sánh",
+    "exampleSentence": "It's easy to make comparisons between prices online.",
+    "exampleTranslation": "Rất dễ so sánh giá giữa các trang trực tuyến.",
+    "pos": "collocation"
+  },
+  {
+    "word": "make a contribution",
+    "phonetic": "/ˌmeɪk ə ˌkɑːntrɪˈbjuːʃn/",
+    "definition": "to give something that helps something succeed",
+    "translation": "đóng góp",
+    "exampleSentence": "Everyone can make a contribution to the discussion.",
+    "exampleTranslation": "Ai cũng có thể đóng góp vào cuộc thảo luận.",
+    "pos": "collocation"
+  },
+  {
+    "word": "launch a campaign",
+    "phonetic": "/ˌlɔːntʃ ə kæmˈpeɪn/",
+    "definition": "to begin a campaign",
+    "translation": "phát động chiến dịch",
+    "exampleSentence": "They launched a campaign to end world poverty.",
+    "exampleTranslation": "Họ phát động chiến dịch xóa đói giảm nghèo thế giới.",
+    "pos": "collocation"
+  },
+  {
+    "word": "launch a product",
+    "phonetic": "/ˌlɔːntʃ ə ˈprɑːdʌkt/",
+    "definition": "to make a new product available for sale",
+    "translation": "ra mắt sản phẩm",
+    "exampleSentence": "The company will launch a new product next month.",
+    "exampleTranslation": "Công ty sẽ ra mắt một sản phẩm mới vào tháng sau.",
+    "pos": "collocation"
+  },
+  {
+    "word": "submit an application",
+    "phonetic": "/səbˌmɪt ən ˌæplɪˈkeɪʃn/",
+    "definition": "to formally send a request for something such as a job or permission",
+    "translation": "nộp đơn",
+    "exampleSentence": "You must submit your application before Friday.",
+    "exampleTranslation": "Bạn phải nộp đơn trước thứ Sáu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "submit a report",
+    "phonetic": "/səbˌmɪt ə rɪˈpɔːrt/",
+    "definition": "to give a written report to someone",
+    "translation": "nộp báo cáo",
+    "exampleSentence": "Doctors have to submit weekly reports.",
+    "exampleTranslation": "Các bác sĩ phải nộp báo cáo hằng tuần.",
+    "pos": "collocation"
+  },
+  {
+    "word": "offer advice",
+    "phonetic": "/ˌɔːfər ədˈvaɪs/",
+    "definition": "to give someone an opinion about what they should do",
+    "translation": "đưa ra lời khuyên",
+    "exampleSentence": "The nurse offered advice on healthy eating.",
+    "exampleTranslation": "Y tá đưa ra lời khuyên về ăn uống lành mạnh.",
+    "pos": "collocation"
+  }
+]

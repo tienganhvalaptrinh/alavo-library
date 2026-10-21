@@ -1,0 +1,452 @@
+[
+  {
+    "word": "relatively cheap",
+    "phonetic": "/ˌrelətɪvli ˈtʃiːp/",
+    "definition": "cheap compared with other things",
+    "translation": "tương đối rẻ",
+    "exampleSentence": "The equipment is relatively cheap and simple to use.",
+    "exampleTranslation": "Thiết bị tương đối rẻ và dễ sử dụng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "slightly different",
+    "phonetic": "/ˌslaɪtli ˈdɪfrənt/",
+    "definition": "a little different",
+    "translation": "hơi khác",
+    "exampleSentence": "Let's try a slightly different way of doing things.",
+    "exampleTranslation": "Hãy thử một cách làm hơi khác.",
+    "pos": "collocation"
+  },
+  {
+    "word": "strongly opposed",
+    "phonetic": "/ˌstrɔːŋli əˈpoʊzd/",
+    "definition": "disagreeing very much with something",
+    "translation": "phản đối mạnh mẽ",
+    "exampleSentence": "I'm strongly opposed to capital punishment.",
+    "exampleTranslation": "Tôi phản đối mạnh mẽ án tử hình.",
+    "pos": "collocation"
+  },
+  {
+    "word": "strongly influenced",
+    "phonetic": "/ˌstrɔːŋli ˈɪnfluənst/",
+    "definition": "affected a lot by someone or something",
+    "translation": "chịu ảnh hưởng mạnh",
+    "exampleSentence": "Marx was strongly influenced by earlier historians.",
+    "exampleTranslation": "Marx chịu ảnh hưởng mạnh từ các sử gia trước đó.",
+    "pos": "collocation"
+  },
+  {
+    "word": "closely related",
+    "phonetic": "/ˌkloʊsli rɪˈleɪtɪd/",
+    "definition": "connected in a very clear way, or belonging to the same family",
+    "translation": "có liên quan chặt chẽ",
+    "exampleSentence": "Dolphins and porpoises are closely related.",
+    "exampleTranslation": "Cá heo và cá heo mõm ngắn có quan hệ họ hàng gần.",
+    "pos": "collocation"
+  },
+  {
+    "word": "closely connected",
+    "phonetic": "/ˌkloʊsli kəˈnektɪd/",
+    "definition": "linked in a very strong way",
+    "translation": "gắn bó chặt chẽ",
+    "exampleSentence": "Mr Edelson was closely connected with the college.",
+    "exampleTranslation": "Ông Edelson gắn bó chặt chẽ với trường.",
+    "pos": "collocation"
+  },
+  {
+    "word": "heavily armed",
+    "phonetic": "/ˌhevɪli ˈɑːrmd/",
+    "definition": "carrying a lot of weapons",
+    "translation": "được trang bị vũ khí nặng",
+    "exampleSentence": "The guards were heavily armed.",
+    "exampleTranslation": "Những người bảo vệ được trang bị vũ khí nặng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "heavily dependent",
+    "phonetic": "/ˌhevɪli dɪˈpendənt/",
+    "definition": "needing something or someone to a very high degree",
+    "translation": "phụ thuộc nặng nề",
+    "exampleSentence": "Britain is heavily dependent on imports for its raw materials.",
+    "exampleTranslation": "Nước Anh phụ thuộc nặng vào nhập khẩu nguyên liệu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "sharply critical",
+    "phonetic": "/ˌʃɑːrpli ˈkrɪtɪkl/",
+    "definition": "disapproving in a strong, unfriendly way",
+    "translation": "chỉ trích gay gắt",
+    "exampleSentence": "The report was sharply critical of the police.",
+    "exampleTranslation": "Bản báo cáo chỉ trích gay gắt cảnh sát.",
+    "pos": "collocation"
+  },
+  {
+    "word": "sharply divided",
+    "phonetic": "/ˌʃɑːrpli dɪˈvaɪdɪd/",
+    "definition": "clearly separated into groups with very different views",
+    "translation": "chia rẽ rõ rệt",
+    "exampleSentence": "Opinion is sharply divided.",
+    "exampleTranslation": "Ý kiến chia rẽ rõ rệt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "acutely aware",
+    "phonetic": "/əˌkjuːtli əˈwer/",
+    "definition": "knowing very clearly that something exists or is a problem",
+    "translation": "nhận thức rất rõ",
+    "exampleSentence": "Students are becoming acutely aware that they need more than a degree.",
+    "exampleTranslation": "Sinh viên ngày càng nhận thức rất rõ rằng họ cần nhiều hơn một tấm bằng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "blindingly obvious",
+    "phonetic": "/ˌblaɪndɪŋli ˈɑːbviəs/",
+    "definition": "extremely obvious",
+    "translation": "rõ như ban ngày",
+    "exampleSentence": "It was blindingly obvious that Max wasn't interested.",
+    "exampleTranslation": "Rõ như ban ngày là Max không hứng thú.",
+    "pos": "collocation"
+  },
+  {
+    "word": "stunningly beautiful",
+    "phonetic": "/ˌstʌnɪŋli ˈbjuːtɪfl/",
+    "definition": "extremely beautiful, in a way that surprises you",
+    "translation": "đẹp đến choáng ngợp",
+    "exampleSentence": "She is a stunningly beautiful woman.",
+    "exampleTranslation": "Cô ấy là một người phụ nữ đẹp choáng ngợp.",
+    "pos": "collocation"
+  },
+  {
+    "word": "terribly wrong",
+    "phonetic": "/ˌterəbli ˈrɔːŋ/",
+    "definition": "very badly wrong",
+    "translation": "sai trầm trọng, có chuyện không ổn",
+    "exampleSentence": "Harry felt sure that something was terribly wrong.",
+    "exampleTranslation": "Harry chắc chắn có chuyện gì đó rất không ổn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "desperately poor",
+    "phonetic": "/ˌdesprətli ˈpʊr/",
+    "definition": "so poor that it causes great suffering",
+    "translation": "nghèo khốn khổ",
+    "exampleSentence": "Many of the families are desperately poor.",
+    "exampleTranslation": "Nhiều gia đình nghèo khốn khổ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "desperately need",
+    "phonetic": "/ˌdesprətli ˈniːd/",
+    "definition": "to need something very much",
+    "translation": "rất cần, cần gấp",
+    "exampleSentence": "The crops desperately need rain.",
+    "exampleTranslation": "Mùa màng rất cần mưa.",
+    "pos": "collocation"
+  },
+  {
+    "word": "bone dry",
+    "phonetic": "/ˌboʊn ˈdraɪ/",
+    "definition": "completely dry",
+    "translation": "khô cong",
+    "exampleSentence": "There had been no rain for months and the land was bone dry.",
+    "exampleTranslation": "Mấy tháng không có mưa và đất khô cong.",
+    "pos": "collocation"
+  },
+  {
+    "word": "brand new",
+    "phonetic": "/ˌbrænd ˈnuː/",
+    "definition": "new and not yet used",
+    "translation": "mới tinh",
+    "exampleSentence": "Jake arrived in his brand new car.",
+    "exampleTranslation": "Jake đến bằng chiếc xe mới tinh của anh ấy.",
+    "pos": "collocation"
+  },
+  {
+    "word": "dead serious",
+    "phonetic": "/ˌded ˈsɪriəs/",
+    "definition": "completely serious, not joking",
+    "translation": "cực kỳ nghiêm túc",
+    "exampleSentence": "She sounded dead serious.",
+    "exampleTranslation": "Cô ấy nghe có vẻ cực kỳ nghiêm túc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "stark naked",
+    "phonetic": "/ˌstɑːrk ˈneɪkɪd/",
+    "definition": "not wearing any clothes",
+    "translation": "trần như nhộng",
+    "exampleSentence": "Ben was standing there stark naked.",
+    "exampleTranslation": "Ben đứng đó trần như nhộng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "pitch black",
+    "phonetic": "/ˌpɪtʃ ˈblæk/",
+    "definition": "completely black or dark",
+    "translation": "tối đen như mực",
+    "exampleSentence": "It was still pitch black outside.",
+    "exampleTranslation": "Bên ngoài vẫn tối đen như mực.",
+    "pos": "collocation"
+  },
+  {
+    "word": "crystal clear",
+    "phonetic": "/ˌkrɪstl ˈklɪr/",
+    "definition": "extremely clear",
+    "translation": "rõ ràng như pha lê, trong vắt",
+    "exampleSentence": "The instructions were crystal clear.",
+    "exampleTranslation": "Hướng dẫn rất rõ ràng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "razor sharp",
+    "phonetic": "/ˌreɪzər ˈʃɑːrp/",
+    "definition": "very sharp",
+    "translation": "sắc như dao cạo",
+    "exampleSentence": "The tiger's teeth are razor sharp.",
+    "exampleTranslation": "Răng con hổ sắc như dao cạo.",
+    "pos": "collocation"
+  },
+  {
+    "word": "ice cold",
+    "phonetic": "/ˌaɪs ˈkoʊld/",
+    "definition": "very cold",
+    "translation": "lạnh như băng",
+    "exampleSentence": "I'd love an ice-cold drink.",
+    "exampleTranslation": "Tôi muốn uống một ly nước lạnh như băng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "boiling hot",
+    "phonetic": "/ˌbɔɪlɪŋ ˈhɑːt/",
+    "definition": "extremely hot",
+    "translation": "nóng như thiêu",
+    "exampleSentence": "It was a boiling hot morning.",
+    "exampleTranslation": "Đó là một buổi sáng nóng như thiêu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "genuinely interested",
+    "phonetic": "/ˌdʒenjuɪnli ˈɪntrəstɪd/",
+    "definition": "interested in a real and sincere way",
+    "translation": "thực sự quan tâm",
+    "exampleSentence": "She seemed genuinely interested in my work.",
+    "exampleTranslation": "Cô ấy có vẻ thực sự quan tâm đến công việc của tôi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "naturally curious",
+    "phonetic": "/ˌnætʃrəli ˈkjʊriəs/",
+    "definition": "wanting to know about things as part of your nature",
+    "translation": "tò mò bẩm sinh",
+    "exampleSentence": "Puppies are naturally curious.",
+    "exampleTranslation": "Chó con vốn tò mò bẩm sinh.",
+    "pos": "collocation"
+  },
+  {
+    "word": "politically correct",
+    "phonetic": "/pəˌlɪtɪkli kəˈrekt/",
+    "definition": "using language that avoids offending particular groups of people",
+    "translation": "đúng đắn về mặt chính trị, tránh xúc phạm",
+    "exampleSentence": "He doesn't care about being politically correct.",
+    "exampleTranslation": "Anh ấy không quan tâm đến việc nói cho đúng đắn về mặt chính trị.",
+    "pos": "collocation"
+  },
+  {
+    "word": "financially secure",
+    "phonetic": "/faɪˌnænʃəli sɪˈkjʊr/",
+    "definition": "having enough money so that you do not worry about the future",
+    "translation": "ổn định về tài chính",
+    "exampleSentence": "It was enough money to make us feel financially secure.",
+    "exampleTranslation": "Số tiền đó đủ để chúng tôi thấy ổn định về tài chính.",
+    "pos": "collocation"
+  },
+  {
+    "word": "socially acceptable",
+    "phonetic": "/ˌsoʊʃəli əkˈseptəbl/",
+    "definition": "considered acceptable by most people in a society",
+    "translation": "được xã hội chấp nhận",
+    "exampleSentence": "It is not socially acceptable to shout in a library.",
+    "exampleTranslation": "La hét trong thư viện không được xã hội chấp nhận.",
+    "pos": "collocation"
+  },
+  {
+    "word": "environmentally friendly",
+    "phonetic": "/ɪnˌvaɪrənˌmentəli ˈfrendli/",
+    "definition": "not harmful to the environment",
+    "translation": "thân thiện với môi trường",
+    "exampleSentence": "Cycling is very environmentally friendly.",
+    "exampleTranslation": "Đạp xe rất thân thiện với môi trường.",
+    "pos": "collocation"
+  },
+  {
+    "word": "technically possible",
+    "phonetic": "/ˌteknɪkli ˈpɑːsəbl/",
+    "definition": "possible with the technology that is available",
+    "translation": "khả thi về mặt kỹ thuật",
+    "exampleSentence": "Even if it were technically possible, we don't have the money.",
+    "exampleTranslation": "Dù khả thi về mặt kỹ thuật thì chúng ta cũng không có tiền.",
+    "pos": "collocation"
+  },
+  {
+    "word": "physically fit",
+    "phonetic": "/ˌfɪzɪkli ˈfɪt/",
+    "definition": "healthy and strong in your body",
+    "translation": "có thể lực tốt",
+    "exampleSentence": "She is young and physically fit.",
+    "exampleTranslation": "Cô ấy trẻ và có thể lực tốt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "mentally exhausted",
+    "phonetic": "/ˌmentəli ɪɡˈzɔːstɪd/",
+    "definition": "extremely tired in your mind",
+    "translation": "kiệt sức về tinh thần",
+    "exampleSentence": "At the end of my exams I was mentally exhausted.",
+    "exampleTranslation": "Cuối kỳ thi tôi kiệt sức về tinh thần.",
+    "pos": "collocation"
+  },
+  {
+    "word": "legally binding",
+    "phonetic": "/ˌliːɡəli ˈbaɪndɪŋ/",
+    "definition": "according to the law, something that must be obeyed",
+    "translation": "có giá trị ràng buộc về mặt pháp lý",
+    "exampleSentence": "This is a legally binding agreement.",
+    "exampleTranslation": "Đây là một thỏa thuận có giá trị ràng buộc về mặt pháp lý.",
+    "pos": "collocation"
+  },
+  {
+    "word": "morally wrong",
+    "phonetic": "/ˌmɔːrəli ˈrɔːŋ/",
+    "definition": "wrong according to ideas about what is right and good",
+    "translation": "sai trái về mặt đạo đức",
+    "exampleSentence": "What you did wasn't illegal, but it was morally wrong.",
+    "exampleTranslation": "Việc bạn làm không phạm pháp nhưng sai trái về mặt đạo đức.",
+    "pos": "collocation"
+  },
+  {
+    "word": "strongly recommend",
+    "phonetic": "/ˌstrɔːŋli ˌrekəˈmend/",
+    "definition": "to advise someone to do something in a way that is meant to persuade them",
+    "translation": "khuyên mạnh mẽ",
+    "exampleSentence": "I strongly recommend booking in advance.",
+    "exampleTranslation": "Tôi khuyên bạn nên đặt trước.",
+    "pos": "collocation"
+  },
+  {
+    "word": "strongly disagree",
+    "phonetic": "/ˌstrɔːŋli ˌdɪsəˈɡriː/",
+    "definition": "to have a very different opinion from someone",
+    "translation": "hoàn toàn không đồng ý",
+    "exampleSentence": "Barr strongly disagreed with the statement.",
+    "exampleTranslation": "Barr hoàn toàn không đồng ý với tuyên bố đó.",
+    "pos": "collocation"
+  },
+  {
+    "word": "strongly believe",
+    "phonetic": "/ˌstrɔːŋli bɪˈliːv/",
+    "definition": "to feel very sure that something is true",
+    "translation": "tin tưởng mạnh mẽ",
+    "exampleSentence": "We strongly believe that she is innocent.",
+    "exampleTranslation": "Chúng tôi tin chắc rằng cô ấy vô tội.",
+    "pos": "collocation"
+  },
+  {
+    "word": "deeply regret",
+    "phonetic": "/ˌdiːpli rɪˈɡret/",
+    "definition": "to feel very sorry about something",
+    "translation": "vô cùng hối tiếc",
+    "exampleSentence": "I deeply regret what happened.",
+    "exampleTranslation": "Tôi vô cùng hối tiếc về những gì đã xảy ra.",
+    "pos": "collocation"
+  },
+  {
+    "word": "firmly convinced",
+    "phonetic": "/ˌfɜːrmli kənˈvɪnst/",
+    "definition": "feeling certain that something is true",
+    "translation": "hoàn toàn tin chắc",
+    "exampleSentence": "Herschel was firmly convinced of the possibility of life on other planets.",
+    "exampleTranslation": "Herschel hoàn toàn tin vào khả năng có sự sống ở các hành tinh khác.",
+    "pos": "collocation"
+  },
+  {
+    "word": "sincerely hope",
+    "phonetic": "/sɪnˌsɪrli ˈhoʊp/",
+    "definition": "to truly want something to happen",
+    "translation": "chân thành hy vọng",
+    "exampleSentence": "I sincerely hope I'll see her again.",
+    "exampleTranslation": "Tôi chân thành hy vọng sẽ gặp lại cô ấy.",
+    "pos": "collocation"
+  },
+  {
+    "word": "seriously consider",
+    "phonetic": "/ˌsɪriəsli kənˈsɪdər/",
+    "definition": "to think about something carefully before deciding",
+    "translation": "cân nhắc nghiêm túc",
+    "exampleSentence": "I'm seriously considering changing jobs.",
+    "exampleTranslation": "Tôi đang cân nhắc nghiêm túc việc đổi việc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "closely monitor",
+    "phonetic": "/ˌkloʊsli ˈmɑːnɪtər/",
+    "definition": "to watch something very carefully over a period of time",
+    "translation": "theo dõi sát sao",
+    "exampleSentence": "Doctors will closely monitor her condition.",
+    "exampleTranslation": "Các bác sĩ sẽ theo dõi sát sao tình trạng của cô ấy.",
+    "pos": "collocation"
+  },
+  {
+    "word": "closely resemble",
+    "phonetic": "/ˌkloʊsli rɪˈzembl/",
+    "definition": "to look like or be similar to someone or something",
+    "translation": "giống hệt",
+    "exampleSentence": "This poem closely resembles an earlier one.",
+    "exampleTranslation": "Bài thơ này giống hệt một bài thơ trước đó.",
+    "pos": "collocation"
+  },
+  {
+    "word": "bitterly regret",
+    "phonetic": "/ˌbɪtərli rɪˈɡret/",
+    "definition": "to feel very sorry about something you did",
+    "translation": "hối hận cay đắng",
+    "exampleSentence": "I bitterly regretted my decision to leave.",
+    "exampleTranslation": "Tôi hối hận cay đắng về quyết định ra đi của mình.",
+    "pos": "collocation"
+  },
+  {
+    "word": "openly admit",
+    "phonetic": "/ˌoʊpənli ədˈmɪt/",
+    "definition": "to agree that something is true without hiding it",
+    "translation": "công khai thừa nhận",
+    "exampleSentence": "Phillips openly admits to having a drinking problem.",
+    "exampleTranslation": "Phillips công khai thừa nhận mình có vấn đề với rượu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "urgently need",
+    "phonetic": "/ˌɜːrdʒəntli ˈniːd/",
+    "definition": "to need something very quickly",
+    "translation": "cần gấp",
+    "exampleSentence": "More blood donors are urgently needed.",
+    "exampleTranslation": "Đang cần gấp thêm người hiến máu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "greatly appreciate",
+    "phonetic": "/ˌɡreɪtli əˈpriːʃieɪt/",
+    "definition": "to be very thankful for something",
+    "translation": "vô cùng biết ơn",
+    "exampleSentence": "All offers of help will be greatly appreciated.",
+    "exampleTranslation": "Mọi lời đề nghị giúp đỡ đều được vô cùng trân trọng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "sorely missed",
+    "phonetic": "/ˌsɔːrli ˈmɪst/",
+    "definition": "missed very much because someone or something is not there",
+    "translation": "rất được nhớ tiếc",
+    "exampleSentence": "John will be sorely missed by his family and friends.",
+    "exampleTranslation": "John sẽ được gia đình và bạn bè rất nhớ tiếc.",
+    "pos": "collocation"
+  }
+]

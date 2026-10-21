@@ -1,0 +1,452 @@
+[
+  {
+    "word": "a stroke of luck",
+    "phonetic": "/ə ˌstroʊk əv ˈlʌk/",
+    "definition": "something lucky that happens to you unexpectedly",
+    "translation": "một sự may mắn bất ngờ",
+    "exampleSentence": "Finding a seat on the last train was a real stroke of luck.",
+    "exampleTranslation": "Tìm được chỗ ngồi trên chuyến tàu cuối thật sự là một sự may mắn bất ngờ.",
+    "pos": "idiom"
+  },
+  {
+    "word": "by the skin of your teeth",
+    "phonetic": "/baɪ ðə ˌskɪn əv jər ˈtiːθ/",
+    "definition": "only just succeeding in doing something; informal",
+    "translation": "suýt soát, trong gang tấc",
+    "exampleSentence": "We caught the train by the skin of our teeth.",
+    "exampleTranslation": "Chúng tôi bắt kịp chuyến tàu trong gang tấc.",
+    "pos": "idiom"
+  },
+  {
+    "word": "hit the jackpot",
+    "phonetic": "/ˌhɪt ðə ˈdʒækpɑːt/",
+    "definition": "to win a lot of money, or to have great success",
+    "translation": "trúng số, gặp vận may lớn",
+    "exampleSentence": "He hit the jackpot when his app became popular overnight.",
+    "exampleTranslation": "Anh ấy gặp vận may lớn khi ứng dụng của mình nổi tiếng chỉ sau một đêm.",
+    "pos": "idiom"
+  },
+  {
+    "word": "break a leg",
+    "phonetic": "/ˌbreɪk ə ˈleɡ/",
+    "definition": "used to wish someone luck, especially before they perform on stage",
+    "translation": "chúc may mắn (trước khi biểu diễn)",
+    "exampleSentence": "Tonight is your big performance. Break a leg!",
+    "exampleTranslation": "Tối nay là buổi diễn lớn của bạn. Chúc may mắn!",
+    "pos": "idiom"
+  },
+  {
+    "word": "fingers crossed",
+    "phonetic": "/ˌfɪŋɡərz ˈkrɔːst/",
+    "definition": "used to say that you hope something will happen the way you want",
+    "translation": "mong là sẽ ổn, cầu may",
+    "exampleSentence": "The results come out today. Fingers crossed!",
+    "exampleTranslation": "Hôm nay có kết quả. Cầu mong mọi chuyện suôn sẻ!",
+    "pos": "idiom"
+  },
+  {
+    "word": "touch wood",
+    "phonetic": "/ˌtʌtʃ ˈwʊd/",
+    "definition": "said after you say things are going well, so that your good luck continues; British English",
+    "translation": "cầu trời đừng xui",
+    "exampleSentence": "I haven't been ill all winter, touch wood.",
+    "exampleTranslation": "Cả mùa đông tôi chưa ốm lần nào, cầu trời đừng xui.",
+    "pos": "idiom"
+  },
+  {
+    "word": "in the nick of time",
+    "phonetic": "/ɪn ðə ˌnɪk əv ˈtaɪm/",
+    "definition": "just before it is too late",
+    "translation": "vừa kịp lúc",
+    "exampleSentence": "The ambulance arrived in the nick of time.",
+    "exampleTranslation": "Xe cứu thương đến vừa kịp lúc.",
+    "pos": "idiom"
+  },
+  {
+    "word": "jump the gun",
+    "phonetic": "/ˌdʒʌmp ðə ˈɡʌn/",
+    "definition": "to start doing something too soon, without thinking carefully",
+    "translation": "làm quá vội, hành động sớm",
+    "exampleSentence": "Don't jump the gun. We haven't heard the final decision yet.",
+    "exampleTranslation": "Đừng vội. Chúng ta chưa nghe quyết định cuối cùng.",
+    "pos": "idiom"
+  },
+  {
+    "word": "play it by ear",
+    "phonetic": "/ˌpleɪ ɪt baɪ ˈɪr/",
+    "definition": "to decide what to do as a situation develops, without making plans",
+    "translation": "tùy cơ ứng biến",
+    "exampleSentence": "I don't know what we'll do tomorrow. Let's play it by ear.",
+    "exampleTranslation": "Tôi không biết ngày mai làm gì. Cứ tùy cơ ứng biến nhé.",
+    "pos": "idiom"
+  },
+  {
+    "word": "cross that bridge when you come to it",
+    "phonetic": "/ˌkrɔːs ðæt ˈbrɪdʒ wen ju ˈkʌm tə ɪt/",
+    "definition": "used to say you will not worry about a problem until it actually happens",
+    "translation": "đến đâu hay đến đó",
+    "exampleSentence": "What if we run out of money? We'll cross that bridge when we come to it.",
+    "exampleTranslation": "Lỡ hết tiền thì sao? Đến lúc đó hẵng tính.",
+    "pos": "idiom"
+  },
+  {
+    "word": "kill two birds with one stone",
+    "phonetic": "/ˌkɪl ˌtuː ˈbɜːrdz wɪð ˌwʌn ˈstoʊn/",
+    "definition": "to achieve two things with one action",
+    "translation": "một mũi tên trúng hai đích",
+    "exampleSentence": "I'll kill two birds with one stone and buy milk on my way to work.",
+    "exampleTranslation": "Tôi sẽ tiện thể mua sữa trên đường đi làm, một công đôi việc.",
+    "pos": "idiom"
+  },
+  {
+    "word": "the best of both worlds",
+    "phonetic": "/ðə ˌbest əv ˌboʊθ ˈwɜːrldz/",
+    "definition": "a situation in which you have the advantages of two different things",
+    "translation": "vẹn cả đôi đường",
+    "exampleSentence": "Working from home two days a week gives you the best of both worlds.",
+    "exampleTranslation": "Làm việc ở nhà hai ngày mỗi tuần giúp bạn vẹn cả đôi đường.",
+    "pos": "idiom"
+  },
+  {
+    "word": "better late than never",
+    "phonetic": "/ˌbetər ˌleɪt ðən ˈnevər/",
+    "definition": "used to say it is better for someone or something to arrive late than not at all; spoken",
+    "translation": "muộn còn hơn không",
+    "exampleSentence": "You finally finished the report. Well, better late than never.",
+    "exampleTranslation": "Cuối cùng bạn cũng làm xong báo cáo. Thôi, muộn còn hơn không.",
+    "pos": "idiom"
+  },
+  {
+    "word": "no pain no gain",
+    "phonetic": "/ˌnoʊ ˌpeɪn ˌnoʊ ˈɡeɪn/",
+    "definition": "used to say you can only achieve something by suffering or working hard",
+    "translation": "không vất vả thì không có thành quả",
+    "exampleSentence": "Training is hard, but no pain no gain.",
+    "exampleTranslation": "Tập luyện vất vả, nhưng không vất vả thì không có thành quả.",
+    "pos": "idiom"
+  },
+  {
+    "word": "practice makes perfect",
+    "phonetic": "/ˌpræktɪs ˌmeɪks ˈpɜːrfɪkt/",
+    "definition": "used to say that doing something regularly makes you very good at it",
+    "translation": "có công mài sắt có ngày nên kim",
+    "exampleSentence": "Keep playing every day. Practice makes perfect.",
+    "exampleTranslation": "Cứ chơi mỗi ngày nhé. Luyện tập sẽ giúp bạn giỏi.",
+    "pos": "idiom"
+  },
+  {
+    "word": "actions speak louder than words",
+    "phonetic": "/ˌækʃnz ˌspiːk ˌlaʊdər ðən ˈwɜːrdz/",
+    "definition": "used to say people are judged by what they do, not by what they say",
+    "translation": "nói không bằng làm",
+    "exampleSentence": "He keeps promising to help, but actions speak louder than words.",
+    "exampleTranslation": "Anh ta cứ hứa giúp, nhưng nói không bằng làm.",
+    "pos": "idiom"
+  },
+  {
+    "word": "easier said than done",
+    "phonetic": "/ˌiːziər ˌsed ðən ˈdʌn/",
+    "definition": "used to say that something would be very difficult to do",
+    "translation": "nói thì dễ, làm mới khó",
+    "exampleSentence": "\"Just ignore him.\" \"That's easier said than done.\"",
+    "exampleTranslation": "\"Cứ lờ anh ta đi.\" \"Nói thì dễ, làm mới khó.\"",
+    "pos": "idiom"
+  },
+  {
+    "word": "all's well that ends well",
+    "phonetic": "/ˌɔːlz ˌwel ðæt ˌendz ˈwel/",
+    "definition": "used to say that a difficult situation has ended with a good result",
+    "translation": "kết thúc tốt đẹp là được",
+    "exampleSentence": "We got lost, but we made it in time. All's well that ends well.",
+    "exampleTranslation": "Chúng tôi bị lạc, nhưng vẫn đến kịp. Kết thúc tốt đẹp là được.",
+    "pos": "idiom"
+  },
+  {
+    "word": "the more the merrier",
+    "phonetic": "/ðə ˌmɔːr ðə ˈmeriər/",
+    "definition": "used to say you are happy for other people to join you; spoken",
+    "translation": "càng đông càng vui",
+    "exampleSentence": "\"Can I bring a friend?\" \"Sure, the more the merrier.\"",
+    "exampleTranslation": "\"Tôi dẫn thêm bạn được không?\" \"Được chứ, càng đông càng vui.\"",
+    "pos": "idiom"
+  },
+  {
+    "word": "time flies",
+    "phonetic": "/ˌtaɪm ˈflaɪz/",
+    "definition": "used to say that time seems to pass very quickly",
+    "translation": "thời gian trôi nhanh thật",
+    "exampleSentence": "It's already December. Time flies!",
+    "exampleTranslation": "Đã tháng Mười Hai rồi. Thời gian trôi nhanh thật!",
+    "pos": "idiom"
+  },
+  {
+    "word": "every cloud has a silver lining",
+    "phonetic": "/ˌevri ˌklaʊd hæz ə ˌsɪlvər ˈlaɪnɪŋ/",
+    "definition": "used to say there is something good even in a sad or difficult situation",
+    "translation": "trong cái rủi có cái may",
+    "exampleSentence": "I lost my job, but I found a better one. Every cloud has a silver lining.",
+    "exampleTranslation": "Tôi mất việc, nhưng tìm được việc tốt hơn. Trong cái rủi có cái may.",
+    "pos": "idiom"
+  },
+  {
+    "word": "it's not rocket science",
+    "phonetic": "/ɪts ˌnɑːt ˈrɑːkɪt ˌsaɪəns/",
+    "definition": "used to say that something is not difficult to do or understand; informal",
+    "translation": "có phải việc gì ghê gớm đâu, dễ thôi",
+    "exampleSentence": "Setting up the printer isn't hard. It's not rocket science.",
+    "exampleTranslation": "Cài máy in không khó. Có phải việc gì ghê gớm đâu.",
+    "pos": "idiom"
+  },
+  {
+    "word": "it's a small world",
+    "phonetic": "/ɪts ə ˌsmɔːl ˈwɜːrld/",
+    "definition": "used to show surprise when you meet someone you know in an unexpected place",
+    "translation": "trái đất tròn thật",
+    "exampleSentence": "You know my cousin too? It's a small world!",
+    "exampleTranslation": "Bạn cũng quen anh họ tôi à? Trái đất tròn thật!",
+    "pos": "idiom"
+  },
+  {
+    "word": "when pigs fly",
+    "phonetic": "/wen ˌpɪɡz ˈflaɪ/",
+    "definition": "used to say that you do not think something will ever happen",
+    "translation": "đời nào, đến bao giờ mới có chuyện đó",
+    "exampleSentence": "\"He says he'll pay me back.\" \"Yes, when pigs fly.\"",
+    "exampleTranslation": "\"Anh ta bảo sẽ trả tiền lại cho tôi.\" \"Ừ, đời nào.\"",
+    "pos": "idiom"
+  },
+  {
+    "word": "the early bird catches the worm",
+    "phonetic": "/ði ˌɜːrli ˌbɜːrd ˌkætʃɪz ðə ˈwɜːrm/",
+    "definition": "used to say that if you do something early, you will be successful",
+    "translation": "trâu chậm uống nước đục (người dậy sớm được lợi)",
+    "exampleSentence": "Get to the sale early. The early bird catches the worm.",
+    "exampleTranslation": "Đến buổi giảm giá sớm nhé. Ai đến sớm người đó được lợi.",
+    "pos": "idiom"
+  },
+  {
+    "word": "don't judge a book by its cover",
+    "phonetic": "/ˌdoʊnt ˌdʒʌdʒ ə ˈbʊk baɪ ɪts ˈkʌvər/",
+    "definition": "used to say you should not form an opinion about something only from how it looks",
+    "translation": "đừng trông mặt mà bắt hình dong",
+    "exampleSentence": "The café looks tiny, but don't judge a book by its cover.",
+    "exampleTranslation": "Quán cà phê trông nhỏ xíu, nhưng đừng trông mặt mà bắt hình dong.",
+    "pos": "idiom"
+  },
+  {
+    "word": "the grass is always greener",
+    "phonetic": "/ðə ˌɡræs ɪz ˌɔːlweɪz ˈɡriːnər/",
+    "definition": "used to say other places or situations seem better than yours, although they may not be",
+    "translation": "đứng núi này trông núi nọ",
+    "exampleSentence": "He keeps changing jobs. The grass is always greener, I suppose.",
+    "exampleTranslation": "Anh ấy cứ đổi việc liên tục. Chắc là đứng núi này trông núi nọ.",
+    "pos": "idiom"
+  },
+  {
+    "word": "a blessing in disguise",
+    "phonetic": "/ə ˌblesɪŋ ɪn dɪsˈɡaɪz/",
+    "definition": "something that seems bad at first but is later seen to be good",
+    "translation": "trong họa có phúc",
+    "exampleSentence": "Missing that flight was a blessing in disguise.",
+    "exampleTranslation": "Lỡ chuyến bay đó hóa ra lại là trong họa có phúc.",
+    "pos": "idiom"
+  },
+  {
+    "word": "piece of cake",
+    "phonetic": "/ˌpiːs əv ˈkeɪk/",
+    "definition": "something that is very easy to do; spoken",
+    "translation": "dễ như ăn bánh",
+    "exampleSentence": "The exam was a piece of cake.",
+    "exampleTranslation": "Bài thi dễ như ăn bánh.",
+    "pos": "idiom"
+  },
+  {
+    "word": "once in a blue moon",
+    "phonetic": "/ˌwʌns ɪn ə ˌbluː ˈmuːn/",
+    "definition": "very rarely; informal",
+    "translation": "hiếm lắm mới có, năm thì mười họa",
+    "exampleSentence": "We only eat out once in a blue moon.",
+    "exampleTranslation": "Chúng tôi hiếm lắm mới đi ăn ngoài.",
+    "pos": "idiom"
+  },
+  {
+    "word": "under the weather",
+    "phonetic": "/ˌʌndər ðə ˈweðər/",
+    "definition": "slightly ill; informal",
+    "translation": "hơi mệt, không khỏe",
+    "exampleSentence": "I'm feeling a bit under the weather today.",
+    "exampleTranslation": "Hôm nay tôi thấy hơi không khỏe.",
+    "pos": "idiom"
+  },
+  {
+    "word": "the last straw",
+    "phonetic": "/ðə ˌlæst ˈstrɔː/",
+    "definition": "the last problem in a series that finally makes you give up or lose patience",
+    "translation": "giọt nước làm tràn ly",
+    "exampleSentence": "Being asked to work on my day off was the last straw.",
+    "exampleTranslation": "Bị yêu cầu đi làm vào ngày nghỉ là giọt nước làm tràn ly.",
+    "pos": "idiom"
+  },
+  {
+    "word": "a long shot",
+    "phonetic": "/ə ˌlɔːŋ ˈʃɑːt/",
+    "definition": "a plan worth trying even though it is unlikely to succeed",
+    "translation": "hy vọng mong manh, canh bạc khó thành",
+    "exampleSentence": "It's a long shot, but it's worth asking.",
+    "exampleTranslation": "Hy vọng mong manh, nhưng cũng đáng thử hỏi.",
+    "pos": "idiom"
+  },
+  {
+    "word": "in the same boat",
+    "phonetic": "/ɪn ðə ˌseɪm ˈboʊt/",
+    "definition": "in the same difficult situation as someone else",
+    "translation": "cùng cảnh ngộ",
+    "exampleSentence": "Don't worry. We're all in the same boat.",
+    "exampleTranslation": "Đừng lo. Tất cả chúng ta đều cùng cảnh ngộ.",
+    "pos": "idiom"
+  },
+  {
+    "word": "out of the woods",
+    "phonetic": "/ˌaʊt əv ðə ˈwʊdz/",
+    "definition": "out of danger or difficulty; usually used in the negative, informal",
+    "translation": "qua cơn nguy hiểm",
+    "exampleSentence": "The patient is stable, but he's not out of the woods yet.",
+    "exampleTranslation": "Bệnh nhân đã ổn định, nhưng vẫn chưa qua cơn nguy hiểm.",
+    "pos": "idiom"
+  },
+  {
+    "word": "on thin ice",
+    "phonetic": "/ɑːn ˌθɪn ˈaɪs/",
+    "definition": "in a situation where you are likely to upset someone or cause trouble",
+    "translation": "đang ở thế nguy hiểm, đi trên dây",
+    "exampleSentence": "After being late three times, he's on thin ice with his boss.",
+    "exampleTranslation": "Sau ba lần đi muộn, anh ấy đang ở thế nguy hiểm với sếp.",
+    "pos": "idiom"
+  },
+  {
+    "word": "in hot water",
+    "phonetic": "/ɪn ˌhɑːt ˈwɔːtər/",
+    "definition": "in trouble because of something you have done",
+    "translation": "gặp rắc rối, lâm vào tình thế khó xử",
+    "exampleSentence": "He's in hot water for forgetting the meeting.",
+    "exampleTranslation": "Anh ấy gặp rắc rối vì quên cuộc họp.",
+    "pos": "idiom"
+  },
+  {
+    "word": "in a pickle",
+    "phonetic": "/ɪn ə ˈpɪkl/",
+    "definition": "in a very difficult situation and not knowing what to do; old-fashioned",
+    "translation": "lâm vào cảnh khó xử",
+    "exampleSentence": "I lost my wallet and I'm in a bit of a pickle.",
+    "exampleTranslation": "Tôi làm mất ví và đang ở trong tình thế hơi khó xử.",
+    "pos": "idiom"
+  },
+  {
+    "word": "up in the air",
+    "phonetic": "/ˌʌp ɪn ði ˈer/",
+    "definition": "if something is up in the air, no decision has been made about it yet",
+    "translation": "chưa quyết định, còn bỏ ngỏ",
+    "exampleSentence": "Our holiday plans are still up in the air.",
+    "exampleTranslation": "Kế hoạch đi nghỉ của chúng tôi vẫn còn bỏ ngỏ.",
+    "pos": "idiom"
+  },
+  {
+    "word": "the whole nine yards",
+    "phonetic": "/ðə ˌhoʊl ˌnaɪn ˈjɑːrdz/",
+    "definition": "including everything that is typical or possible; American English, spoken",
+    "translation": "đầy đủ mọi thứ, làm hết mức",
+    "exampleSentence": "They gave us the whole nine yards: dinner, music and a tour.",
+    "exampleTranslation": "Họ chiêu đãi đầy đủ mọi thứ: bữa tối, âm nhạc và cả chuyến tham quan.",
+    "pos": "idiom"
+  },
+  {
+    "word": "a no-brainer",
+    "phonetic": "/ə ˈnoʊ ˌbreɪnər/",
+    "definition": "a decision that is easy and that you do not need to think about; informal",
+    "translation": "quyết định quá dễ",
+    "exampleSentence": "Accepting a free ticket was a no-brainer.",
+    "exampleTranslation": "Nhận vé miễn phí là quyết định quá dễ.",
+    "pos": "idiom"
+  },
+  {
+    "word": "a piece of the action",
+    "phonetic": "/ə ˌpiːs əv ði ˈækʃn/",
+    "definition": "a share of the money or excitement from an activity; informal",
+    "translation": "một phần lợi nhuận, một phần tham gia",
+    "exampleSentence": "Everyone wants a piece of the action now that the business is successful.",
+    "exampleTranslation": "Giờ việc kinh doanh thành công, ai cũng muốn có phần.",
+    "pos": "idiom"
+  },
+  {
+    "word": "a win-win situation",
+    "phonetic": "/ə ˌwɪn ˈwɪn ˌsɪtʃuˈeɪʃn/",
+    "definition": "a situation or solution that will end well for everyone involved",
+    "translation": "tình huống đôi bên cùng có lợi",
+    "exampleSentence": "If we share the costs, it's a win-win situation.",
+    "exampleTranslation": "Nếu chia chi phí thì đôi bên cùng có lợi.",
+    "pos": "idiom"
+  },
+  {
+    "word": "against all odds",
+    "phonetic": "/əˌɡenst ˌɔːl ˈɑːdz/",
+    "definition": "despite something seeming very unlikely",
+    "translation": "bất chấp mọi khó khăn, vượt qua mọi nghịch cảnh",
+    "exampleSentence": "Against all odds, the small team won the final.",
+    "exampleTranslation": "Bất chấp mọi khó khăn, đội bóng nhỏ đã thắng trận chung kết.",
+    "pos": "idiom"
+  },
+  {
+    "word": "push your luck",
+    "phonetic": "/ˌpʊʃ jər ˈlʌk/",
+    "definition": "to do or ask for something that is likely to get you in trouble because you have already been lucky; informal",
+    "translation": "được voi đòi tiên, liều lĩnh quá",
+    "exampleSentence": "You got a discount already. Don't push your luck.",
+    "exampleTranslation": "Bạn đã được giảm giá rồi. Đừng được voi đòi tiên.",
+    "pos": "idiom"
+  },
+  {
+    "word": "it's a toss-up",
+    "phonetic": "/ɪts ə ˈtɔːs ʌp/",
+    "definition": "used when you do not know which of two things will happen or which is better; spoken",
+    "translation": "khó nói được bên nào hơn, năm ăn năm thua",
+    "exampleSentence": "Pizza or burgers? It's a toss-up.",
+    "exampleTranslation": "Pizza hay hamburger? Khó chọn quá.",
+    "pos": "idiom"
+  },
+  {
+    "word": "a wild goose chase",
+    "phonetic": "/ə ˌwaɪld ˈɡuːs ˌtʃeɪs/",
+    "definition": "a search for something that does not exist or cannot be found",
+    "translation": "công cốc, mò kim đáy bể",
+    "exampleSentence": "We spent all day looking for the shop. It was a wild goose chase.",
+    "exampleTranslation": "Cả ngày chúng tôi đi tìm cửa hàng đó. Thật là công cốc.",
+    "pos": "idiom"
+  },
+  {
+    "word": "a drop in the bucket",
+    "phonetic": "/ə ˌdrɑːp ɪn ðə ˈbʌkɪt/",
+    "definition": "a very small amount compared to what is needed; American English (British English: a drop in the ocean)",
+    "translation": "muối bỏ biển, chẳng đáng là bao",
+    "exampleSentence": "Our donation is just a drop in the bucket.",
+    "exampleTranslation": "Khoản quyên góp của chúng tôi chỉ như muối bỏ biển.",
+    "pos": "idiom"
+  },
+  {
+    "word": "add insult to injury",
+    "phonetic": "/ˌæd ˈɪnsʌlt tə ˈɪndʒəri/",
+    "definition": "to make a bad situation worse for someone who has already been treated badly",
+    "translation": "đổ thêm dầu vào lửa, chồng chất thêm tổn thương",
+    "exampleSentence": "They didn't refund me, and to add insult to injury, they charged me again.",
+    "exampleTranslation": "Họ không hoàn tiền cho tôi, và tệ hơn nữa còn tính phí tôi lần nữa.",
+    "pos": "idiom"
+  },
+  {
+    "word": "a bolt from the blue",
+    "phonetic": "/ə ˌboʊlt frəm ðə ˈbluː/",
+    "definition": "news that is sudden and unexpected",
+    "translation": "tin sét đánh, chuyện hoàn toàn bất ngờ",
+    "exampleSentence": "The news of his resignation was a bolt from the blue.",
+    "exampleTranslation": "Tin ông ấy từ chức đúng là tin sét đánh.",
+    "pos": "idiom"
+  }
+]

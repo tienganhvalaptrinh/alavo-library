@@ -1,0 +1,452 @@
+[
+  {
+    "word": "flexible hours",
+    "phonetic": "/ˌfleksəbl ˈaʊərz/",
+    "definition": "working times that can be changed to suit the employee",
+    "translation": "giờ làm việc linh hoạt",
+    "exampleSentence": "Many employees are seeking flexible hours.",
+    "exampleTranslation": "Nhiều nhân viên đang tìm kiếm giờ làm việc linh hoạt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "working conditions",
+    "phonetic": "/ˌwɜːrkɪŋ kənˈdɪʃnz/",
+    "definition": "the situation in which people do their jobs",
+    "translation": "điều kiện làm việc",
+    "exampleSentence": "Poor working conditions lead to unhappy staff.",
+    "exampleTranslation": "Điều kiện làm việc kém khiến nhân viên không hài lòng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "annual income",
+    "phonetic": "/ˌænjuəl ˈɪnkʌm/",
+    "definition": "the money that you earn from work or investments in a year",
+    "translation": "thu nhập hằng năm",
+    "exampleSentence": "Brian's annual income is around £43,000.",
+    "exampleTranslation": "Thu nhập hằng năm của Brian khoảng 43.000 bảng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "average salary",
+    "phonetic": "/ˌævərɪdʒ ˈsæləri/",
+    "definition": "the typical amount of money paid for a job",
+    "translation": "mức lương trung bình",
+    "exampleSentence": "The average salary for a teacher is $39,000 a year.",
+    "exampleTranslation": "Mức lương trung bình của một giáo viên là 39.000 đô la mỗi năm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "basic salary",
+    "phonetic": "/ˌbeɪsɪk ˈsæləri/",
+    "definition": "the basic amount that someone is paid, before extra payments",
+    "translation": "lương cơ bản",
+    "exampleSentence": "You get a basic salary, and then other benefits on top.",
+    "exampleTranslation": "Bạn nhận lương cơ bản, rồi thêm các phúc lợi khác.",
+    "pos": "collocation"
+  },
+  {
+    "word": "minimum wage",
+    "phonetic": "/ˌmɪnɪməm ˈweɪdʒ/",
+    "definition": "the lowest amount of money an employer is allowed to pay",
+    "translation": "mức lương tối thiểu",
+    "exampleSentence": "The government plans to raise the minimum wage.",
+    "exampleTranslation": "Chính phủ dự định tăng mức lương tối thiểu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "hard evidence",
+    "phonetic": "/ˌhɑːrd ˈevɪdəns/",
+    "definition": "very clear evidence that proves something",
+    "translation": "bằng chứng rõ ràng",
+    "exampleSentence": "They have no hard evidence to support their claim.",
+    "exampleTranslation": "Họ không có bằng chứng rõ ràng để chứng minh lời khẳng định.",
+    "pos": "collocation"
+  },
+  {
+    "word": "sheer luck",
+    "phonetic": "/ˌʃɪr ˈlʌk/",
+    "definition": "chance, and not skill or effort",
+    "translation": "hoàn toàn nhờ may mắn",
+    "exampleSentence": "She caught the rope by sheer luck.",
+    "exampleTranslation": "Cô ấy túm được sợi dây hoàn toàn nhờ may mắn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "pure coincidence",
+    "phonetic": "/ˌpjʊr koʊˈɪnsɪdəns/",
+    "definition": "something that happens by chance, with no connection",
+    "translation": "hoàn toàn trùng hợp",
+    "exampleSentence": "It was pure coincidence that we were on the same plane.",
+    "exampleTranslation": "Chúng tôi đi cùng chuyến bay hoàn toàn là trùng hợp.",
+    "pos": "collocation"
+  },
+  {
+    "word": "utter nonsense",
+    "phonetic": "/ˌʌtər ˈnɑːnsens/",
+    "definition": "complete nonsense",
+    "translation": "hoàn toàn vô lý",
+    "exampleSentence": "He was talking utter nonsense as usual.",
+    "exampleTranslation": "Anh ta lại nói những điều hoàn toàn vô lý như mọi khi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "blatant lie",
+    "phonetic": "/ˌbleɪtnt ˈlaɪ/",
+    "definition": "a lie that is very obvious",
+    "translation": "lời nói dối trắng trợn",
+    "exampleSentence": "That was a blatant lie, and everyone knew it.",
+    "exampleTranslation": "Đó là lời nói dối trắng trợn và ai cũng biết.",
+    "pos": "collocation"
+  },
+  {
+    "word": "white lie",
+    "phonetic": "/ˌwaɪt ˈlaɪ/",
+    "definition": "a small lie that you tell to avoid hurting someone",
+    "translation": "lời nói dối vô hại",
+    "exampleSentence": "We all tell white lies sometimes.",
+    "exampleTranslation": "Thỉnh thoảng ai cũng nói vài lời nói dối vô hại.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fatal mistake",
+    "phonetic": "/ˌfeɪtl mɪˈsteɪk/",
+    "definition": "a very bad mistake that has very serious results",
+    "translation": "sai lầm chết người",
+    "exampleSentence": "His fatal mistake was to underestimate his opponent.",
+    "exampleTranslation": "Sai lầm chết người của anh ta là đánh giá thấp đối thủ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "honest opinion",
+    "phonetic": "/ˌɑːnɪst əˈpɪnjən/",
+    "definition": "what you really think, without hiding the truth",
+    "translation": "ý kiến thật lòng",
+    "exampleSentence": "Do you want my honest opinion?",
+    "exampleTranslation": "Bạn có muốn nghe ý kiến thật lòng của tôi không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "constructive criticism",
+    "phonetic": "/kənˌstrʌktɪv ˈkrɪtɪsɪzəm/",
+    "definition": "criticism that is meant to help someone improve",
+    "translation": "góp ý mang tính xây dựng",
+    "exampleSentence": "Praise and constructive criticism are both useful.",
+    "exampleTranslation": "Lời khen và góp ý mang tính xây dựng đều hữu ích.",
+    "pos": "collocation"
+  },
+  {
+    "word": "polite refusal",
+    "phonetic": "/pəˌlaɪt rɪˈfjuːzl/",
+    "definition": "saying firmly but politely that you will not do something",
+    "translation": "lời từ chối lịch sự",
+    "exampleSentence": "My request was met with a polite refusal.",
+    "exampleTranslation": "Yêu cầu của tôi nhận được lời từ chối lịch sự.",
+    "pos": "collocation"
+  },
+  {
+    "word": "written consent",
+    "phonetic": "/ˌrɪtn kənˈsent/",
+    "definition": "permission given in writing",
+    "translation": "sự đồng ý bằng văn bản",
+    "exampleSentence": "If you are under 18, you need your parents' written consent.",
+    "exampleTranslation": "Nếu dưới 18 tuổi, bạn cần có sự đồng ý bằng văn bản của cha mẹ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "verbal agreement",
+    "phonetic": "/ˌvɜːrbl əˈɡriːmənt/",
+    "definition": "an agreement made in words but not written down",
+    "translation": "thỏa thuận miệng",
+    "exampleSentence": "If it's only a verbal agreement, he might refuse to keep it.",
+    "exampleTranslation": "Nếu chỉ là thỏa thuận miệng thì ông ấy có thể từ chối thực hiện.",
+    "pos": "collocation"
+  },
+  {
+    "word": "formal complaint",
+    "phonetic": "/ˌfɔːrml kəmˈpleɪnt/",
+    "definition": "an official statement saying you are not satisfied",
+    "translation": "khiếu nại chính thức",
+    "exampleSentence": "The man lodged a formal complaint against the police.",
+    "exampleTranslation": "Người đàn ông nộp đơn khiếu nại chính thức chống lại cảnh sát.",
+    "pos": "collocation"
+  },
+  {
+    "word": "official statement",
+    "phonetic": "/əˌfɪʃl ˈsteɪtmənt/",
+    "definition": "something you say or write publicly in an official way",
+    "translation": "tuyên bố chính thức",
+    "exampleSentence": "In an official statement, she announced her resignation.",
+    "exampleTranslation": "Trong một tuyên bố chính thức, bà thông báo từ chức.",
+    "pos": "collocation"
+  },
+  {
+    "word": "global warming",
+    "phonetic": "/ˌɡloʊbl ˈwɔːrmɪŋ/",
+    "definition": "a general increase in world temperatures caused by gases in the air",
+    "translation": "hiện tượng nóng lên toàn cầu",
+    "exampleSentence": "Scientists have warned about global warming for years.",
+    "exampleTranslation": "Các nhà khoa học đã cảnh báo về hiện tượng nóng lên toàn cầu nhiều năm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "natural disaster",
+    "phonetic": "/ˌnætʃrəl dɪˈzæstər/",
+    "definition": "a disaster caused by nature, such as a flood or earthquake",
+    "translation": "thiên tai",
+    "exampleSentence": "The island was hit by a natural disaster.",
+    "exampleTranslation": "Hòn đảo bị thiên tai tàn phá.",
+    "pos": "collocation"
+  },
+  {
+    "word": "urban area",
+    "phonetic": "/ˌɜːrbən ˈeriə/",
+    "definition": "a place in a town or city",
+    "translation": "khu vực đô thị",
+    "exampleSentence": "90% of the population live in urban areas.",
+    "exampleTranslation": "90% dân số sống ở các khu vực đô thị.",
+    "pos": "collocation"
+  },
+  {
+    "word": "rural area",
+    "phonetic": "/ˌrʊrəl ˈeriə/",
+    "definition": "a place in the countryside",
+    "translation": "vùng nông thôn",
+    "exampleSentence": "Schools in rural areas are often very small.",
+    "exampleTranslation": "Trường học ở vùng nông thôn thường rất nhỏ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "local community",
+    "phonetic": "/ˌloʊkl kəˈmjuːnəti/",
+    "definition": "the people who live in the same area",
+    "translation": "cộng đồng địa phương",
+    "exampleSentence": "Our school is the centre of the local community.",
+    "exampleTranslation": "Trường chúng tôi là trung tâm của cộng đồng địa phương.",
+    "pos": "collocation"
+  },
+  {
+    "word": "ethnic minority",
+    "phonetic": "/ˌeθnɪk maɪˈnɔːrəti/",
+    "definition": "a small ethnic group living in a country where most people belong to another group",
+    "translation": "dân tộc thiểu số",
+    "exampleSentence": "Ethnic minorities often live in the mountains.",
+    "exampleTranslation": "Các dân tộc thiểu số thường sống ở vùng núi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "processed food",
+    "phonetic": "/ˌprɑːsest ˈfuːd/",
+    "definition": "food that has had substances added to it to make it last longer or taste better",
+    "translation": "thực phẩm chế biến sẵn",
+    "exampleSentence": "Too much processed food is bad for you.",
+    "exampleTranslation": "Ăn quá nhiều thực phẩm chế biến sẵn có hại cho sức khỏe.",
+    "pos": "collocation"
+  },
+  {
+    "word": "stiff competition",
+    "phonetic": "/ˌstɪf ˌkɑːmpəˈtɪʃn/",
+    "definition": "strong competition",
+    "translation": "sự cạnh tranh gay gắt",
+    "exampleSentence": "There is stiff competition for places at the best universities.",
+    "exampleTranslation": "Có sự cạnh tranh gay gắt để giành suất ở các trường đại học tốt nhất.",
+    "pos": "collocation"
+  },
+  {
+    "word": "highly unlikely",
+    "phonetic": "/ˌhaɪli ʌnˈlaɪkli/",
+    "definition": "very unlikely to happen",
+    "translation": "rất khó xảy ra",
+    "exampleSentence": "It's highly unlikely that the project will be finished on time.",
+    "exampleTranslation": "Rất khó có chuyện dự án hoàn thành đúng hạn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "highly recommended",
+    "phonetic": "/ˌhaɪli ˌrekəˈmendɪd/",
+    "definition": "said to be very good by people who know about it",
+    "translation": "rất đáng thử, được khuyên dùng",
+    "exampleSentence": "The hotel is highly recommended.",
+    "exampleTranslation": "Khách sạn này rất đáng thử.",
+    "pos": "collocation"
+  },
+  {
+    "word": "highly skilled",
+    "phonetic": "/ˌhaɪli ˈskɪld/",
+    "definition": "having a high level of skill",
+    "translation": "có tay nghề cao",
+    "exampleSentence": "The company has many highly skilled workers.",
+    "exampleTranslation": "Công ty có nhiều công nhân tay nghề cao.",
+    "pos": "collocation"
+  },
+  {
+    "word": "widely available",
+    "phonetic": "/ˌwaɪdli əˈveɪləbl/",
+    "definition": "available in many places",
+    "translation": "có bán rộng rãi",
+    "exampleSentence": "Organic food is now widely available.",
+    "exampleTranslation": "Thực phẩm hữu cơ giờ có bán rộng rãi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "bitterly disappointed",
+    "phonetic": "/ˌbɪtərli ˌdɪsəˈpɔɪntɪd/",
+    "definition": "extremely disappointed",
+    "translation": "vô cùng thất vọng",
+    "exampleSentence": "I was bitterly disappointed.",
+    "exampleTranslation": "Tôi vô cùng thất vọng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "utterly ridiculous",
+    "phonetic": "/ˌʌtərli rɪˈdɪkjələs/",
+    "definition": "completely silly or unreasonable",
+    "translation": "hoàn toàn nực cười",
+    "exampleSentence": "The whole idea is utterly ridiculous.",
+    "exampleTranslation": "Toàn bộ ý tưởng đó hoàn toàn nực cười.",
+    "pos": "collocation"
+  },
+  {
+    "word": "extremely difficult",
+    "phonetic": "/ɪkˌstriːmli ˈdɪfɪkəlt/",
+    "definition": "to a very great degree difficult",
+    "translation": "cực kỳ khó",
+    "exampleSentence": "Earthquakes are extremely difficult to predict.",
+    "exampleTranslation": "Động đất cực kỳ khó dự đoán.",
+    "pos": "collocation"
+  },
+  {
+    "word": "seriously ill",
+    "phonetic": "/ˌsɪriəsli ˈɪl/",
+    "definition": "very ill",
+    "translation": "ốm nặng",
+    "exampleSentence": "Her mother is seriously ill in hospital.",
+    "exampleTranslation": "Mẹ cô ấy đang ốm nặng trong bệnh viện.",
+    "pos": "collocation"
+  },
+  {
+    "word": "painfully slow",
+    "phonetic": "/ˌpeɪnfəli ˈsloʊ/",
+    "definition": "so slow that it is annoying or unpleasant",
+    "translation": "chậm đến khó chịu",
+    "exampleSentence": "The road to peace is a painfully slow process.",
+    "exampleTranslation": "Con đường đến hòa bình là một quá trình chậm đến đau đầu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "increasingly popular",
+    "phonetic": "/ɪnˌkriːsɪŋli ˈpɑːpjələr/",
+    "definition": "becoming more liked by people",
+    "translation": "ngày càng phổ biến",
+    "exampleSentence": "Business courses are increasingly popular.",
+    "exampleTranslation": "Các khóa học kinh doanh ngày càng phổ biến.",
+    "pos": "collocation"
+  },
+  {
+    "word": "readily available",
+    "phonetic": "/ˌredəli əˈveɪləbl/",
+    "definition": "easy to get",
+    "translation": "dễ dàng có được",
+    "exampleSentence": "The material is cheap and readily available.",
+    "exampleTranslation": "Nguyên liệu này rẻ và dễ dàng có được.",
+    "pos": "collocation"
+  },
+  {
+    "word": "entirely different",
+    "phonetic": "/ɪnˌtaɪərli ˈdɪfrənt/",
+    "definition": "completely different in every way",
+    "translation": "hoàn toàn khác",
+    "exampleSentence": "Our situation is entirely different.",
+    "exampleTranslation": "Hoàn cảnh của chúng tôi hoàn toàn khác.",
+    "pos": "collocation"
+  },
+  {
+    "word": "totally different",
+    "phonetic": "/ˌtoʊtl ˈdɪfrənt/",
+    "definition": "completely different",
+    "translation": "hoàn toàn khác biệt",
+    "exampleSentence": "That's a totally different matter.",
+    "exampleTranslation": "Đó là một vấn đề hoàn toàn khác.",
+    "pos": "collocation"
+  },
+  {
+    "word": "reasonably priced",
+    "phonetic": "/ˌriːznəbli ˈpraɪst/",
+    "definition": "not too expensive",
+    "translation": "giá phải chăng",
+    "exampleSentence": "The food was good and reasonably priced.",
+    "exampleTranslation": "Đồ ăn ngon và giá phải chăng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "richly deserved",
+    "phonetic": "/ˌrɪtʃli dɪˈzɜːrvd/",
+    "definition": "greatly deserved, used about good things that happen to someone",
+    "translation": "hoàn toàn xứng đáng",
+    "exampleSentence": "Her success was richly deserved.",
+    "exampleTranslation": "Thành công của cô ấy hoàn toàn xứng đáng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fiercely competitive",
+    "phonetic": "/ˌfɪrsli kəmˈpetətɪv/",
+    "definition": "very competitive",
+    "translation": "cạnh tranh khốc liệt",
+    "exampleSentence": "It is a fiercely competitive market.",
+    "exampleTranslation": "Đây là một thị trường cạnh tranh khốc liệt.",
+    "pos": "collocation"
+  },
+  {
+    "word": "blissfully unaware",
+    "phonetic": "/ˌblɪsfəli ˌʌnəˈwer/",
+    "definition": "not aware of something bad that is about to happen",
+    "translation": "hoàn toàn không hay biết",
+    "exampleSentence": "Blissfully unaware of the danger, he kept walking.",
+    "exampleTranslation": "Hoàn toàn không hay biết nguy hiểm, anh ta tiếp tục bước đi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "deeply moved",
+    "phonetic": "/ˌdiːpli ˈmuːvd/",
+    "definition": "feeling strong emotion, especially sadness or sympathy",
+    "translation": "vô cùng xúc động",
+    "exampleSentence": "Russell was deeply moved by what he heard.",
+    "exampleTranslation": "Russell vô cùng xúc động trước những gì ông nghe thấy.",
+    "pos": "collocation"
+  },
+  {
+    "word": "hopelessly lost",
+    "phonetic": "/ˌhoʊpləsli ˈlɔːst/",
+    "definition": "completely lost, used to emphasize how bad the situation is",
+    "translation": "lạc đường hoàn toàn",
+    "exampleSentence": "I was trying to find the museum, but I got hopelessly lost.",
+    "exampleTranslation": "Tôi cố tìm bảo tàng nhưng lạc đường hoàn toàn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "dangerously close",
+    "phonetic": "/ˌdeɪndʒərəsli ˈkloʊs/",
+    "definition": "so near that there is a risk of harm",
+    "translation": "gần đến mức nguy hiểm",
+    "exampleSentence": "The boat was dangerously close to the rocks.",
+    "exampleTranslation": "Chiếc thuyền ở gần đá đến mức nguy hiểm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "remarkably similar",
+    "phonetic": "/rɪˌmɑːrkəbli ˈsɪmələr/",
+    "definition": "almost the same, in a way that is surprising",
+    "translation": "giống nhau đáng kinh ngạc",
+    "exampleSentence": "The results of each study are remarkably similar.",
+    "exampleTranslation": "Kết quả của các nghiên cứu giống nhau đáng kinh ngạc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "relatively small",
+    "phonetic": "/ˌrelətɪvli ˈsmɔːl/",
+    "definition": "small compared with other things",
+    "translation": "tương đối nhỏ",
+    "exampleSentence": "Only a relatively small number of people were affected.",
+    "exampleTranslation": "Chỉ một số lượng tương đối nhỏ người bị ảnh hưởng.",
+    "pos": "collocation"
+  }
+]

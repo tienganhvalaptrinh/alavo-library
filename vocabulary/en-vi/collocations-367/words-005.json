@@ -1,0 +1,452 @@
+[
+  {
+    "word": "provide information",
+    "phonetic": "/prəˌvaɪd ˌɪnfərˈmeɪʃn/",
+    "definition": "to give facts or details to someone",
+    "translation": "cung cấp thông tin",
+    "exampleSentence": "The booklet provides information about local services.",
+    "exampleTranslation": "Cuốn sách nhỏ cung cấp thông tin về các dịch vụ địa phương.",
+    "pos": "collocation"
+  },
+  {
+    "word": "provide a service",
+    "phonetic": "/prəˌvaɪd ə ˈsɜːrvɪs/",
+    "definition": "to supply a particular type of help or work",
+    "translation": "cung cấp dịch vụ",
+    "exampleSentence": "Our aim is to provide the best service at the lowest price.",
+    "exampleTranslation": "Mục tiêu của chúng tôi là cung cấp dịch vụ tốt nhất với giá thấp nhất.",
+    "pos": "collocation"
+  },
+  {
+    "word": "express concern",
+    "phonetic": "/ɪkˌspres kənˈsɜːrn/",
+    "definition": "to say that you are worried about something",
+    "translation": "bày tỏ lo ngại",
+    "exampleSentence": "Police officials expressed concern about the increase in robberies.",
+    "exampleTranslation": "Các quan chức cảnh sát bày tỏ lo ngại về việc cướp giật gia tăng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "express gratitude",
+    "phonetic": "/ɪkˌspres ˈɡrætɪtuːd/",
+    "definition": "to say that you are thankful",
+    "translation": "bày tỏ lòng biết ơn",
+    "exampleSentence": "We would like to express our gratitude to everyone for their generous help.",
+    "exampleTranslation": "Chúng tôi xin bày tỏ lòng biết ơn đến mọi người vì sự giúp đỡ hào phóng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "pose a threat",
+    "phonetic": "/ˌpoʊz ə ˈθret/",
+    "definition": "to be a possible danger to someone or something",
+    "translation": "gây ra mối đe dọa",
+    "exampleSentence": "The rebels do not pose a serious threat to the army.",
+    "exampleTranslation": "Quân nổi dậy không gây ra mối đe dọa nghiêm trọng cho quân đội.",
+    "pos": "collocation"
+  },
+  {
+    "word": "pose a question",
+    "phonetic": "/ˌpoʊz ə ˈkwestʃən/",
+    "definition": "to ask a question that needs to be thought about",
+    "translation": "đặt ra câu hỏi",
+    "exampleSentence": "The article poses the question: what should we teach our children?",
+    "exampleTranslation": "Bài báo đặt ra câu hỏi: chúng ta nên dạy con cái điều gì?",
+    "pos": "collocation"
+  },
+  {
+    "word": "pose a problem",
+    "phonetic": "/ˌpoʊz ə ˈprɑːbləm/",
+    "definition": "to cause a problem that has to be dealt with",
+    "translation": "gây ra vấn đề",
+    "exampleSentence": "A shortage of nurses is posing major problems.",
+    "exampleTranslation": "Tình trạng thiếu y tá đang gây ra những vấn đề lớn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "set an example",
+    "phonetic": "/ˌset ən ɪɡˈzæmpl/",
+    "definition": "to show by your own behaviour how other people should behave",
+    "translation": "làm gương",
+    "exampleSentence": "You should set an example for your little brother.",
+    "exampleTranslation": "Con nên làm gương cho em trai.",
+    "pos": "collocation"
+  },
+  {
+    "word": "set a record",
+    "phonetic": "/ˌset ə ˈrekərd/",
+    "definition": "to achieve something for the first time, better than anyone before",
+    "translation": "lập kỷ lục",
+    "exampleSentence": "The twenty-year-old set a new national record.",
+    "exampleTranslation": "Vận động viên hai mươi tuổi lập kỷ lục quốc gia mới.",
+    "pos": "collocation"
+  },
+  {
+    "word": "achieve a goal",
+    "phonetic": "/əˌtʃiːv ə ˈɡoʊl/",
+    "definition": "to succeed in reaching something you were trying to do",
+    "translation": "đạt được mục tiêu",
+    "exampleSentence": "She worked hard to achieve her goal.",
+    "exampleTranslation": "Cô ấy làm việc chăm chỉ để đạt được mục tiêu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "tackle a problem",
+    "phonetic": "/ˌtækl ə ˈprɑːbləm/",
+    "definition": "to try to deal with a difficult problem",
+    "translation": "giải quyết vấn đề",
+    "exampleSentence": "There is more than one way to tackle this problem.",
+    "exampleTranslation": "Có nhiều hơn một cách để giải quyết vấn đề này.",
+    "pos": "collocation"
+  },
+  {
+    "word": "solve a problem",
+    "phonetic": "/ˌsɑːlv ə ˈprɑːbləm/",
+    "definition": "to find a way to deal with a problem",
+    "translation": "giải quyết được vấn đề",
+    "exampleSentence": "He solved his money problems by selling his car.",
+    "exampleTranslation": "Anh ấy giải quyết vấn đề tiền bạc bằng cách bán xe.",
+    "pos": "collocation"
+  },
+  {
+    "word": "resolve a conflict",
+    "phonetic": "/rɪˌzɑːlv ə ˈkɑːnflɪkt/",
+    "definition": "to find a solution to a serious disagreement",
+    "translation": "giải quyết xung đột",
+    "exampleSentence": "You may need a lawyer to resolve a serious conflict between neighbours.",
+    "exampleTranslation": "Bạn có thể cần luật sư để giải quyết xung đột nghiêm trọng giữa hàng xóm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "settle a dispute",
+    "phonetic": "/ˌsetl ə dɪˈspjuːt/",
+    "definition": "to end a disagreement",
+    "translation": "giải quyết tranh chấp",
+    "exampleSentence": "They hope to settle the dispute peacefully.",
+    "exampleTranslation": "Họ hy vọng giải quyết tranh chấp một cách hòa bình.",
+    "pos": "collocation"
+  },
+  {
+    "word": "gain experience",
+    "phonetic": "/ˌɡeɪn ɪkˈspɪriəns/",
+    "definition": "to get knowledge and skill from doing a job or activity",
+    "translation": "tích lũy kinh nghiệm",
+    "exampleSentence": "You should gain some experience in a related industry first.",
+    "exampleTranslation": "Trước hết bạn nên tích lũy chút kinh nghiệm trong ngành liên quan.",
+    "pos": "collocation"
+  },
+  {
+    "word": "gain access",
+    "phonetic": "/ˌɡeɪn ˈækses/",
+    "definition": "to succeed in entering a place or seeing something",
+    "translation": "có được quyền truy cập, vào được",
+    "exampleSentence": "The police gained access through an upstairs window.",
+    "exampleTranslation": "Cảnh sát vào được qua cửa sổ tầng trên.",
+    "pos": "collocation"
+  },
+  {
+    "word": "draw attention",
+    "phonetic": "/ˌdrɔː əˈtenʃn/",
+    "definition": "to make someone notice something",
+    "translation": "thu hút sự chú ý",
+    "exampleSentence": "I'd like to draw your attention to the following points.",
+    "exampleTranslation": "Tôi muốn thu hút sự chú ý của bạn đến những điểm sau.",
+    "pos": "collocation"
+  },
+  {
+    "word": "attract attention",
+    "phonetic": "/əˌtrækt əˈtenʃn/",
+    "definition": "to make people notice and become interested",
+    "translation": "thu hút sự chú ý",
+    "exampleSentence": "The player quickly attracted the attention of several clubs.",
+    "exampleTranslation": "Cầu thủ nhanh chóng thu hút sự chú ý của nhiều câu lạc bộ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "pay a visit",
+    "phonetic": "/ˌpeɪ ə ˈvɪzɪt/",
+    "definition": "to go to see someone or somewhere",
+    "translation": "ghé thăm",
+    "exampleSentence": "We paid a visit to my grandparents last weekend.",
+    "exampleTranslation": "Cuối tuần trước chúng tôi ghé thăm ông bà.",
+    "pos": "collocation"
+  },
+  {
+    "word": "obey the law",
+    "phonetic": "/oʊˌbeɪ ðə ˈlɔː/",
+    "definition": "to do what the law says",
+    "translation": "tuân thủ pháp luật",
+    "exampleSentence": "Citizens have a duty to obey the law.",
+    "exampleTranslation": "Công dân có nghĩa vụ tuân thủ pháp luật.",
+    "pos": "collocation"
+  },
+  {
+    "word": "pass a law",
+    "phonetic": "/ˌpæs ə ˈlɔː/",
+    "definition": "to officially approve a new law",
+    "translation": "thông qua một đạo luật",
+    "exampleSentence": "The state passed a law requiring helmets for scooter riders.",
+    "exampleTranslation": "Bang đã thông qua đạo luật bắt buộc đội mũ bảo hiểm khi đi xe tay ga.",
+    "pos": "collocation"
+  },
+  {
+    "word": "enforce a law",
+    "phonetic": "/ɪnˌfɔːrs ə ˈlɔː/",
+    "definition": "to make people obey a law",
+    "translation": "thực thi luật",
+    "exampleSentence": "It is the job of the police to enforce the law.",
+    "exampleTranslation": "Thực thi pháp luật là nhiệm vụ của cảnh sát.",
+    "pos": "collocation"
+  },
+  {
+    "word": "bear in mind",
+    "phonetic": "/ˌber ɪn ˈmaɪnd/",
+    "definition": "to remember a fact that may affect what you decide or do",
+    "translation": "ghi nhớ, lưu ý",
+    "exampleSentence": "Bear in mind that some children will need extra help.",
+    "exampleTranslation": "Hãy lưu ý rằng một số trẻ sẽ cần thêm sự giúp đỡ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "lay the foundation",
+    "phonetic": "/ˌleɪ ðə faʊnˈdeɪʃn/",
+    "definition": "to provide the conditions that make something possible",
+    "translation": "đặt nền móng",
+    "exampleSentence": "This research laid the foundation for later discoveries.",
+    "exampleTranslation": "Nghiên cứu này đặt nền móng cho những khám phá sau đó.",
+    "pos": "collocation"
+  },
+  {
+    "word": "shed light on",
+    "phonetic": "/ˌʃed ˈlaɪt ɑːn/",
+    "definition": "to make something easier to understand by giving new information",
+    "translation": "làm sáng tỏ",
+    "exampleSentence": "Recent research has shed light on the causes of the disease.",
+    "exampleTranslation": "Nghiên cứu gần đây đã làm sáng tỏ nguyên nhân của căn bệnh.",
+    "pos": "collocation"
+  },
+  {
+    "word": "build a relationship",
+    "phonetic": "/ˌbɪld ə rɪˈleɪʃnʃɪp/",
+    "definition": "to develop a connection with another person over time",
+    "translation": "xây dựng mối quan hệ",
+    "exampleSentence": "It takes time to build a good relationship with clients.",
+    "exampleTranslation": "Cần thời gian để xây dựng mối quan hệ tốt với khách hàng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "strike a balance",
+    "phonetic": "/ˌstraɪk ə ˈbæləns/",
+    "definition": "to succeed in getting the right balance between two things",
+    "translation": "cân bằng giữa hai điều",
+    "exampleSentence": "It is important to strike a balance between work and rest.",
+    "exampleTranslation": "Điều quan trọng là cân bằng giữa công việc và nghỉ ngơi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "earn respect",
+    "phonetic": "/ˌɜːrn rɪˈspekt/",
+    "definition": "to start to be respected because of what you do",
+    "translation": "giành được sự tôn trọng",
+    "exampleSentence": "She earned the respect of her fellow workers.",
+    "exampleTranslation": "Cô ấy giành được sự tôn trọng của đồng nghiệp.",
+    "pos": "collocation"
+  },
+  {
+    "word": "lose touch",
+    "phonetic": "/ˌluːz ˈtʌtʃ/",
+    "definition": "if two people lose touch, they gradually stop speaking or writing to each other",
+    "translation": "mất liên lạc",
+    "exampleSentence": "I've lost touch with all my old school friends.",
+    "exampleTranslation": "Tôi đã mất liên lạc với tất cả bạn học cũ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "lose interest",
+    "phonetic": "/ˌluːz ˈɪntrəst/",
+    "definition": "to stop being interested in something",
+    "translation": "mất hứng thú",
+    "exampleSentence": "He lost interest in the game after ten minutes.",
+    "exampleTranslation": "Anh ấy mất hứng thú với trò chơi sau mười phút.",
+    "pos": "collocation"
+  },
+  {
+    "word": "lose control",
+    "phonetic": "/ˌluːz kənˈtroʊl/",
+    "definition": "to no longer be able to make someone or something do what you want",
+    "translation": "mất kiểm soát",
+    "exampleSentence": "The driver lost control of the car on the ice.",
+    "exampleTranslation": "Tài xế mất kiểm soát chiếc xe trên mặt băng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "lose sight of",
+    "phonetic": "/ˌluːz ˈsaɪt əv/",
+    "definition": "to forget an important fact or idea because you are thinking about other things",
+    "translation": "quên mất, không còn để mắt tới",
+    "exampleSentence": "We must never lose sight of our main goal.",
+    "exampleTranslation": "Chúng ta không bao giờ được quên mục tiêu chính.",
+    "pos": "collocation"
+  },
+  {
+    "word": "cast doubt",
+    "phonetic": "/ˌkæst ˈdaʊt/",
+    "definition": "to make people unsure about something",
+    "translation": "làm dấy lên nghi ngờ",
+    "exampleSentence": "Research has cast doubt on the safety of the drug.",
+    "exampleTranslation": "Nghiên cứu làm dấy lên nghi ngờ về độ an toàn của loại thuốc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "spark controversy",
+    "phonetic": "/ˌspɑːrk ˈkɑːntrəvɜːrsi/",
+    "definition": "to cause a lot of public argument",
+    "translation": "gây ra tranh cãi",
+    "exampleSentence": "The new rules are likely to spark controversy.",
+    "exampleTranslation": "Các quy định mới có khả năng gây ra tranh cãi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fuel speculation",
+    "phonetic": "/ˌfjuːəl ˌspekjuˈleɪʃn/",
+    "definition": "to make guesses about something increase",
+    "translation": "làm dấy lên đồn đoán",
+    "exampleSentence": "The announcement fuelled speculation that the company would be sold.",
+    "exampleTranslation": "Thông báo đó làm dấy lên đồn đoán rằng công ty sẽ bị bán.",
+    "pos": "collocation"
+  },
+  {
+    "word": "trigger an alarm",
+    "phonetic": "/ˌtrɪɡər ən əˈlɑːrm/",
+    "definition": "to make an alarm start ringing",
+    "translation": "làm kích hoạt chuông báo động",
+    "exampleSentence": "The burglars fled after triggering the alarm.",
+    "exampleTranslation": "Bọn trộm bỏ chạy sau khi làm kích hoạt chuông báo động.",
+    "pos": "collocation"
+  },
+  {
+    "word": "cause damage",
+    "phonetic": "/ˌkɔːz ˈdæmɪdʒ/",
+    "definition": "to make something harmful happen",
+    "translation": "gây thiệt hại",
+    "exampleSentence": "The storm caused serious damage to the roof.",
+    "exampleTranslation": "Cơn bão gây thiệt hại nghiêm trọng cho mái nhà.",
+    "pos": "collocation"
+  },
+  {
+    "word": "cause trouble",
+    "phonetic": "/ˌkɔːz ˈtrʌbl/",
+    "definition": "to make problems for someone",
+    "translation": "gây rắc rối",
+    "exampleSentence": "I decided not to complain because I didn't want to cause trouble.",
+    "exampleTranslation": "Tôi quyết định không phàn nàn vì không muốn gây rắc rối.",
+    "pos": "collocation"
+  },
+  {
+    "word": "cause concern",
+    "phonetic": "/ˌkɔːz kənˈsɜːrn/",
+    "definition": "to make people feel worried",
+    "translation": "gây lo ngại",
+    "exampleSentence": "The announcement will cause concern in the region.",
+    "exampleTranslation": "Thông báo này sẽ gây lo ngại trong khu vực.",
+    "pos": "collocation"
+  },
+  {
+    "word": "cause confusion",
+    "phonetic": "/ˌkɔːz kənˈfjuːʒn/",
+    "definition": "to make people unsure or mixed up",
+    "translation": "gây nhầm lẫn",
+    "exampleSentence": "Teachers say the reforms will cause confusion in schools.",
+    "exampleTranslation": "Giáo viên nói các cải cách sẽ gây nhầm lẫn trong trường học.",
+    "pos": "collocation"
+  },
+  {
+    "word": "suffer damage",
+    "phonetic": "/ˌsʌfər ˈdæmɪdʒ/",
+    "definition": "to be harmed or broken",
+    "translation": "bị hư hại",
+    "exampleSentence": "The ship suffered no damage in the storm.",
+    "exampleTranslation": "Con tàu không bị hư hại gì trong cơn bão.",
+    "pos": "collocation"
+  },
+  {
+    "word": "sustain an injury",
+    "phonetic": "/səˌsteɪn ən ˈɪndʒəri/",
+    "definition": "to suffer an injury",
+    "translation": "bị thương",
+    "exampleSentence": "She sustained an injury to her hip in the fall.",
+    "exampleTranslation": "Cô ấy bị thương ở hông khi ngã.",
+    "pos": "collocation"
+  },
+  {
+    "word": "exert pressure",
+    "phonetic": "/ɪɡˌzɜːrt ˈpreʃər/",
+    "definition": "to use your power or influence to make someone do something",
+    "translation": "gây áp lực",
+    "exampleSentence": "Party leaders exerted pressure on their colleagues to vote yes.",
+    "exampleTranslation": "Các lãnh đạo đảng gây áp lực để đồng nghiệp bỏ phiếu thuận.",
+    "pos": "collocation"
+  },
+  {
+    "word": "exercise caution",
+    "phonetic": "/ˌeksərsaɪz ˈkɔːʃn/",
+    "definition": "to be careful",
+    "translation": "thận trọng",
+    "exampleSentence": "Travellers are advised to exercise caution at night.",
+    "exampleTranslation": "Du khách được khuyên nên thận trọng vào ban đêm.",
+    "pos": "collocation"
+  },
+  {
+    "word": "exercise control",
+    "phonetic": "/ˌeksərsaɪz kənˈtroʊl/",
+    "definition": "to use the power you have to direct something",
+    "translation": "thực hiện quyền kiểm soát",
+    "exampleSentence": "People who exercise some control over their surroundings feel less stressed.",
+    "exampleTranslation": "Những người kiểm soát được phần nào môi trường quanh mình ít căng thẳng hơn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "reach a compromise",
+    "phonetic": "/ˌriːtʃ ə ˈkɑːmprəmaɪz/",
+    "definition": "to agree on something after each side gives up some of what it wanted",
+    "translation": "đạt được thỏa hiệp",
+    "exampleSentence": "After a long meeting, they reached a compromise.",
+    "exampleTranslation": "Sau cuộc họp dài, họ đạt được thỏa hiệp.",
+    "pos": "collocation"
+  },
+  {
+    "word": "strike a deal",
+    "phonetic": "/ˌstraɪk ə ˈdiːl/",
+    "definition": "to agree on a deal after a lot of discussion",
+    "translation": "chốt được thỏa thuận",
+    "exampleSentence": "The two companies struck a deal on Friday.",
+    "exampleTranslation": "Hai công ty chốt được thỏa thuận vào thứ Sáu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "seal a deal",
+    "phonetic": "/ˌsiːl ə ˈdiːl/",
+    "definition": "to make an agreement more formal or definite",
+    "translation": "chốt hẳn thỏa thuận",
+    "exampleSentence": "A handshake sealed the deal.",
+    "exampleTranslation": "Một cái bắt tay chốt hẳn thỏa thuận.",
+    "pos": "collocation"
+  },
+  {
+    "word": "cut costs",
+    "phonetic": "/ˌkʌt ˈkɔːsts/",
+    "definition": "to reduce the amount of money you spend",
+    "translation": "cắt giảm chi phí",
+    "exampleSentence": "They cut costs by laying off staff.",
+    "exampleTranslation": "Họ cắt giảm chi phí bằng cách cho nhân viên nghỉ việc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "reduce costs",
+    "phonetic": "/rɪˌduːs ˈkɔːsts/",
+    "definition": "to make the money you must spend lower",
+    "translation": "giảm chi phí",
+    "exampleSentence": "Small businesses must reduce costs to survive.",
+    "exampleTranslation": "Doanh nghiệp nhỏ phải giảm chi phí để tồn tại.",
+    "pos": "collocation"
+  }
+]

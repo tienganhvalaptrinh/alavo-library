@@ -1,0 +1,452 @@
+[
+  {
+    "word": "over the moon",
+    "phonetic": "/ˌoʊvər ðə ˈmuːn/",
+    "definition": "very happy; informal and British English",
+    "translation": "vui sướng tột độ",
+    "exampleSentence": "She was over the moon when she got the job.",
+    "exampleTranslation": "Cô ấy vui sướng tột độ khi được nhận việc.",
+    "pos": "idiom"
+  },
+  {
+    "word": "on cloud nine",
+    "phonetic": "/ɑːn ˌklaʊd ˈnaɪn/",
+    "definition": "very happy about something; informal",
+    "translation": "hạnh phúc như trên mây",
+    "exampleSentence": "He has been on cloud nine since the wedding.",
+    "exampleTranslation": "Anh ấy hạnh phúc như trên mây kể từ đám cưới.",
+    "pos": "idiom"
+  },
+  {
+    "word": "down in the dumps",
+    "phonetic": "/ˌdaʊn ɪn ðə ˈdʌmps/",
+    "definition": "very sad and without much interest in life; informal",
+    "translation": "buồn chán, ủ rũ",
+    "exampleSentence": "He's been down in the dumps since he lost his job.",
+    "exampleTranslation": "Anh ấy buồn chán từ khi mất việc.",
+    "pos": "idiom"
+  },
+  {
+    "word": "on edge",
+    "phonetic": "/ɑːn ˈedʒ/",
+    "definition": "nervous, especially because you expect something unpleasant to happen",
+    "translation": "căng thẳng, thấp thỏm",
+    "exampleSentence": "Everyone was on edge while waiting for the results.",
+    "exampleTranslation": "Ai cũng thấp thỏm trong lúc chờ kết quả.",
+    "pos": "idiom"
+  },
+  {
+    "word": "at the end of your rope",
+    "phonetic": "/ət ði ˌend əv jər ˈroʊp/",
+    "definition": "to have no more patience or strength to deal with a problem; mainly American English",
+    "translation": "hết chịu nổi, cạn kiệt kiên nhẫn",
+    "exampleSentence": "With three small kids and no sleep, she was at the end of her rope.",
+    "exampleTranslation": "Với ba đứa con nhỏ và không ngủ được, cô ấy đã hết chịu nổi.",
+    "pos": "idiom"
+  },
+  {
+    "word": "hot under the collar",
+    "phonetic": "/ˌhɑːt ˌʌndər ðə ˈkɑːlər/",
+    "definition": "angry, especially in an unreasonable way; spoken",
+    "translation": "nổi nóng, bực tức",
+    "exampleSentence": "He gets hot under the collar whenever politics comes up.",
+    "exampleTranslation": "Anh ấy nổi nóng mỗi khi nhắc đến chính trị.",
+    "pos": "idiom"
+  },
+  {
+    "word": "blow off steam",
+    "phonetic": "/ˌbloʊ ɔːf ˈstiːm/",
+    "definition": "to get rid of anger, excitement or energy in a way that does not hurt anyone",
+    "translation": "xả stress, xả bớt bực dọc",
+    "exampleSentence": "I go running after work to blow off steam.",
+    "exampleTranslation": "Sau giờ làm tôi đi chạy bộ để xả stress.",
+    "pos": "idiom"
+  },
+  {
+    "word": "make your blood boil",
+    "phonetic": "/ˌmeɪk jər ˈblʌd ˌbɔɪl/",
+    "definition": "to make someone extremely angry",
+    "translation": "làm sôi máu, làm ai nổi điên",
+    "exampleSentence": "His rude comments make my blood boil.",
+    "exampleTranslation": "Những lời bình luận thô lỗ của anh ta làm tôi sôi máu.",
+    "pos": "idiom"
+  },
+  {
+    "word": "get on somebody's nerves",
+    "phonetic": "/ˌɡet ɑːn ˈsʌmbədiz ˈnɜːrvz/",
+    "definition": "to annoy someone, especially by doing something again and again; informal",
+    "translation": "làm ai bực mình, chọc tức ai",
+    "exampleSentence": "That loud music is getting on my nerves.",
+    "exampleTranslation": "Tiếng nhạc ồn ào đó đang làm tôi bực mình.",
+    "pos": "idiom"
+  },
+  {
+    "word": "jump for joy",
+    "phonetic": "/ˌdʒʌmp fər ˈdʒɔɪ/",
+    "definition": "to be extremely happy and pleased",
+    "translation": "nhảy cẫng lên vì vui",
+    "exampleSentence": "The kids jumped for joy when they heard the news.",
+    "exampleTranslation": "Bọn trẻ nhảy cẫng lên vì vui khi nghe tin.",
+    "pos": "idiom"
+  },
+  {
+    "word": "pull yourself together",
+    "phonetic": "/ˌpʊl jərˈself təˈɡeðər/",
+    "definition": "to force yourself to stop behaving in a nervous or uncontrolled way",
+    "translation": "lấy lại bình tĩnh",
+    "exampleSentence": "Pull yourself together. You have an interview in an hour.",
+    "exampleTranslation": "Bình tĩnh lại đi. Một tiếng nữa bạn có buổi phỏng vấn.",
+    "pos": "idiom"
+  },
+  {
+    "word": "mixed feelings",
+    "phonetic": "/ˌmɪkst ˈfiːlɪŋz/",
+    "definition": "if you have mixed feelings about something, you are not sure whether you are happy or unhappy about it",
+    "translation": "cảm xúc lẫn lộn",
+    "exampleSentence": "I have mixed feelings about moving abroad.",
+    "exampleTranslation": "Tôi có cảm xúc lẫn lộn về việc chuyển ra nước ngoài.",
+    "pos": "idiom"
+  },
+  {
+    "word": "get cold feet",
+    "phonetic": "/ˌɡet ˌkoʊld ˈfiːt/",
+    "definition": "to suddenly feel not brave enough to do something you planned to do; informal",
+    "translation": "chùn bước, sợ không dám làm",
+    "exampleSentence": "He got cold feet and called off the wedding.",
+    "exampleTranslation": "Anh ấy chùn bước và hủy đám cưới.",
+    "pos": "idiom"
+  },
+  {
+    "word": "butterflies in your stomach",
+    "phonetic": "/ˈbʌtərflaɪz ɪn jər ˈstʌmək/",
+    "definition": "to feel very nervous before doing something; informal",
+    "translation": "bồn chồn, thấp thỏm",
+    "exampleSentence": "I always get butterflies in my stomach before a speech.",
+    "exampleTranslation": "Tôi luôn thấy bồn chồn trước khi phát biểu.",
+    "pos": "idiom"
+  },
+  {
+    "word": "walk on air",
+    "phonetic": "/ˌwɔːk ɑːn ˈer/",
+    "definition": "to feel very happy",
+    "translation": "lâng lâng vui sướng",
+    "exampleSentence": "After the good news, she was walking on air.",
+    "exampleTranslation": "Sau tin vui đó, cô ấy lâng lâng vui sướng.",
+    "pos": "idiom"
+  },
+  {
+    "word": "keep your chin up",
+    "phonetic": "/ˌkiːp jər ˈtʃɪn ʌp/",
+    "definition": "used to tell someone to stay brave and confident in a difficult situation; spoken",
+    "translation": "cố lên, đừng nản",
+    "exampleSentence": "Things will get better. Keep your chin up.",
+    "exampleTranslation": "Mọi chuyện sẽ khá hơn. Cố lên, đừng nản nhé.",
+    "pos": "idiom"
+  },
+  {
+    "word": "cry over spilt milk",
+    "phonetic": "/ˌkraɪ ˌoʊvər ˌspɪlt ˈmɪlk/",
+    "definition": "to waste time feeling sorry about a mistake that cannot be changed",
+    "translation": "tiếc nuối chuyện đã rồi",
+    "exampleSentence": "It's done. There's no use crying over spilt milk.",
+    "exampleTranslation": "Xong rồi. Tiếc nuối chuyện đã rồi cũng vô ích.",
+    "pos": "idiom"
+  },
+  {
+    "word": "scared stiff",
+    "phonetic": "/ˌskerd ˈstɪf/",
+    "definition": "extremely frightened; informal",
+    "translation": "sợ cứng người",
+    "exampleSentence": "I was scared stiff during the storm.",
+    "exampleTranslation": "Tôi sợ cứng người trong cơn bão.",
+    "pos": "idiom"
+  },
+  {
+    "word": "beside yourself",
+    "phonetic": "/bɪˌsaɪd jərˈself/",
+    "definition": "so angry or excited that you find it hard to control yourself",
+    "translation": "không kiềm chế được cảm xúc",
+    "exampleSentence": "She was beside herself with worry.",
+    "exampleTranslation": "Cô ấy lo lắng đến mức không kiềm chế được.",
+    "pos": "idiom"
+  },
+  {
+    "word": "out of sorts",
+    "phonetic": "/ˌaʊt əv ˈsɔːrts/",
+    "definition": "feeling a little ill or upset",
+    "translation": "hơi khó chịu trong người, không được khỏe",
+    "exampleSentence": "I've been feeling out of sorts all week.",
+    "exampleTranslation": "Cả tuần nay tôi thấy trong người không khỏe.",
+    "pos": "idiom"
+  },
+  {
+    "word": "down to earth",
+    "phonetic": "/ˌdaʊn tə ˈɜːrθ/",
+    "definition": "practical and direct in a sensible, honest way",
+    "translation": "thực tế, giản dị, chân thật",
+    "exampleSentence": "For a famous actor, he is very down to earth.",
+    "exampleTranslation": "Là một diễn viên nổi tiếng nhưng anh ấy rất giản dị.",
+    "pos": "idiom"
+  },
+  {
+    "word": "full of beans",
+    "phonetic": "/ˌfʊl əv ˈbiːnz/",
+    "definition": "very eager and full of energy; informal",
+    "translation": "tràn đầy năng lượng",
+    "exampleSentence": "The kids are full of beans this morning.",
+    "exampleTranslation": "Sáng nay bọn trẻ tràn đầy năng lượng.",
+    "pos": "idiom"
+  },
+  {
+    "word": "on top of the world",
+    "phonetic": "/ɑːn ˌtɑːp əv ðə ˈwɜːrld/",
+    "definition": "extremely happy; informal",
+    "translation": "vui sướng tột độ, lâng lâng",
+    "exampleSentence": "After winning the prize, I felt on top of the world.",
+    "exampleTranslation": "Sau khi thắng giải, tôi thấy lâng lâng vui sướng.",
+    "pos": "idiom"
+  },
+  {
+    "word": "at your wits' end",
+    "phonetic": "/ət jər ˌwɪts ˈend/",
+    "definition": "very upset and not knowing what to do because you have tried everything",
+    "translation": "bó tay, hết cách",
+    "exampleSentence": "I'm at my wits' end with this computer.",
+    "exampleTranslation": "Tôi bó tay với cái máy tính này rồi.",
+    "pos": "idiom"
+  },
+  {
+    "word": "keep your cool",
+    "phonetic": "/ˌkiːp jər ˈkuːl/",
+    "definition": "to stay calm in a frightening or difficult situation",
+    "translation": "giữ bình tĩnh",
+    "exampleSentence": "She kept her cool even when the crowd shouted at her.",
+    "exampleTranslation": "Cô ấy vẫn giữ bình tĩnh dù đám đông la hét.",
+    "pos": "idiom"
+  },
+  {
+    "word": "lose your cool",
+    "phonetic": "/ˌluːz jər ˈkuːl/",
+    "definition": "to stop being calm in an annoying or frightening situation",
+    "translation": "mất bình tĩnh",
+    "exampleSentence": "I lost my cool and shouted at him.",
+    "exampleTranslation": "Tôi mất bình tĩnh và quát anh ta.",
+    "pos": "idiom"
+  },
+  {
+    "word": "take it to heart",
+    "phonetic": "/ˌteɪk ɪt tə ˈhɑːrt/",
+    "definition": "to take what someone says very seriously, often because it upsets you",
+    "translation": "để bụng, quá bận tâm",
+    "exampleSentence": "Don't take his comments to heart. He didn't mean it.",
+    "exampleTranslation": "Đừng để bụng lời anh ấy. Anh ấy không có ý đó.",
+    "pos": "idiom"
+  },
+  {
+    "word": "get something off your chest",
+    "phonetic": "/ˌɡet ˈsʌmθɪŋ ɔːf jər ˈtʃest/",
+    "definition": "to tell someone about something that has been worrying or annoying you for a long time",
+    "translation": "nói ra cho nhẹ lòng",
+    "exampleSentence": "I need to get this off my chest: I'm unhappy at work.",
+    "exampleTranslation": "Tôi cần nói ra cho nhẹ lòng: tôi không vui ở chỗ làm.",
+    "pos": "idiom"
+  },
+  {
+    "word": "look on the bright side",
+    "phonetic": "/ˌlʊk ɑːn ðə ˌbraɪt ˈsaɪd/",
+    "definition": "to see the good points in a situation that seems bad",
+    "translation": "nhìn vào mặt tích cực",
+    "exampleSentence": "Look on the bright side: at least nobody was hurt.",
+    "exampleTranslation": "Hãy nhìn vào mặt tích cực: ít ra không ai bị thương.",
+    "pos": "idiom"
+  },
+  {
+    "word": "bite the bullet",
+    "phonetic": "/ˌbaɪt ðə ˈbʊlɪt/",
+    "definition": "to start dealing with an unpleasant situation because you cannot avoid it; informal",
+    "translation": "cắn răng chịu đựng, đối mặt",
+    "exampleSentence": "I decided to bite the bullet and go to the dentist.",
+    "exampleTranslation": "Tôi quyết định cắn răng đi nha sĩ.",
+    "pos": "idiom"
+  },
+  {
+    "word": "break the bank",
+    "phonetic": "/ˌbreɪk ðə ˈbæŋk/",
+    "definition": "to cost a lot of money, or more money than you have",
+    "translation": "tốn quá nhiều tiền",
+    "exampleSentence": "A weekend trip won't break the bank.",
+    "exampleTranslation": "Một chuyến đi cuối tuần sẽ không tốn quá nhiều tiền.",
+    "pos": "idiom"
+  },
+  {
+    "word": "make ends meet",
+    "phonetic": "/ˌmeɪk ˌendz ˈmiːt/",
+    "definition": "to have just enough money to buy the things you need",
+    "translation": "đủ sống, xoay xở cho đủ chi tiêu",
+    "exampleSentence": "They work two jobs just to make ends meet.",
+    "exampleTranslation": "Họ làm hai việc chỉ để đủ sống.",
+    "pos": "idiom"
+  },
+  {
+    "word": "pay through the nose",
+    "phonetic": "/ˌpeɪ θruː ðə ˈnoʊz/",
+    "definition": "to pay much more for something than it is worth; spoken",
+    "translation": "trả giá cắt cổ",
+    "exampleSentence": "We paid through the nose for a hotel near the station.",
+    "exampleTranslation": "Chúng tôi trả giá cắt cổ cho khách sạn gần nhà ga.",
+    "pos": "idiom"
+  },
+  {
+    "word": "save for a rainy day",
+    "phonetic": "/ˌseɪv fər ə ˌreɪni ˈdeɪ/",
+    "definition": "to save money for a time when you will need it",
+    "translation": "để dành phòng khi khó khăn",
+    "exampleSentence": "She puts a little money aside each month for a rainy day.",
+    "exampleTranslation": "Mỗi tháng cô ấy để dành một ít tiền phòng khi khó khăn.",
+    "pos": "idiom"
+  },
+  {
+    "word": "money doesn't grow on trees",
+    "phonetic": "/ˌmʌni ˌdʌznt ˌɡroʊ ɑːn ˈtriːz/",
+    "definition": "used to say that you should not waste money; spoken",
+    "translation": "tiền không phải từ trên trời rơi xuống",
+    "exampleSentence": "Turn off the lights. Money doesn't grow on trees.",
+    "exampleTranslation": "Tắt đèn đi. Tiền đâu phải từ trên trời rơi xuống.",
+    "pos": "idiom"
+  },
+  {
+    "word": "get your money's worth",
+    "phonetic": "/ˌɡet jər ˈmʌniz ˈwɜːrθ/",
+    "definition": "to get something that is worth the price you paid",
+    "translation": "đáng đồng tiền bát gạo",
+    "exampleSentence": "At that price, you really get your money's worth.",
+    "exampleTranslation": "Với mức giá đó, bạn thật sự đáng đồng tiền bát gạo.",
+    "pos": "idiom"
+  },
+  {
+    "word": "on the house",
+    "phonetic": "/ɑːn ðə ˈhaʊs/",
+    "definition": "if drinks or meals are on the house, you do not have to pay for them",
+    "translation": "nhà hàng mời, miễn phí",
+    "exampleSentence": "The dessert is on the house.",
+    "exampleTranslation": "Món tráng miệng là nhà hàng mời.",
+    "pos": "idiom"
+  },
+  {
+    "word": "in the red",
+    "phonetic": "/ɪn ðə ˈred/",
+    "definition": "owing more money than you have; informal",
+    "translation": "bị thâm hụt, nợ nhiều hơn có",
+    "exampleSentence": "The company has been in the red for two years.",
+    "exampleTranslation": "Công ty đã thua lỗ suốt hai năm.",
+    "pos": "idiom"
+  },
+  {
+    "word": "in the black",
+    "phonetic": "/ɪn ðə ˈblæk/",
+    "definition": "having money in your bank account, or making a profit",
+    "translation": "có lãi, tài khoản còn tiền",
+    "exampleSentence": "After a tough year, the shop is finally in the black.",
+    "exampleTranslation": "Sau một năm khó khăn, cửa hàng cuối cùng cũng có lãi.",
+    "pos": "idiom"
+  },
+  {
+    "word": "foot the bill",
+    "phonetic": "/ˌfʊt ðə ˈbɪl/",
+    "definition": "to pay for something, especially something expensive you do not want to pay for",
+    "translation": "chịu trả tiền, gánh chi phí",
+    "exampleSentence": "Who is going to foot the bill for the repairs?",
+    "exampleTranslation": "Ai sẽ chịu trả tiền sửa chữa?",
+    "pos": "idiom"
+  },
+  {
+    "word": "pick up the tab",
+    "phonetic": "/ˌpɪk ʌp ðə ˈtæb/",
+    "definition": "to pay for something, especially when it is not your responsibility",
+    "translation": "trả tiền (thay cho người khác)",
+    "exampleSentence": "My boss picked up the tab for dinner.",
+    "exampleTranslation": "Sếp tôi trả tiền bữa tối.",
+    "pos": "idiom"
+  },
+  {
+    "word": "dirt cheap",
+    "phonetic": "/ˌdɜːrt ˈtʃiːp/",
+    "definition": "extremely cheap",
+    "translation": "rẻ như bèo",
+    "exampleSentence": "I bought this jacket at the market. It was dirt cheap.",
+    "exampleTranslation": "Tôi mua cái áo này ở chợ. Rẻ như bèo.",
+    "pos": "idiom"
+  },
+  {
+    "word": "a rip-off",
+    "phonetic": "/ə ˈrɪp ɔːf/",
+    "definition": "something that is unreasonably expensive; informal",
+    "translation": "chặt chém, giá cắt cổ",
+    "exampleSentence": "Five dollars for a bottle of water? What a rip-off!",
+    "exampleTranslation": "Năm đô cho một chai nước? Đúng là chặt chém!",
+    "pos": "idiom"
+  },
+  {
+    "word": "tighten your belt",
+    "phonetic": "/ˌtaɪtn jər ˈbelt/",
+    "definition": "to try to spend less money than you used to; informal",
+    "translation": "thắt lưng buộc bụng",
+    "exampleSentence": "We'll have to tighten our belts this year.",
+    "exampleTranslation": "Năm nay chúng ta phải thắt lưng buộc bụng.",
+    "pos": "idiom"
+  },
+  {
+    "word": "bring home the bacon",
+    "phonetic": "/ˌbrɪŋ ˌhoʊm ðə ˈbeɪkən/",
+    "definition": "to earn enough money to support your family; informal",
+    "translation": "kiếm tiền nuôi gia đình",
+    "exampleSentence": "She is the one who brings home the bacon in our house.",
+    "exampleTranslation": "Cô ấy là người kiếm tiền nuôi cả nhà.",
+    "pos": "idiom"
+  },
+  {
+    "word": "rolling in money",
+    "phonetic": "/ˌroʊlɪŋ ɪn ˈmʌni/",
+    "definition": "having or earning a lot of money",
+    "translation": "giàu nứt đố đổ vách",
+    "exampleSentence": "Since the business took off, they've been rolling in money.",
+    "exampleTranslation": "Từ khi việc kinh doanh phất lên, họ giàu nứt đố đổ vách.",
+    "pos": "idiom"
+  },
+  {
+    "word": "a steal",
+    "phonetic": "/ə ˈstiːl/",
+    "definition": "something that is very cheap; informal",
+    "translation": "món hời, giá rẻ bất ngờ",
+    "exampleSentence": "I got this laptop for $200. It was a steal.",
+    "exampleTranslation": "Tôi mua chiếc laptop này có 200 đô. Đúng là món hời.",
+    "pos": "idiom"
+  },
+  {
+    "word": "go halves",
+    "phonetic": "/ˌɡoʊ ˈhævz/",
+    "definition": "to share something, especially a cost, equally between two people",
+    "translation": "chia đôi, mỗi người một nửa",
+    "exampleSentence": "Let's go halves on the taxi.",
+    "exampleTranslation": "Mình chia đôi tiền taxi nhé.",
+    "pos": "idiom"
+  },
+  {
+    "word": "chip in",
+    "phonetic": "/ˌtʃɪp ˈɪn/",
+    "definition": "if each person in a group chips in, they each give a small amount of money so that something can be bought",
+    "translation": "góp tiền, góp chung",
+    "exampleSentence": "We all chipped in to buy her a gift.",
+    "exampleTranslation": "Tất cả chúng tôi góp tiền mua quà cho cô ấy.",
+    "pos": "idiom"
+  },
+  {
+    "word": "make a killing",
+    "phonetic": "/ˌmeɪk ə ˈkɪlɪŋ/",
+    "definition": "to make a lot of money in a short time; informal",
+    "translation": "kiếm được một món lớn",
+    "exampleSentence": "He made a killing on the stock market.",
+    "exampleTranslation": "Anh ấy kiếm được một món lớn trên thị trường chứng khoán.",
+    "pos": "idiom"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "word": "fit of rage",
+    "phonetic": "/ˌfɪt əv ˈreɪdʒ/",
+    "definition": "a sudden period of uncontrolled anger",
+    "translation": "cơn thịnh nộ",
+    "exampleSentence": "In a fit of rage, he threw the phone against the wall.",
+    "exampleTranslation": "Trong cơn thịnh nộ, anh ta ném điện thoại vào tường.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fit of laughter",
+    "phonetic": "/ˌfɪt əv ˈlæftər/",
+    "definition": "a period in which you laugh uncontrollably",
+    "translation": "cơn cười không dừng được",
+    "exampleSentence": "Her funny stories had us in fits of laughter.",
+    "exampleTranslation": "Những câu chuyện hài của cô ấy khiến chúng tôi cười nghiêng ngả.",
+    "pos": "collocation"
+  },
+  {
+    "word": "ray of hope",
+    "phonetic": "/ˌreɪ əv ˈhoʊp/",
+    "definition": "a little hope, or something that gives you hope",
+    "translation": "tia hy vọng",
+    "exampleSentence": "The new treatment offers a ray of hope for patients.",
+    "exampleTranslation": "Phương pháp điều trị mới mang đến tia hy vọng cho bệnh nhân.",
+    "pos": "collocation"
+  },
+  {
+    "word": "glimmer of hope",
+    "phonetic": "/ˌɡlɪmər əv ˈhoʊp/",
+    "definition": "a small amount of hope",
+    "translation": "chút hy vọng le lói",
+    "exampleSentence": "The news gave us a glimmer of hope.",
+    "exampleTranslation": "Tin đó cho chúng tôi một chút hy vọng le lói.",
+    "pos": "collocation"
+  },
+  {
+    "word": "pang of guilt",
+    "phonetic": "/ˌpæŋ əv ˈɡɪlt/",
+    "definition": "a sudden strong feeling of shame and sadness",
+    "translation": "cảm giác day dứt tội lỗi",
+    "exampleSentence": "He felt a pang of guilt when he saw her face.",
+    "exampleTranslation": "Anh ấy thấy day dứt tội lỗi khi nhìn thấy gương mặt cô.",
+    "pos": "collocation"
+  },
+  {
+    "word": "touch of humour",
+    "phonetic": "/ˌtʌtʃ əv ˈhjuːmər/",
+    "definition": "a very small amount of humour",
+    "translation": "chút hài hước",
+    "exampleSentence": "The speech had a touch of humour.",
+    "exampleTranslation": "Bài phát biểu có chút hài hước.",
+    "pos": "collocation"
+  },
+  {
+    "word": "wealth of experience",
+    "phonetic": "/ˌwelθ əv ɪkˈspɪriəns/",
+    "definition": "a lot of useful experience",
+    "translation": "nhiều kinh nghiệm quý",
+    "exampleSentence": "The management team has a wealth of experience.",
+    "exampleTranslation": "Ban quản lý có rất nhiều kinh nghiệm quý.",
+    "pos": "collocation"
+  },
+  {
+    "word": "range of options",
+    "phonetic": "/ˌreɪndʒ əv ˈɑːpʃnz/",
+    "definition": "a number of different choices you can make",
+    "translation": "nhiều lựa chọn",
+    "exampleSentence": "The council is considering a range of options.",
+    "exampleTranslation": "Hội đồng đang cân nhắc nhiều lựa chọn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "matter of time",
+    "phonetic": "/ˌmætər əv ˈtaɪm/",
+    "definition": "used to say that something will definitely happen sooner or later",
+    "translation": "chỉ là vấn đề thời gian",
+    "exampleSentence": "It's only a matter of time before someone is hurt.",
+    "exampleTranslation": "Chỉ là vấn đề thời gian trước khi có người bị thương.",
+    "pos": "collocation"
+  },
+  {
+    "word": "waste of money",
+    "phonetic": "/ˌweɪst əv ˈmʌni/",
+    "definition": "something that costs money but is not useful",
+    "translation": "phí tiền",
+    "exampleSentence": "Fancy clothes for a baby are a waste of money.",
+    "exampleTranslation": "Quần áo cầu kỳ cho em bé là phí tiền.",
+    "pos": "collocation"
+  },
+  {
+    "word": "loss of appetite",
+    "phonetic": "/ˌlɔːs əv ˈæpɪtaɪt/",
+    "definition": "when you no longer want to eat",
+    "translation": "chán ăn",
+    "exampleSentence": "Symptoms include fever and loss of appetite.",
+    "exampleTranslation": "Triệu chứng gồm sốt và chán ăn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "loss of memory",
+    "phonetic": "/ˌlɔːs əv ˈmeməri/",
+    "definition": "when you cannot remember things",
+    "translation": "mất trí nhớ",
+    "exampleSentence": "He suffered a temporary loss of memory after the accident.",
+    "exampleTranslation": "Anh ấy bị mất trí nhớ tạm thời sau tai nạn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "loss of control",
+    "phonetic": "/ˌlɔːs əv kənˈtroʊl/",
+    "definition": "when you can no longer direct what is happening",
+    "translation": "mất kiểm soát",
+    "exampleSentence": "She felt a terrible loss of control.",
+    "exampleTranslation": "Cô ấy cảm thấy mất kiểm soát khủng khiếp.",
+    "pos": "collocation"
+  },
+  {
+    "word": "loss of life",
+    "phonetic": "/ˌlɔːs əv ˈlaɪf/",
+    "definition": "the death of people",
+    "translation": "thiệt hại về nhân mạng",
+    "exampleSentence": "The war led to a tragic loss of life.",
+    "exampleTranslation": "Cuộc chiến gây ra thiệt hại bi thảm về nhân mạng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "breach of contract",
+    "phonetic": "/ˌbriːtʃ əv ˈkɑːntrækt/",
+    "definition": "an action that your contract does not allow",
+    "translation": "vi phạm hợp đồng",
+    "exampleSentence": "They are suing the company for breach of contract.",
+    "exampleTranslation": "Họ đang kiện công ty vì vi phạm hợp đồng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "breach of trust",
+    "phonetic": "/ˌbriːtʃ əv ˈtrʌst/",
+    "definition": "an action in which someone does something that harms a person who trusted them",
+    "translation": "phản bội niềm tin",
+    "exampleSentence": "Leaking the data was a serious breach of trust.",
+    "exampleTranslation": "Làm rò rỉ dữ liệu là một sự phản bội niềm tin nghiêm trọng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "breach of security",
+    "phonetic": "/ˌbriːtʃ əv sɪˈkjʊrəti/",
+    "definition": "when something happens that the security system should have prevented",
+    "translation": "vi phạm an ninh",
+    "exampleSentence": "There was a serious breach of security at the prison.",
+    "exampleTranslation": "Đã xảy ra vi phạm an ninh nghiêm trọng ở nhà tù.",
+    "pos": "collocation"
+  },
+  {
+    "word": "point of view",
+    "phonetic": "/ˌpɔɪnt əv ˈvjuː/",
+    "definition": "a particular way of thinking about or judging something",
+    "translation": "quan điểm, góc nhìn",
+    "exampleSentence": "From an economic point of view, the plan makes sense.",
+    "exampleTranslation": "Từ góc nhìn kinh tế, kế hoạch này hợp lý.",
+    "pos": "collocation"
+  },
+  {
+    "word": "place of work",
+    "phonetic": "/ˌpleɪs əv ˈwɜːrk/",
+    "definition": "the place where you work",
+    "translation": "nơi làm việc",
+    "exampleSentence": "Please give the address of your place of work.",
+    "exampleTranslation": "Vui lòng ghi địa chỉ nơi làm việc của bạn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "place of birth",
+    "phonetic": "/ˌpleɪs əv ˈbɜːrθ/",
+    "definition": "the town or country where you were born",
+    "translation": "nơi sinh",
+    "exampleSentence": "I wanted to find out my father's place of birth.",
+    "exampleTranslation": "Tôi muốn tìm hiểu nơi sinh của bố tôi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "date of birth",
+    "phonetic": "/ˌdeɪt əv ˈbɜːrθ/",
+    "definition": "the day, month and year you were born",
+    "translation": "ngày sinh",
+    "exampleSentence": "Please give your name, address and date of birth.",
+    "exampleTranslation": "Vui lòng ghi tên, địa chỉ và ngày sinh.",
+    "pos": "collocation"
+  },
+  {
+    "word": "country of origin",
+    "phonetic": "/ˌkʌntri əv ˈɔːrɪdʒɪn/",
+    "definition": "the country where you were born or where something comes from",
+    "translation": "quốc gia xuất xứ",
+    "exampleSentence": "Please give your name, age and country of origin.",
+    "exampleTranslation": "Vui lòng ghi tên, tuổi và quốc gia xuất xứ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "head of state",
+    "phonetic": "/ˌhed əv ˈsteɪt/",
+    "definition": "the main representative of a country, such as a president or king",
+    "translation": "nguyên thủ quốc gia",
+    "exampleSentence": "A meeting of heads of state will be held next month.",
+    "exampleTranslation": "Một cuộc họp của các nguyên thủ quốc gia sẽ diễn ra vào tháng sau.",
+    "pos": "collocation"
+  },
+  {
+    "word": "head of department",
+    "phonetic": "/ˌhed əv dɪˈpɑːrtmənt/",
+    "definition": "the person in charge of a department",
+    "translation": "trưởng phòng, trưởng bộ môn",
+    "exampleSentence": "You should discuss it with your head of department.",
+    "exampleTranslation": "Bạn nên bàn việc này với trưởng phòng của mình.",
+    "pos": "collocation"
+  },
+  {
+    "word": "member of staff",
+    "phonetic": "/ˌmembər əv ˈstæf/",
+    "definition": "a person who works for an organization",
+    "translation": "nhân viên",
+    "exampleSentence": "I'd like to welcome a new member of staff.",
+    "exampleTranslation": "Tôi xin chào đón một nhân viên mới.",
+    "pos": "collocation"
+  },
+  {
+    "word": "member of the public",
+    "phonetic": "/ˌmembər əv ðə ˈpʌblɪk/",
+    "definition": "an ordinary person who is not an expert or official",
+    "translation": "người dân thường",
+    "exampleSentence": "Members of the public were invited to give suggestions.",
+    "exampleTranslation": "Người dân được mời đưa ra đề xuất.",
+    "pos": "collocation"
+  },
+  {
+    "word": "board of directors",
+    "phonetic": "/ˌbɔːrd əv dəˈrektərz/",
+    "definition": "a group of people who manage a company",
+    "translation": "hội đồng quản trị",
+    "exampleSentence": "The board of directors met yesterday.",
+    "exampleTranslation": "Hội đồng quản trị đã họp hôm qua.",
+    "pos": "collocation"
+  },
+  {
+    "word": "cause of death",
+    "phonetic": "/ˌkɔːz əv ˈdeθ/",
+    "definition": "the thing that made someone die",
+    "translation": "nguyên nhân tử vong",
+    "exampleSentence": "A snake bite was the cause of death.",
+    "exampleTranslation": "Rắn cắn là nguyên nhân tử vong.",
+    "pos": "collocation"
+  },
+  {
+    "word": "course of action",
+    "phonetic": "/ˌkɔːrs əv ˈækʃn/",
+    "definition": "a way of acting that you decide on",
+    "translation": "hướng hành động",
+    "exampleSentence": "Have you decided on a course of action?",
+    "exampleTranslation": "Bạn đã quyết định hướng hành động chưa?",
+    "pos": "collocation"
+  },
+  {
+    "word": "course of treatment",
+    "phonetic": "/ˌkɔːrs əv ˈtriːtmənt/",
+    "definition": "a series of medical treatments given over a period of time",
+    "translation": "liệu trình điều trị",
+    "exampleSentence": "She is on a six-week course of treatment.",
+    "exampleTranslation": "Cô ấy đang trong liệu trình điều trị sáu tuần.",
+    "pos": "collocation"
+  },
+  {
+    "word": "process of elimination",
+    "phonetic": "/ˌprɑːses əv ɪˌlɪmɪˈneɪʃn/",
+    "definition": "a way of finding the right answer by removing the wrong ones",
+    "translation": "phương pháp loại trừ",
+    "exampleSentence": "I solved the problem by a process of elimination.",
+    "exampleTranslation": "Tôi giải quyết vấn đề bằng phương pháp loại trừ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "prices rise",
+    "phonetic": "/ˈpraɪsɪz ˈraɪz/",
+    "definition": "the amount of money you pay for things becomes higher",
+    "translation": "giá cả tăng",
+    "exampleSentence": "House prices rose rapidly last year.",
+    "exampleTranslation": "Giá nhà tăng nhanh vào năm ngoái.",
+    "pos": "collocation"
+  },
+  {
+    "word": "prices fall",
+    "phonetic": "/ˈpraɪsɪz ˈfɔːl/",
+    "definition": "the amount of money you pay for things becomes lower",
+    "translation": "giá cả giảm",
+    "exampleSentence": "Share prices fell sharply yesterday.",
+    "exampleTranslation": "Giá cổ phiếu giảm mạnh hôm qua.",
+    "pos": "collocation"
+  },
+  {
+    "word": "tensions mount",
+    "phonetic": "/ˈtenʃnz ˈmaʊnt/",
+    "definition": "a nervous or angry feeling between people gradually increases",
+    "translation": "căng thẳng gia tăng",
+    "exampleSentence": "Tensions mounted as the deadline came closer.",
+    "exampleTranslation": "Căng thẳng gia tăng khi hạn chót đến gần.",
+    "pos": "collocation"
+  },
+  {
+    "word": "the economy grows",
+    "phonetic": "/ði ɪˈkɑːnəmi ɡroʊz/",
+    "definition": "the economy becomes bigger and more successful",
+    "translation": "nền kinh tế tăng trưởng",
+    "exampleSentence": "The economy grew by 3% last year.",
+    "exampleTranslation": "Nền kinh tế tăng trưởng 3% vào năm ngoái.",
+    "pos": "collocation"
+  },
+  {
+    "word": "a fire breaks out",
+    "phonetic": "/ə ˈfaɪər breɪks aʊt/",
+    "definition": "a fire starts suddenly",
+    "translation": "hỏa hoạn bùng phát",
+    "exampleSentence": "A fire broke out in the kitchen.",
+    "exampleTranslation": "Một đám cháy bùng phát trong nhà bếp.",
+    "pos": "collocation"
+  },
+  {
+    "word": "war breaks out",
+    "phonetic": "/wɔːr breɪks aʊt/",
+    "definition": "a war starts",
+    "translation": "chiến tranh nổ ra",
+    "exampleSentence": "They married just before war broke out.",
+    "exampleTranslation": "Họ cưới nhau ngay trước khi chiến tranh nổ ra.",
+    "pos": "collocation"
+  },
+  {
+    "word": "rumours spread",
+    "phonetic": "/ˈruːmərz spred/",
+    "definition": "a story or piece of information is passed from one person to another",
+    "translation": "tin đồn lan truyền",
+    "exampleSentence": "Rumours spread that the factory would close.",
+    "exampleTranslation": "Tin đồn lan ra rằng nhà máy sẽ đóng cửa.",
+    "pos": "collocation"
+  },
+  {
+    "word": "an alarm goes off",
+    "phonetic": "/ən əˈlɑːrm ɡoʊz ɔːf/",
+    "definition": "an alarm makes a loud noise to warn people",
+    "translation": "chuông báo động reo lên",
+    "exampleSentence": "The thieves fled when an alarm went off.",
+    "exampleTranslation": "Bọn trộm bỏ chạy khi chuông báo động reo lên.",
+    "pos": "collocation"
+  },
+  {
+    "word": "a storm hits",
+    "phonetic": "/ə ˈstɔːrm hɪts/",
+    "definition": "a period of very bad weather arrives in a place",
+    "translation": "cơn bão ập đến",
+    "exampleSentence": "We should get home before the storm hits.",
+    "exampleTranslation": "Chúng ta nên về nhà trước khi cơn bão ập đến.",
+    "pos": "collocation"
+  },
+  {
+    "word": "the wind picks up",
+    "phonetic": "/ðə ˈwɪnd pɪks ʌp/",
+    "definition": "the wind becomes stronger",
+    "translation": "gió mạnh lên",
+    "exampleSentence": "The wind picked up in the afternoon.",
+    "exampleTranslation": "Buổi chiều gió mạnh lên.",
+    "pos": "collocation"
+  },
+  {
+    "word": "rain pours",
+    "phonetic": "/ˈreɪn pɔːrz/",
+    "definition": "a lot of rain comes down",
+    "translation": "mưa như trút nước",
+    "exampleSentence": "The rain was pouring down, and I was soon soaked.",
+    "exampleTranslation": "Mưa như trút nước và chẳng mấy chốc tôi ướt sũng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "thunder rumbles",
+    "phonetic": "/ˈθʌndər ˈrʌmblz/",
+    "definition": "the loud noise of thunder is heard in the distance",
+    "translation": "sấm rền vang",
+    "exampleSentence": "Thunder rumbled in the distance.",
+    "exampleTranslation": "Sấm rền vang ở phía xa.",
+    "pos": "collocation"
+  },
+  {
+    "word": "silence falls",
+    "phonetic": "/ˈsaɪləns fɔːlz/",
+    "definition": "a quiet period begins suddenly",
+    "translation": "sự im lặng bao trùm",
+    "exampleSentence": "A sudden silence fell over the room.",
+    "exampleTranslation": "Một sự im lặng đột ngột bao trùm căn phòng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "night falls",
+    "phonetic": "/ˈnaɪt fɔːlz/",
+    "definition": "it starts to become dark in the evening",
+    "translation": "màn đêm buông xuống",
+    "exampleSentence": "It grew colder as night fell.",
+    "exampleTranslation": "Trời lạnh dần khi màn đêm buông xuống.",
+    "pos": "collocation"
+  },
+  {
+    "word": "time passes",
+    "phonetic": "/ˈtaɪm ˈpæsɪz/",
+    "definition": "minutes, hours and days go by",
+    "translation": "thời gian trôi qua",
+    "exampleSentence": "As time passed, she thought less about her old home.",
+    "exampleTranslation": "Theo thời gian, cô ấy ít nghĩ về ngôi nhà cũ hơn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "time runs out",
+    "phonetic": "/ˈtaɪm rʌnz aʊt/",
+    "definition": "there is no time left to do something",
+    "translation": "hết thời gian",
+    "exampleSentence": "Hurry up! Time is running out.",
+    "exampleTranslation": "Nhanh lên! Sắp hết thời gian rồi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "the truth emerges",
+    "phonetic": "/ðə ˈtruːθ ɪˈmɜːrdʒɪz/",
+    "definition": "facts become known after being hidden",
+    "translation": "sự thật dần lộ ra",
+    "exampleSentence": "Eventually the truth emerged.",
+    "exampleTranslation": "Cuối cùng sự thật cũng lộ ra.",
+    "pos": "collocation"
+  },
+  {
+    "word": "evidence suggests",
+    "phonetic": "/ˈevɪdəns səɡˈdʒests/",
+    "definition": "facts make people think that something is true",
+    "translation": "bằng chứng cho thấy",
+    "exampleSentence": "The evidence suggests that regular exercise improves sleep.",
+    "exampleTranslation": "Bằng chứng cho thấy việc tập thể dục đều đặn giúp ngủ ngon hơn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "figures show",
+    "phonetic": "/ˈfɪɡjərz ʃoʊ/",
+    "definition": "numbers give facts or information that make something clear",
+    "translation": "số liệu cho thấy",
+    "exampleSentence": "Figures show a 9% rise in prices.",
+    "exampleTranslation": "Số liệu cho thấy giá tăng 9%.",
+    "pos": "collocation"
+  }
+]

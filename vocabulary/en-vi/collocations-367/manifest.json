@@ -1,0 +1,57 @@
+{
+  "id": "collocations-367",
+  "type": "vocabulary",
+  "title": "367 common collocations",
+  "description": "367 common collocations such as strong evidence, heavy workload, strongly recommend and take responsibility, with Vietnamese meanings and examples.",
+  "category": "collocations",
+  "level": "mixed",
+  "order": 11,
+  "sourceLang": "en",
+  "targetLang": "vi",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "source": "Written by the Alavo team. Collocations of six types (adjective + noun, adverb + adjective, verb + adverb, verb + noun, noun + of + noun, noun + verb) chosen by hand and kept when Longman (LDOCE) shows them; definitions paraphrase LDOCE; translations and examples are original.",
+  "wordCount": 367,
+  "files": [
+    {
+      "path": "words-001.json",
+      "count": 50,
+      "sha256": "71b1a33b8a4330c59bbec0ffd19992d6fd3c066671e9c1d6ac213ea6fb9e6f99"
+    },
+    {
+      "path": "words-002.json",
+      "count": 50,
+      "sha256": "2aa8c495c55c50587cf04f267824f886b2fd0efd42e0cc52c19e6bfff9cefaf5"
+    },
+    {
+      "path": "words-003.json",
+      "count": 50,
+      "sha256": "7bf04a9812cb02e4435706ab3575477a5babffec0251d60f0371fe1c79a7ed03"
+    },
+    {
+      "path": "words-004.json",
+      "count": 50,
+      "sha256": "b3d20f44f252901356d6f3b01be14a375036680508f39774424dfe069f1b7bfb"
+    },
+    {
+      "path": "words-005.json",
+      "count": 50,
+      "sha256": "1a271fa20976a2f8eaf956db2b0ce76fe6abcf4a1bcff97b9abe5fff70f04036"
+    },
+    {
+      "path": "words-006.json",
+      "count": 50,
+      "sha256": "020bf1332d5987de250a4ccac7ac315ee0258e8188eec5b64828faf05781ba91"
+    },
+    {
+      "path": "words-007.json",
+      "count": 50,
+      "sha256": "b5205aedf5ca7bca23e429f9b1ce9e6a433254f3112ec31a9b68f34ae6d15e99"
+    },
+    {
+      "path": "words-008.json",
+      "count": 17,
+      "sha256": "5992764442c74af91381a0408b0c2ed83f893170f60a8af5e1de490cf0686afc"
+    }
+  ]
+}

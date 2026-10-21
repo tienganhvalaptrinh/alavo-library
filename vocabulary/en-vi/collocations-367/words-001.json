@@ -1,0 +1,452 @@
+[
+  {
+    "word": "strong evidence",
+    "phonetic": "/ˌstrɔːŋ ˈevɪdəns/",
+    "definition": "facts or signs that are likely to persuade people that something is true",
+    "translation": "bằng chứng thuyết phục",
+    "exampleSentence": "They need strong evidence to win the case.",
+    "exampleTranslation": "Họ cần bằng chứng thuyết phục để thắng vụ kiện.",
+    "pos": "collocation"
+  },
+  {
+    "word": "major concern",
+    "phonetic": "/ˌmeɪdʒər kənˈsɜːrn/",
+    "definition": "a worry that is very large or important",
+    "translation": "mối quan ngại lớn",
+    "exampleSentence": "Pollution is a major concern for local residents.",
+    "exampleTranslation": "Ô nhiễm là mối quan ngại lớn của người dân địa phương.",
+    "pos": "collocation"
+  },
+  {
+    "word": "sharp increase",
+    "phonetic": "/ˌʃɑːrp ˈɪnkriːs/",
+    "definition": "a rise in amount or number that happens suddenly and is large",
+    "translation": "sự tăng mạnh",
+    "exampleSentence": "There was a sharp increase in prices last month.",
+    "exampleTranslation": "Tháng trước giá tăng mạnh.",
+    "pos": "collocation"
+  },
+  {
+    "word": "wide range",
+    "phonetic": "/ˌwaɪd ˈreɪndʒ/",
+    "definition": "a number of people or things that are all different from each other",
+    "translation": "phạm vi rộng, đa dạng",
+    "exampleSentence": "The shop sells a wide range of products.",
+    "exampleTranslation": "Cửa hàng bán nhiều loại sản phẩm đa dạng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "vast majority",
+    "phonetic": "/ˌvæst məˈdʒɔːrəti/",
+    "definition": "used to emphasize that almost all of a group is meant",
+    "translation": "đại đa số",
+    "exampleSentence": "The vast majority of students passed the exam.",
+    "exampleTranslation": "Đại đa số học sinh đã đỗ kỳ thi.",
+    "pos": "collocation"
+  },
+  {
+    "word": "key factor",
+    "phonetic": "/ˌkiː ˈfæktər/",
+    "definition": "a very important thing that influences a result",
+    "translation": "yếu tố then chốt",
+    "exampleSentence": "Location is a key factor in starting any business.",
+    "exampleTranslation": "Vị trí là yếu tố then chốt khi bắt đầu bất kỳ việc kinh doanh nào.",
+    "pos": "collocation"
+  },
+  {
+    "word": "healthy diet",
+    "phonetic": "/ˌhelθi ˈdaɪət/",
+    "definition": "food and drink that is good for your body",
+    "translation": "chế độ ăn lành mạnh",
+    "exampleSentence": "A healthy diet includes plenty of vegetables.",
+    "exampleTranslation": "Chế độ ăn lành mạnh có nhiều rau.",
+    "pos": "collocation"
+  },
+  {
+    "word": "balanced diet",
+    "phonetic": "/ˌbælənst ˈdaɪət/",
+    "definition": "a diet that contains the right amounts of different kinds of food",
+    "translation": "chế độ ăn cân bằng",
+    "exampleSentence": "A balanced diet is important for a child's development.",
+    "exampleTranslation": "Chế độ ăn cân bằng rất quan trọng cho sự phát triển của trẻ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "high standard",
+    "phonetic": "/ˌhaɪ ˈstændərd/",
+    "definition": "a level of quality that is very good",
+    "translation": "tiêu chuẩn cao",
+    "exampleSentence": "Our guests expect us to maintain high standards.",
+    "exampleTranslation": "Khách của chúng tôi mong chúng tôi duy trì tiêu chuẩn cao.",
+    "pos": "collocation"
+  },
+  {
+    "word": "low profile",
+    "phonetic": "/ˌloʊ ˈproʊfaɪl/",
+    "definition": "behaviour that does not attract attention; often used in keep a low profile",
+    "translation": "kín tiếng, giữ thấp điệu",
+    "exampleSentence": "The star kept a low profile after the scandal.",
+    "exampleTranslation": "Ngôi sao giữ thái độ kín tiếng sau vụ bê bối.",
+    "pos": "collocation"
+  },
+  {
+    "word": "rough estimate",
+    "phonetic": "/ˌrʌf ˈestɪmət/",
+    "definition": "a calculation that is not exact",
+    "translation": "ước tính sơ bộ",
+    "exampleSentence": "Can you give me a rough estimate of the repair cost?",
+    "exampleTranslation": "Bạn có thể cho tôi ước tính sơ bộ chi phí sửa chữa không?",
+    "pos": "collocation"
+  },
+  {
+    "word": "solid evidence",
+    "phonetic": "/ˌsɑːlɪd ˈevɪdəns/",
+    "definition": "facts that you can depend on to prove something",
+    "translation": "bằng chứng chắc chắn",
+    "exampleSentence": "The police have no solid evidence yet.",
+    "exampleTranslation": "Cảnh sát chưa có bằng chứng chắc chắn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "strict rules",
+    "phonetic": "/ˌstrɪkt ˈruːlz/",
+    "definition": "rules that must be obeyed completely",
+    "translation": "quy định nghiêm ngặt",
+    "exampleSentence": "The school has strict rules about phones.",
+    "exampleTranslation": "Trường có quy định nghiêm ngặt về điện thoại.",
+    "pos": "collocation"
+  },
+  {
+    "word": "valuable experience",
+    "phonetic": "/ˌvæljuəbl ɪkˈspɪriəns/",
+    "definition": "knowledge or skill that you gain from doing something and that is useful",
+    "translation": "kinh nghiệm quý giá",
+    "exampleSentence": "That summer he got some valuable experience in an accounting firm.",
+    "exampleTranslation": "Mùa hè đó anh ấy có được kinh nghiệm quý giá tại một công ty kế toán.",
+    "pos": "collocation"
+  },
+  {
+    "word": "vital role",
+    "phonetic": "/ˌvaɪtl ˈroʊl/",
+    "definition": "a part that is extremely important and necessary",
+    "translation": "vai trò sống còn",
+    "exampleSentence": "Nurses play a vital role in hospitals.",
+    "exampleTranslation": "Y tá đóng vai trò sống còn trong bệnh viện.",
+    "pos": "collocation"
+  },
+  {
+    "word": "crucial role",
+    "phonetic": "/ˌkruːʃl ˈroʊl/",
+    "definition": "a part that is extremely important in making something succeed",
+    "translation": "vai trò then chốt",
+    "exampleSentence": "Parents play a crucial role in their children's education.",
+    "exampleTranslation": "Cha mẹ đóng vai trò then chốt trong việc học của con.",
+    "pos": "collocation"
+  },
+  {
+    "word": "growing concern",
+    "phonetic": "/ˌɡroʊɪŋ kənˈsɜːrn/",
+    "definition": "a worry that is becoming greater",
+    "translation": "mối lo ngại ngày càng tăng",
+    "exampleSentence": "There is growing concern over water pollution.",
+    "exampleTranslation": "Mối lo ngại về ô nhiễm nguồn nước ngày càng tăng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "rapid growth",
+    "phonetic": "/ˌræpɪd ˈɡroʊθ/",
+    "definition": "an increase in amount, number or size that happens quickly",
+    "translation": "tăng trưởng nhanh",
+    "exampleSentence": "The industry is experiencing rapid growth.",
+    "exampleTranslation": "Ngành này đang tăng trưởng nhanh.",
+    "pos": "collocation"
+  },
+  {
+    "word": "harsh criticism",
+    "phonetic": "/ˌhɑːrʃ ˈkrɪtɪsɪzəm/",
+    "definition": "severe and unkind remarks about someone's faults",
+    "translation": "lời chỉ trích gay gắt",
+    "exampleSentence": "His theory met with harsh criticism from colleagues.",
+    "exampleTranslation": "Học thuyết của ông nhận lời chỉ trích gay gắt từ đồng nghiệp.",
+    "pos": "collocation"
+  },
+  {
+    "word": "light sleeper",
+    "phonetic": "/ˌlaɪt ˈsliːpər/",
+    "definition": "someone who wakes up easily if there is any noise",
+    "translation": "người ngủ không sâu giấc",
+    "exampleSentence": "I'm a light sleeper, so noise wakes me up.",
+    "exampleTranslation": "Tôi ngủ không sâu nên tiếng ồn làm tôi tỉnh giấc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "bitter disappointment",
+    "phonetic": "/ˌbɪtər ˌdɪsəˈpɔɪntmənt/",
+    "definition": "a very unhappy and upset feeling because something you hoped for did not happen",
+    "translation": "nỗi thất vọng cay đắng",
+    "exampleSentence": "The fans felt bitter disappointment at the result.",
+    "exampleTranslation": "Người hâm mộ cảm thấy thất vọng cay đắng trước kết quả.",
+    "pos": "collocation"
+  },
+  {
+    "word": "heated argument",
+    "phonetic": "/ˌhiːtɪd ˈɑːrɡjumənt/",
+    "definition": "an argument that is full of angry and excited feelings",
+    "translation": "cuộc tranh cãi nảy lửa",
+    "exampleSentence": "They had a heated argument about money.",
+    "exampleTranslation": "Họ có một cuộc tranh cãi nảy lửa về tiền bạc.",
+    "pos": "collocation"
+  },
+  {
+    "word": "fair price",
+    "phonetic": "/ˌfer ˈpraɪs/",
+    "definition": "a price that is reasonable for what you get",
+    "translation": "giá hợp lý, giá công bằng",
+    "exampleSentence": "£150 is a fair price for the bike.",
+    "exampleTranslation": "150 bảng là giá hợp lý cho chiếc xe đạp.",
+    "pos": "collocation"
+  },
+  {
+    "word": "reasonable price",
+    "phonetic": "/ˌriːznəbl ˈpraɪs/",
+    "definition": "a price that is not too high",
+    "translation": "giá phải chăng",
+    "exampleSentence": "We found good food at a reasonable price.",
+    "exampleTranslation": "Chúng tôi tìm được món ngon với giá phải chăng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "hidden cost",
+    "phonetic": "/ˌhɪdn ˈkɔːst/",
+    "definition": "a cost that you do not notice or are not told about at first",
+    "translation": "chi phí ẩn",
+    "exampleSentence": "Watch out for hidden costs in hotel bills.",
+    "exampleTranslation": "Hãy cẩn thận với chi phí ẩn trong hóa đơn khách sạn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "extra charge",
+    "phonetic": "/ˌekstrə ˈtʃɑːrdʒ/",
+    "definition": "an additional amount of money you have to pay",
+    "translation": "phụ phí",
+    "exampleSentence": "Breakfast is served in your room at no extra charge.",
+    "exampleTranslation": "Bữa sáng được phục vụ tại phòng không tính phụ phí.",
+    "pos": "collocation"
+  },
+  {
+    "word": "huge success",
+    "phonetic": "/ˌhjuːdʒ səkˈses/",
+    "definition": "a very great success",
+    "translation": "thành công vang dội",
+    "exampleSentence": "The play was a huge success.",
+    "exampleTranslation": "Vở kịch thành công vang dội.",
+    "pos": "collocation"
+  },
+  {
+    "word": "limited edition",
+    "phonetic": "/ˌlɪmɪtɪd ɪˈdɪʃn/",
+    "definition": "a small number of special copies of something that are made",
+    "translation": "phiên bản giới hạn",
+    "exampleSentence": "They produced a new limited edition CD.",
+    "exampleTranslation": "Họ sản xuất một đĩa CD phiên bản giới hạn mới.",
+    "pos": "collocation"
+  },
+  {
+    "word": "valid reason",
+    "phonetic": "/ˌvælɪd ˈriːzn/",
+    "definition": "a reason that is based on truth or good sense",
+    "translation": "lý do chính đáng",
+    "exampleSentence": "Police must have a valid reason for stopping drivers.",
+    "exampleTranslation": "Cảnh sát phải có lý do chính đáng khi dừng xe người lái.",
+    "pos": "collocation"
+  },
+  {
+    "word": "common ground",
+    "phonetic": "/ˌkɑːmən ˈɡraʊnd/",
+    "definition": "facts, beliefs or interests that are shared by people",
+    "translation": "điểm chung",
+    "exampleSentence": "There is a lot of common ground between the two sides.",
+    "exampleTranslation": "Hai bên có nhiều điểm chung.",
+    "pos": "collocation"
+  },
+  {
+    "word": "general public",
+    "phonetic": "/ˌdʒenrəl ˈpʌblɪk/",
+    "definition": "the ordinary people in a country, rather than experts or officials",
+    "translation": "công chúng, dân chúng nói chung",
+    "exampleSentence": "The information is not available to the general public.",
+    "exampleTranslation": "Thông tin này không dành cho công chúng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "public opinion",
+    "phonetic": "/ˌpʌblɪk əˈpɪnjən/",
+    "definition": "the opinions or beliefs that ordinary people have",
+    "translation": "dư luận",
+    "exampleSentence": "Public opinion is shifting in favour of the new law.",
+    "exampleTranslation": "Dư luận đang nghiêng về phía luật mới.",
+    "pos": "collocation"
+  },
+  {
+    "word": "vicious circle",
+    "phonetic": "/ˌvɪʃəs ˈsɜːrkl/",
+    "definition": "a situation in which one problem causes another, which makes the first problem worse",
+    "translation": "vòng luẩn quẩn",
+    "exampleSentence": "Stress causes poor sleep, and poor sleep causes more stress. It's a vicious circle.",
+    "exampleTranslation": "Căng thẳng gây mất ngủ, mất ngủ lại gây thêm căng thẳng. Đúng là vòng luẩn quẩn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "mutual respect",
+    "phonetic": "/ˌmjuːtʃuəl rɪˈspekt/",
+    "definition": "respect that two people or groups feel for each other",
+    "translation": "sự tôn trọng lẫn nhau",
+    "exampleSentence": "Their friendship is based on mutual respect.",
+    "exampleTranslation": "Tình bạn của họ dựa trên sự tôn trọng lẫn nhau.",
+    "pos": "collocation"
+  },
+  {
+    "word": "mixed reaction",
+    "phonetic": "/ˌmɪkst riˈækʃn/",
+    "definition": "a reaction in which some people like something and others do not",
+    "translation": "phản ứng trái chiều",
+    "exampleSentence": "The book met with mixed reactions.",
+    "exampleTranslation": "Cuốn sách nhận phản ứng trái chiều.",
+    "pos": "collocation"
+  },
+  {
+    "word": "adverse effect",
+    "phonetic": "/ˌædvɜːrs ɪˈfekt/",
+    "definition": "a bad or harmful result of something",
+    "translation": "tác dụng phụ, tác động bất lợi",
+    "exampleSentence": "The drug can have adverse effects on the liver.",
+    "exampleTranslation": "Loại thuốc này có thể gây tác dụng phụ lên gan.",
+    "pos": "collocation"
+  },
+  {
+    "word": "long-term effect",
+    "phonetic": "/ˌlɔːŋ tɜːrm ɪˈfekt/",
+    "definition": "a result that lasts for a long time",
+    "translation": "tác động lâu dài",
+    "exampleSentence": "Many boxers suffer long-term effects from punches to the head.",
+    "exampleTranslation": "Nhiều võ sĩ quyền anh chịu tác động lâu dài từ những cú đấm vào đầu.",
+    "pos": "collocation"
+  },
+  {
+    "word": "short-term goal",
+    "phonetic": "/ˌʃɔːrt tɜːrm ˈɡoʊl/",
+    "definition": "something you hope to achieve soon",
+    "translation": "mục tiêu ngắn hạn",
+    "exampleSentence": "Our short-term goal is to finish the first draft.",
+    "exampleTranslation": "Mục tiêu ngắn hạn của chúng tôi là hoàn thành bản nháp đầu tiên.",
+    "pos": "collocation"
+  },
+  {
+    "word": "golden opportunity",
+    "phonetic": "/ˌɡoʊldən ˌɑːpərˈtuːnəti/",
+    "definition": "a very good chance to get something valuable",
+    "translation": "cơ hội vàng",
+    "exampleSentence": "He wasted a golden opportunity to score.",
+    "exampleTranslation": "Anh ấy đã bỏ lỡ cơ hội vàng để ghi bàn.",
+    "pos": "collocation"
+  },
+  {
+    "word": "slim chance",
+    "phonetic": "/ˌslɪm ˈtʃæns/",
+    "definition": "a small possibility that something will happen",
+    "translation": "cơ hội mong manh",
+    "exampleSentence": "There is only a slim chance that anyone survived.",
+    "exampleTranslation": "Chỉ có cơ hội mong manh là có người sống sót.",
+    "pos": "collocation"
+  },
+  {
+    "word": "big picture",
+    "phonetic": "/ˌbɪɡ ˈpɪktʃər/",
+    "definition": "the general situation, rather than the details",
+    "translation": "bức tranh toàn cảnh",
+    "exampleSentence": "We were so caught up in the details that we lost sight of the big picture.",
+    "exampleTranslation": "Chúng tôi sa vào chi tiết đến mức quên mất bức tranh toàn cảnh.",
+    "pos": "collocation"
+  },
+  {
+    "word": "clean break",
+    "phonetic": "/ˌkliːn ˈbreɪk/",
+    "definition": "a complete and sudden separation from a person, place or situation",
+    "translation": "sự cắt đứt hoàn toàn",
+    "exampleSentence": "He needed to make a clean break from his past.",
+    "exampleTranslation": "Anh ấy cần cắt đứt hoàn toàn với quá khứ.",
+    "pos": "collocation"
+  },
+  {
+    "word": "bright future",
+    "phonetic": "/ˌbraɪt ˈfjuːtʃər/",
+    "definition": "a future in which you expect good things to happen",
+    "translation": "tương lai tươi sáng",
+    "exampleSentence": "I'm sure the company has a bright future.",
+    "exampleTranslation": "Tôi chắc rằng công ty có một tương lai tươi sáng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "torrential rain",
+    "phonetic": "/təˌrenʃl ˈreɪn/",
+    "definition": "very heavy rain",
+    "translation": "mưa như trút",
+    "exampleSentence": "Torrential rain caused floods across the region.",
+    "exampleTranslation": "Mưa như trút gây ngập lụt khắp khu vực.",
+    "pos": "collocation"
+  },
+  {
+    "word": "sharp contrast",
+    "phonetic": "/ˌʃɑːrp ˈkɑːntræst/",
+    "definition": "a very great difference between things you compare",
+    "translation": "sự tương phản rõ rệt",
+    "exampleSentence": "There is a sharp contrast between the two cities.",
+    "exampleTranslation": "Có sự tương phản rõ rệt giữa hai thành phố.",
+    "pos": "collocation"
+  },
+  {
+    "word": "subtle difference",
+    "phonetic": "/ˌsʌtl ˈdɪfrəns/",
+    "definition": "a difference that is small and not obvious",
+    "translation": "khác biệt tinh tế",
+    "exampleSentence": "There is a subtle difference in flavour between these two coffees.",
+    "exampleTranslation": "Có một khác biệt tinh tế về hương vị giữa hai loại cà phê này.",
+    "pos": "collocation"
+  },
+  {
+    "word": "heavy workload",
+    "phonetic": "/ˌhevi ˈwɜːrkloʊd/",
+    "definition": "a large amount of work that a person has to do",
+    "translation": "khối lượng công việc nặng",
+    "exampleSentence": "She is struggling to cope with the heavy workload.",
+    "exampleTranslation": "Cô ấy đang chật vật đối phó với khối lượng công việc nặng.",
+    "pos": "collocation"
+  },
+  {
+    "word": "demanding job",
+    "phonetic": "/dɪˌmændɪŋ ˈdʒɑːb/",
+    "definition": "a job that needs a lot of ability, effort or skill",
+    "translation": "công việc đòi hỏi cao",
+    "exampleSentence": "She has a demanding job in a hospital.",
+    "exampleTranslation": "Cô ấy có một công việc đòi hỏi cao ở bệnh viện.",
+    "pos": "collocation"
+  },
+  {
+    "word": "rewarding career",
+    "phonetic": "/rɪˌwɔːrdɪŋ kəˈrɪr/",
+    "definition": "a career that makes you feel happy and satisfied",
+    "translation": "sự nghiệp đáng giá",
+    "exampleSentence": "Teaching can be a very rewarding career.",
+    "exampleTranslation": "Dạy học có thể là một sự nghiệp rất đáng giá.",
+    "pos": "collocation"
+  },
+  {
+    "word": "promising career",
+    "phonetic": "/ˌprɑːmɪsɪŋ kəˈrɪr/",
+    "definition": "a career that is likely to be successful",
+    "translation": "sự nghiệp đầy hứa hẹn",
+    "exampleSentence": "She gave up a promising career in advertising.",
+    "exampleTranslation": "Cô ấy từ bỏ một sự nghiệp đầy hứa hẹn trong ngành quảng cáo.",
+    "pos": "collocation"
+  }
+]

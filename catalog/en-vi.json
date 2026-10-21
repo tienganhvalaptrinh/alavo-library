@@ -158,5 +158,37 @@
     "source": "Written by the Alavo team. Noun and preposition pairs chosen by hand from everyday use, kept when Longman (LDOCE) shows the pattern for the noun; definitions paraphrase LDOCE; translations and examples are original.",
     "manifest": "vocabulary/en-vi/noun-preposition-207/manifest.json",
     "wordCount": 207
+  },
+  {
+    "id": "everyday-idioms-270",
+    "type": "vocabulary",
+    "title": "270 common everyday idioms",
+    "description": "270 common everyday idioms such as break the ice, piece of cake, spill the beans and under the weather, with Vietnamese meanings and examples.",
+    "category": "idioms",
+    "level": "mixed",
+    "order": 10,
+    "sourceLang": "en",
+    "targetLang": "vi",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "source": "Written by the Alavo team. Idioms and informal expressions chosen by hand for everyday conversation (feelings, money, work, communication, relationships, luck, daily life), kept when Longman (LDOCE) lists them; definitions paraphrase LDOCE; translations and examples are original.",
+    "manifest": "vocabulary/en-vi/everyday-idioms-270/manifest.json",
+    "wordCount": 270
+  },
+  {
+    "id": "collocations-367",
+    "type": "vocabulary",
+    "title": "367 common collocations",
+    "description": "367 common collocations such as strong evidence, heavy workload, strongly recommend and take responsibility, with Vietnamese meanings and examples.",
+    "category": "collocations",
+    "level": "mixed",
+    "order": 11,
+    "sourceLang": "en",
+    "targetLang": "vi",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "source": "Written by the Alavo team. Collocations of six types (adjective + noun, adverb + adjective, verb + adverb, verb + noun, noun + of + noun, noun + verb) chosen by hand and kept when Longman (LDOCE) shows them; definitions paraphrase LDOCE; translations and examples are original.",
+    "manifest": "vocabulary/en-vi/collocations-367/manifest.json",
+    "wordCount": 367
   }
 ]
