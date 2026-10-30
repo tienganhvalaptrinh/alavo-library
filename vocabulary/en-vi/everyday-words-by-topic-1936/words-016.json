@@ -1,0 +1,884 @@
+[
+  {
+    "word": "student",
+    "phonetic": "/ˈstuːdənt/",
+    "definition": "a person who studies at a school or university",
+    "translation": "học sinh, sinh viên",
+    "exampleSentence": "The students are waiting outside the classroom.",
+    "exampleTranslation": "Các học sinh đang đợi bên ngoài lớp học.",
+    "pos": "noun"
+  },
+  {
+    "word": "pupil",
+    "phonetic": "/ˈpjuːpəl/",
+    "definition": "a child who is being taught at school",
+    "translation": "học sinh",
+    "exampleSentence": "There are thirty pupils in my class.",
+    "exampleTranslation": "Lớp tôi có ba mươi học sinh.",
+    "pos": "noun"
+  },
+  {
+    "word": "headmaster",
+    "phonetic": "/ˈhedˌmæstər/",
+    "definition": "a male teacher who is in charge of a school",
+    "translation": "hiệu trưởng",
+    "exampleSentence": "The headmaster is talking to the whole school.",
+    "exampleTranslation": "Hiệu trưởng đang nói chuyện với toàn trường.",
+    "pos": "noun"
+  },
+  {
+    "word": "principal",
+    "phonetic": "/ˈprɪnsəpəl/",
+    "definition": "the person who is in charge of a school",
+    "translation": "hiệu trưởng",
+    "exampleSentence": "The principal visited our classroom today.",
+    "exampleTranslation": "Hiệu trưởng đã đến thăm lớp chúng tôi hôm nay.",
+    "pos": "noun"
+  },
+  {
+    "word": "tutor",
+    "phonetic": "/ˈtuːtər/",
+    "definition": "a teacher who gives private lessons to one student or a small group",
+    "translation": "gia sư",
+    "exampleSentence": "I have a tutor for maths.",
+    "exampleTranslation": "Tôi có một gia sư dạy toán.",
+    "pos": "noun"
+  },
+  {
+    "word": "kindergarten",
+    "phonetic": "/ˈkɪndərɡɑːrtn/",
+    "definition": "a school or class for young children, before primary school",
+    "translation": "trường mẫu giáo, mẫu giáo",
+    "exampleSentence": "My little sister goes to kindergarten.",
+    "exampleTranslation": "Em gái tôi đi học mẫu giáo.",
+    "pos": "noun"
+  },
+  {
+    "word": "primary school",
+    "phonetic": "/ˈpraɪmeri skuːl/",
+    "definition": "a school for children between 5 and 11 years old",
+    "translation": "trường tiểu học",
+    "exampleSentence": "Children start primary school when they are five.",
+    "exampleTranslation": "Trẻ em bắt đầu vào tiểu học khi lên năm tuổi.",
+    "pos": "noun"
+  },
+  {
+    "word": "secondary school",
+    "phonetic": "/ˈsekənderi skuːl/",
+    "definition": "a school for children between the ages of 11 and 16 or 18",
+    "translation": "trường trung học",
+    "exampleSentence": "I start secondary school next year.",
+    "exampleTranslation": "Năm sau tôi vào trường trung học.",
+    "pos": "noun"
+  },
+  {
+    "word": "high school",
+    "phonetic": "/haɪ skuːl/",
+    "definition": "a school in the US for students aged 14 or 15 to 18",
+    "translation": "trường trung học phổ thông, trường cấp ba",
+    "exampleSentence": "We were friends in high school.",
+    "exampleTranslation": "Chúng tôi là bạn từ hồi học cấp ba.",
+    "pos": "noun"
+  },
+  {
+    "word": "college",
+    "phonetic": "/ˈkɑːlɪdʒ/",
+    "definition": "a school where you can study after high school",
+    "translation": "trường cao đẳng, trường đại học",
+    "exampleSentence": "I want to go to college next year.",
+    "exampleTranslation": "Năm sau tôi muốn vào học đại học.",
+    "pos": "noun"
+  },
+  {
+    "word": "university",
+    "phonetic": "/ˌjuːnəˈvɜːrsəti/",
+    "definition": "a place where you study for a degree",
+    "translation": "trường đại học, đại học",
+    "exampleSentence": "I study at a university in Hanoi.",
+    "exampleTranslation": "Tôi học ở một trường đại học ở Hà Nội.",
+    "pos": "noun"
+  },
+  {
+    "word": "classroom",
+    "phonetic": "/ˈklæsrʊm/",
+    "definition": "a room that you have lessons in at a school or college",
+    "translation": "lớp học, phòng học",
+    "exampleSentence": "The classroom is clean and bright.",
+    "exampleTranslation": "Lớp học sạch sẽ và sáng sủa.",
+    "pos": "noun"
+  },
+  {
+    "word": "class",
+    "phonetic": "/klæs/",
+    "definition": "a group of students who are taught together",
+    "translation": "lớp, lớp học",
+    "exampleSentence": "We are in the same class.",
+    "exampleTranslation": "Chúng tôi học cùng lớp.",
+    "pos": "noun"
+  },
+  {
+    "word": "playground",
+    "phonetic": "/ˈpleɪɡraʊnd/",
+    "definition": "an outdoor area where children play, especially at a school",
+    "translation": "sân chơi, sân trường",
+    "exampleSentence": "The children are running in the playground.",
+    "exampleTranslation": "Bọn trẻ đang chạy trong sân chơi.",
+    "pos": "noun"
+  },
+  {
+    "word": "library",
+    "phonetic": "/ˈlaɪbreri/",
+    "definition": "a room or building with books that you can read or borrow",
+    "translation": "thư viện",
+    "exampleSentence": "I borrow books from the school library.",
+    "exampleTranslation": "Tôi mượn sách từ thư viện của trường.",
+    "pos": "noun"
+  },
+  {
+    "word": "canteen",
+    "phonetic": "/kænˈtiːn/",
+    "definition": "a place in a school or factory where meals are served",
+    "translation": "căng tin, nhà ăn",
+    "exampleSentence": "We eat lunch in the canteen.",
+    "exampleTranslation": "Chúng tôi ăn trưa ở căng tin.",
+    "pos": "noun"
+  },
+  {
+    "word": "blackboard",
+    "phonetic": "/ˈblækbɔːrd/",
+    "definition": "a dark board that teachers write on with chalk",
+    "translation": "bảng đen",
+    "exampleSentence": "The teacher wrote the date on the blackboard.",
+    "exampleTranslation": "Giáo viên viết ngày tháng lên bảng đen.",
+    "pos": "noun"
+  },
+  {
+    "word": "whiteboard",
+    "phonetic": "/ˈwaɪtbɔːrd/",
+    "definition": "a large white board that you write on with special pens",
+    "translation": "bảng trắng",
+    "exampleSentence": "Please copy the words from the whiteboard.",
+    "exampleTranslation": "Hãy chép các từ trên bảng trắng.",
+    "pos": "noun"
+  },
+  {
+    "word": "board",
+    "phonetic": "/bɔːrd/",
+    "definition": "a flat surface on a wall that you write on or put information on",
+    "translation": "bảng",
+    "exampleSentence": "Please write your name on the board.",
+    "exampleTranslation": "Hãy viết tên bạn lên bảng.",
+    "pos": "noun"
+  },
+  {
+    "word": "chalk",
+    "phonetic": "/tʃɔːk/",
+    "definition": "small sticks of soft white rock used for writing on a board",
+    "translation": "phấn",
+    "exampleSentence": "I need a piece of chalk.",
+    "exampleTranslation": "Tôi cần một viên phấn.",
+    "pos": "noun"
+  },
+  {
+    "word": "marker",
+    "phonetic": "/ˈmɑːrkər/",
+    "definition": "a large pen with a thick soft point",
+    "translation": "bút lông, bút dạ",
+    "exampleSentence": "Use a red marker to write on the whiteboard.",
+    "exampleTranslation": "Hãy dùng bút lông đỏ để viết lên bảng trắng.",
+    "pos": "noun"
+  },
+  {
+    "word": "pen",
+    "phonetic": "/pen/",
+    "definition": "a tool for writing or drawing with ink",
+    "translation": "bút, bút mực",
+    "exampleSentence": "Can I borrow your pen?",
+    "exampleTranslation": "Cho tôi mượn bút của bạn được không?",
+    "pos": "noun"
+  },
+  {
+    "word": "pencil",
+    "phonetic": "/ˈpensəl/",
+    "definition": "a thin wooden tool with a black or coloured centre, used for writing or drawing",
+    "translation": "bút chì",
+    "exampleSentence": "Please write in pencil, not in pen.",
+    "exampleTranslation": "Hãy viết bằng bút chì, đừng viết bằng bút mực.",
+    "pos": "noun"
+  },
+  {
+    "word": "eraser",
+    "phonetic": "/ɪˈreɪsər/",
+    "definition": "a small piece of rubber that removes pencil marks from paper",
+    "translation": "cục tẩy, cục gôm",
+    "exampleSentence": "I need an eraser to fix my mistake.",
+    "exampleTranslation": "Tôi cần cục tẩy để sửa lỗi của mình.",
+    "pos": "noun"
+  },
+  {
+    "word": "ruler",
+    "phonetic": "/ˈruːlər/",
+    "definition": "a long flat piece of plastic or wood for measuring or drawing lines",
+    "translation": "thước, thước kẻ",
+    "exampleSentence": "Use a ruler to draw a straight line.",
+    "exampleTranslation": "Hãy dùng thước để vẽ một đường thẳng.",
+    "pos": "noun"
+  },
+  {
+    "word": "notebook",
+    "phonetic": "/ˈnoʊtbʊk/",
+    "definition": "a book of plain paper for writing notes",
+    "translation": "vở, sổ tay",
+    "exampleSentence": "Write the new words in your notebook.",
+    "exampleTranslation": "Hãy viết các từ mới vào vở của bạn.",
+    "pos": "noun"
+  },
+  {
+    "word": "exercise book",
+    "phonetic": "/ˈeksərsaɪz bʊk/",
+    "definition": "a book that students use for writing in",
+    "translation": "vở bài tập, vở",
+    "exampleSentence": "Please open your exercise book.",
+    "exampleTranslation": "Hãy mở vở bài tập của các bạn ra.",
+    "pos": "noun"
+  },
+  {
+    "word": "textbook",
+    "phonetic": "/ˈtekstbʊk/",
+    "definition": "a book about a subject that students use in school",
+    "translation": "sách giáo khoa",
+    "exampleSentence": "Open your textbook to page ten.",
+    "exampleTranslation": "Hãy mở sách giáo khoa đến trang mười.",
+    "pos": "noun"
+  },
+  {
+    "word": "pencil case",
+    "phonetic": "/ˈpensəl keɪs/",
+    "definition": "a bag or box for keeping pens and pencils in",
+    "translation": "hộp bút, bóp viết",
+    "exampleSentence": "I keep my pens in my pencil case.",
+    "exampleTranslation": "Tôi để bút trong hộp bút của mình.",
+    "pos": "noun"
+  },
+  {
+    "word": "pencil sharpener",
+    "phonetic": "/ˈpensəl ˈʃɑːrpənər/",
+    "definition": "a small tool that makes pencils sharp",
+    "translation": "đồ chuốt bút chì, cái gọt bút chì",
+    "exampleSentence": "I need a pencil sharpener for my pencils.",
+    "exampleTranslation": "Tôi cần một cái gọt bút chì cho những chiếc bút chì của mình.",
+    "pos": "noun"
+  },
+  {
+    "word": "calculator",
+    "phonetic": "/ˈkælkjəleɪtər/",
+    "definition": "a small electronic machine that can add, multiply and do other sums",
+    "translation": "máy tính, máy tính cầm tay",
+    "exampleSentence": "You can use a calculator in the maths test.",
+    "exampleTranslation": "Bạn được dùng máy tính trong bài kiểm tra toán.",
+    "pos": "noun"
+  },
+  {
+    "word": "dictionary",
+    "phonetic": "/ˈdɪkʃəneri/",
+    "definition": "a book that lists words in order and explains their meanings",
+    "translation": "từ điển",
+    "exampleSentence": "Look up the word in a dictionary.",
+    "exampleTranslation": "Hãy tra từ đó trong từ điển.",
+    "pos": "noun"
+  },
+  {
+    "word": "map",
+    "phonetic": "/mæp/",
+    "definition": "a drawing of a city, country or area that shows roads, rivers and so on",
+    "translation": "bản đồ",
+    "exampleSentence": "Find Vietnam on the map.",
+    "exampleTranslation": "Hãy tìm Việt Nam trên bản đồ.",
+    "pos": "noun"
+  },
+  {
+    "word": "globe",
+    "phonetic": "/ɡloʊb/",
+    "definition": "a round object with a map of the Earth on it",
+    "translation": "quả địa cầu, quả cầu địa lý",
+    "exampleSentence": "The globe shows the countries of the world.",
+    "exampleTranslation": "Quả địa cầu cho thấy các quốc gia trên thế giới.",
+    "pos": "noun"
+  },
+  {
+    "word": "crayon",
+    "phonetic": "/ˈkreɪɑːn/",
+    "definition": "a coloured stick of wax used for drawing",
+    "translation": "bút sáp màu, bút chì màu sáp",
+    "exampleSentence": "The children are drawing with crayons.",
+    "exampleTranslation": "Bọn trẻ đang vẽ bằng bút sáp màu.",
+    "pos": "noun"
+  },
+  {
+    "word": "folder",
+    "phonetic": "/ˈfoʊldər/",
+    "definition": "a cover made of card or plastic for keeping loose papers in",
+    "translation": "bìa kẹp hồ sơ, tập đựng giấy tờ",
+    "exampleSentence": "I keep my homework in a blue folder.",
+    "exampleTranslation": "Tôi để bài tập về nhà trong một cái bìa kẹp màu xanh.",
+    "pos": "noun"
+  },
+  {
+    "word": "paper",
+    "phonetic": "/ˈpeɪpər/",
+    "definition": "thin sheets of material that you write or draw on",
+    "translation": "giấy",
+    "exampleSentence": "Please take out a piece of paper.",
+    "exampleTranslation": "Hãy lấy ra một tờ giấy.",
+    "pos": "noun"
+  },
+  {
+    "word": "page",
+    "phonetic": "/peɪdʒ/",
+    "definition": "one side of a sheet of paper in a book",
+    "translation": "trang",
+    "exampleSentence": "The answer is on the next page.",
+    "exampleTranslation": "Câu trả lời ở trang sau.",
+    "pos": "noun"
+  },
+  {
+    "word": "subject",
+    "phonetic": "/ˈsʌbdʒɪkt/",
+    "definition": "an area of knowledge that you study at school or university",
+    "translation": "môn học, môn",
+    "exampleSentence": "My favorite subject is English.",
+    "exampleTranslation": "Môn học yêu thích của tôi là tiếng Anh.",
+    "pos": "noun"
+  },
+  {
+    "word": "maths",
+    "phonetic": "/mæθs/",
+    "definition": "the study of numbers, measurements and shapes, as a school subject",
+    "translation": "môn toán, toán",
+    "exampleSentence": "I am good at maths.",
+    "exampleTranslation": "Tôi giỏi môn toán.",
+    "pos": "noun"
+  },
+  {
+    "word": "science",
+    "phonetic": "/ˈsaɪəns/",
+    "definition": "the study of the natural world, as a school subject",
+    "translation": "khoa học, môn khoa học",
+    "exampleSentence": "We do an experiment in science class.",
+    "exampleTranslation": "Chúng tôi làm thí nghiệm trong giờ khoa học.",
+    "pos": "noun"
+  },
+  {
+    "word": "history",
+    "phonetic": "/ˈhɪstəri/",
+    "definition": "the study of past events, as a school subject",
+    "translation": "lịch sử, môn lịch sử",
+    "exampleSentence": "We learn about Vietnam in history class.",
+    "exampleTranslation": "Chúng tôi học về Việt Nam trong giờ lịch sử.",
+    "pos": "noun"
+  },
+  {
+    "word": "geography",
+    "phonetic": "/dʒiˈɑːɡrəfi/",
+    "definition": "the study of the countries, rivers, mountains and cities of the world",
+    "translation": "địa lý, môn địa lý",
+    "exampleSentence": "We study rivers and mountains in geography.",
+    "exampleTranslation": "Chúng tôi học về sông và núi trong môn địa lý.",
+    "pos": "noun"
+  },
+  {
+    "word": "art",
+    "phonetic": "/ɑːrt/",
+    "definition": "the skill of drawing or painting, as a school subject",
+    "translation": "mỹ thuật, môn mỹ thuật",
+    "exampleSentence": "I am very good at art.",
+    "exampleTranslation": "Tôi rất giỏi môn mỹ thuật.",
+    "pos": "noun"
+  },
+  {
+    "word": "music",
+    "phonetic": "/ˈmjuːzɪk/",
+    "definition": "the art of writing or playing music, as a school subject",
+    "translation": "âm nhạc, môn nhạc",
+    "exampleSentence": "We sing songs in music class.",
+    "exampleTranslation": "Chúng tôi hát trong giờ âm nhạc.",
+    "pos": "noun"
+  },
+  {
+    "word": "physics",
+    "phonetic": "/ˈfɪzɪks/",
+    "definition": "the science of light, heat, movement and other natural forces",
+    "translation": "vật lý, môn vật lý",
+    "exampleSentence": "Physics is about light, heat and movement.",
+    "exampleTranslation": "Vật lý nói về ánh sáng, nhiệt và chuyển động.",
+    "pos": "noun"
+  },
+  {
+    "word": "chemistry",
+    "phonetic": "/ˈkeməstri/",
+    "definition": "the science that studies substances and how they change or combine",
+    "translation": "hóa học, môn hóa",
+    "exampleSentence": "We do experiments in chemistry.",
+    "exampleTranslation": "Chúng tôi làm thí nghiệm trong môn hóa học.",
+    "pos": "noun"
+  },
+  {
+    "word": "biology",
+    "phonetic": "/baɪˈɑːlədʒi/",
+    "definition": "the scientific study of living things",
+    "translation": "sinh học, môn sinh",
+    "exampleSentence": "In biology, we learn about plants and animals.",
+    "exampleTranslation": "Trong môn sinh học, chúng tôi học về thực vật và động vật.",
+    "pos": "noun"
+  },
+  {
+    "word": "literature",
+    "phonetic": "/ˈlɪtərətʃʊr/",
+    "definition": "books, plays and poems that people think are important and good",
+    "translation": "văn học, môn văn",
+    "exampleSentence": "We read a famous novel in literature class.",
+    "exampleTranslation": "Chúng tôi đọc một cuốn tiểu thuyết nổi tiếng trong giờ văn học.",
+    "pos": "noun"
+  },
+  {
+    "word": "English",
+    "phonetic": "/ˈɪŋɡlɪʃ/",
+    "definition": "the language of Britain, the US and other countries, studied as a school subject",
+    "translation": "tiếng Anh, môn tiếng Anh",
+    "exampleSentence": "English is my favorite subject at school.",
+    "exampleTranslation": "Tiếng Anh là môn học yêu thích của tôi ở trường.",
+    "pos": "noun"
+  },
+  {
+    "word": "lesson",
+    "phonetic": "/ˈlesən/",
+    "definition": "a period of time in which students are taught a subject",
+    "translation": "tiết học, bài học",
+    "exampleSentence": "The first lesson starts at eight o'clock.",
+    "exampleTranslation": "Tiết học đầu tiên bắt đầu lúc tám giờ.",
+    "pos": "noun"
+  },
+  {
+    "word": "timetable",
+    "phonetic": "/ˈtaɪmˌteɪbəl/",
+    "definition": "a list of the times of classes in a school",
+    "translation": "thời khóa biểu",
+    "exampleSentence": "The timetable shows when we have maths.",
+    "exampleTranslation": "Thời khóa biểu cho biết khi nào chúng tôi học toán.",
+    "pos": "noun"
+  },
+  {
+    "word": "break",
+    "phonetic": "/breɪk/",
+    "definition": "the time during the school day when students can rest and play",
+    "translation": "giờ nghỉ, giờ ra chơi",
+    "exampleSentence": "We play football at break.",
+    "exampleTranslation": "Chúng tôi chơi bóng đá vào giờ ra chơi.",
+    "pos": "noun"
+  },
+  {
+    "word": "bell",
+    "phonetic": "/bel/",
+    "definition": "a piece of equipment that makes a ringing sound as a signal",
+    "translation": "chuông",
+    "exampleSentence": "The bell rings at nine o'clock.",
+    "exampleTranslation": "Chuông reo lúc chín giờ.",
+    "pos": "noun"
+  },
+  {
+    "word": "assembly",
+    "phonetic": "/əˈsembli/",
+    "definition": "a regular meeting of all the teachers and students in a school",
+    "translation": "buổi họp toàn trường, buổi tập trung",
+    "exampleSentence": "We have assembly in the hall every morning.",
+    "exampleTranslation": "Sáng nào chúng tôi cũng có buổi họp toàn trường trong hội trường.",
+    "pos": "noun"
+  },
+  {
+    "word": "term",
+    "phonetic": "/tɜːrm/",
+    "definition": "one of the periods that the school year is divided into",
+    "translation": "học kỳ",
+    "exampleSentence": "The new term starts in September.",
+    "exampleTranslation": "Học kỳ mới bắt đầu vào tháng Chín.",
+    "pos": "noun"
+  },
+  {
+    "word": "semester",
+    "phonetic": "/səˈmestər/",
+    "definition": "one of the two parts of the school year, especially in the US",
+    "translation": "học kỳ",
+    "exampleSentence": "I have six classes this semester.",
+    "exampleTranslation": "Học kỳ này tôi có sáu lớp.",
+    "pos": "noun"
+  },
+  {
+    "word": "holiday",
+    "phonetic": "/ˈhɑːlədeɪ/",
+    "definition": "a time when you do not have to go to school or work",
+    "translation": "kỳ nghỉ, ngày nghỉ",
+    "exampleSentence": "The school holidays start next week.",
+    "exampleTranslation": "Kỳ nghỉ của trường bắt đầu vào tuần sau.",
+    "pos": "noun"
+  },
+  {
+    "word": "homework",
+    "phonetic": "/ˈhoʊmwɜːrk/",
+    "definition": "school work that students are asked to do at home",
+    "translation": "bài tập về nhà",
+    "exampleSentence": "I do my homework after dinner.",
+    "exampleTranslation": "Tôi làm bài tập về nhà sau bữa tối.",
+    "pos": "noun"
+  },
+  {
+    "word": "exercise",
+    "phonetic": "/ˈeksərsaɪz/",
+    "definition": "a set of questions in a book that help you practise a skill",
+    "translation": "bài tập",
+    "exampleSentence": "Do exercise three for homework.",
+    "exampleTranslation": "Hãy làm bài tập số ba ở nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "test",
+    "phonetic": "/test/",
+    "definition": "a set of questions that measures your skill or knowledge",
+    "translation": "bài kiểm tra",
+    "exampleSentence": "We have a maths test today.",
+    "exampleTranslation": "Hôm nay chúng tôi có bài kiểm tra toán.",
+    "pos": "noun"
+  },
+  {
+    "word": "exam",
+    "phonetic": "/ɪɡˈzæm/",
+    "definition": "an important written or spoken test of your knowledge",
+    "translation": "kỳ thi, bài thi",
+    "exampleSentence": "I have an exam tomorrow.",
+    "exampleTranslation": "Ngày mai tôi có một kỳ thi.",
+    "pos": "noun"
+  },
+  {
+    "word": "mark",
+    "phonetic": "/mɑːrk/",
+    "definition": "a number or letter that a teacher gives for a student's work",
+    "translation": "điểm, điểm số",
+    "exampleSentence": "I got a good mark in English.",
+    "exampleTranslation": "Tôi được điểm tốt môn tiếng Anh.",
+    "pos": "noun"
+  },
+  {
+    "word": "grade",
+    "phonetic": "/ɡreɪd/",
+    "definition": "a mark that a student gets for their work or an exam",
+    "translation": "điểm, điểm số",
+    "exampleSentence": "I got a grade A in maths.",
+    "exampleTranslation": "Tôi được điểm A môn toán.",
+    "pos": "noun"
+  },
+  {
+    "word": "pass",
+    "phonetic": "/pæs/",
+    "definition": "to succeed in an exam or test",
+    "translation": "thi đỗ, thi đậu, vượt qua",
+    "exampleSentence": "Did you pass all your exams?",
+    "exampleTranslation": "Bạn đã thi đỗ tất cả các môn chưa?",
+    "pos": "verb"
+  },
+  {
+    "word": "fail",
+    "phonetic": "/feɪl/",
+    "definition": "to not pass an exam or test",
+    "translation": "thi trượt, thi rớt",
+    "exampleSentence": "I failed the maths test.",
+    "exampleTranslation": "Tôi đã trượt bài kiểm tra toán.",
+    "pos": "verb"
+  },
+  {
+    "word": "lecture",
+    "phonetic": "/ˈlektʃər/",
+    "definition": "a long talk on a subject given to students, especially at a university",
+    "translation": "bài giảng",
+    "exampleSentence": "The lecture starts at ten and lasts an hour.",
+    "exampleTranslation": "Bài giảng bắt đầu lúc mười giờ và kéo dài một tiếng.",
+    "pos": "noun"
+  },
+  {
+    "word": "degree",
+    "phonetic": "/dɪˈɡriː/",
+    "definition": "a qualification you get from a university after a course of study",
+    "translation": "bằng đại học, bằng cấp",
+    "exampleSentence": "I want a degree in biology.",
+    "exampleTranslation": "Tôi muốn lấy bằng đại học ngành sinh học.",
+    "pos": "noun"
+  },
+  {
+    "word": "certificate",
+    "phonetic": "/sərˈtɪfɪkət/",
+    "definition": "an official paper that shows you have passed a course or exam",
+    "translation": "chứng chỉ, giấy chứng nhận",
+    "exampleSentence": "I got a certificate for finishing the course.",
+    "exampleTranslation": "Tôi nhận được chứng chỉ khi hoàn thành khóa học.",
+    "pos": "noun"
+  },
+  {
+    "word": "diploma",
+    "phonetic": "/dɪˈploʊmə/",
+    "definition": "a document that shows you have finished a course of study",
+    "translation": "bằng tốt nghiệp, văn bằng",
+    "exampleSentence": "I got my diploma last year.",
+    "exampleTranslation": "Tôi nhận bằng tốt nghiệp năm ngoái.",
+    "pos": "noun"
+  },
+  {
+    "word": "graduate",
+    "phonetic": "/ˈɡrædʒueɪt/",
+    "definition": "to finish your studies and get a degree or diploma",
+    "translation": "tốt nghiệp",
+    "exampleSentence": "I will graduate from university next year.",
+    "exampleTranslation": "Năm sau tôi sẽ tốt nghiệp đại học.",
+    "pos": "verb"
+  },
+  {
+    "word": "essay",
+    "phonetic": "/ˈeseɪ/",
+    "definition": "a short piece of writing on a subject, written by a student",
+    "translation": "bài luận, bài văn",
+    "exampleSentence": "I have to write an essay about my family.",
+    "exampleTranslation": "Tôi phải viết một bài luận về gia đình mình.",
+    "pos": "noun"
+  },
+  {
+    "word": "project",
+    "phonetic": "/ˈprɑːdʒekt/",
+    "definition": "a piece of school work that needs careful study over a period of time",
+    "translation": "dự án, đề tài",
+    "exampleSentence": "We are doing a project on the sea.",
+    "exampleTranslation": "Chúng tôi đang làm một dự án về biển.",
+    "pos": "noun"
+  },
+  {
+    "word": "presentation",
+    "phonetic": "/ˌpriːzenˈteɪʃən/",
+    "definition": "a talk in which you explain something to a group of people",
+    "translation": "bài thuyết trình",
+    "exampleSentence": "I have a presentation in class tomorrow.",
+    "exampleTranslation": "Ngày mai tôi có bài thuyết trình trước lớp.",
+    "pos": "noun"
+  },
+  {
+    "word": "alphabet",
+    "phonetic": "/ˈælfəbet/",
+    "definition": "a set of letters in a fixed order, used in writing a language",
+    "translation": "bảng chữ cái",
+    "exampleSentence": "Can you say the alphabet in English?",
+    "exampleTranslation": "Bạn đọc được bảng chữ cái bằng tiếng Anh không?",
+    "pos": "noun"
+  },
+  {
+    "word": "letter",
+    "phonetic": "/ˈletər/",
+    "definition": "a written sign that stands for a sound in a word",
+    "translation": "chữ cái, chữ",
+    "exampleSentence": "There are 26 letters in the English alphabet.",
+    "exampleTranslation": "Bảng chữ cái tiếng Anh có 26 chữ cái.",
+    "pos": "noun"
+  },
+  {
+    "word": "word",
+    "phonetic": "/wɜːrd/",
+    "definition": "a single group of letters that has a meaning",
+    "translation": "từ",
+    "exampleSentence": "I do not know this word.",
+    "exampleTranslation": "Tôi không biết từ này.",
+    "pos": "noun"
+  },
+  {
+    "word": "sentence",
+    "phonetic": "/ˈsentəns/",
+    "definition": "a group of words that expresses a complete idea",
+    "translation": "câu",
+    "exampleSentence": "Write a sentence with this word.",
+    "exampleTranslation": "Hãy viết một câu với từ này.",
+    "pos": "noun"
+  },
+  {
+    "word": "question",
+    "phonetic": "/ˈkwestʃən/",
+    "definition": "a sentence that asks for information or tests your knowledge",
+    "translation": "câu hỏi",
+    "exampleSentence": "Can I ask a question?",
+    "exampleTranslation": "Tôi hỏi một câu được không?",
+    "pos": "noun"
+  },
+  {
+    "word": "answer",
+    "phonetic": "/ˈænsər/",
+    "definition": "something you say or write in reply to a question",
+    "translation": "câu trả lời, đáp án",
+    "exampleSentence": "What is the answer to question four?",
+    "exampleTranslation": "Đáp án của câu hỏi số bốn là gì?",
+    "pos": "noun"
+  },
+  {
+    "word": "answer",
+    "phonetic": "/ˈænsər/",
+    "definition": "to say or write a reply to a question",
+    "translation": "trả lời",
+    "exampleSentence": "Please answer the question.",
+    "exampleTranslation": "Hãy trả lời câu hỏi.",
+    "pos": "verb"
+  },
+  {
+    "word": "mistake",
+    "phonetic": "/mɪˈsteɪk/",
+    "definition": "something you do, say or write that is wrong",
+    "translation": "lỗi, lỗi sai",
+    "exampleSentence": "I made a mistake in my test.",
+    "exampleTranslation": "Tôi đã mắc lỗi trong bài kiểm tra.",
+    "pos": "noun"
+  },
+  {
+    "word": "read",
+    "phonetic": "/riːd/",
+    "definition": "to look at written words and understand them",
+    "translation": "đọc",
+    "exampleSentence": "Please read the story to the class.",
+    "exampleTranslation": "Hãy đọc câu chuyện cho cả lớp nghe.",
+    "pos": "verb"
+  },
+  {
+    "word": "write",
+    "phonetic": "/raɪt/",
+    "definition": "to make letters or words on paper with a pen or pencil",
+    "translation": "viết",
+    "exampleSentence": "Please write your name at the top.",
+    "exampleTranslation": "Hãy viết tên bạn ở phía trên.",
+    "pos": "verb"
+  },
+  {
+    "word": "spell",
+    "phonetic": "/spel/",
+    "definition": "to say or write the letters of a word in the correct order",
+    "translation": "đánh vần",
+    "exampleSentence": "How do you spell your name?",
+    "exampleTranslation": "Tên bạn đánh vần thế nào?",
+    "pos": "verb"
+  },
+  {
+    "word": "learn",
+    "phonetic": "/lɜːrn/",
+    "definition": "to gain knowledge or a skill by studying or being taught",
+    "translation": "học, học được",
+    "exampleSentence": "I want to learn English.",
+    "exampleTranslation": "Tôi muốn học tiếng Anh.",
+    "pos": "verb"
+  },
+  {
+    "word": "study",
+    "phonetic": "/ˈstʌdi/",
+    "definition": "to learn about a subject at school or university",
+    "translation": "học, học bài",
+    "exampleSentence": "I study for two hours every evening.",
+    "exampleTranslation": "Tối nào tôi cũng học bài hai tiếng.",
+    "pos": "verb"
+  },
+  {
+    "word": "teach",
+    "phonetic": "/tiːtʃ/",
+    "definition": "to give lessons or show someone how to do something",
+    "translation": "dạy",
+    "exampleSentence": "Who teaches you English?",
+    "exampleTranslation": "Ai dạy tiếng Anh cho bạn?",
+    "pos": "verb"
+  },
+  {
+    "word": "practise",
+    "phonetic": "/ˈpræktɪs/",
+    "definition": "to do something regularly to get better at it",
+    "translation": "luyện tập, thực hành",
+    "exampleSentence": "I practise my English every day.",
+    "exampleTranslation": "Tôi luyện tiếng Anh mỗi ngày.",
+    "pos": "verb"
+  },
+  {
+    "word": "revise",
+    "phonetic": "/rɪˈvaɪz/",
+    "definition": "to study facts again before an exam",
+    "translation": "ôn tập, ôn bài",
+    "exampleSentence": "I need to revise for the exam.",
+    "exampleTranslation": "Tôi cần ôn bài cho kỳ thi.",
+    "pos": "verb"
+  },
+  {
+    "word": "remember",
+    "phonetic": "/rɪˈmembər/",
+    "definition": "to keep or bring something in your mind, so that you do not forget it",
+    "translation": "nhớ",
+    "exampleSentence": "Can you remember the new words?",
+    "exampleTranslation": "Bạn có nhớ các từ mới không?",
+    "pos": "verb"
+  },
+  {
+    "word": "forget",
+    "phonetic": "/fərˈɡet/",
+    "definition": "to not remember something",
+    "translation": "quên",
+    "exampleSentence": "I forgot my book at home.",
+    "exampleTranslation": "Tôi quên sách ở nhà.",
+    "pos": "verb"
+  },
+  {
+    "word": "understand",
+    "phonetic": "/ˌʌndərˈstænd/",
+    "definition": "to know the meaning of what someone says or writes",
+    "translation": "hiểu",
+    "exampleSentence": "I do not understand this question.",
+    "exampleTranslation": "Tôi không hiểu câu hỏi này.",
+    "pos": "verb"
+  },
+  {
+    "word": "explain",
+    "phonetic": "/ɪkˈspleɪn/",
+    "definition": "to tell someone about something in a clear way",
+    "translation": "giải thích",
+    "exampleSentence": "Can you explain this word to me?",
+    "exampleTranslation": "Bạn giải thích từ này cho tôi được không?",
+    "pos": "verb"
+  },
+  {
+    "word": "copy",
+    "phonetic": "/ˈkɑːpi/",
+    "definition": "to write or make something exactly like something else",
+    "translation": "chép, sao chép",
+    "exampleSentence": "Copy the words from the board.",
+    "exampleTranslation": "Hãy chép các từ trên bảng.",
+    "pos": "verb"
+  },
+  {
+    "word": "draw",
+    "phonetic": "/drɔː/",
+    "definition": "to make a picture with a pencil or pen",
+    "translation": "vẽ",
+    "exampleSentence": "I like to draw animals.",
+    "exampleTranslation": "Tôi thích vẽ động vật.",
+    "pos": "verb"
+  },
+  {
+    "word": "count",
+    "phonetic": "/kaʊnt/",
+    "definition": "to say numbers in order, one by one",
+    "translation": "đếm",
+    "exampleSentence": "Can you count from one to ten?",
+    "exampleTranslation": "Bạn đếm từ một đến mười được không?",
+    "pos": "verb"
+  },
+  {
+    "word": "solve",
+    "phonetic": "/sɑːlv/",
+    "definition": "to find the correct answer to a problem",
+    "translation": "giải, giải quyết",
+    "exampleSentence": "Can you solve this maths problem?",
+    "exampleTranslation": "Bạn giải được bài toán này không?",
+    "pos": "verb"
+  }
+]

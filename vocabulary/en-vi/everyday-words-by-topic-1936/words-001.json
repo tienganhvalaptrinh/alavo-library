@@ -1,0 +1,947 @@
+[
+  {
+    "word": "bucket",
+    "phonetic": "/ˈbʌkɪt/",
+    "definition": "an open container with a handle, used for carrying liquids",
+    "translation": "cái xô, cái thùng",
+    "exampleSentence": "Fill the bucket with water.",
+    "exampleTranslation": "Hãy đổ đầy nước vào xô.",
+    "pos": "noun"
+  },
+  {
+    "word": "broom",
+    "phonetic": "/bruːm/",
+    "definition": "a brush with a long handle, used for sweeping floors",
+    "translation": "cái chổi",
+    "exampleSentence": "I keep the broom behind the door.",
+    "exampleTranslation": "Tôi để cái chổi sau cánh cửa.",
+    "pos": "noun"
+  },
+  {
+    "word": "mop",
+    "phonetic": "/mɑːp/",
+    "definition": "a stick with soft strings at the end, used for washing floors",
+    "translation": "cây lau nhà, cái chổi lau nhà",
+    "exampleSentence": "Use a mop and bucket to clean the floor.",
+    "exampleTranslation": "Hãy dùng cây lau nhà và xô để lau sàn.",
+    "pos": "noun"
+  },
+  {
+    "word": "dustpan",
+    "phonetic": "/ˈdʌstpæn/",
+    "definition": "a flat container you use with a brush to pick up dust",
+    "translation": "cái hót rác, cái xẻng hốt rác",
+    "exampleSentence": "Have you got a dustpan and brush?",
+    "exampleTranslation": "Bạn có cái hót rác và chổi không?",
+    "pos": "noun"
+  },
+  {
+    "word": "brush",
+    "phonetic": "/brʌʃ/",
+    "definition": "an object with stiff hairs, used for cleaning or painting",
+    "translation": "cái bàn chải, cái chổi",
+    "exampleSentence": "I need a brush to clean the toilet.",
+    "exampleTranslation": "Tôi cần một cái bàn chải để cọ nhà vệ sinh.",
+    "pos": "noun"
+  },
+  {
+    "word": "sponge",
+    "phonetic": "/spʌndʒ/",
+    "definition": "a soft piece of material with holes that soaks up water",
+    "translation": "miếng bọt biển, miếng xốp rửa",
+    "exampleSentence": "Wipe the table with a wet sponge.",
+    "exampleTranslation": "Hãy lau bàn bằng miếng bọt biển ướt.",
+    "pos": "noun"
+  },
+  {
+    "word": "dustbin",
+    "phonetic": "/ˈdʌstbɪn/",
+    "definition": "a large container outside a house for waste",
+    "translation": "thùng rác",
+    "exampleSentence": "The dustbin is outside the back door.",
+    "exampleTranslation": "Thùng rác ở bên ngoài cửa sau.",
+    "pos": "noun"
+  },
+  {
+    "word": "bin",
+    "phonetic": "/bɪn/",
+    "definition": "a container for putting waste in",
+    "translation": "thùng rác",
+    "exampleSentence": "Please put the paper in the bin.",
+    "exampleTranslation": "Làm ơn bỏ tờ giấy vào thùng rác.",
+    "pos": "noun"
+  },
+  {
+    "word": "trash can",
+    "phonetic": "/træʃ kæn/",
+    "definition": "a container with a lid for waste",
+    "translation": "thùng rác",
+    "exampleSentence": "The trash can is full.",
+    "exampleTranslation": "Thùng rác đầy rồi.",
+    "pos": "noun"
+  },
+  {
+    "word": "garbage",
+    "phonetic": "/ˈɡɑːrbɪdʒ/",
+    "definition": "waste such as paper, food and empty containers that you throw away",
+    "translation": "rác",
+    "exampleSentence": "Can you take out the garbage?",
+    "exampleTranslation": "Bạn đổ rác giúp tôi được không?",
+    "pos": "noun"
+  },
+  {
+    "word": "light bulb",
+    "phonetic": "/laɪt bʌlb/",
+    "definition": "the glass part inside a lamp that gives light",
+    "translation": "bóng đèn",
+    "exampleSentence": "The light bulb in the hall is broken.",
+    "exampleTranslation": "Bóng đèn ở hành lang bị hỏng rồi.",
+    "pos": "noun"
+  },
+  {
+    "word": "candle",
+    "phonetic": "/ˈkændl/",
+    "definition": "a stick of wax that you burn to give light",
+    "translation": "cây nến, ngọn nến",
+    "exampleSentence": "We lit a candle when the power went out.",
+    "exampleTranslation": "Chúng tôi thắp nến khi bị mất điện.",
+    "pos": "noun"
+  },
+  {
+    "word": "clock",
+    "phonetic": "/klɑːk/",
+    "definition": "an object that shows what time it is",
+    "translation": "đồng hồ",
+    "exampleSentence": "There is a clock on the kitchen wall.",
+    "exampleTranslation": "Có một cái đồng hồ trên tường bếp.",
+    "pos": "noun"
+  },
+  {
+    "word": "alarm clock",
+    "phonetic": "/əˈlɑːrm klɑːk/",
+    "definition": "a clock that makes a noise to wake you up",
+    "translation": "đồng hồ báo thức",
+    "exampleSentence": "My alarm clock rings at six.",
+    "exampleTranslation": "Đồng hồ báo thức của tôi reo lúc sáu giờ.",
+    "pos": "noun"
+  },
+  {
+    "word": "mirror",
+    "phonetic": "/ˈmɪrər/",
+    "definition": "a piece of glass in which you can see yourself",
+    "translation": "cái gương",
+    "exampleSentence": "I looked at myself in the mirror.",
+    "exampleTranslation": "Tôi nhìn mình trong gương.",
+    "pos": "noun"
+  },
+  {
+    "word": "picture",
+    "phonetic": "/ˈpɪktʃər/",
+    "definition": "a drawing, painting or photograph",
+    "translation": "bức tranh, bức ảnh",
+    "exampleSentence": "There are two pictures on the wall.",
+    "exampleTranslation": "Có hai bức tranh trên tường.",
+    "pos": "noun"
+  },
+  {
+    "word": "vase",
+    "phonetic": "/veɪs/",
+    "definition": "a container for putting flowers in",
+    "translation": "cái bình hoa, lọ hoa",
+    "exampleSentence": "I put the roses in a vase.",
+    "exampleTranslation": "Tôi cắm những bông hồng vào bình.",
+    "pos": "noun"
+  },
+  {
+    "word": "key",
+    "phonetic": "/kiː/",
+    "definition": "a small piece of metal that you use to open a lock",
+    "translation": "chìa khóa",
+    "exampleSentence": "I lost my house keys.",
+    "exampleTranslation": "Tôi làm mất chìa khóa nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "lock",
+    "phonetic": "/lɑːk/",
+    "definition": "a thing that keeps a door closed and opens with a key",
+    "translation": "ổ khóa",
+    "exampleSentence": "The lock on the door is broken.",
+    "exampleTranslation": "Ổ khóa trên cửa bị hỏng.",
+    "pos": "noun"
+  },
+  {
+    "word": "padlock",
+    "phonetic": "/ˈpædlɑːk/",
+    "definition": "a lock you can put on a gate, door or bicycle",
+    "translation": "ổ khóa treo, cái khóa",
+    "exampleSentence": "I put a padlock on the gate.",
+    "exampleTranslation": "Tôi khóa cổng lại bằng một ổ khóa treo.",
+    "pos": "noun"
+  },
+  {
+    "word": "plug",
+    "phonetic": "/plʌɡ/",
+    "definition": "a small object at the end of a wire that connects it to electricity",
+    "translation": "phích cắm",
+    "exampleSentence": "Pull the plug out of the wall.",
+    "exampleTranslation": "Hãy rút phích cắm ra khỏi tường.",
+    "pos": "noun"
+  },
+  {
+    "word": "socket",
+    "phonetic": "/ˈsɑːkɪt/",
+    "definition": "a place in a wall where you connect electrical equipment",
+    "translation": "ổ cắm điện",
+    "exampleSentence": "Is there a socket near the bed?",
+    "exampleTranslation": "Gần giường có ổ cắm điện không?",
+    "pos": "noun"
+  },
+  {
+    "word": "extension cord",
+    "phonetic": "/ɪkˈstenʃən kɔːrd/",
+    "definition": "a wire you use to connect a plug to a socket that is far away",
+    "translation": "dây nối dài, ổ cắm kéo dài",
+    "exampleSentence": "I need an extension cord for the lamp.",
+    "exampleTranslation": "Tôi cần một dây nối dài cho cái đèn.",
+    "pos": "noun"
+  },
+  {
+    "word": "switch",
+    "phonetic": "/swɪtʃ/",
+    "definition": "a button that turns a machine or light on and off",
+    "translation": "công tắc",
+    "exampleSentence": "Where is the light switch?",
+    "exampleTranslation": "Công tắc đèn ở đâu?",
+    "pos": "noun"
+  },
+  {
+    "word": "remote control",
+    "phonetic": "/rɪˈmoʊt kənˈtroʊl/",
+    "definition": "a thing you use to control a television from a distance",
+    "translation": "điều khiển từ xa, cái remote",
+    "exampleSentence": "Where is the remote control?",
+    "exampleTranslation": "Cái điều khiển ở đâu rồi?",
+    "pos": "noun"
+  },
+  {
+    "word": "battery",
+    "phonetic": "/ˈbætəri/",
+    "definition": "an object that gives electricity to a toy, clock or radio",
+    "translation": "pin",
+    "exampleSentence": "The batteries in the clock are dead.",
+    "exampleTranslation": "Pin của cái đồng hồ hết rồi.",
+    "pos": "noun"
+  },
+  {
+    "word": "torch",
+    "phonetic": "/tɔːrtʃ/",
+    "definition": "a small electric light that you carry in your hand",
+    "translation": "đèn pin",
+    "exampleSentence": "Bring a torch in case it gets dark.",
+    "exampleTranslation": "Hãy mang theo đèn pin phòng khi trời tối.",
+    "pos": "noun"
+  },
+  {
+    "word": "flashlight",
+    "phonetic": "/ˈflæʃlaɪt/",
+    "definition": "a small electric light that you carry in your hand",
+    "translation": "đèn pin",
+    "exampleSentence": "I used a flashlight to find the key.",
+    "exampleTranslation": "Tôi dùng đèn pin để tìm chìa khóa.",
+    "pos": "noun"
+  },
+  {
+    "word": "lighter",
+    "phonetic": "/ˈlaɪtər/",
+    "definition": "a small object that makes a flame to light a cigarette or candle",
+    "translation": "bật lửa, cái hột quẹt",
+    "exampleSentence": "Do you have a lighter?",
+    "exampleTranslation": "Bạn có bật lửa không?",
+    "pos": "noun"
+  },
+  {
+    "word": "match",
+    "phonetic": "/mætʃ/",
+    "definition": "a small stick that makes a flame when you rub it",
+    "translation": "que diêm, que quẹt",
+    "exampleSentence": "Don't let children play with matches.",
+    "exampleTranslation": "Đừng để trẻ em chơi với diêm.",
+    "pos": "noun"
+  },
+  {
+    "word": "scissors",
+    "phonetic": "/ˈsɪzərz/",
+    "definition": "a tool with two blades for cutting paper or cloth",
+    "translation": "cái kéo",
+    "exampleSentence": "Can I borrow your scissors?",
+    "exampleTranslation": "Tôi mượn cái kéo của bạn được không?",
+    "pos": "noun"
+  },
+  {
+    "word": "tape",
+    "phonetic": "/teɪp/",
+    "definition": "a thin sticky strip used for sticking things together",
+    "translation": "băng keo, băng dính",
+    "exampleSentence": "Stick the poster to the wall with tape.",
+    "exampleTranslation": "Hãy dán tờ áp phích lên tường bằng băng keo.",
+    "pos": "noun"
+  },
+  {
+    "word": "glue",
+    "phonetic": "/ɡluː/",
+    "definition": "a sticky substance used for joining things together",
+    "translation": "keo dán, hồ dán",
+    "exampleSentence": "I need some glue to fix this cup.",
+    "exampleTranslation": "Tôi cần ít keo để sửa cái cốc này.",
+    "pos": "noun"
+  },
+  {
+    "word": "string",
+    "phonetic": "/strɪŋ/",
+    "definition": "strong thin cord used for tying things",
+    "translation": "sợi dây, dây buộc",
+    "exampleSentence": "I tied the box with string.",
+    "exampleTranslation": "Tôi buộc cái hộp bằng dây.",
+    "pos": "noun"
+  },
+  {
+    "word": "rope",
+    "phonetic": "/roʊp/",
+    "definition": "very strong thick string used for tying or pulling things",
+    "translation": "sợi dây thừng, dây thừng",
+    "exampleSentence": "They tied a rope around the box.",
+    "exampleTranslation": "Họ buộc một sợi dây thừng quanh cái hộp.",
+    "pos": "noun"
+  },
+  {
+    "word": "needle",
+    "phonetic": "/ˈniːdl/",
+    "definition": "a small thin metal tool with a hole, used for sewing",
+    "translation": "cây kim, cái kim",
+    "exampleSentence": "I need a needle and thread.",
+    "exampleTranslation": "Tôi cần một cây kim và sợi chỉ.",
+    "pos": "noun"
+  },
+  {
+    "word": "thread",
+    "phonetic": "/θred/",
+    "definition": "a long thin string of cotton or silk used for sewing",
+    "translation": "sợi chỉ, chỉ",
+    "exampleSentence": "Do you have black thread?",
+    "exampleTranslation": "Bạn có chỉ đen không?",
+    "pos": "noun"
+  },
+  {
+    "word": "ladder",
+    "phonetic": "/ˈlædər/",
+    "definition": "a tool with steps that you climb to reach high places",
+    "translation": "cái thang",
+    "exampleSentence": "I climbed the ladder to fix the roof.",
+    "exampleTranslation": "Tôi leo lên thang để sửa mái nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "hammer",
+    "phonetic": "/ˈhæmər/",
+    "definition": "a tool for hitting nails into wood",
+    "translation": "cái búa",
+    "exampleSentence": "I need a hammer and some nails.",
+    "exampleTranslation": "Tôi cần một cái búa và vài cái đinh.",
+    "pos": "noun"
+  },
+  {
+    "word": "nail",
+    "phonetic": "/neɪl/",
+    "definition": "a thin pointed piece of metal that you hit into wood",
+    "translation": "cái đinh",
+    "exampleSentence": "Hang the picture on that nail.",
+    "exampleTranslation": "Hãy treo bức tranh lên cái đinh đó.",
+    "pos": "noun"
+  },
+  {
+    "word": "screw",
+    "phonetic": "/skruː/",
+    "definition": "a thin pointed piece of metal that you turn to fasten things",
+    "translation": "con ốc vít, đinh vít",
+    "exampleSentence": "The screws are in the toolbox.",
+    "exampleTranslation": "Những con ốc vít ở trong hộp đồ nghề.",
+    "pos": "noun"
+  },
+  {
+    "word": "screwdriver",
+    "phonetic": "/ˈskruːˌdraɪvər/",
+    "definition": "a tool for turning screws",
+    "translation": "cái tua vít, cái vặn vít",
+    "exampleSentence": "Pass me the screwdriver, please.",
+    "exampleTranslation": "Làm ơn đưa tôi cái tua vít.",
+    "pos": "noun"
+  },
+  {
+    "word": "drill",
+    "phonetic": "/drɪl/",
+    "definition": "a tool or machine for making holes",
+    "translation": "cái máy khoan",
+    "exampleSentence": "I used an electric drill to make a hole.",
+    "exampleTranslation": "Tôi dùng máy khoan điện để khoan một cái lỗ.",
+    "pos": "noun"
+  },
+  {
+    "word": "saw",
+    "phonetic": "/sɔː/",
+    "definition": "a tool with a sharp edge for cutting wood",
+    "translation": "cái cưa",
+    "exampleSentence": "You need a saw to cut this wood.",
+    "exampleTranslation": "Bạn cần một cái cưa để cắt khúc gỗ này.",
+    "pos": "noun"
+  },
+  {
+    "word": "toolbox",
+    "phonetic": "/ˈtuːlbɑːks/",
+    "definition": "a box for keeping tools in",
+    "translation": "hộp đồ nghề",
+    "exampleSentence": "The hammer is in the toolbox.",
+    "exampleTranslation": "Cái búa ở trong hộp đồ nghề.",
+    "pos": "noun"
+  },
+  {
+    "word": "basket",
+    "phonetic": "/ˈbæskɪt/",
+    "definition": "a container made of woven strips, used for carrying things",
+    "translation": "cái giỏ, cái rổ",
+    "exampleSentence": "I put the fruit in a basket.",
+    "exampleTranslation": "Tôi cho trái cây vào một cái giỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "box",
+    "phonetic": "/bɑːks/",
+    "definition": "a container with straight sides for putting things in",
+    "translation": "cái hộp, cái thùng",
+    "exampleSentence": "The books are in a cardboard box.",
+    "exampleTranslation": "Những cuốn sách ở trong một cái thùng các tông.",
+    "pos": "noun"
+  },
+  {
+    "word": "bottle",
+    "phonetic": "/ˈbɑːtl/",
+    "definition": "a glass or plastic container with a narrow top for liquids",
+    "translation": "cái chai, chai",
+    "exampleSentence": "Put the empty bottles in the bin.",
+    "exampleTranslation": "Hãy bỏ những cái chai rỗng vào thùng rác.",
+    "pos": "noun"
+  },
+  {
+    "word": "jar",
+    "phonetic": "/dʒɑːr/",
+    "definition": "a glass container with a wide top and a lid",
+    "translation": "cái hũ, cái lọ",
+    "exampleSentence": "There is a jar of honey on the shelf.",
+    "exampleTranslation": "Có một hũ mật ong trên kệ.",
+    "pos": "noun"
+  },
+  {
+    "word": "tin",
+    "phonetic": "/tɪn/",
+    "definition": "a small metal container in which food or drink is sold",
+    "translation": "cái hộp thiếc, lon",
+    "exampleSentence": "I opened a tin of tomatoes.",
+    "exampleTranslation": "Tôi mở một hộp cà chua.",
+    "pos": "noun"
+  },
+  {
+    "word": "lid",
+    "phonetic": "/lɪd/",
+    "definition": "a cover for the top of a pot, box or jar",
+    "translation": "cái nắp, nắp",
+    "exampleSentence": "Put the lid back on the jar.",
+    "exampleTranslation": "Hãy đậy nắp lại cho cái hũ.",
+    "pos": "noun"
+  },
+  {
+    "word": "hanger",
+    "phonetic": "/ˈhæŋər/",
+    "definition": "a curved piece of wood, plastic or metal for hanging clothes",
+    "translation": "cái móc áo, cái mắc áo",
+    "exampleSentence": "Hang your coat on a hanger.",
+    "exampleTranslation": "Hãy treo áo khoác lên móc áo.",
+    "pos": "noun"
+  },
+  {
+    "word": "clothes peg",
+    "phonetic": "/kloʊðz peɡ/",
+    "definition": "a small object that holds wet clothes on a washing line",
+    "translation": "cái kẹp quần áo, cái kẹp phơi đồ",
+    "exampleSentence": "I need more clothes pegs.",
+    "exampleTranslation": "Tôi cần thêm kẹp quần áo.",
+    "pos": "noun"
+  },
+  {
+    "word": "washing line",
+    "phonetic": "/ˈwɑːʃɪŋ laɪn/",
+    "definition": "a string outside where you hang wet clothes to dry",
+    "translation": "dây phơi quần áo, dây phơi đồ",
+    "exampleSentence": "The washing line is in the garden.",
+    "exampleTranslation": "Dây phơi đồ ở ngoài vườn.",
+    "pos": "noun"
+  },
+  {
+    "word": "clothesline",
+    "phonetic": "/ˈkloʊðzlaɪn/",
+    "definition": "a rope outside where you hang wet clothes to dry",
+    "translation": "dây phơi quần áo, dây phơi đồ",
+    "exampleSentence": "I hung the shirts on the clothesline.",
+    "exampleTranslation": "Tôi phơi những cái áo sơ mi lên dây phơi.",
+    "pos": "noun"
+  },
+  {
+    "word": "iron",
+    "phonetic": "/ˈaɪərn/",
+    "definition": "an electric tool with a hot flat base for making clothes smooth",
+    "translation": "cái bàn ủi, cái bàn là",
+    "exampleSentence": "Be careful, the iron is hot.",
+    "exampleTranslation": "Cẩn thận, bàn ủi đang nóng.",
+    "pos": "noun"
+  },
+  {
+    "word": "ironing board",
+    "phonetic": "/ˈaɪərnɪŋ bɔːrd/",
+    "definition": "a narrow table that you use for ironing clothes",
+    "translation": "cái bàn để ủi đồ, cái cầu ủi",
+    "exampleSentence": "Put the shirt on the ironing board.",
+    "exampleTranslation": "Hãy đặt cái áo lên bàn để ủi đồ.",
+    "pos": "noun"
+  },
+  {
+    "word": "washing powder",
+    "phonetic": "/ˈwɑːʃɪŋ paʊdər/",
+    "definition": "soap in the form of a powder for washing clothes",
+    "translation": "bột giặt",
+    "exampleSentence": "We need more washing powder.",
+    "exampleTranslation": "Chúng ta cần thêm bột giặt.",
+    "pos": "noun"
+  },
+  {
+    "word": "detergent",
+    "phonetic": "/dɪˈtɜːrdʒənt/",
+    "definition": "a liquid or powder for washing clothes or dishes",
+    "translation": "chất tẩy rửa, nước giặt",
+    "exampleSentence": "Add a little detergent to the water.",
+    "exampleTranslation": "Hãy cho một ít chất tẩy rửa vào nước.",
+    "pos": "noun"
+  },
+  {
+    "word": "laundry",
+    "phonetic": "/ˈlɔːndri/",
+    "definition": "clothes and sheets that need washing or have just been washed",
+    "translation": "quần áo cần giặt, đồ giặt",
+    "exampleSentence": "I do the laundry on Sundays.",
+    "exampleTranslation": "Tôi giặt quần áo vào Chủ nhật.",
+    "pos": "noun"
+  },
+  {
+    "word": "laundry basket",
+    "phonetic": "/ˈlɔːndri ˈbæskɪt/",
+    "definition": "a large basket for dirty clothes",
+    "translation": "giỏ đựng đồ giặt, giỏ đựng quần áo bẩn",
+    "exampleSentence": "Put your socks in the laundry basket.",
+    "exampleTranslation": "Hãy bỏ tất của bạn vào giỏ đựng đồ giặt.",
+    "pos": "noun"
+  },
+  {
+    "word": "washing machine",
+    "phonetic": "/ˈwɑːʃɪŋ məˈʃiːn/",
+    "definition": "a machine for washing clothes",
+    "translation": "máy giặt",
+    "exampleSentence": "The washing machine is making a noise.",
+    "exampleTranslation": "Cái máy giặt đang kêu to.",
+    "pos": "noun"
+  },
+  {
+    "word": "dryer",
+    "phonetic": "/ˈdraɪər/",
+    "definition": "a machine that dries clothes",
+    "translation": "máy sấy quần áo, máy sấy",
+    "exampleSentence": "Put the wet clothes in the dryer.",
+    "exampleTranslation": "Hãy cho quần áo ướt vào máy sấy.",
+    "pos": "noun"
+  },
+  {
+    "word": "sewing machine",
+    "phonetic": "/ˈsoʊɪŋ məˈʃiːn/",
+    "definition": "a machine for stitching cloth or clothes together",
+    "translation": "máy may, máy khâu",
+    "exampleSentence": "My grandmother has an old sewing machine.",
+    "exampleTranslation": "Bà tôi có một cái máy may cũ.",
+    "pos": "noun"
+  },
+  {
+    "word": "dishwasher",
+    "phonetic": "/ˈdɪʃˌwɑːʃər/",
+    "definition": "a machine that washes dishes",
+    "translation": "máy rửa chén, máy rửa bát",
+    "exampleSentence": "Put the plates in the dishwasher.",
+    "exampleTranslation": "Hãy cho những cái đĩa vào máy rửa chén.",
+    "pos": "noun"
+  },
+  {
+    "word": "vacuum cleaner",
+    "phonetic": "/ˈvækjuəm ˈkliːnər/",
+    "definition": "a machine that cleans floors by sucking up dirt",
+    "translation": "máy hút bụi",
+    "exampleSentence": "I use the vacuum cleaner every week.",
+    "exampleTranslation": "Tuần nào tôi cũng dùng máy hút bụi.",
+    "pos": "noun"
+  },
+  {
+    "word": "duster",
+    "phonetic": "/ˈdʌstər/",
+    "definition": "a cloth for removing dust from furniture",
+    "translation": "cái khăn lau bụi, cái chổi lông gà",
+    "exampleSentence": "Use a duster to clean the shelves.",
+    "exampleTranslation": "Hãy dùng khăn lau bụi để lau mấy cái kệ.",
+    "pos": "noun"
+  },
+  {
+    "word": "doormat",
+    "phonetic": "/ˈdɔːrmæt/",
+    "definition": "a piece of material by a door for cleaning your shoes on",
+    "translation": "tấm thảm chùi chân",
+    "exampleSentence": "Wipe your shoes on the doormat.",
+    "exampleTranslation": "Hãy chùi giày lên tấm thảm chùi chân.",
+    "pos": "noun"
+  },
+  {
+    "word": "air conditioner",
+    "phonetic": "/er kənˈdɪʃənər/",
+    "definition": "a machine that makes the air in a room cooler",
+    "translation": "máy lạnh, máy điều hòa",
+    "exampleSentence": "Turn on the air conditioner, please.",
+    "exampleTranslation": "Làm ơn bật máy lạnh lên.",
+    "pos": "noun"
+  },
+  {
+    "word": "fan",
+    "phonetic": "/fæn/",
+    "definition": "a machine with turning blades that cools the air in a room",
+    "translation": "cái quạt",
+    "exampleSentence": "It is hot, so I turned on the fan.",
+    "exampleTranslation": "Trời nóng nên tôi bật quạt lên.",
+    "pos": "noun"
+  },
+  {
+    "word": "heater",
+    "phonetic": "/ˈhiːtər/",
+    "definition": "a machine for making a room or water warmer",
+    "translation": "máy sưởi, lò sưởi",
+    "exampleSentence": "Turn on the heater, it's cold.",
+    "exampleTranslation": "Hãy bật máy sưởi lên, trời lạnh quá.",
+    "pos": "noun"
+  },
+  {
+    "word": "kettle",
+    "phonetic": "/ˈketl/",
+    "definition": "a container with a spout used for boiling water",
+    "translation": "cái ấm đun nước",
+    "exampleSentence": "I filled the kettle and switched it on.",
+    "exampleTranslation": "Tôi đổ đầy nước vào ấm rồi bật lên.",
+    "pos": "noun"
+  },
+  {
+    "word": "toaster",
+    "phonetic": "/ˈtoʊstər/",
+    "definition": "a machine that you use for toasting bread",
+    "translation": "máy nướng bánh mì",
+    "exampleSentence": "The toaster is on the kitchen table.",
+    "exampleTranslation": "Máy nướng bánh mì ở trên bàn bếp.",
+    "pos": "noun"
+  },
+  {
+    "word": "blender",
+    "phonetic": "/ˈblendər/",
+    "definition": "an electric machine for mixing liquids and soft foods",
+    "translation": "máy xay sinh tố, máy xay",
+    "exampleSentence": "I make smoothies with a blender.",
+    "exampleTranslation": "Tôi làm sinh tố bằng máy xay.",
+    "pos": "noun"
+  },
+  {
+    "word": "fridge",
+    "phonetic": "/frɪdʒ/",
+    "definition": "a large electric machine that keeps food and drinks cold",
+    "translation": "tủ lạnh",
+    "exampleSentence": "The milk is in the fridge.",
+    "exampleTranslation": "Sữa ở trong tủ lạnh.",
+    "pos": "noun"
+  },
+  {
+    "word": "freezer",
+    "phonetic": "/ˈfriːzər/",
+    "definition": "a machine or part of a fridge that keeps food frozen",
+    "translation": "tủ đông, ngăn đông",
+    "exampleSentence": "Put the ice cream in the freezer.",
+    "exampleTranslation": "Hãy cho kem vào ngăn đông.",
+    "pos": "noun"
+  },
+  {
+    "word": "microwave",
+    "phonetic": "/ˈmaɪkrəweɪv/",
+    "definition": "an oven that cooks food very quickly",
+    "translation": "lò vi sóng",
+    "exampleSentence": "I'll heat it up in the microwave.",
+    "exampleTranslation": "Tôi sẽ hâm nóng nó trong lò vi sóng.",
+    "pos": "noun"
+  },
+  {
+    "word": "oven",
+    "phonetic": "/ˈʌvən/",
+    "definition": "a metal box with a door in which you cook food",
+    "translation": "cái lò nướng",
+    "exampleSentence": "Preheat the oven to 200 degrees.",
+    "exampleTranslation": "Hãy làm nóng lò nướng đến 200 độ.",
+    "pos": "noun"
+  },
+  {
+    "word": "cooker",
+    "phonetic": "/ˈkʊkər/",
+    "definition": "a large piece of equipment for cooking food",
+    "translation": "cái bếp, bếp nấu",
+    "exampleSentence": "We have a new gas cooker.",
+    "exampleTranslation": "Chúng tôi có một cái bếp ga mới.",
+    "pos": "noun"
+  },
+  {
+    "word": "television",
+    "phonetic": "/ˈteləˌvɪʒən/",
+    "definition": "a piece of electronic equipment with a screen for watching programmes",
+    "translation": "ti vi, máy truyền hình",
+    "exampleSentence": "Turn on the television, please.",
+    "exampleTranslation": "Làm ơn bật ti vi lên.",
+    "pos": "noun"
+  },
+  {
+    "word": "radio",
+    "phonetic": "/ˈreɪdioʊ/",
+    "definition": "a piece of equipment that you use to listen to programmes",
+    "translation": "cái đài, máy radio",
+    "exampleSentence": "I listen to the radio in the morning.",
+    "exampleTranslation": "Buổi sáng tôi nghe đài.",
+    "pos": "noun"
+  },
+  {
+    "word": "lamp",
+    "phonetic": "/læmp/",
+    "definition": "an object that gives light, using electricity, oil or gas",
+    "translation": "cái đèn, đèn bàn",
+    "exampleSentence": "Please turn off the lamp.",
+    "exampleTranslation": "Làm ơn tắt đèn đi.",
+    "pos": "noun"
+  },
+  {
+    "word": "calendar",
+    "phonetic": "/ˈkæləndər/",
+    "definition": "a set of pages showing the days, weeks and months of a year",
+    "translation": "cuốn lịch, tờ lịch",
+    "exampleSentence": "There is a calendar on the wall.",
+    "exampleTranslation": "Có một cuốn lịch trên tường.",
+    "pos": "noun"
+  },
+  {
+    "word": "umbrella",
+    "phonetic": "/ʌmˈbrelə/",
+    "definition": "an object you hold over your head to keep off rain",
+    "translation": "cái ô, cái dù",
+    "exampleSentence": "Take an umbrella, it's raining.",
+    "exampleTranslation": "Hãy mang theo ô, trời đang mưa.",
+    "pos": "noun"
+  },
+  {
+    "word": "towel",
+    "phonetic": "/ˈtaʊəl/",
+    "definition": "a piece of cloth for drying your skin or dishes",
+    "translation": "cái khăn tắm, cái khăn lau",
+    "exampleSentence": "Have you got a clean towel?",
+    "exampleTranslation": "Bạn có cái khăn sạch nào không?",
+    "pos": "noun"
+  },
+  {
+    "word": "blanket",
+    "phonetic": "/ˈblæŋkɪt/",
+    "definition": "a thick cover for a bed",
+    "translation": "cái chăn, cái mền",
+    "exampleSentence": "It's cold, so I need another blanket.",
+    "exampleTranslation": "Trời lạnh nên tôi cần thêm một cái chăn.",
+    "pos": "noun"
+  },
+  {
+    "word": "bag",
+    "phonetic": "/bæɡ/",
+    "definition": "a container made of paper, cloth or plastic",
+    "translation": "cái túi, cái bao",
+    "exampleSentence": "Put the apples in a paper bag.",
+    "exampleTranslation": "Hãy cho những quả táo vào túi giấy.",
+    "pos": "noun"
+  },
+  {
+    "word": "pot",
+    "phonetic": "/pɑːt/",
+    "definition": "a deep round container used for cooking",
+    "translation": "cái nồi",
+    "exampleSentence": "Put the soup pot on the stove.",
+    "exampleTranslation": "Hãy đặt nồi súp lên bếp.",
+    "pos": "noun"
+  },
+  {
+    "word": "plant",
+    "phonetic": "/plænt/",
+    "definition": "a living thing with leaves and roots that grows in soil",
+    "translation": "cái cây, cây",
+    "exampleSentence": "Don't forget to water the plants.",
+    "exampleTranslation": "Đừng quên tưới cây.",
+    "pos": "noun"
+  },
+  {
+    "word": "tissue",
+    "phonetic": "/ˈtɪʃuː/",
+    "definition": "a piece of soft thin paper for blowing your nose",
+    "translation": "khăn giấy, giấy lau",
+    "exampleSentence": "Can I have a tissue, please?",
+    "exampleTranslation": "Cho tôi xin một tờ khăn giấy được không?",
+    "pos": "noun"
+  },
+  {
+    "word": "stapler",
+    "phonetic": "/ˈsteɪplər/",
+    "definition": "a tool for fixing sheets of paper together with staples",
+    "translation": "cái dập ghim, cái bấm kim",
+    "exampleSentence": "Do you have a stapler?",
+    "exampleTranslation": "Bạn có cái dập ghim không?",
+    "pos": "noun"
+  },
+  {
+    "word": "tool",
+    "phonetic": "/tuːl/",
+    "definition": "something you hold in your hand to do a job",
+    "translation": "dụng cụ, đồ nghề",
+    "exampleSentence": "I don't have the right tool for this job.",
+    "exampleTranslation": "Tôi không có dụng cụ phù hợp cho việc này.",
+    "pos": "noun"
+  },
+  {
+    "word": "pliers",
+    "phonetic": "/ˈplaɪərz/",
+    "definition": "a tool for holding, bending or cutting small things",
+    "translation": "cái kìm",
+    "exampleSentence": "Hold the wire with the pliers.",
+    "exampleTranslation": "Hãy giữ sợi dây bằng cái kìm.",
+    "pos": "noun"
+  },
+  {
+    "word": "wrench",
+    "phonetic": "/rentʃ/",
+    "definition": "a metal tool for turning nuts",
+    "translation": "cái cờ lê, cái mỏ lết",
+    "exampleSentence": "Use a wrench to tighten the nut.",
+    "exampleTranslation": "Hãy dùng cờ lê để siết chặt con ốc.",
+    "pos": "noun"
+  },
+  {
+    "word": "spanner",
+    "phonetic": "/ˈspænər/",
+    "definition": "a metal tool for turning nuts",
+    "translation": "cái cờ lê, cái mỏ lết",
+    "exampleSentence": "Pass me the spanner, please.",
+    "exampleTranslation": "Làm ơn đưa tôi cái cờ lê.",
+    "pos": "noun"
+  },
+  {
+    "word": "hook",
+    "phonetic": "/hʊk/",
+    "definition": "a curved piece of metal or plastic for hanging things on",
+    "translation": "cái móc, cái móc treo",
+    "exampleSentence": "Hang your coat on the hook.",
+    "exampleTranslation": "Hãy treo áo khoác lên cái móc.",
+    "pos": "noun"
+  },
+  {
+    "word": "rubber band",
+    "phonetic": "/ˈrʌbər bænd/",
+    "definition": "a thin circle of rubber for holding things together",
+    "translation": "dây thun, dây chun",
+    "exampleSentence": "I put a rubber band around the papers.",
+    "exampleTranslation": "Tôi buộc một sợi dây thun quanh xấp giấy.",
+    "pos": "noun"
+  },
+  {
+    "word": "safety pin",
+    "phonetic": "/ˈseɪfti pɪn/",
+    "definition": "a metal pin with a cover over the point, for fastening things",
+    "translation": "cái kim băng, cái ghim băng",
+    "exampleSentence": "I fixed my skirt with a safety pin.",
+    "exampleTranslation": "Tôi dùng kim băng để sửa lại cái váy.",
+    "pos": "noun"
+  },
+  {
+    "word": "cloth",
+    "phonetic": "/klɔːθ/",
+    "definition": "a piece of cloth used for cleaning or drying",
+    "translation": "cái khăn lau, giẻ lau",
+    "exampleSentence": "Wipe the table with a wet cloth.",
+    "exampleTranslation": "Hãy lau bàn bằng một cái khăn ướt.",
+    "pos": "noun"
+  },
+  {
+    "word": "bleach",
+    "phonetic": "/bliːtʃ/",
+    "definition": "a chemical used for making things white or killing germs",
+    "translation": "thuốc tẩy, nước tẩy",
+    "exampleSentence": "Don't mix bleach with other cleaners.",
+    "exampleTranslation": "Đừng trộn thuốc tẩy với các chất tẩy rửa khác.",
+    "pos": "noun"
+  },
+  {
+    "word": "paint",
+    "phonetic": "/peɪnt/",
+    "definition": "a liquid you put on a surface to give it colour",
+    "translation": "sơn",
+    "exampleSentence": "We bought a can of blue paint.",
+    "exampleTranslation": "Chúng tôi mua một thùng sơn xanh.",
+    "pos": "noun"
+  },
+  {
+    "word": "paintbrush",
+    "phonetic": "/ˈpeɪntbrʌʃ/",
+    "definition": "a brush for spreading paint on a surface",
+    "translation": "cọ sơn, cây cọ",
+    "exampleSentence": "I need a bigger paintbrush for the wall.",
+    "exampleTranslation": "Tôi cần một cái cọ sơn to hơn để sơn tường.",
+    "pos": "noun"
+  },
+  {
+    "word": "smoke alarm",
+    "phonetic": "/smoʊk əˈlɑːrm/",
+    "definition": "a device that warns you when there is smoke in a building",
+    "translation": "máy báo khói, chuông báo khói",
+    "exampleSentence": "The smoke alarm went off.",
+    "exampleTranslation": "Chuông báo khói đã kêu lên.",
+    "pos": "noun"
+  },
+  {
+    "word": "key ring",
+    "phonetic": "/kiː rɪŋ/",
+    "definition": "a metal ring that you keep keys on",
+    "translation": "cái móc chìa khóa, vòng chìa khóa",
+    "exampleSentence": "My keys are on a key ring.",
+    "exampleTranslation": "Chìa khóa của tôi nằm trên cái móc chìa khóa.",
+    "pos": "noun"
+  },
+  {
+    "word": "tape measure",
+    "phonetic": "/ˈteɪp ˌmeʒər/",
+    "definition": "a long narrow strip marked with centimetres, used for measuring",
+    "translation": "thước dây",
+    "exampleSentence": "Use a tape measure to check the size.",
+    "exampleTranslation": "Hãy dùng thước dây để đo kích thước.",
+    "pos": "noun"
+  }
+]

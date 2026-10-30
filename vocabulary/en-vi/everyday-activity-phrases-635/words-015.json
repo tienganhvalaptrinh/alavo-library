@@ -1,0 +1,191 @@
+[
+  {
+    "word": "close an account",
+    "phonetic": "/ˌkloʊz ən əˈkaʊnt/",
+    "definition": "to stop having an account with a bank",
+    "translation": "đóng tài khoản",
+    "exampleSentence": "She closed her old account.",
+    "exampleTranslation": "Cô ấy đã đóng tài khoản cũ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "take out money",
+    "phonetic": "/ˌteɪk ˌaʊt ˈmʌni/",
+    "definition": "to get money from the bank",
+    "translation": "rút tiền",
+    "exampleSentence": "I need to take out some money.",
+    "exampleTranslation": "Tôi cần rút một ít tiền.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pay a bill",
+    "phonetic": "/ˌpeɪ ə ˈbɪl/",
+    "definition": "to give the money you owe for something",
+    "translation": "thanh toán hóa đơn",
+    "exampleSentence": "I pay a bill online.",
+    "exampleTranslation": "Tôi thanh toán hóa đơn qua mạng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pay the bills",
+    "phonetic": "/ˌpeɪ ðə ˈbɪlz/",
+    "definition": "to pay for things such as electricity and water",
+    "translation": "trả các hóa đơn",
+    "exampleSentence": "We pay the bills on the first of the month.",
+    "exampleTranslation": "Chúng tôi trả các hóa đơn vào ngày đầu tháng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pay your taxes",
+    "phonetic": "/ˌpeɪ jər ˈtæksɪz/",
+    "definition": "to give money to the government",
+    "translation": "đóng thuế",
+    "exampleSentence": "Everyone has to pay their taxes.",
+    "exampleTranslation": "Ai cũng phải đóng thuế.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "send money",
+    "phonetic": "/ˌsend ˈmʌni/",
+    "definition": "to give money to someone far away",
+    "translation": "gửi tiền",
+    "exampleSentence": "She sends money to her parents every month.",
+    "exampleTranslation": "Tháng nào cô ấy cũng gửi tiền cho bố mẹ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "check your balance",
+    "phonetic": "/ˌtʃek jər ˈbæləns/",
+    "definition": "to see how much money is in your account",
+    "translation": "kiểm tra số dư",
+    "exampleSentence": "I check my balance on the app.",
+    "exampleTranslation": "Tôi kiểm tra số dư trên ứng dụng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "use an ATM",
+    "phonetic": "/ˌjuːz ən ˌeɪ tiː ˈem/",
+    "definition": "to get money from a cash machine",
+    "translation": "dùng máy ATM",
+    "exampleSentence": "There is an ATM near the shop.",
+    "exampleTranslation": "Có một cây ATM gần cửa hàng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "enter your PIN",
+    "phonetic": "/ˌentər jər ˈpɪn/",
+    "definition": "to type your secret number into a machine",
+    "translation": "nhập mã PIN",
+    "exampleSentence": "Enter your PIN and press OK.",
+    "exampleTranslation": "Nhập mã PIN rồi bấm OK.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "insert your card",
+    "phonetic": "/ɪnˌsɜːrt jər ˈkɑːrd/",
+    "definition": "to put your bank card into a machine",
+    "translation": "đưa thẻ vào máy",
+    "exampleSentence": "Insert your card into the slot.",
+    "exampleTranslation": "Đưa thẻ vào khe.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "get cash",
+    "phonetic": "/ˌɡet ˈkæʃ/",
+    "definition": "to get money in coins and notes",
+    "translation": "lấy tiền mặt",
+    "exampleSentence": "I need to get some cash.",
+    "exampleTranslation": "Tôi cần lấy ít tiền mặt.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "change money",
+    "phonetic": "/ˌtʃeɪndʒ ˈmʌni/",
+    "definition": "to exchange money for another currency",
+    "translation": "đổi tiền",
+    "exampleSentence": "I changed money at the airport.",
+    "exampleTranslation": "Tôi đổi tiền ở sân bay.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "save up",
+    "phonetic": "/ˌseɪv ˈʌp/",
+    "definition": "to keep money for something you want to buy",
+    "translation": "dành dụm",
+    "exampleSentence": "He is saving up for a new bike.",
+    "exampleTranslation": "Bạn ấy đang dành dụm để mua một chiếc xe đạp mới.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pay back",
+    "phonetic": "/ˌpeɪ ˈbæk/",
+    "definition": "to give money back to someone you borrowed from",
+    "translation": "trả lại tiền",
+    "exampleSentence": "I will pay you back on Friday.",
+    "exampleTranslation": "Thứ Sáu tôi sẽ trả lại tiền cho bạn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pay off a loan",
+    "phonetic": "/ˌpeɪ ˌɔːf ə ˈloʊn/",
+    "definition": "to finish paying back a loan",
+    "translation": "trả hết khoản vay",
+    "exampleSentence": "We paid off the loan last year.",
+    "exampleTranslation": "Chúng tôi trả hết khoản vay vào năm ngoái.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "make a budget",
+    "phonetic": "/ˌmeɪk ə ˈbʌdʒɪt/",
+    "definition": "to plan how much you will spend",
+    "translation": "lập ngân sách",
+    "exampleSentence": "I make a budget every month.",
+    "exampleTranslation": "Tháng nào tôi cũng lập ngân sách.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "keep track of spending",
+    "phonetic": "/ˌkiːp ˌtræk əv ˈspendɪŋ/",
+    "definition": "to write down how much you spend",
+    "translation": "theo dõi chi tiêu",
+    "exampleSentence": "I keep track of spending in an app.",
+    "exampleTranslation": "Tôi theo dõi chi tiêu bằng một ứng dụng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "check your bank statement",
+    "phonetic": "/ˌtʃek jər ˈbæŋk ˌsteɪtmənt/",
+    "definition": "to read the paper that shows what happened in your account",
+    "translation": "kiểm tra sao kê ngân hàng",
+    "exampleSentence": "I check my bank statement every month.",
+    "exampleTranslation": "Tháng nào tôi cũng kiểm tra sao kê ngân hàng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pay online",
+    "phonetic": "/ˌpeɪ ɑːnˈlaɪn/",
+    "definition": "to pay using the internet",
+    "translation": "thanh toán trực tuyến",
+    "exampleSentence": "You can pay online with a card.",
+    "exampleTranslation": "Bạn có thể thanh toán trực tuyến bằng thẻ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "cancel a subscription",
+    "phonetic": "/ˌkænsl ə səbˈskrɪpʃn/",
+    "definition": "to stop paying for a regular service",
+    "translation": "hủy gói đăng ký",
+    "exampleSentence": "I cancelled my subscription last month.",
+    "exampleTranslation": "Tháng trước tôi đã hủy gói đăng ký.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "top up your phone",
+    "phonetic": "/ˌtɑːp ˌʌp jər ˈfoʊn/",
+    "definition": "to add more credit to your phone",
+    "translation": "nạp tiền điện thoại",
+    "exampleSentence": "I need to top up my phone.",
+    "exampleTranslation": "Tôi cần nạp tiền điện thoại.",
+    "pos": "verb phrase"
+  }
+]

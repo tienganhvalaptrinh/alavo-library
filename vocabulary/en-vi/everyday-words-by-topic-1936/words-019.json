@@ -1,0 +1,929 @@
+[
+  {
+    "word": "car",
+    "phonetic": "/kɑːr/",
+    "definition": "a road vehicle with four wheels and an engine",
+    "translation": "xe hơi, ô tô",
+    "exampleSentence": "My parents have a small red car.",
+    "exampleTranslation": "Bố mẹ tôi có một chiếc ô tô nhỏ màu đỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "bus",
+    "phonetic": "/bʌs/",
+    "definition": "a large vehicle that people pay to travel on",
+    "translation": "xe buýt",
+    "exampleSentence": "I go to school by bus.",
+    "exampleTranslation": "Tôi đi học bằng xe buýt.",
+    "pos": "noun"
+  },
+  {
+    "word": "train",
+    "phonetic": "/treɪn/",
+    "definition": "a long vehicle on a railway that carries people or goods",
+    "translation": "tàu hỏa, xe lửa",
+    "exampleSentence": "The train to Hanoi leaves at nine.",
+    "exampleTranslation": "Chuyến tàu đi Hà Nội khởi hành lúc chín giờ.",
+    "pos": "noun"
+  },
+  {
+    "word": "plane",
+    "phonetic": "/pleɪn/",
+    "definition": "a vehicle that flies in the air and has wings and engines",
+    "translation": "máy bay",
+    "exampleSentence": "The plane landed ten minutes late.",
+    "exampleTranslation": "Máy bay hạ cánh trễ mười phút.",
+    "pos": "noun"
+  },
+  {
+    "word": "aeroplane",
+    "phonetic": "/ˈerəpleɪn/",
+    "definition": "a flying vehicle with wings and at least one engine",
+    "translation": "máy bay",
+    "exampleSentence": "The last passengers got on the aeroplane.",
+    "exampleTranslation": "Những hành khách cuối cùng đã lên máy bay.",
+    "pos": "noun"
+  },
+  {
+    "word": "helicopter",
+    "phonetic": "/ˈheləkɑːptər/",
+    "definition": "an aircraft with metal blades on top that turn to make it fly",
+    "translation": "máy bay trực thăng, trực thăng",
+    "exampleSentence": "A helicopter flew over the city.",
+    "exampleTranslation": "Một chiếc trực thăng bay qua thành phố.",
+    "pos": "noun"
+  },
+  {
+    "word": "bicycle",
+    "phonetic": "/ˈbaɪsɪkəl/",
+    "definition": "a vehicle with two wheels that you ride by pushing pedals with your feet",
+    "translation": "xe đạp",
+    "exampleSentence": "Can you ride a bicycle?",
+    "exampleTranslation": "Bạn có biết đi xe đạp không?",
+    "pos": "noun"
+  },
+  {
+    "word": "bike",
+    "phonetic": "/baɪk/",
+    "definition": "a bicycle, or a motorcycle",
+    "translation": "xe đạp, xe máy",
+    "exampleSentence": "I usually go to work by bike.",
+    "exampleTranslation": "Tôi thường đi làm bằng xe đạp.",
+    "pos": "noun"
+  },
+  {
+    "word": "motorbike",
+    "phonetic": "/ˈmoʊtərbaɪk/",
+    "definition": "a small fast two-wheeled vehicle with an engine",
+    "translation": "xe máy",
+    "exampleSentence": "Many people in Vietnam ride a motorbike.",
+    "exampleTranslation": "Nhiều người ở Việt Nam đi xe máy.",
+    "pos": "noun"
+  },
+  {
+    "word": "motorcycle",
+    "phonetic": "/ˈmoʊtərˌsaɪkəl/",
+    "definition": "a fast two-wheeled vehicle with an engine",
+    "translation": "xe mô tô, xe máy",
+    "exampleSentence": "My uncle rides a big motorcycle to work.",
+    "exampleTranslation": "Chú tôi đi làm bằng một chiếc xe mô tô lớn.",
+    "pos": "noun"
+  },
+  {
+    "word": "scooter",
+    "phonetic": "/ˈskuːtər/",
+    "definition": "a small, less powerful motorcycle with small wheels",
+    "translation": "xe tay ga, xe scooter",
+    "exampleSentence": "They bought a scooter to get around town.",
+    "exampleTranslation": "Họ mua một chiếc xe tay ga để đi lại trong thành phố.",
+    "pos": "noun"
+  },
+  {
+    "word": "taxi",
+    "phonetic": "/ˈtæksi/",
+    "definition": "a car with a driver that you pay to take you somewhere",
+    "translation": "xe taxi, taxi",
+    "exampleSentence": "Let us take a taxi to the airport.",
+    "exampleTranslation": "Chúng ta đi taxi ra sân bay nhé.",
+    "pos": "noun"
+  },
+  {
+    "word": "truck",
+    "phonetic": "/trʌk/",
+    "definition": "a large road vehicle used to carry goods",
+    "translation": "xe tải",
+    "exampleSentence": "A truck is blocking the road.",
+    "exampleTranslation": "Một chiếc xe tải đang chắn đường.",
+    "pos": "noun"
+  },
+  {
+    "word": "lorry",
+    "phonetic": "/ˈlɔːri/",
+    "definition": "a large vehicle for carrying heavy goods",
+    "translation": "xe tải",
+    "exampleSentence": "A big lorry stopped in front of us.",
+    "exampleTranslation": "Một chiếc xe tải lớn dừng lại trước mặt chúng tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "van",
+    "phonetic": "/væn/",
+    "definition": "a vehicle smaller than a truck, used for carrying goods",
+    "translation": "xe van, xe tải nhỏ",
+    "exampleSentence": "The shop uses a van for deliveries.",
+    "exampleTranslation": "Cửa hàng dùng một chiếc xe tải nhỏ để giao hàng.",
+    "pos": "noun"
+  },
+  {
+    "word": "ambulance",
+    "phonetic": "/ˈæmbjələns/",
+    "definition": "a vehicle that takes ill or injured people to hospital",
+    "translation": "xe cứu thương",
+    "exampleSentence": "Someone called an ambulance.",
+    "exampleTranslation": "Có người đã gọi xe cứu thương.",
+    "pos": "noun"
+  },
+  {
+    "word": "fire engine",
+    "phonetic": "/faɪr ˈendʒɪn/",
+    "definition": "a large vehicle that carries equipment and people to stop fires",
+    "translation": "xe cứu hỏa",
+    "exampleSentence": "A fire engine arrived in five minutes.",
+    "exampleTranslation": "Xe cứu hỏa đã đến sau năm phút.",
+    "pos": "noun"
+  },
+  {
+    "word": "coach",
+    "phonetic": "/koʊtʃ/",
+    "definition": "a bus with comfortable seats used for long journeys",
+    "translation": "xe khách, xe buýt đường dài",
+    "exampleSentence": "We went to Da Lat by coach.",
+    "exampleTranslation": "Chúng tôi đi Đà Lạt bằng xe khách.",
+    "pos": "noun"
+  },
+  {
+    "word": "tram",
+    "phonetic": "/træm/",
+    "definition": "a passenger vehicle that travels along metal tracks in the street",
+    "translation": "xe điện",
+    "exampleSentence": "The tram stops outside the museum.",
+    "exampleTranslation": "Xe điện dừng ngay trước bảo tàng.",
+    "pos": "noun"
+  },
+  {
+    "word": "subway",
+    "phonetic": "/ˈsʌbweɪ/",
+    "definition": "a railway system that runs under the ground below a big city",
+    "translation": "tàu điện ngầm",
+    "exampleSentence": "I take the subway to work every day.",
+    "exampleTranslation": "Ngày nào tôi cũng đi tàu điện ngầm đến chỗ làm.",
+    "pos": "noun"
+  },
+  {
+    "word": "underground",
+    "phonetic": "/ˈʌndərɡraʊnd/",
+    "definition": "a railway system under the ground in a city",
+    "translation": "tàu điện ngầm",
+    "exampleSentence": "The underground is the fastest way to get around London.",
+    "exampleTranslation": "Tàu điện ngầm là cách nhanh nhất để đi lại ở London.",
+    "pos": "noun"
+  },
+  {
+    "word": "metro",
+    "phonetic": "/ˈmetroʊ/",
+    "definition": "a railway system that runs under the ground below a city",
+    "translation": "tàu điện ngầm, tàu metro",
+    "exampleSentence": "We took the metro to the city centre.",
+    "exampleTranslation": "Chúng tôi đi tàu metro vào trung tâm thành phố.",
+    "pos": "noun"
+  },
+  {
+    "word": "boat",
+    "phonetic": "/boʊt/",
+    "definition": "a vehicle that travels across water",
+    "translation": "thuyền, tàu, ghe",
+    "exampleSentence": "We crossed the river by boat.",
+    "exampleTranslation": "Chúng tôi qua sông bằng thuyền.",
+    "pos": "noun"
+  },
+  {
+    "word": "ship",
+    "phonetic": "/ʃɪp/",
+    "definition": "a large boat used for carrying people or goods across the sea",
+    "translation": "tàu thủy, tàu biển",
+    "exampleSentence": "The ship leaves the port at noon.",
+    "exampleTranslation": "Con tàu rời cảng lúc trưa.",
+    "pos": "noun"
+  },
+  {
+    "word": "ferry",
+    "phonetic": "/ˈferi/",
+    "definition": "a boat that carries people or vehicles across a river or narrow sea",
+    "translation": "phà",
+    "exampleSentence": "We took the ferry to the island.",
+    "exampleTranslation": "Chúng tôi đi phà ra đảo.",
+    "pos": "noun"
+  },
+  {
+    "word": "passenger",
+    "phonetic": "/ˈpæsɪndʒər/",
+    "definition": "a person who travels in a vehicle but does not drive it",
+    "translation": "hành khách",
+    "exampleSentence": "All the passengers got off the bus.",
+    "exampleTranslation": "Tất cả hành khách đã xuống xe buýt.",
+    "pos": "noun"
+  },
+  {
+    "word": "cyclist",
+    "phonetic": "/ˈsaɪklɪst/",
+    "definition": "a person who rides a bicycle",
+    "translation": "người đi xe đạp",
+    "exampleSentence": "The cyclist stopped at the red light.",
+    "exampleTranslation": "Người đi xe đạp dừng lại ở đèn đỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "pedestrian",
+    "phonetic": "/pəˈdestriən/",
+    "definition": "a person who is walking, especially in a street",
+    "translation": "người đi bộ",
+    "exampleSentence": "Pedestrians must wait for the green light.",
+    "exampleTranslation": "Người đi bộ phải đợi đèn xanh.",
+    "pos": "noun"
+  },
+  {
+    "word": "road",
+    "phonetic": "/roʊd/",
+    "definition": "a hard surface for cars, buses, and bicycles to travel on",
+    "translation": "đường, con đường",
+    "exampleSentence": "Be careful when you cross the road.",
+    "exampleTranslation": "Hãy cẩn thận khi băng qua đường.",
+    "pos": "noun"
+  },
+  {
+    "word": "street",
+    "phonetic": "/striːt/",
+    "definition": "a public road in a town with houses or shops on its sides",
+    "translation": "đường, phố",
+    "exampleSentence": "There are many shops on this street.",
+    "exampleTranslation": "Có nhiều cửa hàng trên con đường này.",
+    "pos": "noun"
+  },
+  {
+    "word": "pavement",
+    "phonetic": "/ˈpeɪvmənt/",
+    "definition": "a path at the side of a road for people to walk on",
+    "translation": "vỉa hè",
+    "exampleSentence": "Please walk on the pavement.",
+    "exampleTranslation": "Xin hãy đi trên vỉa hè.",
+    "pos": "noun"
+  },
+  {
+    "word": "sidewalk",
+    "phonetic": "/ˈsaɪdwɔːk/",
+    "definition": "a path at the side of a street for people to walk on",
+    "translation": "vỉa hè",
+    "exampleSentence": "Children were playing on the sidewalk.",
+    "exampleTranslation": "Bọn trẻ đang chơi trên vỉa hè.",
+    "pos": "noun"
+  },
+  {
+    "word": "lane",
+    "phonetic": "/leɪn/",
+    "definition": "one of the parts of a road marked by painted lines",
+    "translation": "làn đường",
+    "exampleSentence": "Cars must stay in their lane.",
+    "exampleTranslation": "Ô tô phải đi đúng làn đường của mình.",
+    "pos": "noun"
+  },
+  {
+    "word": "cycle lane",
+    "phonetic": "/ˈsaɪkəl leɪn/",
+    "definition": "a part of a road that only bicycles can use",
+    "translation": "làn đường dành cho xe đạp",
+    "exampleSentence": "Cars cannot park in the cycle lane.",
+    "exampleTranslation": "Ô tô không được đỗ trong làn đường dành cho xe đạp.",
+    "pos": "noun"
+  },
+  {
+    "word": "motorway",
+    "phonetic": "/ˈmoʊtərweɪ/",
+    "definition": "a very wide road for fast travel over long distances",
+    "translation": "đường cao tốc",
+    "exampleSentence": "We drove along the motorway for two hours.",
+    "exampleTranslation": "Chúng tôi chạy xe trên đường cao tốc suốt hai tiếng.",
+    "pos": "noun"
+  },
+  {
+    "word": "highway",
+    "phonetic": "/ˈhaɪweɪ/",
+    "definition": "a wide main road that joins one town to another",
+    "translation": "quốc lộ, đường cao tốc",
+    "exampleSentence": "The highway goes from the city to the coast.",
+    "exampleTranslation": "Con quốc lộ này nối thành phố với bờ biển.",
+    "pos": "noun"
+  },
+  {
+    "word": "corner",
+    "phonetic": "/ˈkɔːrnər/",
+    "definition": "the point where two roads meet",
+    "translation": "góc đường, ngã rẽ",
+    "exampleSentence": "The shop is on the corner of this street.",
+    "exampleTranslation": "Cửa hàng nằm ở góc đường này.",
+    "pos": "noun"
+  },
+  {
+    "word": "crossroads",
+    "phonetic": "/ˈkrɔːsroʊdz/",
+    "definition": "a place where two roads meet and cross",
+    "translation": "ngã tư",
+    "exampleSentence": "Turn left at the next crossroads.",
+    "exampleTranslation": "Hãy rẽ trái ở ngã tư tiếp theo.",
+    "pos": "noun"
+  },
+  {
+    "word": "junction",
+    "phonetic": "/ˈdʒʌŋkʃən/",
+    "definition": "a place where one road joins another",
+    "translation": "ngã ba, giao lộ",
+    "exampleSentence": "Turn right at the junction.",
+    "exampleTranslation": "Hãy rẽ phải ở ngã ba.",
+    "pos": "noun"
+  },
+  {
+    "word": "roundabout",
+    "phonetic": "/ˈraʊndəbaʊt/",
+    "definition": "a circular area where roads meet and cars drive around",
+    "translation": "vòng xuyến, bùng binh",
+    "exampleSentence": "Take the second exit at the roundabout.",
+    "exampleTranslation": "Hãy đi theo lối ra thứ hai ở vòng xuyến.",
+    "pos": "noun"
+  },
+  {
+    "word": "bend",
+    "phonetic": "/bend/",
+    "definition": "a curved part of a road",
+    "translation": "khúc cua, chỗ ngoặt",
+    "exampleSentence": "The car came round the bend too fast.",
+    "exampleTranslation": "Chiếc xe vào khúc cua quá nhanh.",
+    "pos": "noun"
+  },
+  {
+    "word": "bridge",
+    "phonetic": "/brɪdʒ/",
+    "definition": "a structure over a river or road that lets people cross",
+    "translation": "cầu",
+    "exampleSentence": "We walked across the old bridge.",
+    "exampleTranslation": "Chúng tôi đi bộ qua cây cầu cũ.",
+    "pos": "noun"
+  },
+  {
+    "word": "tunnel",
+    "phonetic": "/ˈtʌnl/",
+    "definition": "a passage under the ground or a mountain for cars or trains",
+    "translation": "đường hầm, hầm",
+    "exampleSentence": "The train goes through a long tunnel.",
+    "exampleTranslation": "Tàu đi qua một đường hầm dài.",
+    "pos": "noun"
+  },
+  {
+    "word": "traffic light",
+    "phonetic": "/ˈtræfɪk laɪt/",
+    "definition": "a set of red, yellow, and green lights that control traffic",
+    "translation": "đèn giao thông, đèn xanh đèn đỏ",
+    "exampleSentence": "Stop when the traffic light is red.",
+    "exampleTranslation": "Hãy dừng lại khi đèn giao thông màu đỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "zebra crossing",
+    "phonetic": "/ˈziːbrə ˈkrɔːsɪŋ/",
+    "definition": "a place marked with black and white lines where people can cross a road",
+    "translation": "vạch qua đường, vạch kẻ đường cho người đi bộ",
+    "exampleSentence": "Cars stop at the zebra crossing.",
+    "exampleTranslation": "Xe dừng lại ở vạch qua đường.",
+    "pos": "noun"
+  },
+  {
+    "word": "signpost",
+    "phonetic": "/ˈsaɪnpoʊst/",
+    "definition": "a sign at the side of a road showing directions and distances",
+    "translation": "biển chỉ đường, cột chỉ đường",
+    "exampleSentence": "The signpost says ten kilometres to the beach.",
+    "exampleTranslation": "Biển chỉ đường ghi còn mười ki-lô-mét nữa là đến bãi biển.",
+    "pos": "noun"
+  },
+  {
+    "word": "road sign",
+    "phonetic": "/roʊd saɪn/",
+    "definition": "a sign next to a road that gives information to drivers",
+    "translation": "biển báo giao thông",
+    "exampleSentence": "Read the road sign before you turn.",
+    "exampleTranslation": "Hãy đọc biển báo giao thông trước khi rẽ.",
+    "pos": "noun"
+  },
+  {
+    "word": "speed limit",
+    "phonetic": "/spiːd ˈlɪmɪt/",
+    "definition": "the fastest speed allowed by law on a road",
+    "translation": "giới hạn tốc độ, tốc độ tối đa",
+    "exampleSentence": "The speed limit here is fifty kilometres an hour.",
+    "exampleTranslation": "Tốc độ tối đa ở đây là năm mươi ki-lô-mét một giờ.",
+    "pos": "noun"
+  },
+  {
+    "word": "traffic",
+    "phonetic": "/ˈtræfɪk/",
+    "definition": "the vehicles moving along a road or street",
+    "translation": "giao thông, xe cộ",
+    "exampleSentence": "There is a lot of traffic in the morning.",
+    "exampleTranslation": "Buổi sáng có rất nhiều xe cộ.",
+    "pos": "noun"
+  },
+  {
+    "word": "traffic jam",
+    "phonetic": "/ˈtræfɪk dʒæm/",
+    "definition": "a long line of vehicles that cannot move or move very slowly",
+    "translation": "kẹt xe, tắc đường",
+    "exampleSentence": "We were stuck in a traffic jam for an hour.",
+    "exampleTranslation": "Chúng tôi bị kẹt xe cả tiếng đồng hồ.",
+    "pos": "noun"
+  },
+  {
+    "word": "rush hour",
+    "phonetic": "/rʌʃ aʊr/",
+    "definition": "the time of day when roads and buses are most crowded",
+    "translation": "giờ cao điểm",
+    "exampleSentence": "I try not to travel at rush hour.",
+    "exampleTranslation": "Tôi cố gắng không đi lại vào giờ cao điểm.",
+    "pos": "noun"
+  },
+  {
+    "word": "parking",
+    "phonetic": "/ˈpɑːrkɪŋ/",
+    "definition": "a space where you can leave a car or other vehicle",
+    "translation": "chỗ đỗ xe, chỗ đậu xe",
+    "exampleSentence": "There is free parking behind the hotel.",
+    "exampleTranslation": "Có chỗ đỗ xe miễn phí phía sau khách sạn.",
+    "pos": "noun"
+  },
+  {
+    "word": "car park",
+    "phonetic": "/kɑːr pɑːrk/",
+    "definition": "an area where people can park their cars",
+    "translation": "bãi đỗ xe, bãi đậu xe",
+    "exampleSentence": "I left my car in the car park.",
+    "exampleTranslation": "Tôi để xe trong bãi đỗ xe.",
+    "pos": "noun"
+  },
+  {
+    "word": "petrol",
+    "phonetic": "/ˈpetrəl/",
+    "definition": "a liquid fuel used in the engines of cars",
+    "translation": "xăng",
+    "exampleSentence": "The car needs more petrol.",
+    "exampleTranslation": "Xe cần đổ thêm xăng.",
+    "pos": "noun"
+  },
+  {
+    "word": "petrol station",
+    "phonetic": "/ˈpetrəl ˈsteɪʃən/",
+    "definition": "a place where you buy petrol for your car",
+    "translation": "trạm xăng, cây xăng",
+    "exampleSentence": "There is a petrol station near the bridge.",
+    "exampleTranslation": "Có một trạm xăng gần cây cầu.",
+    "pos": "noun"
+  },
+  {
+    "word": "gas station",
+    "phonetic": "/ɡæs ˈsteɪʃən/",
+    "definition": "a place where you can buy petrol for motor vehicles",
+    "translation": "trạm xăng, cây xăng",
+    "exampleSentence": "Is there a gas station near here?",
+    "exampleTranslation": "Gần đây có trạm xăng nào không?",
+    "pos": "noun"
+  },
+  {
+    "word": "station",
+    "phonetic": "/ˈsteɪʃən/",
+    "definition": "a place where trains or buses stop for passengers",
+    "translation": "ga, nhà ga, bến xe",
+    "exampleSentence": "The station is five minutes from here.",
+    "exampleTranslation": "Nhà ga cách đây năm phút.",
+    "pos": "noun"
+  },
+  {
+    "word": "bus stop",
+    "phonetic": "/bʌs stɑːp/",
+    "definition": "a place at the side of a road where buses stop for passengers",
+    "translation": "trạm xe buýt, điểm dừng xe buýt",
+    "exampleSentence": "I wait for the bus at the bus stop.",
+    "exampleTranslation": "Tôi đợi xe buýt ở trạm xe buýt.",
+    "pos": "noun"
+  },
+  {
+    "word": "platform",
+    "phonetic": "/ˈplætfɔːrm/",
+    "definition": "the raised place beside a track where you get on a train",
+    "translation": "sân ga, thềm ga",
+    "exampleSentence": "The train to Hue leaves from platform six.",
+    "exampleTranslation": "Chuyến tàu đi Huế khởi hành từ sân ga số sáu.",
+    "pos": "noun"
+  },
+  {
+    "word": "airport",
+    "phonetic": "/ˈerpɔːrt/",
+    "definition": "a place where planes take off and land, with buildings for passengers",
+    "translation": "sân bay, phi trường",
+    "exampleSentence": "We arrived at the airport two hours early.",
+    "exampleTranslation": "Chúng tôi đến sân bay sớm hai tiếng.",
+    "pos": "noun"
+  },
+  {
+    "word": "railway",
+    "phonetic": "/ˈreɪlweɪ/",
+    "definition": "a system of tracks along which trains run",
+    "translation": "đường sắt",
+    "exampleSentence": "The railway goes through the mountains.",
+    "exampleTranslation": "Đường sắt chạy xuyên qua vùng núi.",
+    "pos": "noun"
+  },
+  {
+    "word": "engine",
+    "phonetic": "/ˈendʒɪn/",
+    "definition": "the part of a vehicle that makes it move",
+    "translation": "động cơ, máy",
+    "exampleSentence": "The engine will not start.",
+    "exampleTranslation": "Động cơ không nổ máy được.",
+    "pos": "noun"
+  },
+  {
+    "word": "wheel",
+    "phonetic": "/wiːl/",
+    "definition": "one of the round parts under a car or bicycle that turns",
+    "translation": "bánh xe",
+    "exampleSentence": "The front wheel of my bike is flat.",
+    "exampleTranslation": "Bánh trước xe đạp của tôi bị xẹp.",
+    "pos": "noun"
+  },
+  {
+    "word": "tyre",
+    "phonetic": "/taɪr/",
+    "definition": "a thick rubber ring around the wheel of a car or bicycle",
+    "translation": "lốp xe, vỏ xe",
+    "exampleSentence": "I have a flat tyre.",
+    "exampleTranslation": "Xe tôi bị xẹp lốp.",
+    "pos": "noun"
+  },
+  {
+    "word": "steering wheel",
+    "phonetic": "/ˈstɪrɪŋ wiːl/",
+    "definition": "the wheel you turn to control the direction of a car",
+    "translation": "vô lăng, tay lái",
+    "exampleSentence": "Keep both hands on the steering wheel.",
+    "exampleTranslation": "Hãy giữ cả hai tay trên vô lăng.",
+    "pos": "noun"
+  },
+  {
+    "word": "seat belt",
+    "phonetic": "/siːt belt/",
+    "definition": "a belt in a car that you fasten around yourself for safety",
+    "translation": "dây an toàn",
+    "exampleSentence": "Please fasten your seat belt.",
+    "exampleTranslation": "Vui lòng thắt dây an toàn.",
+    "pos": "noun"
+  },
+  {
+    "word": "brake",
+    "phonetic": "/breɪk/",
+    "definition": "a piece of equipment that makes a vehicle slow down or stop",
+    "translation": "phanh, thắng",
+    "exampleSentence": "My bike has a problem with the brake.",
+    "exampleTranslation": "Xe đạp của tôi bị hỏng phanh.",
+    "pos": "noun"
+  },
+  {
+    "word": "headlight",
+    "phonetic": "/ˈhedlaɪt/",
+    "definition": "one of the large lights at the front of a vehicle",
+    "translation": "đèn pha, đèn trước",
+    "exampleSentence": "Turn on your headlights at night.",
+    "exampleTranslation": "Hãy bật đèn pha khi đi vào ban đêm.",
+    "pos": "noun"
+  },
+  {
+    "word": "windscreen",
+    "phonetic": "/ˈwɪndskriːn/",
+    "definition": "the large window at the front of a car",
+    "translation": "kính chắn gió, kính trước xe",
+    "exampleSentence": "Rain was running down the windscreen.",
+    "exampleTranslation": "Nước mưa chảy xuống kính chắn gió.",
+    "pos": "noun"
+  },
+  {
+    "word": "seat",
+    "phonetic": "/siːt/",
+    "definition": "a place where you can sit, especially in a vehicle",
+    "translation": "ghế, chỗ ngồi",
+    "exampleSentence": "Is this seat free?",
+    "exampleTranslation": "Chỗ ngồi này còn trống không?",
+    "pos": "noun"
+  },
+  {
+    "word": "carriage",
+    "phonetic": "/ˈkærɪdʒ/",
+    "definition": "one of the parts of a train where passengers sit",
+    "translation": "toa tàu",
+    "exampleSentence": "Our seats are in the last carriage.",
+    "exampleTranslation": "Ghế của chúng tôi ở toa cuối cùng.",
+    "pos": "noun"
+  },
+  {
+    "word": "ticket",
+    "phonetic": "/ˈtɪkɪt/",
+    "definition": "a piece of paper that shows you have paid to travel",
+    "translation": "vé",
+    "exampleSentence": "I bought a train ticket online.",
+    "exampleTranslation": "Tôi đã mua vé tàu trên mạng.",
+    "pos": "noun"
+  },
+  {
+    "word": "fare",
+    "phonetic": "/fer/",
+    "definition": "the money you pay to travel by bus, train, or plane",
+    "translation": "giá vé, tiền vé",
+    "exampleSentence": "The bus fare is very cheap.",
+    "exampleTranslation": "Giá vé xe buýt rất rẻ.",
+    "pos": "noun"
+  },
+  {
+    "word": "passport",
+    "phonetic": "/ˈpæspɔːrt/",
+    "definition": "an official document that proves who you are when you travel abroad",
+    "translation": "hộ chiếu",
+    "exampleSentence": "Do not forget your passport.",
+    "exampleTranslation": "Đừng quên hộ chiếu của bạn.",
+    "pos": "noun"
+  },
+  {
+    "word": "visa",
+    "phonetic": "/ˈviːzə/",
+    "definition": "an official mark in your passport that lets you enter a country",
+    "translation": "thị thực, visa",
+    "exampleSentence": "You need a visa to visit that country.",
+    "exampleTranslation": "Bạn cần có visa để đến đất nước đó.",
+    "pos": "noun"
+  },
+  {
+    "word": "luggage",
+    "phonetic": "/ˈlʌɡɪdʒ/",
+    "definition": "the bags and cases you carry when you travel",
+    "translation": "hành lý",
+    "exampleSentence": "I only have one piece of luggage.",
+    "exampleTranslation": "Tôi chỉ có một món hành lý.",
+    "pos": "noun"
+  },
+  {
+    "word": "driving licence",
+    "phonetic": "/ˈdraɪvɪŋ ˈlaɪsəns/",
+    "definition": "an official card that says you are allowed to drive",
+    "translation": "bằng lái xe, giấy phép lái xe",
+    "exampleSentence": "I do not have a driving licence yet.",
+    "exampleTranslation": "Tôi vẫn chưa có bằng lái xe.",
+    "pos": "noun"
+  },
+  {
+    "word": "flight",
+    "phonetic": "/flaɪt/",
+    "definition": "a journey by plane",
+    "translation": "chuyến bay",
+    "exampleSentence": "Our flight to Tokyo takes six hours.",
+    "exampleTranslation": "Chuyến bay đi Tokyo của chúng tôi kéo dài sáu tiếng.",
+    "pos": "noun"
+  },
+  {
+    "word": "journey",
+    "phonetic": "/ˈdʒɜːrni/",
+    "definition": "an occasion when you travel from one place to another",
+    "translation": "chuyến đi, hành trình",
+    "exampleSentence": "The journey to the coast takes three hours.",
+    "exampleTranslation": "Chuyến đi ra bờ biển mất ba tiếng.",
+    "pos": "noun"
+  },
+  {
+    "word": "trip",
+    "phonetic": "/trɪp/",
+    "definition": "a visit to a place and back, for pleasure or for a reason",
+    "translation": "chuyến đi, chuyến du lịch",
+    "exampleSentence": "We are planning a trip to Hoi An.",
+    "exampleTranslation": "Chúng tôi đang lên kế hoạch cho một chuyến đi Hội An.",
+    "pos": "noun"
+  },
+  {
+    "word": "route",
+    "phonetic": "/ruːt/",
+    "definition": "a way from one place to another",
+    "translation": "tuyến đường, lộ trình",
+    "exampleSentence": "What is the best route to the airport?",
+    "exampleTranslation": "Đường nào đi ra sân bay là tốt nhất?",
+    "pos": "noun"
+  },
+  {
+    "word": "speed",
+    "phonetic": "/spiːd/",
+    "definition": "how fast something moves or travels",
+    "translation": "tốc độ",
+    "exampleSentence": "The truck was travelling at high speed.",
+    "exampleTranslation": "Chiếc xe tải đang chạy với tốc độ cao.",
+    "pos": "noun"
+  },
+  {
+    "word": "direction",
+    "phonetic": "/dəˈrekʃən/",
+    "definition": "the way something moves or faces",
+    "translation": "hướng, phương hướng",
+    "exampleSentence": "Which direction did the bus go?",
+    "exampleTranslation": "Xe buýt đã đi theo hướng nào?",
+    "pos": "noun"
+  },
+  {
+    "word": "delay",
+    "phonetic": "/dɪˈleɪ/",
+    "definition": "when something happens later than it should",
+    "translation": "sự chậm trễ, sự trễ chuyến",
+    "exampleSentence": "There is a delay of twenty minutes.",
+    "exampleTranslation": "Chuyến này bị trễ hai mươi phút.",
+    "pos": "noun"
+  },
+  {
+    "word": "departure",
+    "phonetic": "/dɪˈpɑːrtʃər/",
+    "definition": "the act of leaving a place, especially at the start of a journey",
+    "translation": "sự khởi hành, giờ khởi hành",
+    "exampleSentence": "The departure time is ten past nine.",
+    "exampleTranslation": "Giờ khởi hành là chín giờ mười.",
+    "pos": "noun"
+  },
+  {
+    "word": "arrival",
+    "phonetic": "/əˈraɪvəl/",
+    "definition": "when someone or something arrives somewhere",
+    "translation": "sự đến nơi, giờ đến",
+    "exampleSentence": "Our arrival was delayed by the rain.",
+    "exampleTranslation": "Chuyến đến của chúng tôi bị chậm vì mưa.",
+    "pos": "noun"
+  },
+  {
+    "word": "queue",
+    "phonetic": "/kjuː/",
+    "definition": "a line of people or vehicles waiting for something",
+    "translation": "hàng người xếp hàng, hàng chờ",
+    "exampleSentence": "There was a long queue at the bus stop.",
+    "exampleTranslation": "Có một hàng dài người xếp hàng ở trạm xe buýt.",
+    "pos": "noun"
+  },
+  {
+    "word": "travel",
+    "phonetic": "/ˈtrævəl/",
+    "definition": "to go from one place to another, especially far away",
+    "translation": "đi du lịch, đi lại, di chuyển",
+    "exampleSentence": "I like to travel by train.",
+    "exampleTranslation": "Tôi thích đi bằng tàu hỏa.",
+    "pos": "verb"
+  },
+  {
+    "word": "drive",
+    "phonetic": "/draɪv/",
+    "definition": "to control a car or other vehicle so that it moves",
+    "translation": "lái xe",
+    "exampleSentence": "My mother drives to work every day.",
+    "exampleTranslation": "Mẹ tôi lái xe đi làm mỗi ngày.",
+    "pos": "verb"
+  },
+  {
+    "word": "ride",
+    "phonetic": "/raɪd/",
+    "definition": "to travel on a bicycle or motorbike, or in a vehicle",
+    "translation": "đi (xe đạp, xe máy), cưỡi",
+    "exampleSentence": "I ride my bike to school.",
+    "exampleTranslation": "Tôi đi xe đạp đến trường.",
+    "pos": "verb"
+  },
+  {
+    "word": "park",
+    "phonetic": "/pɑːrk/",
+    "definition": "to leave a car in a place for a time",
+    "translation": "đỗ xe, đậu xe",
+    "exampleSentence": "You cannot park here.",
+    "exampleTranslation": "Bạn không được đỗ xe ở đây.",
+    "pos": "verb"
+  },
+  {
+    "word": "stop",
+    "phonetic": "/stɑːp/",
+    "definition": "to not move or travel any more",
+    "translation": "dừng lại, dừng, đỗ",
+    "exampleSentence": "The bus stops outside my house.",
+    "exampleTranslation": "Xe buýt dừng ngay trước nhà tôi.",
+    "pos": "verb"
+  },
+  {
+    "word": "turn",
+    "phonetic": "/tɜːrn/",
+    "definition": "to go in a new direction when walking or driving",
+    "translation": "rẽ, quẹo, quay",
+    "exampleSentence": "Turn left at the traffic light.",
+    "exampleTranslation": "Hãy rẽ trái ở chỗ đèn giao thông.",
+    "pos": "verb"
+  },
+  {
+    "word": "cross",
+    "phonetic": "/krɔːs/",
+    "definition": "to go from one side of a road or river to the other",
+    "translation": "băng qua, đi qua, qua",
+    "exampleSentence": "Look both ways before you cross the road.",
+    "exampleTranslation": "Hãy nhìn cả hai bên trước khi băng qua đường.",
+    "pos": "verb"
+  },
+  {
+    "word": "sail",
+    "phonetic": "/seɪl/",
+    "definition": "to travel on water in a boat or ship",
+    "translation": "đi thuyền, đi tàu",
+    "exampleSentence": "We sail across the bay every morning.",
+    "exampleTranslation": "Sáng nào chúng tôi cũng đi thuyền qua vịnh.",
+    "pos": "verb"
+  },
+  {
+    "word": "arrive",
+    "phonetic": "/əˈraɪv/",
+    "definition": "to get to the place you are going to",
+    "translation": "đến, đến nơi",
+    "exampleSentence": "We arrived at the station at noon.",
+    "exampleTranslation": "Chúng tôi đến ga lúc trưa.",
+    "pos": "verb"
+  },
+  {
+    "word": "leave",
+    "phonetic": "/liːv/",
+    "definition": "to go away from a place",
+    "translation": "rời đi, khởi hành",
+    "exampleSentence": "The train leaves at half past six.",
+    "exampleTranslation": "Tàu khởi hành lúc sáu giờ rưỡi.",
+    "pos": "verb"
+  },
+  {
+    "word": "return",
+    "phonetic": "/rɪˈtɜːrn/",
+    "definition": "to go or come back to a place",
+    "translation": "quay lại, trở về",
+    "exampleSentence": "We return to Hanoi on Sunday.",
+    "exampleTranslation": "Chúng tôi trở về Hà Nội vào Chủ nhật.",
+    "pos": "verb"
+  },
+  {
+    "word": "left",
+    "phonetic": "/left/",
+    "definition": "towards the left side",
+    "translation": "sang trái, bên trái",
+    "exampleSentence": "Turn left at the corner.",
+    "exampleTranslation": "Hãy rẽ trái ở góc đường.",
+    "pos": "adverb"
+  },
+  {
+    "word": "right",
+    "phonetic": "/raɪt/",
+    "definition": "towards the right side",
+    "translation": "sang phải, bên phải",
+    "exampleSentence": "Turn right at the crossroads.",
+    "exampleTranslation": "Hãy rẽ phải ở ngã tư.",
+    "pos": "adverb"
+  },
+  {
+    "word": "far",
+    "phonetic": "/fɑːr/",
+    "definition": "a long distance away",
+    "translation": "xa",
+    "exampleSentence": "Is the station far from here?",
+    "exampleTranslation": "Nhà ga có xa đây không?",
+    "pos": "adverb"
+  },
+  {
+    "word": "near",
+    "phonetic": "/nɪr/",
+    "definition": "only a short distance from a person or thing",
+    "translation": "gần",
+    "exampleSentence": "We live near the station.",
+    "exampleTranslation": "Chúng tôi sống gần nhà ga.",
+    "pos": "adverb"
+  },
+  {
+    "word": "crowded",
+    "phonetic": "/ˈkraʊdɪd/",
+    "definition": "too full of people",
+    "translation": "đông đúc, đông người",
+    "exampleSentence": "The bus was very crowded this morning.",
+    "exampleTranslation": "Sáng nay xe buýt rất đông người.",
+    "pos": "adjective"
+  }
+]

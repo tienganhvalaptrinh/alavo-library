@@ -1,0 +1,191 @@
+[
+  {
+    "word": "go to the doctor",
+    "phonetic": "/ˌɡoʊ tə ðə ˈdɑːktər/",
+    "definition": "to visit a doctor",
+    "translation": "đi bác sĩ",
+    "exampleSentence": "I'm going to the doctor tomorrow.",
+    "exampleTranslation": "Ngày mai tôi đi bác sĩ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "go to the dentist",
+    "phonetic": "/ˌɡoʊ tə ðə ˈdentɪst/",
+    "definition": "to visit a dentist",
+    "translation": "đi nha sĩ",
+    "exampleSentence": "I go to the dentist twice a year.",
+    "exampleTranslation": "Một năm tôi đi nha sĩ hai lần.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "go to hospital",
+    "phonetic": "/ˌɡoʊ tə ˈhɑːspɪtl/",
+    "definition": "to go to a place where sick people are treated",
+    "translation": "đi bệnh viện",
+    "exampleSentence": "He had to go to hospital.",
+    "exampleTranslation": "Bạn ấy phải đi bệnh viện.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "check your blood pressure",
+    "phonetic": "/ˌtʃek jər ˈblʌd ˌpreʃər/",
+    "definition": "to measure the force of blood in your body",
+    "translation": "đo huyết áp",
+    "exampleSentence": "The nurse checked my blood pressure.",
+    "exampleTranslation": "Y tá đo huyết áp cho tôi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "get a prescription",
+    "phonetic": "/ˌɡet ə prɪˈskrɪpʃn/",
+    "definition": "to get a paper from a doctor for medicine",
+    "translation": "lấy toa thuốc",
+    "exampleSentence": "I got a prescription for my cough.",
+    "exampleTranslation": "Tôi lấy toa thuốc để chữa ho.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "have an injection",
+    "phonetic": "/hæv ən ɪnˈdʒekʃn/",
+    "definition": "to have medicine put into your body with a needle",
+    "translation": "tiêm thuốc",
+    "exampleSentence": "She had an injection in her arm.",
+    "exampleTranslation": "Cô ấy tiêm một mũi ở cánh tay.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "get vaccinated",
+    "phonetic": "/ˌɡet ˈvæksɪneɪtɪd/",
+    "definition": "to have an injection to protect you from a disease",
+    "translation": "tiêm vắc-xin",
+    "exampleSentence": "We all got vaccinated this winter.",
+    "exampleTranslation": "Mùa đông này tất cả chúng tôi đều tiêm vắc-xin.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "have a check-up",
+    "phonetic": "/hæv ə ˈtʃek ʌp/",
+    "definition": "to have a doctor look at your health",
+    "translation": "đi khám sức khỏe",
+    "exampleSentence": "I have a check-up every year.",
+    "exampleTranslation": "Năm nào tôi cũng đi khám sức khỏe.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "have an operation",
+    "phonetic": "/hæv ən ˌɑːpəˈreɪʃn/",
+    "definition": "to have a doctor cut your body to fix a problem",
+    "translation": "phẫu thuật",
+    "exampleSentence": "He had an operation on his knee.",
+    "exampleTranslation": "Bạn ấy phẫu thuật đầu gối.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "have a blood test",
+    "phonetic": "/hæv ə ˈblʌd ˌtest/",
+    "definition": "to have a sample of your blood checked",
+    "translation": "xét nghiệm máu",
+    "exampleSentence": "I have a blood test tomorrow morning.",
+    "exampleTranslation": "Sáng mai tôi xét nghiệm máu.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "feel ill",
+    "phonetic": "/ˌfiːl ˈɪl/",
+    "definition": "to feel sick",
+    "translation": "cảm thấy không khỏe",
+    "exampleSentence": "I feel ill today.",
+    "exampleTranslation": "Hôm nay tôi cảm thấy không khỏe.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "catch the flu",
+    "phonetic": "/ˌkætʃ ðə ˈfluː/",
+    "definition": "to become ill with the flu",
+    "translation": "bị cúm",
+    "exampleSentence": "Half of the class caught the flu.",
+    "exampleTranslation": "Một nửa lớp bị cúm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "have a stomach ache",
+    "phonetic": "/hæv ə ˈstʌmək ˌeɪk/",
+    "definition": "to have a pain in your stomach",
+    "translation": "bị đau bụng",
+    "exampleSentence": "She has a stomach ache.",
+    "exampleTranslation": "Em bé bị đau bụng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "lie down",
+    "phonetic": "/ˌlaɪ ˈdaʊn/",
+    "definition": "to put your body flat to rest",
+    "translation": "nằm xuống",
+    "exampleSentence": "You should lie down and rest.",
+    "exampleTranslation": "Bạn nên nằm xuống nghỉ ngơi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "stay in bed",
+    "phonetic": "/ˌsteɪ ɪn ˈbed/",
+    "definition": "to not get up from your bed",
+    "translation": "nằm nghỉ trên giường",
+    "exampleSentence": "The doctor told her to stay in bed.",
+    "exampleTranslation": "Bác sĩ bảo cô ấy nằm nghỉ trên giường.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "wear a mask",
+    "phonetic": "/ˌwer ə ˈmæsk/",
+    "definition": "to cover your nose and mouth with a mask",
+    "translation": "đeo khẩu trang",
+    "exampleSentence": "Please wear a mask in the hospital.",
+    "exampleTranslation": "Xin hãy đeo khẩu trang trong bệnh viện.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "cover your mouth",
+    "phonetic": "/ˌkʌvər jər ˈmaʊθ/",
+    "definition": "to put your hand over your mouth",
+    "translation": "che miệng",
+    "exampleSentence": "Cover your mouth when you cough.",
+    "exampleTranslation": "Hãy che miệng khi ho.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "call an ambulance",
+    "phonetic": "/ˌkɔːl ən ˈæmbjələns/",
+    "definition": "to phone for a vehicle that takes sick people to hospital",
+    "translation": "gọi xe cứu thương",
+    "exampleSentence": "Call an ambulance quickly!",
+    "exampleTranslation": "Mau gọi xe cứu thương!",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "put on a plaster",
+    "phonetic": "/ˌpʊt ɑːn ə ˈplæstər/",
+    "definition": "to cover a small cut with a plaster",
+    "translation": "dán băng cá nhân",
+    "exampleSentence": "I put on a plaster to cover the cut.",
+    "exampleTranslation": "Tôi dán băng cá nhân lên vết cắt.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "bandage a cut",
+    "phonetic": "/ˌbændɪdʒ ə ˈkʌt/",
+    "definition": "to wrap a cut with a long piece of cloth",
+    "translation": "băng vết cắt",
+    "exampleSentence": "The nurse bandaged the cut.",
+    "exampleTranslation": "Y tá băng vết cắt lại.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "follow the doctor's advice",
+    "phonetic": "/ˌfɑːloʊ ðə ˌdɑːktərz ədˈvaɪs/",
+    "definition": "to do what the doctor tells you to do",
+    "translation": "làm theo lời bác sĩ",
+    "exampleSentence": "Follow the doctor's advice and rest.",
+    "exampleTranslation": "Hãy làm theo lời bác sĩ và nghỉ ngơi.",
+    "pos": "verb phrase"
+  }
+]

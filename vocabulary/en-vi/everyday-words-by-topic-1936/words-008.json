@@ -1,0 +1,533 @@
+[
+  {
+    "word": "fruit",
+    "phonetic": "/fruːt/",
+    "definition": "something that grows on a plant or tree, can be eaten, and is usually sweet",
+    "translation": "trái cây, hoa quả",
+    "exampleSentence": "I eat fresh fruit every day.",
+    "exampleTranslation": "Ngày nào tôi cũng ăn trái cây tươi.",
+    "pos": "noun"
+  },
+  {
+    "word": "apple",
+    "phonetic": "/ˈæpəl/",
+    "definition": "a hard round fruit with red, green, or yellow skin",
+    "translation": "táo",
+    "exampleSentence": "I eat an apple every morning.",
+    "exampleTranslation": "Sáng nào tôi cũng ăn một quả táo.",
+    "pos": "noun"
+  },
+  {
+    "word": "banana",
+    "phonetic": "/bəˈnænə/",
+    "definition": "a long curved fruit with a yellow skin",
+    "translation": "chuối",
+    "exampleSentence": "This banana is very sweet.",
+    "exampleTranslation": "Quả chuối này rất ngọt.",
+    "pos": "noun"
+  },
+  {
+    "word": "orange",
+    "phonetic": "/ˈɔːrəndʒ/",
+    "definition": "a round fruit with a thick orange skin, divided into parts inside",
+    "translation": "cam",
+    "exampleSentence": "Peel the orange and eat it.",
+    "exampleTranslation": "Hãy bóc vỏ quả cam rồi ăn nhé.",
+    "pos": "noun"
+  },
+  {
+    "word": "lemon",
+    "phonetic": "/ˈlemən/",
+    "definition": "a fruit with a hard yellow skin and sour juice",
+    "translation": "chanh vàng, chanh tây",
+    "exampleSentence": "Add a slice of lemon to your tea.",
+    "exampleTranslation": "Hãy cho một lát chanh vào trà của bạn.",
+    "pos": "noun"
+  },
+  {
+    "word": "lime",
+    "phonetic": "/laɪm/",
+    "definition": "a small juicy green fruit with a sour taste",
+    "translation": "chanh xanh, chanh ta",
+    "exampleSentence": "Squeeze some lime onto the fish.",
+    "exampleTranslation": "Hãy vắt một ít chanh lên miếng cá.",
+    "pos": "noun"
+  },
+  {
+    "word": "grapefruit",
+    "phonetic": "/ˈɡreɪpfruːt/",
+    "definition": "a round yellow citrus fruit with thick skin, like a large orange",
+    "translation": "bưởi chùm, bưởi",
+    "exampleSentence": "Grapefruit has a slightly bitter taste.",
+    "exampleTranslation": "Bưởi chùm có vị hơi đắng.",
+    "pos": "noun"
+  },
+  {
+    "word": "tangerine",
+    "phonetic": "/ˌtændʒəˈriːn/",
+    "definition": "a small sweet fruit like an orange, with skin that comes off easily",
+    "translation": "quýt",
+    "exampleSentence": "The tangerine was easy to peel.",
+    "exampleTranslation": "Quả quýt này rất dễ bóc vỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "mandarin",
+    "phonetic": "/ˈmændərɪn/",
+    "definition": "a small orange with skin that is easy to remove",
+    "translation": "quýt, cam quýt",
+    "exampleSentence": "Our teacher gave each child a mandarin.",
+    "exampleTranslation": "Giáo viên của chúng tôi cho mỗi đứa trẻ một quả quýt.",
+    "pos": "noun"
+  },
+  {
+    "word": "grape",
+    "phonetic": "/ɡreɪp/",
+    "definition": "a small round green or purple fruit that grows in bunches",
+    "translation": "nho",
+    "exampleSentence": "I bought a bag of red grapes.",
+    "exampleTranslation": "Tôi đã mua một túi nho đỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "raisin",
+    "phonetic": "/ˈreɪzən/",
+    "definition": "a dried grape",
+    "translation": "nho khô",
+    "exampleSentence": "I put raisins in my oatmeal.",
+    "exampleTranslation": "Tôi cho nho khô vào món yến mạch của mình.",
+    "pos": "noun"
+  },
+  {
+    "word": "strawberry",
+    "phonetic": "/ˈstrɔːberi/",
+    "definition": "a soft red juicy fruit with small seeds on its surface",
+    "translation": "dâu tây",
+    "exampleSentence": "We picked strawberries at the farm.",
+    "exampleTranslation": "Chúng tôi đã hái dâu tây ở nông trại.",
+    "pos": "noun"
+  },
+  {
+    "word": "blueberry",
+    "phonetic": "/ˈbluːberi/",
+    "definition": "a small blue fruit that grows on a bush",
+    "translation": "việt quất",
+    "exampleSentence": "I like blueberry jam on toast.",
+    "exampleTranslation": "Tôi thích mứt việt quất phết lên bánh mì nướng.",
+    "pos": "noun"
+  },
+  {
+    "word": "raspberry",
+    "phonetic": "/ˈræzberi/",
+    "definition": "a soft sweet red berry that grows on a bush",
+    "translation": "mâm xôi",
+    "exampleSentence": "We made a bowl of fresh raspberries.",
+    "exampleTranslation": "Chúng tôi đã làm một bát mâm xôi tươi.",
+    "pos": "noun"
+  },
+  {
+    "word": "blackberry",
+    "phonetic": "/ˈblækberi/",
+    "definition": "a small black or purple berry that grows on a bush with thorns",
+    "translation": "mâm xôi đen, dâu đen",
+    "exampleSentence": "We found blackberries along the path.",
+    "exampleTranslation": "Chúng tôi tìm thấy dâu đen ven đường mòn.",
+    "pos": "noun"
+  },
+  {
+    "word": "cranberry",
+    "phonetic": "/ˈkrænberi/",
+    "definition": "a small red sour fruit",
+    "translation": "nam việt quất",
+    "exampleSentence": "Cranberry juice is a bit sour.",
+    "exampleTranslation": "Nước ép nam việt quất hơi chua.",
+    "pos": "noun"
+  },
+  {
+    "word": "berry",
+    "phonetic": "/ˈberi/",
+    "definition": "a small soft fruit with small seeds",
+    "translation": "quả mọng",
+    "exampleSentence": "Birds love to eat these red berries.",
+    "exampleTranslation": "Chim rất thích ăn những quả mọng đỏ này.",
+    "pos": "noun"
+  },
+  {
+    "word": "cherry",
+    "phonetic": "/ˈtʃeri/",
+    "definition": "a small round red or black fruit with a stone inside",
+    "translation": "anh đào, cherry",
+    "exampleSentence": "I put a cherry on top of the cake.",
+    "exampleTranslation": "Tôi đặt một quả cherry lên trên chiếc bánh.",
+    "pos": "noun"
+  },
+  {
+    "word": "peach",
+    "phonetic": "/piːtʃ/",
+    "definition": "a round juicy fruit with soft yellow or red skin and a large seed",
+    "translation": "đào",
+    "exampleSentence": "This peach is soft and juicy.",
+    "exampleTranslation": "Quả đào này mềm và mọng nước.",
+    "pos": "noun"
+  },
+  {
+    "word": "nectarine",
+    "phonetic": "/ˌnektəˈriːn/",
+    "definition": "a fruit like a peach that has a smooth skin",
+    "translation": "đào trơn",
+    "exampleSentence": "A nectarine has smooth skin, not fuzzy skin.",
+    "exampleTranslation": "Quả đào trơn có vỏ nhẵn, không có lông tơ.",
+    "pos": "noun"
+  },
+  {
+    "word": "plum",
+    "phonetic": "/plʌm/",
+    "definition": "a small round juicy fruit that is dark red, purple, or yellow",
+    "translation": "mận",
+    "exampleSentence": "I ate a ripe plum for lunch.",
+    "exampleTranslation": "Tôi đã ăn một quả mận chín vào bữa trưa.",
+    "pos": "noun"
+  },
+  {
+    "word": "apricot",
+    "phonetic": "/ˈæprəkɑːt/",
+    "definition": "a small round orange or yellow fruit with a single large seed",
+    "translation": "mơ",
+    "exampleSentence": "I put an apricot in my bag.",
+    "exampleTranslation": "Tôi bỏ một quả mơ vào túi.",
+    "pos": "noun"
+  },
+  {
+    "word": "pear",
+    "phonetic": "/per/",
+    "definition": "a sweet juicy fruit that is round at the bottom and thinner at the top",
+    "translation": "lê",
+    "exampleSentence": "This pear is hard, not ripe yet.",
+    "exampleTranslation": "Quả lê này còn cứng, chưa chín.",
+    "pos": "noun"
+  },
+  {
+    "word": "fig",
+    "phonetic": "/fɪɡ/",
+    "definition": "a soft sweet fruit with many small seeds, often eaten dried",
+    "translation": "quả sung, sung",
+    "exampleSentence": "I like to eat dried figs with cheese.",
+    "exampleTranslation": "Tôi thích ăn sung khô với phô mai.",
+    "pos": "noun"
+  },
+  {
+    "word": "date",
+    "phonetic": "/deɪt/",
+    "definition": "a sweet sticky brown fruit with a long hard seed inside",
+    "translation": "quả chà là, chà là",
+    "exampleSentence": "Dates are very sweet and sticky.",
+    "exampleTranslation": "Chà là rất ngọt và dẻo.",
+    "pos": "noun"
+  },
+  {
+    "word": "persimmon",
+    "phonetic": "/pərˈsɪmən/",
+    "definition": "a soft orange-coloured fruit that grows in hot countries",
+    "translation": "hồng",
+    "exampleSentence": "A ripe persimmon is soft and sweet.",
+    "exampleTranslation": "Quả hồng chín thì mềm và ngọt.",
+    "pos": "noun"
+  },
+  {
+    "word": "pomegranate",
+    "phonetic": "/ˈpɑːməɡrænət/",
+    "definition": "a round fruit with a thick reddish skin and many small juicy red seeds",
+    "translation": "lựu",
+    "exampleSentence": "The pomegranate is full of red seeds.",
+    "exampleTranslation": "Quả lựu đầy hạt đỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "pineapple",
+    "phonetic": "/ˈpaɪnæpəl/",
+    "definition": "a large tropical fruit with a rough skin and sweet yellow flesh",
+    "translation": "dứa, thơm, khóm",
+    "exampleSentence": "We had fresh pineapple for dessert.",
+    "exampleTranslation": "Chúng tôi ăn dứa tươi để tráng miệng.",
+    "pos": "noun"
+  },
+  {
+    "word": "watermelon",
+    "phonetic": "/ˈwɔːtərˌmelən/",
+    "definition": "a large round fruit with green skin, red flesh, and black seeds",
+    "translation": "dưa hấu",
+    "exampleSentence": "Watermelon is great on a hot day.",
+    "exampleTranslation": "Dưa hấu rất tuyệt vào một ngày nóng.",
+    "pos": "noun"
+  },
+  {
+    "word": "melon",
+    "phonetic": "/ˈmelən/",
+    "definition": "a large round fruit with sweet juicy flesh",
+    "translation": "dưa",
+    "exampleSentence": "I cut the melon into slices.",
+    "exampleTranslation": "Tôi cắt quả dưa thành từng lát.",
+    "pos": "noun"
+  },
+  {
+    "word": "mango",
+    "phonetic": "/ˈmæŋɡoʊ/",
+    "definition": "a tropical fruit with thin skin and sweet yellow flesh",
+    "translation": "xoài",
+    "exampleSentence": "This mango is sweet and juicy.",
+    "exampleTranslation": "Quả xoài này ngọt và mọng nước.",
+    "pos": "noun"
+  },
+  {
+    "word": "papaya",
+    "phonetic": "/pəˈpaɪə/",
+    "definition": "a large yellow-green fruit of a tropical tree",
+    "translation": "đu đủ",
+    "exampleSentence": "We had papaya for breakfast.",
+    "exampleTranslation": "Chúng tôi ăn đu đủ vào bữa sáng.",
+    "pos": "noun"
+  },
+  {
+    "word": "coconut",
+    "phonetic": "/ˈkoʊkənʌt/",
+    "definition": "a large brown seed of a tropical tree, with white flesh and milky liquid inside",
+    "translation": "dừa",
+    "exampleSentence": "You can drink the water inside a coconut.",
+    "exampleTranslation": "Bạn có thể uống nước bên trong quả dừa.",
+    "pos": "noun"
+  },
+  {
+    "word": "avocado",
+    "phonetic": "/ˌævəˈkɑːdoʊ/",
+    "definition": "a fruit with thick green skin, green flesh, and a large seed",
+    "translation": "bơ",
+    "exampleSentence": "I put avocado on my toast.",
+    "exampleTranslation": "Tôi phết bơ lên bánh mì nướng.",
+    "pos": "noun"
+  },
+  {
+    "word": "kiwi fruit",
+    "phonetic": "/ˈkiːwiː ˌfruːt/",
+    "definition": "a small sweet fruit with brown skin that is green inside",
+    "translation": "kiwi, quả kiwi",
+    "exampleSentence": "A kiwi fruit has small black seeds inside.",
+    "exampleTranslation": "Quả kiwi có những hạt đen nhỏ bên trong.",
+    "pos": "noun"
+  },
+  {
+    "word": "guava",
+    "phonetic": "/ˈɡwɑːvə/",
+    "definition": "a tropical fruit with pink flesh and many seeds",
+    "translation": "ổi",
+    "exampleSentence": "Guava is a popular fruit in Vietnam.",
+    "exampleTranslation": "Ổi là một loại trái cây phổ biến ở Việt Nam.",
+    "pos": "noun"
+  },
+  {
+    "word": "lychee",
+    "phonetic": "/ˈlaɪtʃi/",
+    "definition": "a small round fruit with a rough pink-brown shell and sweet white flesh",
+    "translation": "vải",
+    "exampleSentence": "Lychees are in season in summer.",
+    "exampleTranslation": "Mùa hè là mùa của vải.",
+    "pos": "noun"
+  },
+  {
+    "word": "passion fruit",
+    "phonetic": "/ˈpæʃən ˌfruːt/",
+    "definition": "a small fruit with brown skin and many seeds",
+    "translation": "chanh dây, chanh leo",
+    "exampleSentence": "I love passion fruit juice.",
+    "exampleTranslation": "Tôi rất thích nước chanh dây.",
+    "pos": "noun"
+  },
+  {
+    "word": "starfruit",
+    "phonetic": "/ˈstɑːrfruːt/",
+    "definition": "a pale green tropical fruit that has the shape of a star when cut",
+    "translation": "khế",
+    "exampleSentence": "Starfruit is sour but fresh.",
+    "exampleTranslation": "Khế có vị chua nhưng rất tươi mát.",
+    "pos": "noun"
+  },
+  {
+    "word": "dried fruit",
+    "phonetic": "/ˌdraɪd ˈfruːt/",
+    "definition": "fruit that has been dried, often used in cooking",
+    "translation": "trái cây sấy, trái cây khô, hoa quả sấy",
+    "exampleSentence": "I add dried fruit to my cereal.",
+    "exampleTranslation": "Tôi cho trái cây sấy vào ngũ cốc của mình.",
+    "pos": "noun"
+  },
+  {
+    "word": "fruit salad",
+    "phonetic": "/ˈfruːt ˌsæləd/",
+    "definition": "a dish of different kinds of fruit cut into small pieces",
+    "translation": "salad trái cây, hoa quả dầm",
+    "exampleSentence": "We had fruit salad for dessert.",
+    "exampleTranslation": "Chúng tôi ăn salad trái cây để tráng miệng.",
+    "pos": "noun"
+  },
+  {
+    "word": "tropical",
+    "phonetic": "/ˈtrɑːpɪkəl/",
+    "definition": "coming from the hottest parts of the world",
+    "translation": "nhiệt đới",
+    "exampleSentence": "Mango is a tropical fruit.",
+    "exampleTranslation": "Xoài là một loại trái cây nhiệt đới.",
+    "pos": "adjective"
+  },
+  {
+    "word": "ripen",
+    "phonetic": "/ˈraɪpən/",
+    "definition": "to become ripe",
+    "translation": "chín, chín dần",
+    "exampleSentence": "The mangoes ripen in the summer.",
+    "exampleTranslation": "Xoài chín vào mùa hè.",
+    "pos": "verb"
+  },
+  {
+    "word": "rotten",
+    "phonetic": "/ˈrɑːtn/",
+    "definition": "badly decayed and no longer good to eat",
+    "translation": "thối, hỏng",
+    "exampleSentence": "Throw away the rotten apple.",
+    "exampleTranslation": "Hãy vứt quả táo thối đi.",
+    "pos": "adjective"
+  },
+  {
+    "word": "sweet",
+    "phonetic": "/swiːt/",
+    "definition": "having a taste like sugar",
+    "translation": "ngọt",
+    "exampleSentence": "These strawberries are very sweet.",
+    "exampleTranslation": "Những quả dâu tây này rất ngọt.",
+    "pos": "adjective"
+  },
+  {
+    "word": "sour",
+    "phonetic": "/saʊr/",
+    "definition": "having a sharp taste like a lemon",
+    "translation": "chua",
+    "exampleSentence": "This plum is too sour for me.",
+    "exampleTranslation": "Quả mận này quá chua đối với tôi.",
+    "pos": "adjective"
+  },
+  {
+    "word": "bitter",
+    "phonetic": "/ˈbɪtər/",
+    "definition": "having a strong sharp taste, like black coffee without sugar",
+    "translation": "đắng",
+    "exampleSentence": "The skin of a grapefruit tastes bitter.",
+    "exampleTranslation": "Vỏ bưởi chùm có vị đắng.",
+    "pos": "adjective"
+  },
+  {
+    "word": "juicy",
+    "phonetic": "/ˈdʒuːsi/",
+    "definition": "containing a lot of juice",
+    "translation": "mọng nước, nhiều nước",
+    "exampleSentence": "The peaches are soft and juicy.",
+    "exampleTranslation": "Những quả đào mềm và mọng nước.",
+    "pos": "adjective"
+  },
+  {
+    "word": "juice",
+    "phonetic": "/dʒuːs/",
+    "definition": "the liquid from fruit, or a drink made from it",
+    "translation": "nước ép, nước trái cây",
+    "exampleSentence": "I would like a glass of orange juice.",
+    "exampleTranslation": "Tôi muốn một ly nước cam ép.",
+    "pos": "noun"
+  },
+  {
+    "word": "skin",
+    "phonetic": "/skɪn/",
+    "definition": "the natural outer cover of some fruits and vegetables",
+    "translation": "vỏ",
+    "exampleSentence": "The skin of a banana is yellow.",
+    "exampleTranslation": "Vỏ chuối có màu vàng.",
+    "pos": "noun"
+  },
+  {
+    "word": "peel",
+    "phonetic": "/piːl/",
+    "definition": "the thick skin of fruits such as oranges, which you do not eat",
+    "translation": "vỏ (dày, không ăn)",
+    "exampleSentence": "Do not throw the orange peel on the floor.",
+    "exampleTranslation": "Đừng vứt vỏ cam xuống sàn.",
+    "pos": "noun"
+  },
+  {
+    "word": "core",
+    "phonetic": "/kɔːr/",
+    "definition": "the hard central part of a fruit such as an apple",
+    "translation": "lõi",
+    "exampleSentence": "Cut out the core of the apple.",
+    "exampleTranslation": "Hãy cắt bỏ phần lõi của quả táo.",
+    "pos": "noun"
+  },
+  {
+    "word": "pip",
+    "phonetic": "/pɪp/",
+    "definition": "a small seed from a fruit such as an apple or orange",
+    "translation": "hạt (nhỏ)",
+    "exampleSentence": "Do these oranges have pips in them?",
+    "exampleTranslation": "Những quả cam này có hạt không?",
+    "pos": "noun"
+  },
+  {
+    "word": "stone",
+    "phonetic": "/stoʊn/",
+    "definition": "the large hard part in the centre of fruit such as a peach or cherry",
+    "translation": "hạt (to, cứng), hột",
+    "exampleSentence": "Be careful, the cherry has a stone.",
+    "exampleTranslation": "Cẩn thận nhé, quả anh đào có hạt cứng.",
+    "pos": "noun"
+  },
+  {
+    "word": "slice",
+    "phonetic": "/slaɪs/",
+    "definition": "a thin flat piece of food cut from a larger piece",
+    "translation": "lát",
+    "exampleSentence": "I ate a slice of watermelon.",
+    "exampleTranslation": "Tôi đã ăn một lát dưa hấu.",
+    "pos": "noun"
+  },
+  {
+    "word": "squeeze",
+    "phonetic": "/skwiːz/",
+    "definition": "to get liquid from something by pressing it",
+    "translation": "vắt",
+    "exampleSentence": "Squeeze the lemon into the water.",
+    "exampleTranslation": "Hãy vắt quả chanh vào nước.",
+    "pos": "verb"
+  },
+  {
+    "word": "pick",
+    "phonetic": "/pɪk/",
+    "definition": "to take a fruit or flower from a plant or tree",
+    "translation": "hái",
+    "exampleSentence": "We picked apples in the orchard.",
+    "exampleTranslation": "Chúng tôi đã hái táo trong vườn cây ăn quả.",
+    "pos": "verb"
+  },
+  {
+    "word": "bunch",
+    "phonetic": "/bʌntʃ/",
+    "definition": "a group of things growing or held together",
+    "translation": "chùm, nải",
+    "exampleSentence": "I bought a bunch of grapes.",
+    "exampleTranslation": "Tôi đã mua một chùm nho.",
+    "pos": "noun"
+  },
+  {
+    "word": "orchard",
+    "phonetic": "/ˈɔːrtʃərd/",
+    "definition": "a place where fruit trees are grown",
+    "translation": "vườn cây ăn quả, vườn cây ăn trái",
+    "exampleSentence": "There is a cherry orchard near our house.",
+    "exampleTranslation": "Gần nhà chúng tôi có một vườn anh đào.",
+    "pos": "noun"
+  }
+]

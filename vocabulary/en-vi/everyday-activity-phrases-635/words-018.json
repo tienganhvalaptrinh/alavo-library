@@ -1,0 +1,164 @@
+[
+  {
+    "word": "make a call",
+    "phonetic": "/ˌmeɪk ə ˈkɔːl/",
+    "definition": "to phone someone",
+    "translation": "gọi điện",
+    "exampleSentence": "I made a call to my mother.",
+    "exampleTranslation": "Tôi đã gọi điện cho mẹ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "take a call",
+    "phonetic": "/ˌteɪk ə ˈkɔːl/",
+    "definition": "to answer a phone call",
+    "translation": "nghe điện thoại",
+    "exampleSentence": "Sorry, I have to take a call.",
+    "exampleTranslation": "Xin lỗi, tôi phải nghe một cuộc gọi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pick up the phone",
+    "phonetic": "/ˌpɪk ˌʌp ðə ˈfoʊn/",
+    "definition": "to lift the phone to answer it",
+    "translation": "nhấc máy",
+    "exampleSentence": "She picked up the phone at once.",
+    "exampleTranslation": "Cô ấy nhấc máy ngay.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "call back",
+    "phonetic": "/ˌkɔːl ˈbæk/",
+    "definition": "to phone someone again",
+    "translation": "gọi lại",
+    "exampleSentence": "I'll call you back in ten minutes.",
+    "exampleTranslation": "Mười phút nữa tôi sẽ gọi lại cho bạn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "take a message",
+    "phonetic": "/ˌteɪk ə ˈmesɪdʒ/",
+    "definition": "to write down what someone says for another person",
+    "translation": "nhận lời nhắn",
+    "exampleSentence": "I can take a message for her.",
+    "exampleTranslation": "Tôi có thể nhận lời nhắn giúp cô ấy.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "check your voicemail",
+    "phonetic": "/ˌtʃek jər ˈvɔɪsmeɪl/",
+    "definition": "to listen to the messages left on your phone",
+    "translation": "nghe hộp thư thoại",
+    "exampleSentence": "I need to check my voicemail.",
+    "exampleTranslation": "Tôi cần nghe hộp thư thoại.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "put someone on hold",
+    "phonetic": "/ˌpʊt ˈsʌmwʌn ɑːn ˈhoʊld/",
+    "definition": "to ask a caller to wait on the phone",
+    "translation": "cho ai chờ máy",
+    "exampleSentence": "She put me on hold for five minutes.",
+    "exampleTranslation": "Cô ấy để tôi chờ máy năm phút.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "dial a number",
+    "phonetic": "/ˌdaɪəl ə ˈnʌmbər/",
+    "definition": "to press the numbers of a phone number",
+    "translation": "bấm số điện thoại",
+    "exampleSentence": "I dialled the number twice.",
+    "exampleTranslation": "Tôi bấm số hai lần.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "be on the phone",
+    "phonetic": "/bi ˌɑːn ðə ˈfoʊn/",
+    "definition": "to be speaking to someone by phone",
+    "translation": "đang nghe điện thoại",
+    "exampleSentence": "She is on the phone right now.",
+    "exampleTranslation": "Cô ấy đang nghe điện thoại.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "send a text message",
+    "phonetic": "/ˌsend ə ˈtekst ˌmesɪdʒ/",
+    "definition": "to send a short written message from your phone",
+    "translation": "nhắn tin",
+    "exampleSentence": "I sent her a text message.",
+    "exampleTranslation": "Tôi nhắn tin cho cô ấy.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "text someone",
+    "phonetic": "/ˈtekst ˌsʌmwʌn/",
+    "definition": "to send someone a text message",
+    "translation": "nhắn tin cho ai",
+    "exampleSentence": "I'll text you when I arrive.",
+    "exampleTranslation": "Đến nơi tôi sẽ nhắn tin cho bạn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "reply to a message",
+    "phonetic": "/rɪˌplaɪ tu ə ˈmesɪdʒ/",
+    "definition": "to write back to a message",
+    "translation": "trả lời tin nhắn",
+    "exampleSentence": "I forgot to reply to your message.",
+    "exampleTranslation": "Tôi quên trả lời tin nhắn của bạn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "join a meeting",
+    "phonetic": "/ˌdʒɔɪn ə ˈmiːtɪŋ/",
+    "definition": "to enter an online meeting",
+    "translation": "tham gia cuộc họp",
+    "exampleSentence": "Click the link to join the meeting.",
+    "exampleTranslation": "Bấm vào đường dẫn để tham gia cuộc họp.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "start a meeting",
+    "phonetic": "/ˌstɑːrt ə ˈmiːtɪŋ/",
+    "definition": "to begin a meeting",
+    "translation": "bắt đầu cuộc họp",
+    "exampleSentence": "Let's start the meeting.",
+    "exampleTranslation": "Mình bắt đầu cuộc họp nhé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "end the meeting",
+    "phonetic": "/ˌend ðə ˈmiːtɪŋ/",
+    "definition": "to finish a meeting",
+    "translation": "kết thúc cuộc họp",
+    "exampleSentence": "We ended the meeting at noon.",
+    "exampleTranslation": "Chúng tôi kết thúc cuộc họp lúc trưa.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "mute the microphone",
+    "phonetic": "/ˌmjuːt ðə ˈmaɪkrəfoʊn/",
+    "definition": "to turn off the sound from your microphone",
+    "translation": "tắt micro",
+    "exampleSentence": "Please mute the microphone when you are not speaking.",
+    "exampleTranslation": "Khi không nói, xin hãy tắt micro.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "turn on the camera",
+    "phonetic": "/ˌtɜːrn ˌɑːn ðə ˈkæmrə/",
+    "definition": "to start the camera so others can see you",
+    "translation": "bật camera",
+    "exampleSentence": "Can you turn on the camera?",
+    "exampleTranslation": "Bạn bật camera lên được không?",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "share your screen",
+    "phonetic": "/ˌʃer jər ˈskriːn/",
+    "definition": "to let others see what is on your computer screen",
+    "translation": "chia sẻ màn hình",
+    "exampleSentence": "Can you share your screen?",
+    "exampleTranslation": "Bạn chia sẻ màn hình được không?",
+    "pos": "verb phrase"
+  }
+]

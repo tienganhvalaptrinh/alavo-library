@@ -1,0 +1,704 @@
+[
+  {
+    "word": "living room",
+    "phonetic": "/ˈlɪvɪŋ ruːm/",
+    "definition": "the main room in a house where people relax and watch television",
+    "translation": "phòng khách",
+    "exampleSentence": "We watch TV in the living room.",
+    "exampleTranslation": "Chúng tôi xem ti vi trong phòng khách.",
+    "pos": "noun"
+  },
+  {
+    "word": "dining room",
+    "phonetic": "/ˈdaɪnɪŋ ruːm/",
+    "definition": "a room in a house or hotel where you eat meals",
+    "translation": "phòng ăn",
+    "exampleSentence": "The dining room has a big table.",
+    "exampleTranslation": "Phòng ăn có một cái bàn lớn.",
+    "pos": "noun"
+  },
+  {
+    "word": "bedroom",
+    "phonetic": "/ˈbedruːm/",
+    "definition": "a room for sleeping in",
+    "translation": "phòng ngủ",
+    "exampleSentence": "My bedroom is on the second floor.",
+    "exampleTranslation": "Phòng ngủ của tôi ở tầng hai.",
+    "pos": "noun"
+  },
+  {
+    "word": "guest room",
+    "phonetic": "/ˈɡest ruːm/",
+    "definition": "a bedroom for visitors to use",
+    "translation": "phòng dành cho khách",
+    "exampleSentence": "You can sleep in the guest room.",
+    "exampleTranslation": "Bạn có thể ngủ ở phòng dành cho khách.",
+    "pos": "noun"
+  },
+  {
+    "word": "room",
+    "phonetic": "/ruːm/",
+    "definition": "a part of a building with its own walls, floor and ceiling",
+    "translation": "phòng, căn phòng",
+    "exampleSentence": "This room is very small.",
+    "exampleTranslation": "Căn phòng này rất nhỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "hall",
+    "phonetic": "/hɔːl/",
+    "definition": "the area just inside the front door of a house",
+    "translation": "sảnh, hành lang",
+    "exampleSentence": "We hung our coats in the hall.",
+    "exampleTranslation": "Chúng tôi treo áo khoác ở sảnh.",
+    "pos": "noun"
+  },
+  {
+    "word": "corridor",
+    "phonetic": "/ˈkɔːrədər/",
+    "definition": "a long narrow passage in a building with doors along it",
+    "translation": "hành lang",
+    "exampleSentence": "The classrooms are along the corridor.",
+    "exampleTranslation": "Các lớp học nằm dọc theo hành lang.",
+    "pos": "noun"
+  },
+  {
+    "word": "garage",
+    "phonetic": "/ɡəˈrɑːʒ/",
+    "definition": "a building for keeping a car in, usually next to a house",
+    "translation": "nhà để xe, ga-ra",
+    "exampleSentence": "I put the car in the garage.",
+    "exampleTranslation": "Tôi để xe ô tô vào nhà để xe.",
+    "pos": "noun"
+  },
+  {
+    "word": "attic",
+    "phonetic": "/ˈætɪk/",
+    "definition": "a space or room just below the roof of a house",
+    "translation": "gác mái",
+    "exampleSentence": "We keep old boxes in the attic.",
+    "exampleTranslation": "Chúng tôi để những cái hộp cũ trên gác mái.",
+    "pos": "noun"
+  },
+  {
+    "word": "basement",
+    "phonetic": "/ˈbeɪsmənt/",
+    "definition": "a room or area in a building below ground level",
+    "translation": "tầng hầm",
+    "exampleSentence": "The basement is cold and dark.",
+    "exampleTranslation": "Tầng hầm vừa lạnh vừa tối.",
+    "pos": "noun"
+  },
+  {
+    "word": "cellar",
+    "phonetic": "/ˈselər/",
+    "definition": "a room under a house, often used for storing things",
+    "translation": "hầm chứa đồ, hầm",
+    "exampleSentence": "We keep wine in the cellar.",
+    "exampleTranslation": "Chúng tôi cất rượu vang dưới hầm.",
+    "pos": "noun"
+  },
+  {
+    "word": "ground floor",
+    "phonetic": "/ˌɡraʊnd ˈflɔːr/",
+    "definition": "the floor of a building that is at ground level",
+    "translation": "tầng trệt, tầng một",
+    "exampleSentence": "The kitchen is on the ground floor.",
+    "exampleTranslation": "Nhà bếp ở tầng trệt.",
+    "pos": "noun"
+  },
+  {
+    "word": "floor",
+    "phonetic": "/flɔːr/",
+    "definition": "the flat surface that you stand on inside a building",
+    "translation": "sàn nhà, sàn",
+    "exampleSentence": "The cat is sleeping on the floor.",
+    "exampleTranslation": "Con mèo đang ngủ trên sàn nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "staircase",
+    "phonetic": "/ˈsterkeɪs/",
+    "definition": "a set of stairs inside a building",
+    "translation": "cầu thang",
+    "exampleSentence": "The staircase goes up to the bedrooms.",
+    "exampleTranslation": "Cầu thang dẫn lên các phòng ngủ.",
+    "pos": "noun"
+  },
+  {
+    "word": "stairs",
+    "phonetic": "/sterz/",
+    "definition": "a set of steps for going from one level of a building to another",
+    "translation": "cầu thang, bậc thang",
+    "exampleSentence": "I ran up the stairs.",
+    "exampleTranslation": "Tôi chạy lên cầu thang.",
+    "pos": "noun"
+  },
+  {
+    "word": "step",
+    "phonetic": "/step/",
+    "definition": "a flat piece of wood or stone you step on to go up or down",
+    "translation": "bậc thang, bậc thềm",
+    "exampleSentence": "I sat on the step in front of the house.",
+    "exampleTranslation": "Tôi ngồi trên bậc thềm trước nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "lift",
+    "phonetic": "/lɪft/",
+    "definition": "a machine that carries people up and down in a tall building",
+    "translation": "thang máy",
+    "exampleSentence": "We took the lift to the tenth floor.",
+    "exampleTranslation": "Chúng tôi đi thang máy lên tầng mười.",
+    "pos": "noun"
+  },
+  {
+    "word": "elevator",
+    "phonetic": "/ˈeləveɪtər/",
+    "definition": "a machine that takes people from one level of a building to another",
+    "translation": "thang máy",
+    "exampleSentence": "The elevator is broken again.",
+    "exampleTranslation": "Thang máy lại bị hỏng rồi.",
+    "pos": "noun"
+  },
+  {
+    "word": "upstairs",
+    "phonetic": "/ˌʌpˈsterz/",
+    "definition": "on or towards an upper floor of a building",
+    "translation": "trên lầu, ở tầng trên",
+    "exampleSentence": "I went upstairs and had a shower.",
+    "exampleTranslation": "Tôi lên lầu và đi tắm.",
+    "pos": "adverb"
+  },
+  {
+    "word": "downstairs",
+    "phonetic": "/ˌdaʊnˈsterz/",
+    "definition": "on or towards a lower floor of a building",
+    "translation": "dưới lầu, ở tầng dưới",
+    "exampleSentence": "Please come downstairs for dinner.",
+    "exampleTranslation": "Xuống tầng dưới ăn tối nhé.",
+    "pos": "adverb"
+  },
+  {
+    "word": "entrance",
+    "phonetic": "/ˈentrəns/",
+    "definition": "a door or gate that you go through to enter a place",
+    "translation": "lối vào, cổng vào",
+    "exampleSentence": "I will wait for you at the main entrance.",
+    "exampleTranslation": "Tôi sẽ đợi bạn ở lối vào chính.",
+    "pos": "noun"
+  },
+  {
+    "word": "door",
+    "phonetic": "/dɔːr/",
+    "definition": "the flat piece that you open to go into a room, building or car",
+    "translation": "cửa, cửa ra vào",
+    "exampleSentence": "Please close the door.",
+    "exampleTranslation": "Làm ơn đóng cửa lại.",
+    "pos": "noun"
+  },
+  {
+    "word": "window",
+    "phonetic": "/ˈwɪndoʊ/",
+    "definition": "an opening in a wall, filled with glass, that lets in light",
+    "translation": "cửa sổ",
+    "exampleSentence": "Can you open the window?",
+    "exampleTranslation": "Bạn mở cửa sổ giúp tôi được không?",
+    "pos": "noun"
+  },
+  {
+    "word": "wall",
+    "phonetic": "/wɔːl/",
+    "definition": "one of the sides of a room or building",
+    "translation": "tường, bức tường",
+    "exampleSentence": "There are pictures on the wall.",
+    "exampleTranslation": "Có mấy bức tranh trên tường.",
+    "pos": "noun"
+  },
+  {
+    "word": "ceiling",
+    "phonetic": "/ˈsiːlɪŋ/",
+    "definition": "the inner surface at the top of a room",
+    "translation": "trần nhà",
+    "exampleSentence": "The ceiling is very high.",
+    "exampleTranslation": "Trần nhà rất cao.",
+    "pos": "noun"
+  },
+  {
+    "word": "roof",
+    "phonetic": "/ruːf/",
+    "definition": "the structure that covers the top of a building",
+    "translation": "mái nhà",
+    "exampleSentence": "The cat is on the roof.",
+    "exampleTranslation": "Con mèo đang ở trên mái nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "chimney",
+    "phonetic": "/ˈtʃɪmni/",
+    "definition": "a pipe that lets smoke from a fire go out of a building",
+    "translation": "ống khói",
+    "exampleSentence": "Smoke is coming out of the chimney.",
+    "exampleTranslation": "Khói đang bốc ra từ ống khói.",
+    "pos": "noun"
+  },
+  {
+    "word": "fireplace",
+    "phonetic": "/ˈfaɪrpleɪs/",
+    "definition": "a place in the wall of a room where you can make a fire",
+    "translation": "lò sưởi",
+    "exampleSentence": "We sat by the fireplace.",
+    "exampleTranslation": "Chúng tôi ngồi cạnh lò sưởi.",
+    "pos": "noun"
+  },
+  {
+    "word": "doorbell",
+    "phonetic": "/ˈdɔːrbel/",
+    "definition": "a button by a door that makes a sound when you push it",
+    "translation": "chuông cửa",
+    "exampleSentence": "Someone is ringing the doorbell.",
+    "exampleTranslation": "Có người đang bấm chuông cửa.",
+    "pos": "noun"
+  },
+  {
+    "word": "doorknob",
+    "phonetic": "/ˈdɔːrnɑːb/",
+    "definition": "a round handle that you turn to open a door",
+    "translation": "tay nắm cửa, nắm đấm cửa",
+    "exampleSentence": "I turned the doorknob and went in.",
+    "exampleTranslation": "Tôi xoay tay nắm cửa rồi đi vào.",
+    "pos": "noun"
+  },
+  {
+    "word": "letterbox",
+    "phonetic": "/ˈletərbɑːks/",
+    "definition": "a hole in a door, or a box outside a house, where letters are delivered",
+    "translation": "hộp thư, khe nhận thư",
+    "exampleSentence": "There is a letter in the letterbox.",
+    "exampleTranslation": "Có một lá thư trong hộp thư.",
+    "pos": "noun"
+  },
+  {
+    "word": "curtain",
+    "phonetic": "/ˈkɜːrtn/",
+    "definition": "a piece of hanging cloth that you pull across a window",
+    "translation": "rèm cửa, màn cửa",
+    "exampleSentence": "Please close the curtains.",
+    "exampleTranslation": "Làm ơn kéo rèm lại.",
+    "pos": "noun"
+  },
+  {
+    "word": "blind",
+    "phonetic": "/blaɪnd/",
+    "definition": "a covering that you roll up and down to cover a window",
+    "translation": "rèm cuốn, mành",
+    "exampleSentence": "Pull down the blind, the sun is bright.",
+    "exampleTranslation": "Kéo rèm xuống đi, nắng chói quá.",
+    "pos": "noun"
+  },
+  {
+    "word": "shutter",
+    "phonetic": "/ˈʃʌtər/",
+    "definition": "a cover on the outside of a window that you close to keep out light",
+    "translation": "cửa chớp",
+    "exampleSentence": "We close the shutters at night.",
+    "exampleTranslation": "Ban đêm chúng tôi đóng cửa chớp lại.",
+    "pos": "noun"
+  },
+  {
+    "word": "wallpaper",
+    "phonetic": "/ˈwɔːlˌpeɪpər/",
+    "definition": "paper that you stick on the walls of a room to decorate it",
+    "translation": "giấy dán tường",
+    "exampleSentence": "The wallpaper in my room is blue.",
+    "exampleTranslation": "Giấy dán tường trong phòng tôi màu xanh.",
+    "pos": "noun"
+  },
+  {
+    "word": "tile",
+    "phonetic": "/taɪl/",
+    "definition": "a flat square piece of baked clay used to cover walls and floors",
+    "translation": "gạch ốp lát, gạch",
+    "exampleSentence": "The kitchen floor has white tiles.",
+    "exampleTranslation": "Sàn bếp lát gạch trắng.",
+    "pos": "noun"
+  },
+  {
+    "word": "radiator",
+    "phonetic": "/ˈreɪdieɪtər/",
+    "definition": "a metal container fixed to a wall that gives heat to a room",
+    "translation": "lò sưởi, bộ tản nhiệt",
+    "exampleSentence": "The radiator is on, so the room is warm.",
+    "exampleTranslation": "Lò sưởi đang bật nên căn phòng rất ấm.",
+    "pos": "noun"
+  },
+  {
+    "word": "air conditioning",
+    "phonetic": "/ˈer kənˌdɪʃənɪŋ/",
+    "definition": "a system that makes the air in a room cooler",
+    "translation": "điều hòa, máy lạnh",
+    "exampleSentence": "The room has air conditioning.",
+    "exampleTranslation": "Phòng này có điều hòa.",
+    "pos": "noun"
+  },
+  {
+    "word": "carpet",
+    "phonetic": "/ˈkɑːrpɪt/",
+    "definition": "heavy woven material for covering floors",
+    "translation": "thảm trải sàn, thảm",
+    "exampleSentence": "We have a green carpet in the living room.",
+    "exampleTranslation": "Phòng khách nhà chúng tôi trải thảm màu xanh lá.",
+    "pos": "noun"
+  },
+  {
+    "word": "rug",
+    "phonetic": "/rʌɡ/",
+    "definition": "a small piece of thick material that covers part of a floor",
+    "translation": "tấm thảm nhỏ, thảm",
+    "exampleSentence": "The dog is lying on the rug.",
+    "exampleTranslation": "Con chó đang nằm trên tấm thảm.",
+    "pos": "noun"
+  },
+  {
+    "word": "garden",
+    "phonetic": "/ˈɡɑːrdn/",
+    "definition": "an area of land next to a house with flowers, grass and plants",
+    "translation": "vườn, khu vườn",
+    "exampleSentence": "The children are playing in the garden.",
+    "exampleTranslation": "Bọn trẻ đang chơi trong vườn.",
+    "pos": "noun"
+  },
+  {
+    "word": "yard",
+    "phonetic": "/jɑːrd/",
+    "definition": "the area around a house, usually covered with grass",
+    "translation": "sân, sân sau",
+    "exampleSentence": "Our dog sleeps in the yard.",
+    "exampleTranslation": "Con chó nhà tôi ngủ ngoài sân.",
+    "pos": "noun"
+  },
+  {
+    "word": "lawn",
+    "phonetic": "/lɔːn/",
+    "definition": "an area of short grass in a garden or park",
+    "translation": "bãi cỏ, thảm cỏ",
+    "exampleSentence": "I mow the lawn every week.",
+    "exampleTranslation": "Tuần nào tôi cũng cắt cỏ ngoài vườn.",
+    "pos": "noun"
+  },
+  {
+    "word": "balcony",
+    "phonetic": "/ˈbælkəni/",
+    "definition": "a platform attached to the outside wall of a building above the ground",
+    "translation": "ban công",
+    "exampleSentence": "Our flat has a small balcony.",
+    "exampleTranslation": "Căn hộ của chúng tôi có một ban công nhỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "terrace",
+    "phonetic": "/ˈterɪs/",
+    "definition": "a flat outdoor area next to a building where you can sit",
+    "translation": "sân thượng, sân hiên",
+    "exampleSentence": "We had lunch on the terrace.",
+    "exampleTranslation": "Chúng tôi ăn trưa ngoài sân hiên.",
+    "pos": "noun"
+  },
+  {
+    "word": "porch",
+    "phonetic": "/pɔːrtʃ/",
+    "definition": "an entrance with a roof outside the front door of a house",
+    "translation": "hiên nhà, mái hiên",
+    "exampleSentence": "We sat on the porch.",
+    "exampleTranslation": "Chúng tôi ngồi ngoài hiên nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "gate",
+    "phonetic": "/ɡeɪt/",
+    "definition": "the part of a fence or outside wall that you open to go in or out",
+    "translation": "cổng",
+    "exampleSentence": "Please close the gate.",
+    "exampleTranslation": "Làm ơn đóng cổng lại.",
+    "pos": "noun"
+  },
+  {
+    "word": "fence",
+    "phonetic": "/fens/",
+    "definition": "a structure of wood or metal around a piece of land",
+    "translation": "hàng rào",
+    "exampleSentence": "There is a high fence around the garden.",
+    "exampleTranslation": "Có hàng rào cao quanh khu vườn.",
+    "pos": "noun"
+  },
+  {
+    "word": "shed",
+    "phonetic": "/ʃed/",
+    "definition": "a small building, often made of wood, used for storing things",
+    "translation": "nhà kho nhỏ, kho chứa đồ",
+    "exampleSentence": "The tools are in the shed.",
+    "exampleTranslation": "Dụng cụ ở trong nhà kho.",
+    "pos": "noun"
+  },
+  {
+    "word": "swimming pool",
+    "phonetic": "/ˈswɪmɪŋ puːl/",
+    "definition": "a structure filled with water for people to swim in",
+    "translation": "bể bơi, hồ bơi",
+    "exampleSentence": "The hotel has a big swimming pool.",
+    "exampleTranslation": "Khách sạn có một hồ bơi lớn.",
+    "pos": "noun"
+  },
+  {
+    "word": "house",
+    "phonetic": "/haʊs/",
+    "definition": "a building that someone lives in, usually for one family",
+    "translation": "nhà, ngôi nhà",
+    "exampleSentence": "They live in a big house.",
+    "exampleTranslation": "Họ sống trong một ngôi nhà lớn.",
+    "pos": "noun"
+  },
+  {
+    "word": "apartment",
+    "phonetic": "/əˈpɑːrtmənt/",
+    "definition": "a set of rooms on one floor of a large building where someone lives",
+    "translation": "căn hộ, căn hộ chung cư",
+    "exampleSentence": "We live in a small apartment.",
+    "exampleTranslation": "Chúng tôi sống trong một căn hộ nhỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "flat",
+    "phonetic": "/flæt/",
+    "definition": "a set of rooms for living in, on one floor of a larger building",
+    "translation": "căn hộ",
+    "exampleSentence": "They have a flat in London.",
+    "exampleTranslation": "Họ có một căn hộ ở Luân Đôn.",
+    "pos": "noun"
+  },
+  {
+    "word": "villa",
+    "phonetic": "/ˈvɪlə/",
+    "definition": "a big house in the country, or a house you rent on holiday",
+    "translation": "biệt thự",
+    "exampleSentence": "We rented a villa near the beach.",
+    "exampleTranslation": "Chúng tôi thuê một biệt thự gần bãi biển.",
+    "pos": "noun"
+  },
+  {
+    "word": "cottage",
+    "phonetic": "/ˈkɑːtɪdʒ/",
+    "definition": "a small house in the country",
+    "translation": "ngôi nhà nhỏ ở vùng quê",
+    "exampleSentence": "They live in a cottage by the lake.",
+    "exampleTranslation": "Họ sống trong một ngôi nhà nhỏ bên hồ.",
+    "pos": "noun"
+  },
+  {
+    "word": "furniture",
+    "phonetic": "/ˈfɜːrnɪtʃər/",
+    "definition": "large objects such as chairs, tables and beds",
+    "translation": "đồ nội thất, đồ đạc",
+    "exampleSentence": "We need new furniture for the living room.",
+    "exampleTranslation": "Chúng tôi cần đồ nội thất mới cho phòng khách.",
+    "pos": "noun"
+  },
+  {
+    "word": "sofa",
+    "phonetic": "/ˈsoʊfə/",
+    "definition": "a comfortable seat with arms and a back for two or three people",
+    "translation": "ghế sofa",
+    "exampleSentence": "We sat on the sofa and watched TV.",
+    "exampleTranslation": "Chúng tôi ngồi trên ghế sofa xem ti vi.",
+    "pos": "noun"
+  },
+  {
+    "word": "armchair",
+    "phonetic": "/ˈɑːrmtʃer/",
+    "definition": "a comfortable chair with sides for resting your arms",
+    "translation": "ghế bành",
+    "exampleSentence": "There is an old armchair by the window.",
+    "exampleTranslation": "Có một chiếc ghế bành cũ cạnh cửa sổ.",
+    "pos": "noun"
+  },
+  {
+    "word": "sofa bed",
+    "phonetic": "/ˈsoʊfə bed/",
+    "definition": "a sofa that folds out into a bed",
+    "translation": "sofa giường, ghế sofa kéo thành giường",
+    "exampleSentence": "You can sleep on the sofa bed.",
+    "exampleTranslation": "Bạn có thể ngủ trên sofa giường.",
+    "pos": "noun"
+  },
+  {
+    "word": "chair",
+    "phonetic": "/tʃer/",
+    "definition": "a piece of furniture for one person to sit on",
+    "translation": "ghế",
+    "exampleSentence": "Please sit on this chair.",
+    "exampleTranslation": "Mời bạn ngồi vào chiếc ghế này.",
+    "pos": "noun"
+  },
+  {
+    "word": "stool",
+    "phonetic": "/stuːl/",
+    "definition": "a seat with three or four legs but no back or arms",
+    "translation": "ghế đẩu",
+    "exampleSentence": "I sat on a stool at the bar.",
+    "exampleTranslation": "Tôi ngồi trên ghế đẩu ở quầy bar.",
+    "pos": "noun"
+  },
+  {
+    "word": "bench",
+    "phonetic": "/bentʃ/",
+    "definition": "a long seat for two or more people, especially outdoors",
+    "translation": "ghế dài, ghế băng",
+    "exampleSentence": "We sat on a bench in the park.",
+    "exampleTranslation": "Chúng tôi ngồi trên ghế dài trong công viên.",
+    "pos": "noun"
+  },
+  {
+    "word": "table",
+    "phonetic": "/ˈteɪbəl/",
+    "definition": "a piece of furniture with a flat top and legs",
+    "translation": "bàn",
+    "exampleSentence": "Put the plates on the table.",
+    "exampleTranslation": "Đặt những cái đĩa lên bàn.",
+    "pos": "noun"
+  },
+  {
+    "word": "coffee table",
+    "phonetic": "/ˈkɑːfi ˌteɪbəl/",
+    "definition": "a low table for cups, newspapers and magazines",
+    "translation": "bàn trà, bàn cà phê",
+    "exampleSentence": "The remote control is on the coffee table.",
+    "exampleTranslation": "Điều khiển ti vi ở trên bàn trà.",
+    "pos": "noun"
+  },
+  {
+    "word": "desk",
+    "phonetic": "/desk/",
+    "definition": "a table that you sit at to write and work",
+    "translation": "bàn làm việc, bàn học",
+    "exampleSentence": "My desk is next to the window.",
+    "exampleTranslation": "Bàn làm việc của tôi ở cạnh cửa sổ.",
+    "pos": "noun"
+  },
+  {
+    "word": "dressing table",
+    "phonetic": "/ˈdresɪŋ ˌteɪbəl/",
+    "definition": "a table with a mirror that you use for doing your hair or make-up",
+    "translation": "bàn trang điểm",
+    "exampleSentence": "There are perfumes on the dressing table.",
+    "exampleTranslation": "Có mấy lọ nước hoa trên bàn trang điểm.",
+    "pos": "noun"
+  },
+  {
+    "word": "bookcase",
+    "phonetic": "/ˈbʊkkeɪs/",
+    "definition": "a piece of furniture with shelves for books",
+    "translation": "tủ sách, giá sách",
+    "exampleSentence": "The bookcase is full of old books.",
+    "exampleTranslation": "Tủ sách chứa đầy sách cũ.",
+    "pos": "noun"
+  },
+  {
+    "word": "bookshelf",
+    "phonetic": "/ˈbʊkʃelf/",
+    "definition": "a shelf that you keep books on",
+    "translation": "kệ sách, giá sách",
+    "exampleSentence": "I put the dictionary back on the bookshelf.",
+    "exampleTranslation": "Tôi để cuốn từ điển lại lên kệ sách.",
+    "pos": "noun"
+  },
+  {
+    "word": "chest of drawers",
+    "phonetic": "/ˌtʃest əv ˈdrɔːrz/",
+    "definition": "a piece of furniture with drawers for keeping clothes in",
+    "translation": "tủ ngăn kéo",
+    "exampleSentence": "I keep my T-shirts in the chest of drawers.",
+    "exampleTranslation": "Tôi cất áo phông trong tủ ngăn kéo.",
+    "pos": "noun"
+  },
+  {
+    "word": "wardrobe",
+    "phonetic": "/ˈwɔːrdroʊb/",
+    "definition": "a tall cupboard that you hang clothes in",
+    "translation": "tủ quần áo",
+    "exampleSentence": "Hang your coat in the wardrobe.",
+    "exampleTranslation": "Hãy treo áo khoác vào tủ quần áo.",
+    "pos": "noun"
+  },
+  {
+    "word": "bed",
+    "phonetic": "/bed/",
+    "definition": "a piece of furniture that you sleep on",
+    "translation": "giường",
+    "exampleSentence": "The bed is next to the window.",
+    "exampleTranslation": "Giường ở cạnh cửa sổ.",
+    "pos": "noun"
+  },
+  {
+    "word": "double bed",
+    "phonetic": "/ˌdʌbəl ˈbed/",
+    "definition": "a bed for two people to sleep in",
+    "translation": "giường đôi",
+    "exampleSentence": "The room has a double bed.",
+    "exampleTranslation": "Phòng có một giường đôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "bunk bed",
+    "phonetic": "/ˈbʌŋk bed/",
+    "definition": "one of two beds fixed together, one above the other",
+    "translation": "giường tầng",
+    "exampleSentence": "The children sleep in a bunk bed.",
+    "exampleTranslation": "Bọn trẻ ngủ trên giường tầng.",
+    "pos": "noun"
+  },
+  {
+    "word": "mattress",
+    "phonetic": "/ˈmætrɪs/",
+    "definition": "the soft part of a bed that you lie on",
+    "translation": "nệm, đệm",
+    "exampleSentence": "This mattress is very comfortable.",
+    "exampleTranslation": "Chiếc nệm này rất thoải mái.",
+    "pos": "noun"
+  },
+  {
+    "word": "pillow",
+    "phonetic": "/ˈpɪloʊ/",
+    "definition": "a soft cloth bag that you put your head on in bed",
+    "translation": "gối",
+    "exampleSentence": "I need another pillow.",
+    "exampleTranslation": "Tôi cần thêm một cái gối.",
+    "pos": "noun"
+  },
+  {
+    "word": "cushion",
+    "phonetic": "/ˈkʊʃən/",
+    "definition": "a soft cloth bag that you put on a chair or the floor",
+    "translation": "gối tựa, đệm ngồi",
+    "exampleSentence": "There are red cushions on the sofa.",
+    "exampleTranslation": "Có mấy chiếc gối tựa màu đỏ trên ghế sofa.",
+    "pos": "noun"
+  },
+  {
+    "word": "sheet",
+    "phonetic": "/ʃiːt/",
+    "definition": "a large piece of thin cloth that you put on a bed",
+    "translation": "ga trải giường, drap giường",
+    "exampleSentence": "I changed the sheets on my bed.",
+    "exampleTranslation": "Tôi đã thay ga trải giường.",
+    "pos": "noun"
+  },
+  {
+    "word": "duvet",
+    "phonetic": "/duːˈveɪ/",
+    "definition": "a thick soft cover filled with feathers or similar material for a bed",
+    "translation": "chăn bông, chăn",
+    "exampleSentence": "It is cold, so I need a duvet.",
+    "exampleTranslation": "Trời lạnh nên tôi cần một cái chăn bông.",
+    "pos": "noun"
+  }
+]

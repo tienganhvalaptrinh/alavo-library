@@ -190,5 +190,37 @@
     "source": "Written by the Alavo team. Collocations of six types (adjective + noun, adverb + adjective, verb + adverb, verb + noun, noun + of + noun, noun + verb) chosen by hand and kept when Longman (LDOCE) shows them; definitions paraphrase LDOCE; translations and examples are original.",
     "manifest": "vocabulary/en-vi/collocations-367/manifest.json",
     "wordCount": 367
+  },
+  {
+    "id": "everyday-words-by-topic-1936",
+    "type": "vocabulary",
+    "title": "1936 everyday words by topic",
+    "description": "1936 everyday words with Vietnamese meanings and examples, one file per topic: household, kitchen, bathroom, rooms, clothes, shoes, vegetables, fruit, meat and dairy, meals, seasonings, drinks, body, family, jobs, school, weather, animals, transport, shops, tech, colours, time, health.",
+    "category": "topics",
+    "level": "mixed",
+    "order": 12,
+    "sourceLang": "en",
+    "targetLang": "vi",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "source": "Written by the Alavo team. Topics follow the topic lists of the Cambridge A2 Key and B1 Preliminary vocabulary lists, extended by hand; every word is kept only if Longman (LDOCE) lists it. Definitions paraphrase LDOCE; translations and examples are original.",
+    "manifest": "vocabulary/en-vi/everyday-words-by-topic-1936/manifest.json",
+    "wordCount": 1936
+  },
+  {
+    "id": "everyday-activity-phrases-635",
+    "type": "vocabulary",
+    "title": "635 everyday activity phrases",
+    "description": "635 phrases for daily life with meanings and examples. 27 topics: waking, grooming, dressing, breakfast, cooking, cleaning, laundry, tidying, repairs, commute, driving, shopping, dining, errands, money, office, school, calls, leisure, internet, sport, friends, parties, kids, pets, health, bed.",
+    "category": "daily-activities",
+    "level": "mixed",
+    "order": 13,
+    "sourceLang": "en",
+    "targetLang": "vi",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "source": "Written by the Alavo team. Phrases chosen by hand for 27 daily-activity topics, using standard verb and noun combinations; many were checked against Longman (LDOCE) examples and collocations. Definitions, translations and examples are original.",
+    "manifest": "vocabulary/en-vi/everyday-activity-phrases-635/manifest.json",
+    "wordCount": 635
   }
 ]

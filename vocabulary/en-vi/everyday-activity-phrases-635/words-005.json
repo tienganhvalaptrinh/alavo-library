@@ -1,0 +1,317 @@
+[
+  {
+    "word": "chop vegetables",
+    "phonetic": "/ˌtʃɑːp ˈvedʒtəblz/",
+    "definition": "to cut vegetables into small pieces",
+    "translation": "thái rau củ, băm rau củ",
+    "exampleSentence": "I chop vegetables for the soup.",
+    "exampleTranslation": "Tôi thái rau củ để nấu súp.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "slice bread",
+    "phonetic": "/ˌslaɪs ˈbred/",
+    "definition": "to cut bread into thin flat pieces",
+    "translation": "cắt lát bánh mì",
+    "exampleSentence": "He slices the bread for sandwiches.",
+    "exampleTranslation": "Bạn ấy cắt lát bánh mì để làm bánh kẹp.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "peel potatoes",
+    "phonetic": "/ˌpiːl pəˈteɪtoʊz/",
+    "definition": "to remove the skin of potatoes",
+    "translation": "gọt vỏ khoai tây",
+    "exampleSentence": "My daughter peels potatoes for dinner.",
+    "exampleTranslation": "Con gái tôi gọt vỏ khoai tây cho bữa tối.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "grate cheese",
+    "phonetic": "/ˌɡreɪt ˈtʃiːz/",
+    "definition": "to rub cheese on a grater to make small pieces",
+    "translation": "bào phô mai",
+    "exampleSentence": "Grate some cheese on the pasta.",
+    "exampleTranslation": "Bào ít phô mai lên mì ống.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "mix the ingredients",
+    "phonetic": "/ˌmɪks ði ɪnˈɡriːdiənts/",
+    "definition": "to stir different foods together",
+    "translation": "trộn các nguyên liệu",
+    "exampleSentence": "Mix the ingredients in a large bowl.",
+    "exampleTranslation": "Trộn các nguyên liệu trong một cái bát lớn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "stir the soup",
+    "phonetic": "/ˌstɜːr ðə ˈsuːp/",
+    "definition": "to move a spoon round in the soup",
+    "translation": "khuấy nồi súp",
+    "exampleSentence": "Stir the soup so it doesn't burn.",
+    "exampleTranslation": "Khuấy súp để nó không bị cháy.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "whisk eggs",
+    "phonetic": "/ˌwɪsk ˈeɡz/",
+    "definition": "to mix eggs quickly until they are light",
+    "translation": "đánh trứng",
+    "exampleSentence": "Whisk the eggs with a little salt.",
+    "exampleTranslation": "Đánh trứng với một chút muối.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "beat eggs",
+    "phonetic": "/ˌbiːt ˈeɡz/",
+    "definition": "to mix eggs hard with a fork",
+    "translation": "đánh trứng",
+    "exampleSentence": "Beat the eggs, then add the milk.",
+    "exampleTranslation": "Đánh trứng, rồi cho sữa vào.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "crack an egg",
+    "phonetic": "/ˌkræk ən ˈeɡ/",
+    "definition": "to break the shell of an egg",
+    "translation": "đập trứng",
+    "exampleSentence": "Crack two eggs into the bowl.",
+    "exampleTranslation": "Đập hai quả trứng vào bát.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "knead the dough",
+    "phonetic": "/ˌniːd ðə ˈdoʊ/",
+    "definition": "to press and fold dough with your hands",
+    "translation": "nhào bột",
+    "exampleSentence": "Knead the dough for ten minutes.",
+    "exampleTranslation": "Nhào bột trong mười phút.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "bake a cake",
+    "phonetic": "/ˌbeɪk ə ˈkeɪk/",
+    "definition": "to cook a cake in the oven",
+    "translation": "nướng bánh ngọt",
+    "exampleSentence": "I bake a cake for every birthday.",
+    "exampleTranslation": "Sinh nhật nào tôi cũng nướng một chiếc bánh.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "roast a chicken",
+    "phonetic": "/ˌroʊst ə ˈtʃɪkɪn/",
+    "definition": "to cook a whole chicken in the oven",
+    "translation": "quay gà trong lò",
+    "exampleSentence": "We roast a chicken on Sundays.",
+    "exampleTranslation": "Chủ nhật nào chúng tôi cũng quay một con gà.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "grill fish",
+    "phonetic": "/ˌɡrɪl ˈfɪʃ/",
+    "definition": "to cook fish under or over strong heat",
+    "translation": "nướng cá",
+    "exampleSentence": "He grills fish on the barbecue.",
+    "exampleTranslation": "Bạn ấy nướng cá trên vỉ nướng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "steam rice",
+    "phonetic": "/ˌstiːm ˈraɪs/",
+    "definition": "to cook rice using hot steam",
+    "translation": "hấp cơm, nấu cơm bằng hơi nước",
+    "exampleSentence": "We steam rice in a rice cooker.",
+    "exampleTranslation": "Chúng tôi nấu cơm bằng nồi cơm điện.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "cook rice",
+    "phonetic": "/ˌkʊk ˈraɪs/",
+    "definition": "to prepare rice by heating it in water",
+    "translation": "nấu cơm",
+    "exampleSentence": "I cook rice every evening.",
+    "exampleTranslation": "Chiều nào tôi cũng nấu cơm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "simmer the sauce",
+    "phonetic": "/ˌsɪmər ðə ˈsɔːs/",
+    "definition": "to cook the sauce gently just below boiling",
+    "translation": "om nhỏ lửa nước sốt",
+    "exampleSentence": "Simmer the sauce for twenty minutes.",
+    "exampleTranslation": "Om nước sốt nhỏ lửa trong hai mươi phút.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "season with salt",
+    "phonetic": "/ˌsiːzn wɪð ˈsɔːlt/",
+    "definition": "to add salt and other tastes to food",
+    "translation": "nêm muối",
+    "exampleSentence": "Season the meat with salt and pepper.",
+    "exampleTranslation": "Nêm thịt với muối và tiêu.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "add salt",
+    "phonetic": "/ˌæd ˈsɔːlt/",
+    "definition": "to put salt into food",
+    "translation": "thêm muối, cho muối",
+    "exampleSentence": "Don't add too much salt.",
+    "exampleTranslation": "Đừng cho quá nhiều muối.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "preheat the oven",
+    "phonetic": "/ˌpriːhiːt ði ˈʌvn/",
+    "definition": "to heat the oven before you put food in",
+    "translation": "làm nóng lò trước",
+    "exampleSentence": "Preheat the oven to 180 degrees.",
+    "exampleTranslation": "Làm nóng lò trước ở 180 độ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "turn on the stove",
+    "phonetic": "/ˌtɜːrn ɑːn ðə ˈstoʊv/",
+    "definition": "to start the heat on the cooker",
+    "translation": "bật bếp",
+    "exampleSentence": "Turn on the stove and heat the pan.",
+    "exampleTranslation": "Bật bếp và làm nóng chảo.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "turn down the heat",
+    "phonetic": "/ˌtɜːrn ˌdaʊn ðə ˈhiːt/",
+    "definition": "to make the cooker less hot",
+    "translation": "giảm lửa",
+    "exampleSentence": "Turn down the heat when the water boils.",
+    "exampleTranslation": "Giảm lửa khi nước sôi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "turn off the stove",
+    "phonetic": "/ˌtɜːrn ˌɔːf ðə ˈstoʊv/",
+    "definition": "to stop the heat on the cooker",
+    "translation": "tắt bếp",
+    "exampleSentence": "Did you turn off the stove?",
+    "exampleTranslation": "Bạn đã tắt bếp chưa?",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "heat the oil",
+    "phonetic": "/ˌhiːt ði ˈɔɪl/",
+    "definition": "to make the oil hot in a pan",
+    "translation": "làm nóng dầu",
+    "exampleSentence": "Heat the oil before you add the onions.",
+    "exampleTranslation": "Làm nóng dầu trước khi cho hành vào.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "fry onions",
+    "phonetic": "/ˌfraɪ ˈʌnjənz/",
+    "definition": "to cook onions in hot oil",
+    "translation": "xào hành",
+    "exampleSentence": "Fry the onions until they are soft.",
+    "exampleTranslation": "Xào hành cho đến khi mềm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "drain the pasta",
+    "phonetic": "/ˌdreɪn ðə ˈpɑːstə/",
+    "definition": "to pour the water off cooked pasta",
+    "translation": "chắt nước mì ống",
+    "exampleSentence": "Drain the pasta and add the sauce.",
+    "exampleTranslation": "Chắt nước mì ống rồi cho nước sốt vào.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "taste the soup",
+    "phonetic": "/ˌteɪst ðə ˈsuːp/",
+    "definition": "to try a little soup to check the flavour",
+    "translation": "nếm thử súp",
+    "exampleSentence": "Taste the soup. Does it need more salt?",
+    "exampleTranslation": "Nếm thử súp đi. Có cần thêm muối không?",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "serve the food",
+    "phonetic": "/ˌsɜːrv ðə ˈfuːd/",
+    "definition": "to put food on plates for people to eat",
+    "translation": "dọn đồ ăn ra, bày món",
+    "exampleSentence": "I serve the food while it is hot.",
+    "exampleTranslation": "Tôi dọn đồ ăn ra khi còn nóng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "follow a recipe",
+    "phonetic": "/ˌfɑːloʊ ə ˈresəpi/",
+    "definition": "to cook by doing what the recipe says",
+    "translation": "nấu theo công thức",
+    "exampleSentence": "I can follow a recipe well.",
+    "exampleTranslation": "Tôi nấu theo công thức khá tốt.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "measure the flour",
+    "phonetic": "/ˌmeʒər ðə ˈflaʊər/",
+    "definition": "to find out how much flour you have, using a cup or scales",
+    "translation": "đong bột mì",
+    "exampleSentence": "Measure the flour carefully.",
+    "exampleTranslation": "Đong bột mì cho cẩn thận.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "grease the pan",
+    "phonetic": "/ˌɡriːs ðə ˈpæn/",
+    "definition": "to put oil or butter on a pan so food does not stick",
+    "translation": "phết dầu hoặc bơ vào chảo",
+    "exampleSentence": "Grease the pan before you pour the batter in.",
+    "exampleTranslation": "Phết dầu vào khuôn trước khi đổ bột vào.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "defrost the meat",
+    "phonetic": "/ˌdiːfrɔːst ðə ˈmiːt/",
+    "definition": "to let frozen meat become soft and ready to cook",
+    "translation": "rã đông thịt",
+    "exampleSentence": "I defrost the meat in the fridge overnight.",
+    "exampleTranslation": "Tôi để thịt rã đông trong tủ lạnh qua đêm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "marinate the meat",
+    "phonetic": "/ˌmærəneɪt ðə ˈmiːt/",
+    "definition": "to leave meat in a sauce before you cook it",
+    "translation": "ướp thịt",
+    "exampleSentence": "Marinate the meat for an hour.",
+    "exampleTranslation": "Ướp thịt trong một tiếng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "set the timer",
+    "phonetic": "/ˌset ðə ˈtaɪmər/",
+    "definition": "to choose how long before a timer rings",
+    "translation": "đặt hẹn giờ",
+    "exampleSentence": "Set the timer for ten minutes.",
+    "exampleTranslation": "Đặt hẹn giờ mười phút.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "let it cool",
+    "phonetic": "/ˌlet ɪt ˈkuːl/",
+    "definition": "to wait until hot food is not hot any more",
+    "translation": "để nguội",
+    "exampleSentence": "Let the cake cool before you cut it.",
+    "exampleTranslation": "Để bánh nguội rồi hãy cắt.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "wash the vegetables",
+    "phonetic": "/ˌwɑːʃ ðə ˈvedʒtəblz/",
+    "definition": "to clean vegetables with water",
+    "translation": "rửa rau củ",
+    "exampleSentence": "Wash the vegetables before you cook them.",
+    "exampleTranslation": "Rửa rau củ trước khi nấu.",
+    "pos": "verb phrase"
+  }
+]

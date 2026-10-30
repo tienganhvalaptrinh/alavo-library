@@ -1,0 +1,479 @@
+[
+  {
+    "word": "salt",
+    "phonetic": "/sɔːlt/",
+    "definition": "a white powder added to food to give it taste",
+    "translation": "muối",
+    "exampleSentence": "This soup needs a little more salt.",
+    "exampleTranslation": "Món súp này cần thêm một chút muối.",
+    "pos": "noun"
+  },
+  {
+    "word": "salt shaker",
+    "phonetic": "/sɔːlt ˈʃeɪkər/",
+    "definition": "a small container for salt with holes in the top",
+    "translation": "lọ muối, hũ muối",
+    "exampleSentence": "The salt shaker is on the table.",
+    "exampleTranslation": "Lọ muối ở trên bàn.",
+    "pos": "noun"
+  },
+  {
+    "word": "sugar",
+    "phonetic": "/ˈʃʊɡər/",
+    "definition": "a sweet white or brown substance added to food and drinks",
+    "translation": "đường",
+    "exampleSentence": "I take one spoon of sugar in my tea.",
+    "exampleTranslation": "Tôi cho một thìa đường vào trà.",
+    "pos": "noun"
+  },
+  {
+    "word": "honey",
+    "phonetic": "/ˈhʌni/",
+    "definition": "a sweet sticky food made by bees",
+    "translation": "mật ong",
+    "exampleSentence": "I put honey on my bread.",
+    "exampleTranslation": "Tôi phết mật ong lên bánh mì.",
+    "pos": "noun"
+  },
+  {
+    "word": "sweetener",
+    "phonetic": "/ˈswiːtnər/",
+    "definition": "a substance used instead of sugar to make food or drink sweeter",
+    "translation": "chất tạo ngọt",
+    "exampleSentence": "I use a sweetener in my coffee.",
+    "exampleTranslation": "Tôi dùng chất tạo ngọt trong cà phê.",
+    "pos": "noun"
+  },
+  {
+    "word": "syrup",
+    "phonetic": "/ˈsɪrəp/",
+    "definition": "a thick sweet liquid poured on or mixed into food",
+    "translation": "xi-rô, siro",
+    "exampleSentence": "We had pancakes with maple syrup.",
+    "exampleTranslation": "Chúng tôi ăn bánh kếp với xi-rô cây phong.",
+    "pos": "noun"
+  },
+  {
+    "word": "oil",
+    "phonetic": "/ɔɪl/",
+    "definition": "a smooth liquid from plants, used for cooking",
+    "translation": "dầu ăn, dầu",
+    "exampleSentence": "Heat the oil in a pan.",
+    "exampleTranslation": "Hãy đun nóng dầu trong chảo.",
+    "pos": "noun"
+  },
+  {
+    "word": "cooking oil",
+    "phonetic": "/ˈkʊkɪŋ ɔɪl/",
+    "definition": "oil from plants, used for frying and cooking food",
+    "translation": "dầu ăn",
+    "exampleSentence": "We need to buy some cooking oil.",
+    "exampleTranslation": "Chúng ta cần mua ít dầu ăn.",
+    "pos": "noun"
+  },
+  {
+    "word": "olive oil",
+    "phonetic": "/ˈɑːlɪv ɔɪl/",
+    "definition": "a pale oil made from olives, used in cooking",
+    "translation": "dầu ô liu",
+    "exampleSentence": "I make my salad with olive oil.",
+    "exampleTranslation": "Tôi làm món salad với dầu ô liu.",
+    "pos": "noun"
+  },
+  {
+    "word": "vinegar",
+    "phonetic": "/ˈvɪnɪɡər/",
+    "definition": "a sour liquid used to give food a sharp taste",
+    "translation": "giấm, dấm",
+    "exampleSentence": "Add a little vinegar to the salad.",
+    "exampleTranslation": "Hãy thêm một chút giấm vào món salad.",
+    "pos": "noun"
+  },
+  {
+    "word": "soy sauce",
+    "phonetic": "/ˌsɔɪ ˈsɔːs/",
+    "definition": "a dark salty liquid made from soya beans",
+    "translation": "nước tương, xì dầu",
+    "exampleSentence": "Dip the spring roll in soy sauce.",
+    "exampleTranslation": "Hãy chấm chả giò vào nước tương.",
+    "pos": "noun"
+  },
+  {
+    "word": "ketchup",
+    "phonetic": "/ˈketʃəp/",
+    "definition": "a thick red sauce made from tomatoes",
+    "translation": "tương cà, sốt cà chua",
+    "exampleSentence": "Do you want ketchup with your fries?",
+    "exampleTranslation": "Bạn có muốn ăn khoai tây chiên với tương cà không?",
+    "pos": "noun"
+  },
+  {
+    "word": "mayonnaise",
+    "phonetic": "/ˈmeɪəneɪz/",
+    "definition": "a thick white sauce made from eggs and oil",
+    "translation": "sốt mayonnaise, xốt mayonnaise",
+    "exampleSentence": "I put mayonnaise in my sandwich.",
+    "exampleTranslation": "Tôi cho sốt mayonnaise vào bánh sandwich.",
+    "pos": "noun"
+  },
+  {
+    "word": "mustard",
+    "phonetic": "/ˈmʌstərd/",
+    "definition": "a yellow sauce with a strong taste, eaten with meat",
+    "translation": "mù tạt",
+    "exampleSentence": "My friend likes mustard on a hot dog.",
+    "exampleTranslation": "Bạn tôi thích ăn xúc xích với mù tạt.",
+    "pos": "noun"
+  },
+  {
+    "word": "dressing",
+    "phonetic": "/ˈdresɪŋ/",
+    "definition": "a mixture of oil and vinegar put on a salad",
+    "translation": "nước sốt trộn salad, nước xốt salad",
+    "exampleSentence": "What dressing would you like on your salad?",
+    "exampleTranslation": "Bạn muốn dùng nước sốt nào cho món salad?",
+    "pos": "noun"
+  },
+  {
+    "word": "stock",
+    "phonetic": "/stɑːk/",
+    "definition": "a liquid made by boiling meat or vegetables, used in soups",
+    "translation": "nước dùng, nước hầm",
+    "exampleSentence": "Add the chicken stock to the pot.",
+    "exampleTranslation": "Cho nước dùng gà vào nồi.",
+    "pos": "noun"
+  },
+  {
+    "word": "pickle",
+    "phonetic": "/ˈpɪkəl/",
+    "definition": "vegetables kept in vinegar or salty water",
+    "translation": "dưa muối, dưa chua",
+    "exampleSentence": "I like pickles in my sandwich.",
+    "exampleTranslation": "Tôi thích có dưa chua trong bánh sandwich.",
+    "pos": "noun"
+  },
+  {
+    "word": "flour",
+    "phonetic": "/flaʊr/",
+    "definition": "a powder made from wheat, used for making bread and cakes",
+    "translation": "bột mì, bột",
+    "exampleSentence": "Mix the flour with two eggs.",
+    "exampleTranslation": "Trộn bột mì với hai quả trứng.",
+    "pos": "noun"
+  },
+  {
+    "word": "cornflour",
+    "phonetic": "/ˈkɔːrnflaʊr/",
+    "definition": "a fine white flour made from corn, used to thicken sauces",
+    "translation": "bột bắp, bột ngô",
+    "exampleSentence": "Add a spoon of cornflour to thicken the sauce.",
+    "exampleTranslation": "Cho một thìa bột bắp vào để nước sốt đặc lại.",
+    "pos": "noun"
+  },
+  {
+    "word": "yeast",
+    "phonetic": "/jiːst/",
+    "definition": "a substance used to make bread rise",
+    "translation": "men nở, men bánh mì",
+    "exampleSentence": "Bread needs yeast to rise.",
+    "exampleTranslation": "Bánh mì cần men để nở phồng.",
+    "pos": "noun"
+  },
+  {
+    "word": "baking powder",
+    "phonetic": "/ˈbeɪkɪŋ ˈpaʊdər/",
+    "definition": "a powder used to make cakes lighter",
+    "translation": "bột nở",
+    "exampleSentence": "Add a teaspoon of baking powder.",
+    "exampleTranslation": "Hãy thêm một thìa cà phê bột nở.",
+    "pos": "noun"
+  },
+  {
+    "word": "breadcrumbs",
+    "phonetic": "/ˈbredkrʌmz/",
+    "definition": "very small pieces of bread used in cooking",
+    "translation": "vụn bánh mì, bột chiên xù",
+    "exampleSentence": "Cover the fish in breadcrumbs.",
+    "exampleTranslation": "Phủ vụn bánh mì lên miếng cá.",
+    "pos": "noun"
+  },
+  {
+    "word": "icing",
+    "phonetic": "/ˈaɪsɪŋ/",
+    "definition": "a sweet mixture of sugar and liquid used to cover cakes",
+    "translation": "lớp kem phủ bánh, kem đường",
+    "exampleSentence": "The cake has pink icing.",
+    "exampleTranslation": "Chiếc bánh có lớp kem phủ màu hồng.",
+    "pos": "noun"
+  },
+  {
+    "word": "spice",
+    "phonetic": "/spaɪs/",
+    "definition": "a powder or seed from a plant, used to give food a special taste",
+    "translation": "gia vị",
+    "exampleSentence": "Pepper and cinnamon are common spices.",
+    "exampleTranslation": "Hạt tiêu và quế là những loại gia vị phổ biến.",
+    "pos": "noun"
+  },
+  {
+    "word": "seasoning",
+    "phonetic": "/ˈsiːzənɪŋ/",
+    "definition": "salt, pepper or spices added to food for taste",
+    "translation": "gia vị, đồ nêm",
+    "exampleSentence": "Taste the soup and add more seasoning.",
+    "exampleTranslation": "Hãy nếm món súp và nêm thêm gia vị.",
+    "pos": "noun"
+  },
+  {
+    "word": "clove",
+    "phonetic": "/kloʊv/",
+    "definition": "one separate part of a garlic bulb",
+    "translation": "tép (tỏi)",
+    "exampleSentence": "Add two cloves of garlic.",
+    "exampleTranslation": "Hãy cho thêm hai tép tỏi.",
+    "pos": "noun"
+  },
+  {
+    "word": "curry powder",
+    "phonetic": "/ˈkɜːri ˈpaʊdər/",
+    "definition": "a mixture of spices used to make curry",
+    "translation": "bột cà ri",
+    "exampleSentence": "Add a spoon of curry powder.",
+    "exampleTranslation": "Cho thêm một thìa bột cà ri.",
+    "pos": "noun"
+  },
+  {
+    "word": "cinnamon",
+    "phonetic": "/ˈsɪnəmən/",
+    "definition": "a sweet brown spice used in cakes and sweet foods",
+    "translation": "quế",
+    "exampleSentence": "I like cinnamon in my coffee.",
+    "exampleTranslation": "Tôi thích cho quế vào cà phê.",
+    "pos": "noun"
+  },
+  {
+    "word": "vanilla",
+    "phonetic": "/vəˈnɪlə/",
+    "definition": "a substance used to give ice cream and cakes a sweet taste",
+    "translation": "vani",
+    "exampleSentence": "Do you have vanilla ice cream?",
+    "exampleTranslation": "Bạn có kem vani không?",
+    "pos": "noun"
+  },
+  {
+    "word": "paste",
+    "phonetic": "/peɪst/",
+    "definition": "a soft thick mixture that is easy to spread",
+    "translation": "bột nhão, sốt đặc",
+    "exampleSentence": "Mix the spices into a smooth paste.",
+    "exampleTranslation": "Trộn các loại gia vị thành một hỗn hợp nhuyễn.",
+    "pos": "noun"
+  },
+  {
+    "word": "jam",
+    "phonetic": "/dʒæm/",
+    "definition": "a sweet food made from fruit and sugar, put on bread",
+    "translation": "mứt",
+    "exampleSentence": "I like strawberry jam on toast.",
+    "exampleTranslation": "Tôi thích mứt dâu trên bánh mì nướng.",
+    "pos": "noun"
+  },
+  {
+    "word": "chocolate",
+    "phonetic": "/ˈtʃɑːkələt/",
+    "definition": "a sweet brown food made from cocoa",
+    "translation": "sô-cô-la",
+    "exampleSentence": "I love dark chocolate.",
+    "exampleTranslation": "Tôi rất thích sô-cô-la đen.",
+    "pos": "noun"
+  },
+  {
+    "word": "cocoa",
+    "phonetic": "/ˈkoʊkoʊ/",
+    "definition": "a brown powder used to make chocolate and hot drinks",
+    "translation": "ca cao, bột ca cao",
+    "exampleSentence": "Mix the cocoa with hot milk.",
+    "exampleTranslation": "Hòa bột ca cao với sữa nóng.",
+    "pos": "noun"
+  },
+  {
+    "word": "nut",
+    "phonetic": "/nʌt/",
+    "definition": "a dry fruit with a hard shell that grows on a tree",
+    "translation": "hạt, quả hạch",
+    "exampleSentence": "Some people are allergic to nuts.",
+    "exampleTranslation": "Một số người bị dị ứng với các loại hạt.",
+    "pos": "noun"
+  },
+  {
+    "word": "peanut",
+    "phonetic": "/ˈpiːnʌt/",
+    "definition": "a small pale brown nut that grows under the ground",
+    "translation": "đậu phộng, lạc",
+    "exampleSentence": "I bought a bag of roasted peanuts.",
+    "exampleTranslation": "Tôi mua một túi đậu phộng rang.",
+    "pos": "noun"
+  },
+  {
+    "word": "almond",
+    "phonetic": "/ˈɑːmənd/",
+    "definition": "a flat pale nut with a sweet taste",
+    "translation": "hạnh nhân",
+    "exampleSentence": "I put chopped almonds on the cake.",
+    "exampleTranslation": "Tôi rắc hạnh nhân cắt nhỏ lên bánh.",
+    "pos": "noun"
+  },
+  {
+    "word": "walnut",
+    "phonetic": "/ˈwɔːlnʌt/",
+    "definition": "a brown nut shaped like a small brain",
+    "translation": "quả óc chó, hạt óc chó",
+    "exampleSentence": "This cake is made with walnuts.",
+    "exampleTranslation": "Chiếc bánh này được làm từ quả óc chó.",
+    "pos": "noun"
+  },
+  {
+    "word": "cashew",
+    "phonetic": "/ˈkæʃuː/",
+    "definition": "a small curved nut with a sweet taste",
+    "translation": "hạt điều",
+    "exampleSentence": "I like cashews more than peanuts.",
+    "exampleTranslation": "Tôi thích hạt điều hơn đậu phộng.",
+    "pos": "noun"
+  },
+  {
+    "word": "sesame",
+    "phonetic": "/ˈsesəmi/",
+    "definition": "a plant whose small seeds are used in cooking",
+    "translation": "mè, vừng",
+    "exampleSentence": "Sprinkle sesame seeds on the rice.",
+    "exampleTranslation": "Rắc hạt mè lên cơm.",
+    "pos": "noun"
+  },
+  {
+    "word": "noodle",
+    "phonetic": "/ˈnuːdl/",
+    "definition": "a long thin piece of food made from flour, cooked in soup",
+    "translation": "mì, sợi mì",
+    "exampleSentence": "I had a bowl of noodles for lunch.",
+    "exampleTranslation": "Tôi ăn một tô mì cho bữa trưa.",
+    "pos": "noun"
+  },
+  {
+    "word": "pinch",
+    "phonetic": "/pɪntʃ/",
+    "definition": "a small amount of salt or pepper held between finger and thumb",
+    "translation": "một nhúm, một chút",
+    "exampleSentence": "Add a pinch of salt.",
+    "exampleTranslation": "Thêm một nhúm muối.",
+    "pos": "noun"
+  },
+  {
+    "word": "flavour",
+    "phonetic": "/ˈfleɪvər/",
+    "definition": "the particular taste of a food or drink",
+    "translation": "hương vị, vị",
+    "exampleSentence": "Which flavour of ice cream do you want?",
+    "exampleTranslation": "Bạn muốn kem vị nào?",
+    "pos": "noun"
+  },
+  {
+    "word": "taste",
+    "phonetic": "/teɪst/",
+    "definition": "the feeling a food or drink gives in your mouth",
+    "translation": "vị, mùi vị",
+    "exampleSentence": "I like the taste of ginger.",
+    "exampleTranslation": "Tôi thích vị của gừng.",
+    "pos": "noun"
+  },
+  {
+    "word": "salty",
+    "phonetic": "/ˈsɔːlti/",
+    "definition": "tasting of or containing salt",
+    "translation": "mặn",
+    "exampleSentence": "The soup is too salty.",
+    "exampleTranslation": "Món súp này mặn quá.",
+    "pos": "adjective"
+  },
+  {
+    "word": "spicy",
+    "phonetic": "/ˈspaɪsi/",
+    "definition": "having a strong hot taste from spices",
+    "translation": "cay",
+    "exampleSentence": "I cannot eat spicy food.",
+    "exampleTranslation": "Tôi không ăn được đồ cay.",
+    "pos": "adjective"
+  },
+  {
+    "word": "bland",
+    "phonetic": "/blænd/",
+    "definition": "having very little taste",
+    "translation": "nhạt, nhạt nhẽo",
+    "exampleSentence": "The soup is a bit bland.",
+    "exampleTranslation": "Món súp hơi nhạt.",
+    "pos": "adjective"
+  },
+  {
+    "word": "tasty",
+    "phonetic": "/ˈteɪsti/",
+    "definition": "having a good taste",
+    "translation": "ngon",
+    "exampleSentence": "This fish is really tasty.",
+    "exampleTranslation": "Món cá này thật sự rất ngon.",
+    "pos": "adjective"
+  },
+  {
+    "word": "delicious",
+    "phonetic": "/dɪˈlɪʃəs/",
+    "definition": "very good to taste or smell",
+    "translation": "ngon, thơm ngon",
+    "exampleSentence": "The cake smells delicious.",
+    "exampleTranslation": "Chiếc bánh này có mùi thơm ngon.",
+    "pos": "adjective"
+  },
+  {
+    "word": "taste",
+    "phonetic": "/teɪst/",
+    "definition": "to have a particular flavour",
+    "translation": "có vị, nếm",
+    "exampleSentence": "This soup tastes too sweet.",
+    "exampleTranslation": "Món súp này có vị quá ngọt.",
+    "pos": "verb"
+  },
+  {
+    "word": "add",
+    "phonetic": "/ˌæd/",
+    "definition": "to put something together with something else",
+    "translation": "thêm, cho thêm",
+    "exampleSentence": "Add some water to the rice.",
+    "exampleTranslation": "Cho thêm một ít nước vào cơm.",
+    "pos": "verb"
+  },
+  {
+    "word": "sprinkle",
+    "phonetic": "/ˈsprɪŋkəl/",
+    "definition": "to scatter small pieces or drops over something",
+    "translation": "rắc, rải",
+    "exampleSentence": "Sprinkle some cheese on the pasta.",
+    "exampleTranslation": "Rắc một ít phô mai lên mì Ý.",
+    "pos": "verb"
+  },
+  {
+    "word": "season",
+    "phonetic": "/ˈsiːzən/",
+    "definition": "to add salt, pepper or spices to food",
+    "translation": "nêm gia vị, nêm",
+    "exampleSentence": "Season the chicken with salt and pepper.",
+    "exampleTranslation": "Nêm gà với muối và tiêu.",
+    "pos": "verb"
+  },
+  {
+    "word": "marinate",
+    "phonetic": "/ˈmærəneɪt/",
+    "definition": "to leave meat or fish in a sauce before cooking",
+    "translation": "ướp",
+    "exampleSentence": "Marinate the fish for one hour.",
+    "exampleTranslation": "Ướp cá trong một tiếng.",
+    "pos": "verb"
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "word": "meet friends",
+    "phonetic": "/ˌmiːt ˈfrendz/",
+    "definition": "to spend time with your friends",
+    "translation": "gặp bạn bè",
+    "exampleSentence": "I meet friends on Saturday.",
+    "exampleTranslation": "Thứ Bảy tôi gặp bạn bè.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "meet up",
+    "phonetic": "/ˌmiːt ˈʌp/",
+    "definition": "to come together with someone as planned",
+    "translation": "gặp nhau",
+    "exampleSentence": "Let's meet up at six.",
+    "exampleTranslation": "Mình gặp nhau lúc sáu giờ nhé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "hang out with friends",
+    "phonetic": "/ˌhæŋ ˌaʊt wɪð ˈfrendz/",
+    "definition": "to spend time with friends in a relaxed way",
+    "translation": "đi chơi với bạn bè",
+    "exampleSentence": "I hang out with friends after work.",
+    "exampleTranslation": "Sau giờ làm tôi đi chơi với bạn bè.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "catch up with",
+    "phonetic": "/ˌkætʃ ˈʌp wɪð/",
+    "definition": "to talk to someone you have not seen for some time",
+    "translation": "gặp gỡ nói chuyện, hàn huyên với ai",
+    "exampleSentence": "I want to catch up with my old friends.",
+    "exampleTranslation": "Tôi muốn gặp gỡ hàn huyên với những người bạn cũ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "have a coffee",
+    "phonetic": "/hæv ə ˈkɔːfi/",
+    "definition": "to drink a cup of coffee with someone",
+    "translation": "uống cà phê",
+    "exampleSentence": "Let's have a coffee after class.",
+    "exampleTranslation": "Tan học mình đi uống cà phê nhé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "invite someone over",
+    "phonetic": "/ɪnˌvaɪt ˈsʌmwʌn ˈoʊvər/",
+    "definition": "to ask someone to come to your home",
+    "translation": "mời ai đến nhà chơi",
+    "exampleSentence": "I invited my neighbours over for dinner.",
+    "exampleTranslation": "Tôi mời hàng xóm sang nhà ăn tối.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "make plans",
+    "phonetic": "/ˌmeɪk ˈplænz/",
+    "definition": "to decide what you will do in the future",
+    "translation": "lên kế hoạch",
+    "exampleSentence": "Are you making plans for the weekend?",
+    "exampleTranslation": "Cuối tuần này bạn có kế hoạch gì chưa?",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "arrange to meet",
+    "phonetic": "/əˌreɪndʒ tə ˈmiːt/",
+    "definition": "to agree on a time and place to meet",
+    "translation": "hẹn gặp",
+    "exampleSentence": "We arranged to meet at the cinema.",
+    "exampleTranslation": "Chúng tôi hẹn gặp nhau ở rạp chiếu phim.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "cancel plans",
+    "phonetic": "/ˌkænsl ˈplænz/",
+    "definition": "to say that something you planned will not happen",
+    "translation": "hủy kế hoạch",
+    "exampleSentence": "We had to cancel our plans because of the rain.",
+    "exampleTranslation": "Chúng tôi phải hủy kế hoạch vì trời mưa.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "stand someone up",
+    "phonetic": "/ˌstænd ˈsʌmwʌn ˈʌp/",
+    "definition": "to not come to meet someone as you promised",
+    "translation": "cho ai leo cây",
+    "exampleSentence": "He stood me up on Friday.",
+    "exampleTranslation": "Thứ Sáu bạn ấy cho tôi leo cây.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "wave goodbye",
+    "phonetic": "/ˌweɪv ɡʊdˈbaɪ/",
+    "definition": "to move your hand to say goodbye",
+    "translation": "vẫy tay chào tạm biệt",
+    "exampleSentence": "The children waved goodbye.",
+    "exampleTranslation": "Bọn trẻ vẫy tay chào tạm biệt.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "introduce yourself",
+    "phonetic": "/ˌɪntrəˌduːs jərˈself/",
+    "definition": "to tell someone your name when you meet",
+    "translation": "tự giới thiệu",
+    "exampleSentence": "Let me introduce myself. I'm Lan.",
+    "exampleTranslation": "Để tôi tự giới thiệu. Tôi là Lan.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "get to know someone",
+    "phonetic": "/ˌɡet tə ˈnoʊ ˌsʌmwʌn/",
+    "definition": "to learn about someone by spending time with them",
+    "translation": "làm quen, tìm hiểu ai",
+    "exampleSentence": "I'd like to get to know my neighbours.",
+    "exampleTranslation": "Tôi muốn làm quen với hàng xóm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "go out for dinner",
+    "phonetic": "/ˌɡoʊ ˌaʊt fər ˈdɪnər/",
+    "definition": "to eat an evening meal in a restaurant",
+    "translation": "đi ăn tối ngoài",
+    "exampleSentence": "We go out for dinner on Fridays.",
+    "exampleTranslation": "Thứ Sáu chúng tôi đi ăn tối ngoài.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "go out for a drink",
+    "phonetic": "/ˌɡoʊ ˌaʊt fər ə ˈdrɪŋk/",
+    "definition": "to go to a bar or café to have a drink",
+    "translation": "đi uống nước",
+    "exampleSentence": "Do you want to go out for a drink?",
+    "exampleTranslation": "Bạn có muốn đi uống nước không?",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "stay over",
+    "phonetic": "/ˌsteɪ ˈoʊvər/",
+    "definition": "to sleep at someone else's house for a night",
+    "translation": "ngủ lại qua đêm",
+    "exampleSentence": "My friend stayed over last night.",
+    "exampleTranslation": "Tối qua bạn tôi ngủ lại nhà.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "host a dinner",
+    "phonetic": "/ˌhoʊst ə ˈdɪnər/",
+    "definition": "to invite people to your home for a meal",
+    "translation": "đãi tiệc tối ở nhà",
+    "exampleSentence": "We are hosting a dinner on Saturday.",
+    "exampleTranslation": "Thứ Bảy chúng tôi đãi tiệc tối ở nhà.",
+    "pos": "verb phrase"
+  }
+]

@@ -1,0 +1,731 @@
+[
+  {
+    "word": "kitchen",
+    "phonetic": "/ˈkɪtʃɪn/",
+    "definition": "the room where you prepare and cook food",
+    "translation": "nhà bếp, phòng bếp",
+    "exampleSentence": "My parents are cooking in the kitchen.",
+    "exampleTranslation": "Bố mẹ tôi đang nấu ăn trong bếp.",
+    "pos": "noun"
+  },
+  {
+    "word": "plate",
+    "phonetic": "/pleɪt/",
+    "definition": "a flat round dish that you eat food from",
+    "translation": "đĩa, dĩa",
+    "exampleSentence": "The plates are on the table.",
+    "exampleTranslation": "Những cái đĩa đang ở trên bàn.",
+    "pos": "noun"
+  },
+  {
+    "word": "bowl",
+    "phonetic": "/boʊl/",
+    "definition": "a round open container for food or liquid",
+    "translation": "bát, tô",
+    "exampleSentence": "I eat a bowl of rice every day.",
+    "exampleTranslation": "Tôi ăn một bát cơm mỗi ngày.",
+    "pos": "noun"
+  },
+  {
+    "word": "cup",
+    "phonetic": "/kʌp/",
+    "definition": "a small container with a handle for drinking tea or coffee",
+    "translation": "tách, chén, cốc",
+    "exampleSentence": "Would you like a cup of tea?",
+    "exampleTranslation": "Bạn có muốn một tách trà không?",
+    "pos": "noun"
+  },
+  {
+    "word": "mug",
+    "phonetic": "/mʌɡ/",
+    "definition": "a tall cup with a handle, used for hot drinks",
+    "translation": "cốc có quai, ly có quai",
+    "exampleSentence": "I drink coffee from a big mug.",
+    "exampleTranslation": "Tôi uống cà phê bằng một chiếc cốc lớn có quai.",
+    "pos": "noun"
+  },
+  {
+    "word": "glass",
+    "phonetic": "/ɡlæs/",
+    "definition": "a container made of glass that you drink from",
+    "translation": "ly, cốc",
+    "exampleSentence": "Can I have a glass of water?",
+    "exampleTranslation": "Cho tôi một ly nước được không?",
+    "pos": "noun"
+  },
+  {
+    "word": "saucer",
+    "phonetic": "/ˈsɔːsər/",
+    "definition": "a small plate that you put a cup on",
+    "translation": "đĩa lót tách, đĩa kê tách",
+    "exampleSentence": "Put the cup on the saucer.",
+    "exampleTranslation": "Hãy đặt tách lên đĩa lót.",
+    "pos": "noun"
+  },
+  {
+    "word": "dish",
+    "phonetic": "/dɪʃ/",
+    "definition": "a flat container for cooking or serving food",
+    "translation": "đĩa lớn, tô nông",
+    "exampleSentence": "I put the dish on the table.",
+    "exampleTranslation": "Tôi đặt đĩa thức ăn lên bàn.",
+    "pos": "noun"
+  },
+  {
+    "word": "tray",
+    "phonetic": "/treɪ/",
+    "definition": "a flat piece of plastic or metal for carrying plates and food",
+    "translation": "khay, mâm",
+    "exampleSentence": "The waiter brought drinks on a tray.",
+    "exampleTranslation": "Người phục vụ mang đồ uống ra trên một cái khay.",
+    "pos": "noun"
+  },
+  {
+    "word": "crockery",
+    "phonetic": "/ˈkrɑːkəri/",
+    "definition": "cups, plates and dishes used for eating",
+    "translation": "bát đĩa, chén dĩa",
+    "exampleSentence": "The crockery is in the cupboard.",
+    "exampleTranslation": "Bát đĩa ở trong tủ bếp.",
+    "pos": "noun"
+  },
+  {
+    "word": "cutlery",
+    "phonetic": "/ˈkʌtləri/",
+    "definition": "knives, forks and spoons used for eating",
+    "translation": "dao thìa nĩa, bộ dao dĩa",
+    "exampleSentence": "Please put the cutlery on the table.",
+    "exampleTranslation": "Làm ơn đặt dao thìa nĩa lên bàn.",
+    "pos": "noun"
+  },
+  {
+    "word": "fork",
+    "phonetic": "/fɔːrk/",
+    "definition": "a tool with points that you use to pick up and eat food",
+    "translation": "cái nĩa, cái dĩa",
+    "exampleSentence": "I eat noodles with a fork.",
+    "exampleTranslation": "Tôi ăn mì bằng nĩa.",
+    "pos": "noun"
+  },
+  {
+    "word": "knife",
+    "phonetic": "/naɪf/",
+    "definition": "a tool with a sharp blade for cutting food",
+    "translation": "con dao",
+    "exampleSentence": "Use a sharp knife to cut the bread.",
+    "exampleTranslation": "Hãy dùng dao sắc để cắt bánh mì.",
+    "pos": "noun"
+  },
+  {
+    "word": "spoon",
+    "phonetic": "/spuːn/",
+    "definition": "a tool with a small bowl-shaped end for eating or cooking",
+    "translation": "cái thìa, cái muỗng",
+    "exampleSentence": "Stir the soup with a spoon.",
+    "exampleTranslation": "Hãy khuấy súp bằng thìa.",
+    "pos": "noun"
+  },
+  {
+    "word": "teaspoon",
+    "phonetic": "/ˈtiːspuːn/",
+    "definition": "a small spoon, also used to measure small amounts in cooking",
+    "translation": "thìa cà phê, muỗng cà phê",
+    "exampleSentence": "Add one teaspoon of sugar.",
+    "exampleTranslation": "Thêm một thìa cà phê đường.",
+    "pos": "noun"
+  },
+  {
+    "word": "tablespoon",
+    "phonetic": "/ˈteɪbəlspuːn/",
+    "definition": "a large spoon for serving food or measuring",
+    "translation": "thìa canh, muỗng canh",
+    "exampleSentence": "Add two tablespoons of flour.",
+    "exampleTranslation": "Thêm hai thìa canh bột mì.",
+    "pos": "noun"
+  },
+  {
+    "word": "chopsticks",
+    "phonetic": "/ˈtʃɑːpstɪks/",
+    "definition": "a pair of thin sticks used for eating food, especially in Asia",
+    "translation": "đũa",
+    "exampleSentence": "Do you know how to use chopsticks?",
+    "exampleTranslation": "Bạn có biết dùng đũa không?",
+    "pos": "noun"
+  },
+  {
+    "word": "napkin",
+    "phonetic": "/ˈnæpkɪn/",
+    "definition": "a piece of cloth or paper for cleaning your hands and mouth at a meal",
+    "translation": "khăn ăn, giấy ăn",
+    "exampleSentence": "Can I have a napkin, please?",
+    "exampleTranslation": "Cho tôi xin một cái khăn ăn được không?",
+    "pos": "noun"
+  },
+  {
+    "word": "tablecloth",
+    "phonetic": "/ˈteɪbəlklɔːθ/",
+    "definition": "a cloth that covers a table",
+    "translation": "khăn trải bàn",
+    "exampleSentence": "We put a clean tablecloth on the table.",
+    "exampleTranslation": "Chúng tôi trải một chiếc khăn sạch lên bàn.",
+    "pos": "noun"
+  },
+  {
+    "word": "jug",
+    "phonetic": "/dʒʌɡ/",
+    "definition": "a container with a handle for pouring liquids",
+    "translation": "bình rót, ca",
+    "exampleSentence": "Fill the jug with milk.",
+    "exampleTranslation": "Hãy rót đầy sữa vào bình.",
+    "pos": "noun"
+  },
+  {
+    "word": "pitcher",
+    "phonetic": "/ˈpɪtʃər/",
+    "definition": "a container with a handle for holding and pouring liquids",
+    "translation": "bình rót, ca đựng nước",
+    "exampleSentence": "There is a pitcher of water on the table.",
+    "exampleTranslation": "Có một bình nước trên bàn.",
+    "pos": "noun"
+  },
+  {
+    "word": "teapot",
+    "phonetic": "/ˈtiːpɑːt/",
+    "definition": "a container with a spout for making and serving tea",
+    "translation": "ấm trà",
+    "exampleSentence": "Put hot water in the teapot.",
+    "exampleTranslation": "Hãy đổ nước nóng vào ấm trà.",
+    "pos": "noun"
+  },
+  {
+    "word": "flask",
+    "phonetic": "/flæsk/",
+    "definition": "a bottle that keeps drinks hot or cold",
+    "translation": "bình giữ nhiệt",
+    "exampleSentence": "I take a flask of tea to work.",
+    "exampleTranslation": "Tôi mang một bình trà giữ nhiệt đi làm.",
+    "pos": "noun"
+  },
+  {
+    "word": "lunchbox",
+    "phonetic": "/ˈlʌntʃbɑːks/",
+    "definition": "a box for carrying food to school or work",
+    "translation": "hộp cơm, hộp đựng cơm trưa",
+    "exampleSentence": "My lunchbox is in my bag.",
+    "exampleTranslation": "Hộp cơm của tôi ở trong cặp.",
+    "pos": "noun"
+  },
+  {
+    "word": "ladle",
+    "phonetic": "/ˈleɪdl/",
+    "definition": "a big deep spoon with a long handle for serving soup",
+    "translation": "cái muôi, cái vá",
+    "exampleSentence": "Use a ladle to serve the soup.",
+    "exampleTranslation": "Hãy dùng muôi để múc súp.",
+    "pos": "noun"
+  },
+  {
+    "word": "spatula",
+    "phonetic": "/ˈspætʃələ/",
+    "definition": "a flat tool for turning, lifting or spreading food",
+    "translation": "xẻng lật thức ăn, sạn",
+    "exampleSentence": "Turn the egg with a spatula.",
+    "exampleTranslation": "Hãy lật trứng bằng xẻng lật.",
+    "pos": "noun"
+  },
+  {
+    "word": "whisk",
+    "phonetic": "/wɪsk/",
+    "definition": "a kitchen tool for mixing air into eggs or cream",
+    "translation": "cây đánh trứng, dụng cụ đánh trứng",
+    "exampleSentence": "Use a whisk to mix the eggs.",
+    "exampleTranslation": "Hãy dùng cây đánh trứng để trộn trứng.",
+    "pos": "noun"
+  },
+  {
+    "word": "grater",
+    "phonetic": "/ˈɡreɪtər/",
+    "definition": "a tool with a rough surface for cutting food into small pieces",
+    "translation": "cái bào, cái nạo",
+    "exampleSentence": "I use a grater for cheese.",
+    "exampleTranslation": "Tôi dùng cái nạo để bào phô mai.",
+    "pos": "noun"
+  },
+  {
+    "word": "peeler",
+    "phonetic": "/ˈpiːlər/",
+    "definition": "a tool for removing the skin of fruit and vegetables",
+    "translation": "dụng cụ gọt vỏ",
+    "exampleSentence": "Use a peeler to peel the potatoes.",
+    "exampleTranslation": "Hãy dùng dụng cụ gọt vỏ để gọt khoai tây.",
+    "pos": "noun"
+  },
+  {
+    "word": "tin opener",
+    "phonetic": "/tɪn ˈoʊpənər/",
+    "definition": "a tool for opening tins of food",
+    "translation": "cái mở đồ hộp",
+    "exampleSentence": "Where is the tin opener?",
+    "exampleTranslation": "Cái mở đồ hộp ở đâu?",
+    "pos": "noun"
+  },
+  {
+    "word": "bottle opener",
+    "phonetic": "/ˈbɑːtl ˈoʊpənər/",
+    "definition": "a tool for taking the lid off a bottle",
+    "translation": "đồ mở chai, cái khui chai",
+    "exampleSentence": "Do you have a bottle opener?",
+    "exampleTranslation": "Bạn có đồ khui chai không?",
+    "pos": "noun"
+  },
+  {
+    "word": "corkscrew",
+    "phonetic": "/ˈkɔːrkskruː/",
+    "definition": "a tool for pulling the cork out of a bottle",
+    "translation": "cái mở nút chai, đồ khui rượu vang",
+    "exampleSentence": "I need a corkscrew to open the wine.",
+    "exampleTranslation": "Tôi cần một cái khui nút chai để mở rượu vang.",
+    "pos": "noun"
+  },
+  {
+    "word": "colander",
+    "phonetic": "/ˈkʌləndər/",
+    "definition": "a bowl with small holes for draining water from food",
+    "translation": "cái rổ, rổ ráo nước",
+    "exampleSentence": "Pour the pasta into a colander.",
+    "exampleTranslation": "Hãy đổ mì ống vào rổ cho ráo nước.",
+    "pos": "noun"
+  },
+  {
+    "word": "strainer",
+    "phonetic": "/ˈstreɪnər/",
+    "definition": "a kitchen tool with small holes for separating solids from liquids",
+    "translation": "cái lọc, cái rây lọc",
+    "exampleSentence": "Use a strainer for the tea.",
+    "exampleTranslation": "Hãy dùng cái lọc để lọc trà.",
+    "pos": "noun"
+  },
+  {
+    "word": "sieve",
+    "phonetic": "/sɪv/",
+    "definition": "a tool with a wire net for separating solid food from liquid",
+    "translation": "cái rây, cái sàng",
+    "exampleSentence": "Put the flour through a sieve.",
+    "exampleTranslation": "Hãy rây bột mì qua cái rây.",
+    "pos": "noun"
+  },
+  {
+    "word": "chopping board",
+    "phonetic": "/ˈtʃɑːpɪŋ bɔːrd/",
+    "definition": "a board that you cut food on",
+    "translation": "cái thớt",
+    "exampleSentence": "Cut the onion on a chopping board.",
+    "exampleTranslation": "Hãy thái hành trên thớt.",
+    "pos": "noun"
+  },
+  {
+    "word": "rolling pin",
+    "phonetic": "/ˈroʊlɪŋ pɪn/",
+    "definition": "a tube-shaped tool for making dough flat",
+    "translation": "cây cán bột",
+    "exampleSentence": "Use a rolling pin to flatten the dough.",
+    "exampleTranslation": "Hãy dùng cây cán bột để cán phẳng bột.",
+    "pos": "noun"
+  },
+  {
+    "word": "baking tray",
+    "phonetic": "/ˈbeɪkɪŋ treɪ/",
+    "definition": "a flat metal tray for baking food in an oven",
+    "translation": "khay nướng",
+    "exampleSentence": "Put the cookies on a baking tray.",
+    "exampleTranslation": "Hãy xếp bánh quy lên khay nướng.",
+    "pos": "noun"
+  },
+  {
+    "word": "skewer",
+    "phonetic": "/ˈskjuːər/",
+    "definition": "a long thin stick for holding pieces of meat while cooking",
+    "translation": "que xiên, xiên nướng",
+    "exampleSentence": "Put the meat on a skewer.",
+    "exampleTranslation": "Hãy xiên thịt vào que.",
+    "pos": "noun"
+  },
+  {
+    "word": "tongs",
+    "phonetic": "/tɑːŋz/",
+    "definition": "a tool with two arms for picking up food",
+    "translation": "cái kẹp gắp, cái kẹp",
+    "exampleSentence": "Use tongs to turn the meat.",
+    "exampleTranslation": "Hãy dùng kẹp gắp để lật thịt.",
+    "pos": "noun"
+  },
+  {
+    "word": "pan",
+    "phonetic": "/pæn/",
+    "definition": "a round metal container for cooking, usually with a long handle",
+    "translation": "cái chảo, cái nồi",
+    "exampleSentence": "Heat some oil in a pan.",
+    "exampleTranslation": "Hãy đun nóng một ít dầu trong chảo.",
+    "pos": "noun"
+  },
+  {
+    "word": "frying pan",
+    "phonetic": "/ˈfraɪɪŋ pæn/",
+    "definition": "a flat pan with a long handle for frying food",
+    "translation": "chảo chiên, chảo rán",
+    "exampleSentence": "Cook the eggs in a frying pan.",
+    "exampleTranslation": "Hãy chiên trứng trong chảo.",
+    "pos": "noun"
+  },
+  {
+    "word": "saucepan",
+    "phonetic": "/ˈsɔːspæn/",
+    "definition": "a deep round metal pot with a handle for cooking",
+    "translation": "nồi có cán",
+    "exampleSentence": "Boil the water in a saucepan.",
+    "exampleTranslation": "Hãy đun sôi nước trong nồi.",
+    "pos": "noun"
+  },
+  {
+    "word": "wok",
+    "phonetic": "/wɑːk/",
+    "definition": "a wide bowl-shaped pan used in Chinese cooking",
+    "translation": "chảo xào, chảo wok",
+    "exampleSentence": "I cook vegetables in a wok.",
+    "exampleTranslation": "Tôi xào rau trong chảo xào.",
+    "pos": "noun"
+  },
+  {
+    "word": "casserole",
+    "phonetic": "/ˈkæsəroʊl/",
+    "definition": "a deep covered dish for cooking food in an oven",
+    "translation": "nồi hầm, nồi nướng có nắp",
+    "exampleSentence": "Put the casserole in the oven.",
+    "exampleTranslation": "Hãy cho nồi hầm vào lò nướng.",
+    "pos": "noun"
+  },
+  {
+    "word": "steamer",
+    "phonetic": "/ˈstiːmər/",
+    "definition": "a container for cooking food in steam",
+    "translation": "nồi hấp, xửng hấp",
+    "exampleSentence": "Cook the fish in a steamer.",
+    "exampleTranslation": "Hãy hấp cá trong nồi hấp.",
+    "pos": "noun"
+  },
+  {
+    "word": "pressure cooker",
+    "phonetic": "/ˈpreʃər ˈkʊkər/",
+    "definition": "a covered pot that cooks food quickly using steam",
+    "translation": "nồi áp suất",
+    "exampleSentence": "A pressure cooker cooks beans very fast.",
+    "exampleTranslation": "Nồi áp suất nấu đậu rất nhanh.",
+    "pos": "noun"
+  },
+  {
+    "word": "can",
+    "phonetic": "/kæn/",
+    "definition": "a metal container for food or drink",
+    "translation": "cái lon, hộp đồ hộp",
+    "exampleSentence": "I opened a can of soup.",
+    "exampleTranslation": "Tôi mở một hộp súp.",
+    "pos": "noun"
+  },
+  {
+    "word": "stove",
+    "phonetic": "/stoʊv/",
+    "definition": "a piece of kitchen equipment that you cook on",
+    "translation": "cái bếp",
+    "exampleSentence": "The soup is on the stove.",
+    "exampleTranslation": "Súp đang ở trên bếp.",
+    "pos": "noun"
+  },
+  {
+    "word": "hob",
+    "phonetic": "/hɑːb/",
+    "definition": "the flat top of a cooker with places to heat pans",
+    "translation": "mặt bếp",
+    "exampleSentence": "Put the pan on the hob.",
+    "exampleTranslation": "Hãy đặt chảo lên mặt bếp.",
+    "pos": "noun"
+  },
+  {
+    "word": "mixer",
+    "phonetic": "/ˈmɪksər/",
+    "definition": "a machine for mixing food together",
+    "translation": "máy trộn, máy đánh trứng",
+    "exampleSentence": "I use a mixer to make cakes.",
+    "exampleTranslation": "Tôi dùng máy trộn để làm bánh.",
+    "pos": "noun"
+  },
+  {
+    "word": "sink",
+    "phonetic": "/sɪŋk/",
+    "definition": "a large container in a kitchen for washing dishes",
+    "translation": "bồn rửa, chậu rửa",
+    "exampleSentence": "The dirty plates are in the sink.",
+    "exampleTranslation": "Những cái đĩa bẩn đang ở trong bồn rửa.",
+    "pos": "noun"
+  },
+  {
+    "word": "tap",
+    "phonetic": "/tæp/",
+    "definition": "a piece of equipment that controls water flowing from a pipe",
+    "translation": "vòi nước",
+    "exampleSentence": "Turn off the tap, please.",
+    "exampleTranslation": "Làm ơn tắt vòi nước.",
+    "pos": "noun"
+  },
+  {
+    "word": "cupboard",
+    "phonetic": "/ˈkʌbərd/",
+    "definition": "a piece of furniture with doors for storing plates and food",
+    "translation": "tủ bếp, tủ chén",
+    "exampleSentence": "The cups are in the cupboard.",
+    "exampleTranslation": "Những cái cốc ở trong tủ bếp.",
+    "pos": "noun"
+  },
+  {
+    "word": "shelf",
+    "phonetic": "/ʃelf/",
+    "definition": "a flat board on a wall for putting things on",
+    "translation": "cái kệ, cái giá",
+    "exampleSentence": "The jar is on the top shelf.",
+    "exampleTranslation": "Cái hũ ở trên kệ trên cùng.",
+    "pos": "noun"
+  },
+  {
+    "word": "drawer",
+    "phonetic": "/drɔːr/",
+    "definition": "a box that you pull out of furniture to keep things in",
+    "translation": "ngăn kéo",
+    "exampleSentence": "The knives are in the kitchen drawer.",
+    "exampleTranslation": "Dao nằm trong ngăn kéo bếp.",
+    "pos": "noun"
+  },
+  {
+    "word": "apron",
+    "phonetic": "/ˈeɪprən/",
+    "definition": "clothing worn over the front of your clothes to keep them clean when cooking",
+    "translation": "tạp dề",
+    "exampleSentence": "I wear an apron when I cook.",
+    "exampleTranslation": "Tôi mặc tạp dề khi nấu ăn.",
+    "pos": "noun"
+  },
+  {
+    "word": "dishcloth",
+    "phonetic": "/ˈdɪʃklɔːθ/",
+    "definition": "a cloth for washing dishes",
+    "translation": "khăn rửa bát, giẻ rửa chén",
+    "exampleSentence": "Wipe the table with a dishcloth.",
+    "exampleTranslation": "Hãy lau bàn bằng khăn rửa bát.",
+    "pos": "noun"
+  },
+  {
+    "word": "tea towel",
+    "phonetic": "/tiː ˈtaʊəl/",
+    "definition": "a small cloth for drying dishes",
+    "translation": "khăn lau bát, khăn lau chén",
+    "exampleSentence": "Dry the plates with a tea towel.",
+    "exampleTranslation": "Hãy lau khô đĩa bằng khăn lau bát.",
+    "pos": "noun"
+  },
+  {
+    "word": "kitchen roll",
+    "phonetic": "/ˈkɪtʃɪn roʊl/",
+    "definition": "thick paper for cleaning up liquid and food",
+    "translation": "giấy lau bếp",
+    "exampleSentence": "Wipe the table with some kitchen roll.",
+    "exampleTranslation": "Hãy lau bàn bằng giấy lau bếp.",
+    "pos": "noun"
+  },
+  {
+    "word": "foil",
+    "phonetic": "/fɔɪl/",
+    "definition": "very thin metal sheets used for wrapping food",
+    "translation": "giấy bạc, giấy nhôm",
+    "exampleSentence": "Wrap the fish in foil.",
+    "exampleTranslation": "Hãy gói cá trong giấy bạc.",
+    "pos": "noun"
+  },
+  {
+    "word": "clingfilm",
+    "phonetic": "/ˈklɪŋfɪlm/",
+    "definition": "thin clear plastic used to cover food",
+    "translation": "màng bọc thực phẩm",
+    "exampleSentence": "Cover the bowl with clingfilm.",
+    "exampleTranslation": "Hãy đậy tô bằng màng bọc thực phẩm.",
+    "pos": "noun"
+  },
+  {
+    "word": "scales",
+    "phonetic": "/skeɪlz/",
+    "definition": "a machine for weighing things",
+    "translation": "cái cân",
+    "exampleSentence": "Weigh the flour on the kitchen scales.",
+    "exampleTranslation": "Hãy cân bột mì bằng cân nhà bếp.",
+    "pos": "noun"
+  },
+  {
+    "word": "timer",
+    "phonetic": "/ˈtaɪmər/",
+    "definition": "an instrument that measures time when you are cooking",
+    "translation": "đồng hồ hẹn giờ",
+    "exampleSentence": "Set the timer for ten minutes.",
+    "exampleTranslation": "Hãy đặt hẹn giờ mười phút.",
+    "pos": "noun"
+  },
+  {
+    "word": "recipe",
+    "phonetic": "/ˈresəpi/",
+    "definition": "a set of instructions for cooking a type of food",
+    "translation": "công thức nấu ăn",
+    "exampleSentence": "Do you have a recipe for this cake?",
+    "exampleTranslation": "Bạn có công thức làm bánh này không?",
+    "pos": "noun"
+  },
+  {
+    "word": "ingredient",
+    "phonetic": "/ɪnˈɡriːdiənt/",
+    "definition": "one of the foods you use to make a dish",
+    "translation": "nguyên liệu",
+    "exampleSentence": "Mix all the ingredients in a bowl.",
+    "exampleTranslation": "Hãy trộn tất cả nguyên liệu trong một cái tô.",
+    "pos": "noun"
+  },
+  {
+    "word": "cook",
+    "phonetic": "/kʊk/",
+    "definition": "to prepare food by heating it",
+    "translation": "nấu, nấu ăn",
+    "exampleSentence": "I cook dinner every evening.",
+    "exampleTranslation": "Tôi nấu bữa tối mỗi tối.",
+    "pos": "verb"
+  },
+  {
+    "word": "boil",
+    "phonetic": "/bɔɪl/",
+    "definition": "to cook food in very hot water",
+    "translation": "luộc, đun sôi",
+    "exampleSentence": "Boil the eggs for ten minutes.",
+    "exampleTranslation": "Hãy luộc trứng trong mười phút.",
+    "pos": "verb"
+  },
+  {
+    "word": "fry",
+    "phonetic": "/fraɪ/",
+    "definition": "to cook food in hot oil",
+    "translation": "chiên, rán",
+    "exampleSentence": "I fry eggs for breakfast.",
+    "exampleTranslation": "Tôi chiên trứng cho bữa sáng.",
+    "pos": "verb"
+  },
+  {
+    "word": "bake",
+    "phonetic": "/beɪk/",
+    "definition": "to cook food in an oven using dry heat",
+    "translation": "nướng bằng lò, làm bánh",
+    "exampleSentence": "I bake bread on Sundays.",
+    "exampleTranslation": "Tôi nướng bánh mì vào Chủ nhật.",
+    "pos": "verb"
+  },
+  {
+    "word": "roast",
+    "phonetic": "/roʊst/",
+    "definition": "to cook meat or vegetables in an oven",
+    "translation": "quay, nướng",
+    "exampleSentence": "We roast a chicken on Sundays.",
+    "exampleTranslation": "Chúng tôi quay một con gà vào Chủ nhật.",
+    "pos": "verb"
+  },
+  {
+    "word": "grill",
+    "phonetic": "/ɡrɪl/",
+    "definition": "to cook food over or under strong direct heat",
+    "translation": "nướng vỉ, nướng",
+    "exampleSentence": "Grill the fish for five minutes.",
+    "exampleTranslation": "Hãy nướng cá trong năm phút.",
+    "pos": "verb"
+  },
+  {
+    "word": "steam",
+    "phonetic": "/stiːm/",
+    "definition": "to cook food using steam",
+    "translation": "hấp",
+    "exampleSentence": "Steam the vegetables for five minutes.",
+    "exampleTranslation": "Hãy hấp rau trong năm phút.",
+    "pos": "verb"
+  },
+  {
+    "word": "simmer",
+    "phonetic": "/ˈsɪmər/",
+    "definition": "to cook food gently in liquid just below boiling",
+    "translation": "ninh, đun nhỏ lửa",
+    "exampleSentence": "Let the soup simmer for ten minutes.",
+    "exampleTranslation": "Hãy để súp sôi nhỏ lửa trong mười phút.",
+    "pos": "verb"
+  },
+  {
+    "word": "chop",
+    "phonetic": "/tʃɑːp/",
+    "definition": "to cut food into small pieces",
+    "translation": "thái nhỏ, chặt",
+    "exampleSentence": "Chop the onions into small pieces.",
+    "exampleTranslation": "Hãy thái nhỏ hành.",
+    "pos": "verb"
+  },
+  {
+    "word": "slice",
+    "phonetic": "/slaɪs/",
+    "definition": "to cut food into thin flat pieces",
+    "translation": "thái lát",
+    "exampleSentence": "Slice the tomatoes thinly.",
+    "exampleTranslation": "Hãy thái cà chua thành lát mỏng.",
+    "pos": "verb"
+  },
+  {
+    "word": "peel",
+    "phonetic": "/piːl/",
+    "definition": "to remove the skin of fruit or vegetables",
+    "translation": "gọt vỏ, bóc vỏ",
+    "exampleSentence": "Peel the potatoes before you boil them.",
+    "exampleTranslation": "Hãy gọt vỏ khoai tây trước khi luộc.",
+    "pos": "verb"
+  },
+  {
+    "word": "stir",
+    "phonetic": "/stɜːr/",
+    "definition": "to move food around with a spoon to mix it",
+    "translation": "khuấy, đảo",
+    "exampleSentence": "Stir the sauce so it does not burn.",
+    "exampleTranslation": "Hãy khuấy nước sốt để nó không bị cháy.",
+    "pos": "verb"
+  },
+  {
+    "word": "mix",
+    "phonetic": "/mɪks/",
+    "definition": "to combine two or more things into one",
+    "translation": "trộn",
+    "exampleSentence": "Mix the eggs and flour in a bowl.",
+    "exampleTranslation": "Hãy trộn trứng và bột mì trong tô.",
+    "pos": "verb"
+  },
+  {
+    "word": "pour",
+    "phonetic": "/pɔːr/",
+    "definition": "to make a liquid flow out of a container",
+    "translation": "rót, đổ",
+    "exampleSentence": "Pour the milk into the glass.",
+    "exampleTranslation": "Hãy rót sữa vào ly.",
+    "pos": "verb"
+  },
+  {
+    "word": "wash up",
+    "phonetic": "/wɑːʃ ʌp/",
+    "definition": "to wash plates, dishes and knives after a meal",
+    "translation": "rửa bát, rửa chén",
+    "exampleSentence": "I wash up after dinner.",
+    "exampleTranslation": "Tôi rửa bát sau bữa tối.",
+    "pos": "phrasal verb"
+  }
+]

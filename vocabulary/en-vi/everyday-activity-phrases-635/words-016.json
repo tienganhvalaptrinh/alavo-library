@@ -1,0 +1,218 @@
+[
+  {
+    "word": "switch on the computer",
+    "phonetic": "/ˌswɪtʃ ˌɑːn ðə kəmˈpjuːtər/",
+    "definition": "to turn on the computer",
+    "translation": "bật máy tính",
+    "exampleSentence": "I switch on the computer when I get to the office.",
+    "exampleTranslation": "Đến văn phòng là tôi bật máy tính.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "log in",
+    "phonetic": "/ˌlɔːɡ ˈɪn/",
+    "definition": "to type your name and password to use a computer or website",
+    "translation": "đăng nhập",
+    "exampleSentence": "I log in to my email every morning.",
+    "exampleTranslation": "Sáng nào tôi cũng đăng nhập vào email.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "forward an email",
+    "phonetic": "/ˌfɔːrwərd ən ˈiːmeɪl/",
+    "definition": "to send an email you received to another person",
+    "translation": "chuyển tiếp email",
+    "exampleSentence": "Please forward the email to the team.",
+    "exampleTranslation": "Vui lòng chuyển tiếp email này cho cả nhóm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "attach a file",
+    "phonetic": "/əˌtætʃ ə ˈfaɪl/",
+    "definition": "to add a file to an email",
+    "translation": "đính kèm tệp",
+    "exampleSentence": "Don't forget to attach the file.",
+    "exampleTranslation": "Đừng quên đính kèm tệp nhé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "open a file",
+    "phonetic": "/ˌoʊpən ə ˈfaɪl/",
+    "definition": "to start to look at a computer file",
+    "translation": "mở tệp",
+    "exampleSentence": "I can't open this file.",
+    "exampleTranslation": "Tôi không mở được tệp này.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "schedule a meeting",
+    "phonetic": "/ˌskedʒuːl ə ˈmiːtɪŋ/",
+    "definition": "to choose a time for a meeting",
+    "translation": "lên lịch họp",
+    "exampleSentence": "Let's schedule a meeting for Thursday.",
+    "exampleTranslation": "Mình lên lịch họp vào thứ Năm nhé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "book a meeting room",
+    "phonetic": "/ˌbʊk ə ˈmiːtɪŋ ˌruːm/",
+    "definition": "to reserve a room for a meeting",
+    "translation": "đặt phòng họp",
+    "exampleSentence": "I booked a meeting room for two o'clock.",
+    "exampleTranslation": "Tôi đã đặt phòng họp lúc hai giờ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "arrive at the office",
+    "phonetic": "/əˌraɪv ət ði ˈɑːfɪs/",
+    "definition": "to get to your office",
+    "translation": "đến văn phòng",
+    "exampleSentence": "I arrive at the office at eight thirty.",
+    "exampleTranslation": "Tôi đến văn phòng lúc tám rưỡi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "leave the office",
+    "phonetic": "/ˌliːv ði ˈɑːfɪs/",
+    "definition": "to go out of the office at the end of work",
+    "translation": "rời văn phòng",
+    "exampleSentence": "We leave the office at six.",
+    "exampleTranslation": "Sáu giờ chúng tôi rời văn phòng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "clock in",
+    "phonetic": "/ˌklɑːk ˈɪn/",
+    "definition": "to record the time when you start work",
+    "translation": "chấm công vào",
+    "exampleSentence": "Remember to clock in when you arrive.",
+    "exampleTranslation": "Nhớ chấm công khi đến nơi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "clock out",
+    "phonetic": "/ˌklɑːk ˈaʊt/",
+    "definition": "to record the time when you finish work",
+    "translation": "chấm công ra",
+    "exampleSentence": "I clock out at five thirty.",
+    "exampleTranslation": "Năm rưỡi tôi chấm công ra.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "have a coffee break",
+    "phonetic": "/hæv ə ˈkɔːfi ˌbreɪk/",
+    "definition": "to stop work for a short time to drink coffee",
+    "translation": "nghỉ uống cà phê",
+    "exampleSentence": "We have a coffee break at eleven.",
+    "exampleTranslation": "Mười một giờ chúng tôi nghỉ uống cà phê.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "tidy your desk",
+    "phonetic": "/ˌtaɪdi jər ˈdesk/",
+    "definition": "to make your desk neat",
+    "translation": "dọn bàn làm việc",
+    "exampleSentence": "I tidy my desk before I go home.",
+    "exampleTranslation": "Tôi dọn bàn làm việc trước khi về nhà.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "call in sick",
+    "phonetic": "/ˌkɔːl ɪn ˈsɪk/",
+    "definition": "to phone your work to say you are ill",
+    "translation": "gọi điện báo ốm",
+    "exampleSentence": "She called in sick this morning.",
+    "exampleTranslation": "Sáng nay cô ấy gọi điện báo ốm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "ask for leave",
+    "phonetic": "/ˌæsk fər ˈliːv/",
+    "definition": "to ask your boss for time off",
+    "translation": "xin nghỉ phép",
+    "exampleSentence": "I asked for leave in August.",
+    "exampleTranslation": "Tôi đã xin nghỉ phép vào tháng Tám.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "ask for a raise",
+    "phonetic": "/ˌæsk fər ə ˈreɪz/",
+    "definition": "to ask your boss to pay you more money",
+    "translation": "xin tăng lương",
+    "exampleSentence": "He asked for a raise.",
+    "exampleTranslation": "Bạn ấy xin tăng lương.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "hand in your notice",
+    "phonetic": "/ˌhænd ɪn jər ˈnoʊtɪs/",
+    "definition": "to tell your boss you are leaving your job",
+    "translation": "nộp đơn xin nghỉ việc",
+    "exampleSentence": "She handed in her notice yesterday.",
+    "exampleTranslation": "Hôm qua cô ấy nộp đơn xin nghỉ việc.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "go for an interview",
+    "phonetic": "/ˌɡoʊ fər ən ˈɪntərvjuː/",
+    "definition": "to go and talk to someone who may give you a job",
+    "translation": "đi phỏng vấn",
+    "exampleSentence": "I'm going for an interview on Friday.",
+    "exampleTranslation": "Thứ Sáu tôi đi phỏng vấn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "finish a task",
+    "phonetic": "/ˌfɪnɪʃ ə ˈtæsk/",
+    "definition": "to complete a piece of work",
+    "translation": "hoàn thành một nhiệm vụ",
+    "exampleSentence": "I need to finish this task today.",
+    "exampleTranslation": "Hôm nay tôi cần hoàn thành việc này.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "deal with a problem",
+    "phonetic": "/ˌdiːl wɪð ə ˈprɑːbləm/",
+    "definition": "to take action to solve a problem",
+    "translation": "xử lý một vấn đề",
+    "exampleSentence": "I have to deal with a problem at work.",
+    "exampleTranslation": "Tôi phải xử lý một vấn đề ở chỗ làm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "answer emails",
+    "phonetic": "/ˌænsər ˈiːmeɪlz/",
+    "definition": "to write replies to emails",
+    "translation": "trả lời email",
+    "exampleSentence": "I spend an hour answering emails.",
+    "exampleTranslation": "Tôi dành một tiếng để trả lời email.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "check your diary",
+    "phonetic": "/ˌtʃek jər ˈdaɪəri/",
+    "definition": "to look at your diary to see your plans",
+    "translation": "xem lịch hẹn",
+    "exampleSentence": "Let me check my diary.",
+    "exampleTranslation": "Để tôi xem lại lịch hẹn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "cancel an appointment",
+    "phonetic": "/ˌkænsl ən əˈpɔɪntmənt/",
+    "definition": "to say that you will not come to a meeting you arranged",
+    "translation": "hủy lịch hẹn",
+    "exampleSentence": "I had to cancel an appointment.",
+    "exampleTranslation": "Tôi phải hủy một lịch hẹn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "go on a business trip",
+    "phonetic": "/ˌɡoʊ ɑːn ə ˈbɪznəs ˌtrɪp/",
+    "definition": "to travel for work",
+    "translation": "đi công tác",
+    "exampleSentence": "My boss is going on a business trip.",
+    "exampleTranslation": "Sếp tôi sắp đi công tác.",
+    "pos": "verb phrase"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "word": "change a nappy",
+    "phonetic": "/ˌtʃeɪndʒ ə ˈnæpi/",
+    "definition": "to put a clean nappy on a baby",
+    "translation": "thay tã",
+    "exampleSentence": "I change the baby's nappy every three hours.",
+    "exampleTranslation": "Cứ ba tiếng tôi thay tã cho em bé một lần.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "feed the baby",
+    "phonetic": "/ˌfiːd ðə ˈbeɪbi/",
+    "definition": "to give food or milk to a baby",
+    "translation": "cho em bé ăn",
+    "exampleSentence": "She feeds the baby at six.",
+    "exampleTranslation": "Sáu giờ cô ấy cho em bé ăn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "breastfeed",
+    "phonetic": "/ˈbrestfiːd/",
+    "definition": "to feed a baby with milk from the mother",
+    "translation": "cho con bú",
+    "exampleSentence": "She breastfeeds her baby.",
+    "exampleTranslation": "Cô ấy cho con bú.",
+    "pos": "verb"
+  },
+  {
+    "word": "burp the baby",
+    "phonetic": "/ˌbɜːrp ðə ˈbeɪbi/",
+    "definition": "to pat a baby's back to let out air after feeding",
+    "translation": "vỗ ợ hơi cho em bé",
+    "exampleSentence": "Burp the baby after the milk.",
+    "exampleTranslation": "Vỗ ợ hơi cho em bé sau khi bú sữa.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "rock the baby",
+    "phonetic": "/ˌrɑːk ðə ˈbeɪbi/",
+    "definition": "to move a baby gently to help it sleep",
+    "translation": "ru em bé ngủ",
+    "exampleSentence": "He rocks the baby to sleep.",
+    "exampleTranslation": "Bố ru em bé ngủ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "put the baby to bed",
+    "phonetic": "/ˌpʊt ðə ˌbeɪbi tə ˈbed/",
+    "definition": "to lay a baby in its bed to sleep",
+    "translation": "đặt em bé vào giường ngủ",
+    "exampleSentence": "I put the baby to bed at eight.",
+    "exampleTranslation": "Tám giờ tôi đặt em bé vào giường ngủ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "bathe the baby",
+    "phonetic": "/ˌbeɪð ðə ˈbeɪbi/",
+    "definition": "to wash a baby in water",
+    "translation": "tắm cho em bé",
+    "exampleSentence": "We bathe the baby in the evening.",
+    "exampleTranslation": "Buổi tối chúng tôi tắm cho em bé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "push a pram",
+    "phonetic": "/ˌpʊʃ ə ˈpræm/",
+    "definition": "to move a baby's small bed on wheels along",
+    "translation": "đẩy xe nôi",
+    "exampleSentence": "She pushes a pram in the park.",
+    "exampleTranslation": "Cô ấy đẩy xe nôi trong công viên.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "carry a baby",
+    "phonetic": "/ˌkæri ə ˈbeɪbi/",
+    "definition": "to hold a baby in your arms",
+    "translation": "bế em bé",
+    "exampleSentence": "He carries the baby in his arms.",
+    "exampleTranslation": "Bố bế em bé trên tay.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "walk a child to school",
+    "phonetic": "/ˌwɔːk ə ˌtʃaɪld tə ˈskuːl/",
+    "definition": "to go to school on foot with a child",
+    "translation": "đưa trẻ đi bộ đến trường",
+    "exampleSentence": "I walk my daughter to school.",
+    "exampleTranslation": "Tôi đưa con gái đi bộ đến trường.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "drop the kids off at school",
+    "phonetic": "/ˌdrɑːp ðə ˌkɪdz ˈɔːf ət ˈskuːl/",
+    "definition": "to take the children to school and leave them there",
+    "translation": "đưa các con đến trường",
+    "exampleSentence": "I drop the kids off at school at eight.",
+    "exampleTranslation": "Tám giờ tôi đưa các con đến trường.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pick the kids up from school",
+    "phonetic": "/ˌpɪk ðə ˌkɪdz ˈʌp frəm ˈskuːl/",
+    "definition": "to collect the children when school ends",
+    "translation": "đón các con tan học",
+    "exampleSentence": "My husband picks the kids up from school.",
+    "exampleTranslation": "Chồng tôi đón các con tan học.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "help with homework",
+    "phonetic": "/ˌhelp wɪð ˈhoʊmwɜːrk/",
+    "definition": "to help a child do their school work",
+    "translation": "giúp làm bài tập về nhà",
+    "exampleSentence": "I help my son with homework every night.",
+    "exampleTranslation": "Tối nào tôi cũng giúp con trai làm bài tập về nhà.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "read a bedtime story",
+    "phonetic": "/ˌriːd ə ˈbedtaɪm ˌstɔːri/",
+    "definition": "to read a story to a child before sleep",
+    "translation": "đọc truyện trước giờ đi ngủ",
+    "exampleSentence": "She reads a bedtime story to her son.",
+    "exampleTranslation": "Cô ấy đọc truyện trước giờ đi ngủ cho con trai.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "sing a lullaby",
+    "phonetic": "/ˌsɪŋ ə ˈlʌləbaɪ/",
+    "definition": "to sing a soft song to help a baby sleep",
+    "translation": "hát ru",
+    "exampleSentence": "Mum sang a lullaby to the baby.",
+    "exampleTranslation": "Mẹ hát ru em bé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "tuck a child in",
+    "phonetic": "/ˌtʌk ə ˌtʃaɪld ˈɪn/",
+    "definition": "to pull the blanket round a child in bed",
+    "translation": "đắp chăn cho con",
+    "exampleSentence": "I tuck my daughter in every night.",
+    "exampleTranslation": "Đêm nào tôi cũng đắp chăn cho con gái.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "play with the kids",
+    "phonetic": "/ˌpleɪ wɪð ðə ˈkɪdz/",
+    "definition": "to join in games with children",
+    "translation": "chơi với các con",
+    "exampleSentence": "He plays with the kids after work.",
+    "exampleTranslation": "Sau giờ làm bố chơi với các con.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "play hide and seek",
+    "phonetic": "/ˌpleɪ ˌhaɪd ən ˈsiːk/",
+    "definition": "to play a game where one person looks for others who are hiding",
+    "translation": "chơi trốn tìm",
+    "exampleSentence": "The children play hide and seek in the garden.",
+    "exampleTranslation": "Bọn trẻ chơi trốn tìm trong vườn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "take the kids to the park",
+    "phonetic": "/ˌteɪk ðə ˌkɪdz tə ðə ˈpɑːrk/",
+    "definition": "to go to the park with children",
+    "translation": "đưa các con ra công viên",
+    "exampleSentence": "I take the kids to the park on Sundays.",
+    "exampleTranslation": "Chủ nhật tôi đưa các con ra công viên.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "tell off",
+    "phonetic": "/ˌtel ˈɔːf/",
+    "definition": "to speak angrily to someone because they did something wrong",
+    "translation": "mắng, la rầy",
+    "exampleSentence": "She told her son off for lying.",
+    "exampleTranslation": "Cô ấy mắng con trai vì nói dối.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "look after the children",
+    "phonetic": "/ˌlʊk ˌæftər ðə ˈtʃɪldrən/",
+    "definition": "to take care of children",
+    "translation": "trông trẻ",
+    "exampleSentence": "My mother looks after the children.",
+    "exampleTranslation": "Mẹ tôi trông các cháu.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "give medicine",
+    "phonetic": "/ˌɡɪv ˈmedsn/",
+    "definition": "to give a child medicine to take",
+    "translation": "cho uống thuốc",
+    "exampleSentence": "I give my son medicine twice a day.",
+    "exampleTranslation": "Tôi cho con trai uống thuốc hai lần mỗi ngày.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "dress the baby",
+    "phonetic": "/ˌdres ðə ˈbeɪbi/",
+    "definition": "to put clothes on a baby",
+    "translation": "mặc quần áo cho em bé",
+    "exampleSentence": "I dress the baby in warm clothes.",
+    "exampleTranslation": "Tôi mặc quần áo ấm cho em bé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "learn to ride a bike",
+    "phonetic": "/ˌlɜːrn tə ˌraɪd ə ˈbaɪk/",
+    "definition": "to find out how to ride a bicycle",
+    "translation": "tập đi xe đạp",
+    "exampleSentence": "My daughter is learning to ride a bike.",
+    "exampleTranslation": "Con gái tôi đang tập đi xe đạp.",
+    "pos": "verb phrase"
+  }
+]

@@ -1,0 +1,983 @@
+[
+  {
+    "word": "job",
+    "phonetic": "/dʒɑːb/",
+    "definition": "the regular work you do to earn money",
+    "translation": "công việc, việc làm",
+    "exampleSentence": "Do you like your job?",
+    "exampleTranslation": "Bạn có thích công việc của mình không?",
+    "pos": "noun"
+  },
+  {
+    "word": "work",
+    "phonetic": "/wɜːrk/",
+    "definition": "to do a job that you are paid for",
+    "translation": "làm việc, đi làm",
+    "exampleSentence": "I work in a bank near my house.",
+    "exampleTranslation": "Tôi làm việc ở một ngân hàng gần nhà.",
+    "pos": "verb"
+  },
+  {
+    "word": "work",
+    "phonetic": "/wɜːrk/",
+    "definition": "the job you do, or the place where you do it",
+    "translation": "công việc, chỗ làm",
+    "exampleSentence": "What time do you start work?",
+    "exampleTranslation": "Mấy giờ bạn bắt đầu làm việc?",
+    "pos": "noun"
+  },
+  {
+    "word": "career",
+    "phonetic": "/kəˈrɪr/",
+    "definition": "a job or profession that you do for a long part of your life",
+    "translation": "sự nghiệp, nghề nghiệp",
+    "exampleSentence": "Anna wants a career in medicine.",
+    "exampleTranslation": "Anna muốn theo sự nghiệp y khoa.",
+    "pos": "noun"
+  },
+  {
+    "word": "employee",
+    "phonetic": "/ɪmˈplɔɪiː/",
+    "definition": "a person who is paid to work for someone",
+    "translation": "nhân viên, người làm công",
+    "exampleSentence": "The company has fifty employees.",
+    "exampleTranslation": "Công ty có năm mươi nhân viên.",
+    "pos": "noun"
+  },
+  {
+    "word": "employer",
+    "phonetic": "/ɪmˈplɔɪər/",
+    "definition": "a person or company that pays people to work for them",
+    "translation": "người sử dụng lao động, chủ",
+    "exampleSentence": "My employer gives us two days off every week.",
+    "exampleTranslation": "Chủ của tôi cho chúng tôi nghỉ hai ngày mỗi tuần.",
+    "pos": "noun"
+  },
+  {
+    "word": "worker",
+    "phonetic": "/ˈwɜːrkər/",
+    "definition": "a person who works for a company, usually not a manager",
+    "translation": "công nhân, người lao động",
+    "exampleSentence": "Factory workers start at seven.",
+    "exampleTranslation": "Công nhân nhà máy bắt đầu làm lúc bảy giờ.",
+    "pos": "noun"
+  },
+  {
+    "word": "staff",
+    "phonetic": "/stæf/",
+    "definition": "all the people who work for a company or organization",
+    "translation": "nhân viên, đội ngũ nhân viên",
+    "exampleSentence": "The hotel staff are very friendly.",
+    "exampleTranslation": "Nhân viên khách sạn rất thân thiện.",
+    "pos": "noun"
+  },
+  {
+    "word": "manager",
+    "phonetic": "/ˈmænɪdʒər/",
+    "definition": "a person whose job is to run a company or part of it",
+    "translation": "quản lý, giám đốc",
+    "exampleSentence": "The manager wants to see you now.",
+    "exampleTranslation": "Quản lý muốn gặp bạn ngay bây giờ.",
+    "pos": "noun"
+  },
+  {
+    "word": "director",
+    "phonetic": "/dəˈrektər/",
+    "definition": "a person who controls or manages a company or organization",
+    "translation": "giám đốc, người đứng đầu",
+    "exampleSentence": "The director talked to the staff this morning.",
+    "exampleTranslation": "Sáng nay giám đốc đã nói chuyện với nhân viên.",
+    "pos": "noun"
+  },
+  {
+    "word": "customer",
+    "phonetic": "/ˈkʌstəmər/",
+    "definition": "a person who buys things or services from a shop or company",
+    "translation": "khách hàng, khách",
+    "exampleSentence": "The shop is full of customers.",
+    "exampleTranslation": "Cửa hàng đầy khách hàng.",
+    "pos": "noun"
+  },
+  {
+    "word": "interview",
+    "phonetic": "/ˈɪntərvjuː/",
+    "definition": "a meeting where someone is asked questions to see if they suit a job",
+    "translation": "buổi phỏng vấn, cuộc phỏng vấn",
+    "exampleSentence": "I have a job interview tomorrow.",
+    "exampleTranslation": "Ngày mai tôi có một buổi phỏng vấn xin việc.",
+    "pos": "noun"
+  },
+  {
+    "word": "apply",
+    "phonetic": "/əˈplaɪ/",
+    "definition": "to ask for a job or a place in a formal way",
+    "translation": "xin việc, nộp đơn, ứng tuyển",
+    "exampleSentence": "I want to apply for this job.",
+    "exampleTranslation": "Tôi muốn nộp đơn xin công việc này.",
+    "pos": "verb"
+  },
+  {
+    "word": "hire",
+    "phonetic": "/haɪr/",
+    "definition": "to give someone a job",
+    "translation": "thuê, tuyển dụng",
+    "exampleSentence": "The shop wants to hire two new workers.",
+    "exampleTranslation": "Cửa hàng muốn tuyển hai nhân viên mới.",
+    "pos": "verb"
+  },
+  {
+    "word": "earn",
+    "phonetic": "/ɜːrn/",
+    "definition": "to get money for the work you do",
+    "translation": "kiếm tiền, kiếm được",
+    "exampleSentence": "You can earn good money in this job.",
+    "exampleTranslation": "Bạn có thể kiếm được nhiều tiền với công việc này.",
+    "pos": "verb"
+  },
+  {
+    "word": "salary",
+    "phonetic": "/ˈsæləri/",
+    "definition": "money you get every month from the company you work for",
+    "translation": "tiền lương, lương tháng",
+    "exampleSentence": "My salary is paid on the first of the month.",
+    "exampleTranslation": "Lương của tôi được trả vào ngày đầu tháng.",
+    "pos": "noun"
+  },
+  {
+    "word": "wage",
+    "phonetic": "/weɪdʒ/",
+    "definition": "money you get for the hours or days that you work",
+    "translation": "tiền công, lương theo giờ",
+    "exampleSentence": "The wage in this factory is quite low.",
+    "exampleTranslation": "Tiền công ở nhà máy này khá thấp.",
+    "pos": "noun"
+  },
+  {
+    "word": "resign",
+    "phonetic": "/rɪˈzaɪn/",
+    "definition": "to officially tell your employer that you are leaving your job",
+    "translation": "từ chức, xin nghỉ việc",
+    "exampleSentence": "I decided to resign from my job.",
+    "exampleTranslation": "Tôi quyết định xin nghỉ việc.",
+    "pos": "verb"
+  },
+  {
+    "word": "retire",
+    "phonetic": "/rɪˈtaɪr/",
+    "definition": "to stop working, usually because you are old",
+    "translation": "nghỉ hưu",
+    "exampleSentence": "My grandfather retired at sixty.",
+    "exampleTranslation": "Ông tôi nghỉ hưu năm sáu mươi tuổi.",
+    "pos": "verb"
+  },
+  {
+    "word": "unemployed",
+    "phonetic": "/ˌʌnɪmˈplɔɪd/",
+    "definition": "without a job",
+    "translation": "thất nghiệp",
+    "exampleSentence": "Tom has been unemployed for six months.",
+    "exampleTranslation": "Tom đã thất nghiệp sáu tháng rồi.",
+    "pos": "adjective"
+  },
+  {
+    "word": "full-time",
+    "phonetic": "/ˌfʊl ˈtaɪm/",
+    "definition": "for all the hours of a normal working week",
+    "translation": "toàn thời gian",
+    "exampleSentence": "I have a full-time job in a school.",
+    "exampleTranslation": "Tôi có một công việc toàn thời gian ở trường học.",
+    "pos": "adjective"
+  },
+  {
+    "word": "part-time",
+    "phonetic": "/ˌpɑːrt ˈtaɪm/",
+    "definition": "for only part of the normal working week",
+    "translation": "bán thời gian",
+    "exampleSentence": "Linda has a part-time job at a cafe.",
+    "exampleTranslation": "Linda có một công việc bán thời gian ở quán cà phê.",
+    "pos": "adjective"
+  },
+  {
+    "word": "meeting",
+    "phonetic": "/ˈmiːtɪŋ/",
+    "definition": "an event where people meet to talk and decide things",
+    "translation": "cuộc họp, buổi họp",
+    "exampleSentence": "We have a meeting at ten o'clock.",
+    "exampleTranslation": "Chúng tôi có cuộc họp lúc mười giờ.",
+    "pos": "noun"
+  },
+  {
+    "word": "teacher",
+    "phonetic": "/ˈtiːtʃər/",
+    "definition": "a person whose job is to teach, especially in a school",
+    "translation": "giáo viên, thầy giáo, cô giáo",
+    "exampleSentence": "My English teacher is very kind.",
+    "exampleTranslation": "Giáo viên tiếng Anh của tôi rất tốt bụng.",
+    "pos": "noun"
+  },
+  {
+    "word": "professor",
+    "phonetic": "/prəˈfesər/",
+    "definition": "a teacher at a university or college",
+    "translation": "giáo sư, giảng viên đại học",
+    "exampleSentence": "The professor gave a talk on history.",
+    "exampleTranslation": "Giáo sư đã có một bài nói về lịch sử.",
+    "pos": "noun"
+  },
+  {
+    "word": "lecturer",
+    "phonetic": "/ˈlektʃərər/",
+    "definition": "a person who teaches at a university",
+    "translation": "giảng viên",
+    "exampleSentence": "My lecturer is very good at explaining.",
+    "exampleTranslation": "Giảng viên của tôi giải thích rất giỏi.",
+    "pos": "noun"
+  },
+  {
+    "word": "librarian",
+    "phonetic": "/laɪˈbreriən/",
+    "definition": "a person who works in a library",
+    "translation": "thủ thư",
+    "exampleSentence": "The librarian helped me find the book.",
+    "exampleTranslation": "Thủ thư đã giúp tôi tìm cuốn sách.",
+    "pos": "noun"
+  },
+  {
+    "word": "scientist",
+    "phonetic": "/ˈsaɪəntɪst/",
+    "definition": "a person who works or is trained in science",
+    "translation": "nhà khoa học",
+    "exampleSentence": "Scientists work in the laboratory every day.",
+    "exampleTranslation": "Các nhà khoa học làm việc trong phòng thí nghiệm mỗi ngày.",
+    "pos": "noun"
+  },
+  {
+    "word": "doctor",
+    "phonetic": "/ˈdɑːktər/",
+    "definition": "a person who is trained to treat people who are ill",
+    "translation": "bác sĩ",
+    "exampleSentence": "I need to see a doctor.",
+    "exampleTranslation": "Tôi cần đi khám bác sĩ.",
+    "pos": "noun"
+  },
+  {
+    "word": "nurse",
+    "phonetic": "/nɜːrs/",
+    "definition": "a person who looks after sick or injured people, usually in a hospital",
+    "translation": "y tá, điều dưỡng",
+    "exampleSentence": "The nurse gave me some medicine.",
+    "exampleTranslation": "Y tá đã đưa cho tôi một ít thuốc.",
+    "pos": "noun"
+  },
+  {
+    "word": "dentist",
+    "phonetic": "/ˈdentɪst/",
+    "definition": "a person whose job is to look after your teeth",
+    "translation": "nha sĩ, bác sĩ răng hàm mặt",
+    "exampleSentence": "I have an appointment with the dentist today.",
+    "exampleTranslation": "Hôm nay tôi có hẹn với nha sĩ.",
+    "pos": "noun"
+  },
+  {
+    "word": "pharmacist",
+    "phonetic": "/ˈfɑːrməsɪst/",
+    "definition": "a person who prepares and sells medicines",
+    "translation": "dược sĩ",
+    "exampleSentence": "The pharmacist told me how to take the medicine.",
+    "exampleTranslation": "Dược sĩ hướng dẫn tôi cách uống thuốc.",
+    "pos": "noun"
+  },
+  {
+    "word": "vet",
+    "phonetic": "/vet/",
+    "definition": "a doctor for sick or injured animals",
+    "translation": "bác sĩ thú y",
+    "exampleSentence": "We took our dog to the vet.",
+    "exampleTranslation": "Chúng tôi đưa con chó đến bác sĩ thú y.",
+    "pos": "noun"
+  },
+  {
+    "word": "police officer",
+    "phonetic": "/pəˈliːs ˈɑːfəsər/",
+    "definition": "a member of the police",
+    "translation": "cảnh sát, công an",
+    "exampleSentence": "A police officer stopped the car.",
+    "exampleTranslation": "Một cảnh sát đã chặn chiếc xe lại.",
+    "pos": "noun"
+  },
+  {
+    "word": "firefighter",
+    "phonetic": "/ˈfaɪrˌfaɪtər/",
+    "definition": "a person whose job is to stop fires",
+    "translation": "lính cứu hỏa",
+    "exampleSentence": "The firefighters arrived in five minutes.",
+    "exampleTranslation": "Lính cứu hỏa đã đến sau năm phút.",
+    "pos": "noun"
+  },
+  {
+    "word": "soldier",
+    "phonetic": "/ˈsoʊldʒər/",
+    "definition": "a member of an army",
+    "translation": "binh sĩ, người lính",
+    "exampleSentence": "The soldier stood at the gate.",
+    "exampleTranslation": "Người lính đứng ở cổng.",
+    "pos": "noun"
+  },
+  {
+    "word": "guard",
+    "phonetic": "/ɡɑːrd/",
+    "definition": "a person whose job is to protect a place or a person",
+    "translation": "bảo vệ, người gác",
+    "exampleSentence": "A guard stood outside the bank.",
+    "exampleTranslation": "Một bảo vệ đứng bên ngoài ngân hàng.",
+    "pos": "noun"
+  },
+  {
+    "word": "security guard",
+    "phonetic": "/sɪˈkjʊrəti ɡɑːrd/",
+    "definition": "a person whose job is to guard money or a building",
+    "translation": "nhân viên bảo vệ, bảo vệ",
+    "exampleSentence": "The security guard checked our bags.",
+    "exampleTranslation": "Nhân viên bảo vệ đã kiểm tra túi của chúng tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "lawyer",
+    "phonetic": "/ˈlɔːjər/",
+    "definition": "a person whose job is to give advice about the law and speak for people in court",
+    "translation": "luật sư",
+    "exampleSentence": "My lawyer will call you tomorrow.",
+    "exampleTranslation": "Luật sư của tôi sẽ gọi cho bạn vào ngày mai.",
+    "pos": "noun"
+  },
+  {
+    "word": "judge",
+    "phonetic": "/dʒʌdʒ/",
+    "definition": "the person in charge of a court who decides what punishment people get",
+    "translation": "thẩm phán, quan tòa",
+    "exampleSentence": "The judge listened to both sides.",
+    "exampleTranslation": "Thẩm phán đã nghe cả hai bên.",
+    "pos": "noun"
+  },
+  {
+    "word": "pilot",
+    "phonetic": "/ˈpaɪlət/",
+    "definition": "a person who flies a plane",
+    "translation": "phi công",
+    "exampleSentence": "The pilot said we would land soon.",
+    "exampleTranslation": "Phi công nói chúng ta sắp hạ cánh.",
+    "pos": "noun"
+  },
+  {
+    "word": "flight attendant",
+    "phonetic": "/flaɪt əˈtendənt/",
+    "definition": "a person who looks after passengers on a plane",
+    "translation": "tiếp viên hàng không",
+    "exampleSentence": "The flight attendant brought us some water.",
+    "exampleTranslation": "Tiếp viên hàng không mang cho chúng tôi ít nước.",
+    "pos": "noun"
+  },
+  {
+    "word": "driver",
+    "phonetic": "/ˈdraɪvər/",
+    "definition": "a person who drives a car, bus, or truck",
+    "translation": "tài xế, người lái xe",
+    "exampleSentence": "Nam is a taxi driver.",
+    "exampleTranslation": "Nam là tài xế taxi.",
+    "pos": "noun"
+  },
+  {
+    "word": "sailor",
+    "phonetic": "/ˈseɪlər/",
+    "definition": "a person who works on a ship",
+    "translation": "thủy thủ",
+    "exampleSentence": "The sailors sailed across the sea.",
+    "exampleTranslation": "Các thủy thủ đã đi thuyền qua biển.",
+    "pos": "noun"
+  },
+  {
+    "word": "captain",
+    "phonetic": "/ˈkæptɪn/",
+    "definition": "the person in charge of a ship or an aircraft",
+    "translation": "thuyền trưởng, cơ trưởng",
+    "exampleSentence": "The captain welcomed us on board.",
+    "exampleTranslation": "Thuyền trưởng chào đón chúng tôi lên tàu.",
+    "pos": "noun"
+  },
+  {
+    "word": "fisherman",
+    "phonetic": "/ˈfɪʃərmən/",
+    "definition": "a person who catches fish as a job or a sport",
+    "translation": "ngư dân, người đánh cá",
+    "exampleSentence": "The fisherman caught ten fish today.",
+    "exampleTranslation": "Ngư dân đã bắt được mười con cá hôm nay.",
+    "pos": "noun"
+  },
+  {
+    "word": "farmer",
+    "phonetic": "/ˈfɑːrmər/",
+    "definition": "a person who owns or runs a farm",
+    "translation": "nông dân",
+    "exampleSentence": "The farmer gets up at five every morning.",
+    "exampleTranslation": "Người nông dân dậy lúc năm giờ mỗi sáng.",
+    "pos": "noun"
+  },
+  {
+    "word": "gardener",
+    "phonetic": "/ˈɡɑːrdnər/",
+    "definition": "a person whose job is to work in gardens",
+    "translation": "người làm vườn, thợ làm vườn",
+    "exampleSentence": "The gardener cuts the grass every week.",
+    "exampleTranslation": "Người làm vườn cắt cỏ mỗi tuần.",
+    "pos": "noun"
+  },
+  {
+    "word": "miner",
+    "phonetic": "/ˈmaɪnər/",
+    "definition": "a person who works in a mine digging out coal or metal",
+    "translation": "thợ mỏ",
+    "exampleSentence": "My grandfather was a miner.",
+    "exampleTranslation": "Ông tôi từng là thợ mỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "builder",
+    "phonetic": "/ˈbɪldər/",
+    "definition": "a person whose job is to build or repair buildings",
+    "translation": "thợ xây, người xây dựng",
+    "exampleSentence": "The builder will finish the house in May.",
+    "exampleTranslation": "Thợ xây sẽ hoàn thành căn nhà vào tháng Năm.",
+    "pos": "noun"
+  },
+  {
+    "word": "electrician",
+    "phonetic": "/ɪˌlekˈtrɪʃən/",
+    "definition": "a person whose job is to fix electrical wires and equipment",
+    "translation": "thợ điện",
+    "exampleSentence": "We called an electrician to fix the lights.",
+    "exampleTranslation": "Chúng tôi gọi thợ điện đến sửa đèn.",
+    "pos": "noun"
+  },
+  {
+    "word": "plumber",
+    "phonetic": "/ˈplʌmər/",
+    "definition": "a person whose job is to fix water pipes and toilets",
+    "translation": "thợ sửa ống nước, thợ nước",
+    "exampleSentence": "The plumber came to fix the sink.",
+    "exampleTranslation": "Thợ nước đến sửa bồn rửa.",
+    "pos": "noun"
+  },
+  {
+    "word": "mechanic",
+    "phonetic": "/mɪˈkænɪk/",
+    "definition": "a person who repairs cars and machines",
+    "translation": "thợ máy, thợ sửa xe",
+    "exampleSentence": "The mechanic is checking my car.",
+    "exampleTranslation": "Thợ sửa xe đang kiểm tra xe của tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "carpenter",
+    "phonetic": "/ˈkɑːrpəntər/",
+    "definition": "a person whose job is to make and repair wooden things",
+    "translation": "thợ mộc",
+    "exampleSentence": "The carpenter made a new table for us.",
+    "exampleTranslation": "Thợ mộc đã làm cho chúng tôi một cái bàn mới.",
+    "pos": "noun"
+  },
+  {
+    "word": "engineer",
+    "phonetic": "/ˌendʒəˈnɪr/",
+    "definition": "a person who designs or builds roads, machines, or electrical equipment",
+    "translation": "kỹ sư",
+    "exampleSentence": "Minh is an engineer.",
+    "exampleTranslation": "Minh là kỹ sư.",
+    "pos": "noun"
+  },
+  {
+    "word": "architect",
+    "phonetic": "/ˈɑːrkətekt/",
+    "definition": "a person whose job is to design buildings",
+    "translation": "kiến trúc sư",
+    "exampleSentence": "The architect showed us the plans for the house.",
+    "exampleTranslation": "Kiến trúc sư cho chúng tôi xem bản vẽ ngôi nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "designer",
+    "phonetic": "/dɪˈzaɪnər/",
+    "definition": "a person whose job is to make plans for clothes, furniture, or products",
+    "translation": "nhà thiết kế",
+    "exampleSentence": "The designer made a beautiful dress.",
+    "exampleTranslation": "Nhà thiết kế đã làm một chiếc váy rất đẹp.",
+    "pos": "noun"
+  },
+  {
+    "word": "programmer",
+    "phonetic": "/ˈproʊɡræmər/",
+    "definition": "a person whose job is to write computer programs",
+    "translation": "lập trình viên",
+    "exampleSentence": "A programmer wrote this app.",
+    "exampleTranslation": "Một lập trình viên đã viết ứng dụng này.",
+    "pos": "noun"
+  },
+  {
+    "word": "hairdresser",
+    "phonetic": "/ˈherˌdresər/",
+    "definition": "a person who cuts and styles people's hair",
+    "translation": "thợ làm tóc, thợ cắt tóc",
+    "exampleSentence": "I have an appointment with the hairdresser at three.",
+    "exampleTranslation": "Tôi có hẹn với thợ làm tóc lúc ba giờ.",
+    "pos": "noun"
+  },
+  {
+    "word": "tailor",
+    "phonetic": "/ˈteɪlər/",
+    "definition": "a person whose job is to make clothes that fit each customer",
+    "translation": "thợ may",
+    "exampleSentence": "The tailor made me a new shirt.",
+    "exampleTranslation": "Thợ may đã may cho tôi một chiếc áo sơ mi mới.",
+    "pos": "noun"
+  },
+  {
+    "word": "baker",
+    "phonetic": "/ˈbeɪkər/",
+    "definition": "a person who makes and sells bread and cakes",
+    "translation": "thợ làm bánh, người làm bánh mì",
+    "exampleSentence": "The baker gets up at four in the morning.",
+    "exampleTranslation": "Thợ làm bánh dậy lúc bốn giờ sáng.",
+    "pos": "noun"
+  },
+  {
+    "word": "butcher",
+    "phonetic": "/ˈbʊtʃər/",
+    "definition": "a person who sells meat in a shop",
+    "translation": "người bán thịt, chủ tiệm thịt",
+    "exampleSentence": "I bought some beef from the butcher.",
+    "exampleTranslation": "Tôi đã mua ít thịt bò ở chỗ người bán thịt.",
+    "pos": "noun"
+  },
+  {
+    "word": "cook",
+    "phonetic": "/kʊk/",
+    "definition": "a person whose job is to prepare and cook food",
+    "translation": "đầu bếp, người nấu ăn",
+    "exampleSentence": "My uncle is a cook in a small restaurant.",
+    "exampleTranslation": "Chú tôi là đầu bếp ở một nhà hàng nhỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "cashier",
+    "phonetic": "/kæˈʃɪr/",
+    "definition": "a person whose job is to take money from customers in a shop",
+    "translation": "thu ngân, nhân viên thu ngân",
+    "exampleSentence": "Please pay the cashier at the door.",
+    "exampleTranslation": "Xin vui lòng thanh toán cho thu ngân ở cửa.",
+    "pos": "noun"
+  },
+  {
+    "word": "shop assistant",
+    "phonetic": "/ʃɑːp əˈsɪstənt/",
+    "definition": "a person whose job is to help customers in a shop",
+    "translation": "nhân viên bán hàng",
+    "exampleSentence": "The shop assistant helped me find a bag.",
+    "exampleTranslation": "Nhân viên bán hàng đã giúp tôi tìm một cái túi.",
+    "pos": "noun"
+  },
+  {
+    "word": "salesperson",
+    "phonetic": "/ˈseɪlzˌpɜːrsən/",
+    "definition": "a person whose job is to sell things",
+    "translation": "nhân viên bán hàng, nhân viên kinh doanh",
+    "exampleSentence": "A salesperson called me about a new phone.",
+    "exampleTranslation": "Một nhân viên bán hàng đã gọi cho tôi về một chiếc điện thoại mới.",
+    "pos": "noun"
+  },
+  {
+    "word": "clerk",
+    "phonetic": "/klɜːrk/",
+    "definition": "a person who keeps records or does simple work in an office or shop",
+    "translation": "nhân viên văn phòng, thư ký, nhân viên",
+    "exampleSentence": "Ask the clerk at the front desk.",
+    "exampleTranslation": "Hãy hỏi nhân viên ở quầy lễ tân.",
+    "pos": "noun"
+  },
+  {
+    "word": "secretary",
+    "phonetic": "/ˈsekrəteri/",
+    "definition": "a person who types letters, answers calls, and arranges meetings in an office",
+    "translation": "thư ký",
+    "exampleSentence": "The secretary booked the meeting room.",
+    "exampleTranslation": "Thư ký đã đặt phòng họp.",
+    "pos": "noun"
+  },
+  {
+    "word": "receptionist",
+    "phonetic": "/rɪˈsepʃənɪst/",
+    "definition": "a person who welcomes visitors in an office, hotel, or clinic",
+    "translation": "lễ tân, nhân viên tiếp tân",
+    "exampleSentence": "Please give your name to the receptionist.",
+    "exampleTranslation": "Vui lòng đưa tên của bạn cho lễ tân.",
+    "pos": "noun"
+  },
+  {
+    "word": "accountant",
+    "phonetic": "/əˈkaʊntənt/",
+    "definition": "a person whose job is to keep and check money records",
+    "translation": "kế toán",
+    "exampleSentence": "The accountant checks the numbers every month.",
+    "exampleTranslation": "Kế toán kiểm tra các con số mỗi tháng.",
+    "pos": "noun"
+  },
+  {
+    "word": "cleaner",
+    "phonetic": "/ˈkliːnər/",
+    "definition": "a person whose job is to clean houses and offices",
+    "translation": "nhân viên vệ sinh, người dọn dẹp",
+    "exampleSentence": "The cleaner comes at six every evening.",
+    "exampleTranslation": "Nhân viên vệ sinh đến lúc sáu giờ mỗi tối.",
+    "pos": "noun"
+  },
+  {
+    "word": "postman",
+    "phonetic": "/ˈpoʊstmən/",
+    "definition": "a person whose job is to deliver letters",
+    "translation": "người đưa thư, bưu tá",
+    "exampleSentence": "The postman brings the letters at ten.",
+    "exampleTranslation": "Người đưa thư mang thư đến lúc mười giờ.",
+    "pos": "noun"
+  },
+  {
+    "word": "mailman",
+    "phonetic": "/ˈmeɪlmæn/",
+    "definition": "a person who delivers letters and packages to homes",
+    "translation": "người đưa thư, bưu tá",
+    "exampleSentence": "Our mailman always says hello.",
+    "exampleTranslation": "Người đưa thư của chúng tôi lúc nào cũng chào hỏi.",
+    "pos": "noun"
+  },
+  {
+    "word": "actor",
+    "phonetic": "/ˈæktər/",
+    "definition": "a person who acts in plays or films",
+    "translation": "diễn viên, nam diễn viên",
+    "exampleSentence": "My favorite actor is in this film.",
+    "exampleTranslation": "Diễn viên yêu thích của tôi đóng trong bộ phim này.",
+    "pos": "noun"
+  },
+  {
+    "word": "actress",
+    "phonetic": "/ˈæktrɪs/",
+    "definition": "a woman who acts in plays or films",
+    "translation": "nữ diễn viên",
+    "exampleSentence": "The actress won a big prize.",
+    "exampleTranslation": "Nữ diễn viên đã giành một giải thưởng lớn.",
+    "pos": "noun"
+  },
+  {
+    "word": "singer",
+    "phonetic": "/ˈsɪŋər/",
+    "definition": "a person who sings, especially as a job",
+    "translation": "ca sĩ",
+    "exampleSentence": "Adele is my favorite singer.",
+    "exampleTranslation": "Adele là ca sĩ tôi yêu thích nhất.",
+    "pos": "noun"
+  },
+  {
+    "word": "dancer",
+    "phonetic": "/ˈdænsər/",
+    "definition": "a person who dances as a job",
+    "translation": "vũ công, diễn viên múa",
+    "exampleSentence": "The dancers practice every day.",
+    "exampleTranslation": "Các vũ công tập luyện mỗi ngày.",
+    "pos": "noun"
+  },
+  {
+    "word": "musician",
+    "phonetic": "/mjuːˈzɪʃən/",
+    "definition": "a person who plays a musical instrument, especially as a job",
+    "translation": "nhạc sĩ, nhạc công",
+    "exampleSentence": "The musician played the guitar very well.",
+    "exampleTranslation": "Nhạc công chơi guitar rất hay.",
+    "pos": "noun"
+  },
+  {
+    "word": "artist",
+    "phonetic": "/ˈɑːrtɪst/",
+    "definition": "a person who makes art, especially paintings or drawings",
+    "translation": "họa sĩ, nghệ sĩ",
+    "exampleSentence": "The artist is painting a mountain.",
+    "exampleTranslation": "Họa sĩ đang vẽ một ngọn núi.",
+    "pos": "noun"
+  },
+  {
+    "word": "painter",
+    "phonetic": "/ˈpeɪntər/",
+    "definition": "a person who paints pictures, or paints houses and buildings",
+    "translation": "họa sĩ, thợ sơn",
+    "exampleSentence": "The painter is working on a new picture.",
+    "exampleTranslation": "Họa sĩ đang làm một bức tranh mới.",
+    "pos": "noun"
+  },
+  {
+    "word": "writer",
+    "phonetic": "/ˈraɪtər/",
+    "definition": "a person who writes books, stories, or articles as a job",
+    "translation": "nhà văn, người viết",
+    "exampleSentence": "Mai is a writer for a magazine.",
+    "exampleTranslation": "Mai là người viết bài cho một tạp chí.",
+    "pos": "noun"
+  },
+  {
+    "word": "author",
+    "phonetic": "/ˈɔːθər/",
+    "definition": "a person who has written a book",
+    "translation": "tác giả",
+    "exampleSentence": "Who is the author of this book?",
+    "exampleTranslation": "Ai là tác giả của cuốn sách này?",
+    "pos": "noun"
+  },
+  {
+    "word": "journalist",
+    "phonetic": "/ˈdʒɜːrnəlɪst/",
+    "definition": "a person who writes news reports for newspapers, TV, or radio",
+    "translation": "nhà báo",
+    "exampleSentence": "The journalist asked the mayor some questions.",
+    "exampleTranslation": "Nhà báo đã hỏi thị trưởng vài câu hỏi.",
+    "pos": "noun"
+  },
+  {
+    "word": "reporter",
+    "phonetic": "/rɪˈpɔːrtər/",
+    "definition": "a person whose job is to tell people about news events",
+    "translation": "phóng viên",
+    "exampleSentence": "The reporter is waiting outside the court.",
+    "exampleTranslation": "Phóng viên đang đợi bên ngoài tòa án.",
+    "pos": "noun"
+  },
+  {
+    "word": "photographer",
+    "phonetic": "/fəˈtɑːɡrəfər/",
+    "definition": "a person who takes photographs, especially as a job",
+    "translation": "nhiếp ảnh gia, thợ chụp ảnh",
+    "exampleSentence": "The photographer took pictures of the wedding.",
+    "exampleTranslation": "Nhiếp ảnh gia đã chụp ảnh đám cưới.",
+    "pos": "noun"
+  },
+  {
+    "word": "model",
+    "phonetic": "/ˈmɑːdl/",
+    "definition": "a person whose job is to wear clothes for photographs or fashion shows",
+    "translation": "người mẫu",
+    "exampleSentence": "Lan works as a model in Paris.",
+    "exampleTranslation": "Lan làm người mẫu ở Paris.",
+    "pos": "noun"
+  },
+  {
+    "word": "president",
+    "phonetic": "/ˈprezɪdənt/",
+    "definition": "the official leader of a country that has no king or queen",
+    "translation": "tổng thống, chủ tịch",
+    "exampleSentence": "The president gave a speech on TV.",
+    "exampleTranslation": "Tổng thống đã có bài phát biểu trên TV.",
+    "pos": "noun"
+  },
+  {
+    "word": "politician",
+    "phonetic": "/ˌpɑːləˈtɪʃən/",
+    "definition": "a person who works in politics, especially an elected one",
+    "translation": "chính trị gia, chính khách",
+    "exampleSentence": "The politician spoke to a large crowd.",
+    "exampleTranslation": "Chính trị gia đã nói chuyện với đám đông lớn.",
+    "pos": "noun"
+  },
+  {
+    "word": "mayor",
+    "phonetic": "/ˈmeɪər/",
+    "definition": "the person elected to lead the government of a town or city",
+    "translation": "thị trưởng, chủ tịch thành phố",
+    "exampleSentence": "The mayor opened the new library.",
+    "exampleTranslation": "Thị trưởng đã khai trương thư viện mới.",
+    "pos": "noun"
+  },
+  {
+    "word": "priest",
+    "phonetic": "/priːst/",
+    "definition": "a person trained to perform religious duties in a church",
+    "translation": "linh mục, cha xứ",
+    "exampleSentence": "The priest read a prayer.",
+    "exampleTranslation": "Vị linh mục đọc một bài cầu nguyện.",
+    "pos": "noun"
+  },
+  {
+    "word": "monk",
+    "phonetic": "/mʌŋk/",
+    "definition": "a man who belongs to a religious group and lives in a monastery",
+    "translation": "nhà sư, thầy tu",
+    "exampleSentence": "The monk lives in a small temple.",
+    "exampleTranslation": "Nhà sư sống trong một ngôi chùa nhỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "office",
+    "phonetic": "/ˈɑːfɪs/",
+    "definition": "a building or room where people work at desks",
+    "translation": "văn phòng, cơ quan",
+    "exampleSentence": "I get to the office at eight.",
+    "exampleTranslation": "Tôi đến văn phòng lúc tám giờ.",
+    "pos": "noun"
+  },
+  {
+    "word": "workplace",
+    "phonetic": "/ˈwɜːrkpleɪs/",
+    "definition": "the room or building where you work",
+    "translation": "nơi làm việc, chỗ làm",
+    "exampleSentence": "My workplace is close to my home.",
+    "exampleTranslation": "Nơi làm việc của tôi gần nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "company",
+    "phonetic": "/ˈkʌmpəni/",
+    "definition": "an organization that makes or sells goods or services",
+    "translation": "công ty",
+    "exampleSentence": "Which company do you work for?",
+    "exampleTranslation": "Bạn làm cho công ty nào?",
+    "pos": "noun"
+  },
+  {
+    "word": "business",
+    "phonetic": "/ˈbɪznəs/",
+    "definition": "an organization such as a shop or company that sells goods or services",
+    "translation": "doanh nghiệp, cơ sở kinh doanh",
+    "exampleSentence": "My parents have a small business.",
+    "exampleTranslation": "Bố mẹ tôi có một cơ sở kinh doanh nhỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "factory",
+    "phonetic": "/ˈfæktəri/",
+    "definition": "a building where machines make goods in large numbers",
+    "translation": "nhà máy, xưởng",
+    "exampleSentence": "Many people work in the car factory.",
+    "exampleTranslation": "Nhiều người làm việc trong nhà máy ô tô.",
+    "pos": "noun"
+  },
+  {
+    "word": "workshop",
+    "phonetic": "/ˈwɜːrkʃɑːp/",
+    "definition": "a room or building where tools are used to make or repair things",
+    "translation": "xưởng, xưởng sửa chữa",
+    "exampleSentence": "My uncle has a small workshop behind his house.",
+    "exampleTranslation": "Chú tôi có một xưởng nhỏ phía sau nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "laboratory",
+    "phonetic": "/ˈlæbrətɔːri/",
+    "definition": "a room or building where a scientist does tests",
+    "translation": "phòng thí nghiệm",
+    "exampleSentence": "The scientists work in the laboratory.",
+    "exampleTranslation": "Các nhà khoa học làm việc trong phòng thí nghiệm.",
+    "pos": "noun"
+  },
+  {
+    "word": "studio",
+    "phonetic": "/ˈstuːdioʊ/",
+    "definition": "a room where an artist or photographer works, or where programs or music are made",
+    "translation": "xưởng vẽ, phòng thu, studio",
+    "exampleSentence": "The artist works in a small studio.",
+    "exampleTranslation": "Họa sĩ làm việc trong một xưởng vẽ nhỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "farm",
+    "phonetic": "/fɑːrm/",
+    "definition": "an area of land used for growing crops or keeping animals",
+    "translation": "nông trại, trang trại",
+    "exampleSentence": "My grandparents live on a farm.",
+    "exampleTranslation": "Ông bà tôi sống ở một nông trại.",
+    "pos": "noun"
+  },
+  {
+    "word": "shop",
+    "phonetic": "/ʃɑːp/",
+    "definition": "a building where you can buy things",
+    "translation": "cửa hàng, cửa tiệm",
+    "exampleSentence": "There is a shop near my school.",
+    "exampleTranslation": "Có một cửa hàng gần trường của tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "supermarket",
+    "phonetic": "/ˈsuːpərˌmɑːrkɪt/",
+    "definition": "a large shop that sells food and things for the home",
+    "translation": "siêu thị",
+    "exampleSentence": "We buy our food at the supermarket.",
+    "exampleTranslation": "Chúng tôi mua thức ăn ở siêu thị.",
+    "pos": "noun"
+  },
+  {
+    "word": "bank",
+    "phonetic": "/bæŋk/",
+    "definition": "a business that keeps your money and gives you loans",
+    "translation": "ngân hàng",
+    "exampleSentence": "I need to go to the bank.",
+    "exampleTranslation": "Tôi cần đến ngân hàng.",
+    "pos": "noun"
+  },
+  {
+    "word": "hospital",
+    "phonetic": "/ˈhɑːspɪtl/",
+    "definition": "a large building where sick or injured people get treatment",
+    "translation": "bệnh viện",
+    "exampleSentence": "Hoa works at a hospital.",
+    "exampleTranslation": "Hoa làm việc ở bệnh viện.",
+    "pos": "noun"
+  },
+  {
+    "word": "school",
+    "phonetic": "/skuːl/",
+    "definition": "a place where children are taught",
+    "translation": "trường học, trường",
+    "exampleSentence": "The school starts at seven thirty.",
+    "exampleTranslation": "Trường học bắt đầu lúc bảy giờ ba mươi.",
+    "pos": "noun"
+  },
+  {
+    "word": "restaurant",
+    "phonetic": "/ˈrestərɑːnt/",
+    "definition": "a place where you can buy and eat a meal",
+    "translation": "nhà hàng, quán ăn",
+    "exampleSentence": "We had dinner at a small restaurant.",
+    "exampleTranslation": "Chúng tôi ăn tối ở một nhà hàng nhỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "hotel",
+    "phonetic": "/hoʊˈtel/",
+    "definition": "a building where people pay to stay and eat meals",
+    "translation": "khách sạn",
+    "exampleSentence": "They work at a big hotel in the city.",
+    "exampleTranslation": "Họ làm việc ở một khách sạn lớn trong thành phố.",
+    "pos": "noun"
+  },
+  {
+    "word": "police station",
+    "phonetic": "/pəˈliːs ˈsteɪʃən/",
+    "definition": "the local office of the police",
+    "translation": "đồn cảnh sát, đồn công an",
+    "exampleSentence": "The police station is next to the bank.",
+    "exampleTranslation": "Đồn cảnh sát ở cạnh ngân hàng.",
+    "pos": "noun"
+  },
+  {
+    "word": "post office",
+    "phonetic": "/poʊst ˈɑːfɪs/",
+    "definition": "a place where you can buy stamps and send letters and parcels",
+    "translation": "bưu điện",
+    "exampleSentence": "I am going to the post office to send a parcel.",
+    "exampleTranslation": "Tôi đi đến bưu điện để gửi một bưu kiện.",
+    "pos": "noun"
+  }
+]

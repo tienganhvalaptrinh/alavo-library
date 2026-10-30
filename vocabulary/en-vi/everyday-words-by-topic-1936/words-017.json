@@ -1,0 +1,929 @@
+[
+  {
+    "word": "weather",
+    "phonetic": "/ˈweðər/",
+    "definition": "the temperature and conditions such as sun, rain and wind",
+    "translation": "thời tiết",
+    "exampleSentence": "What's the weather like today?",
+    "exampleTranslation": "Hôm nay thời tiết thế nào?",
+    "pos": "noun"
+  },
+  {
+    "word": "forecast",
+    "phonetic": "/ˈfɔːrkæst/",
+    "definition": "a statement about what the weather is likely to be",
+    "translation": "dự báo (thời tiết)",
+    "exampleSentence": "The forecast says it will rain tomorrow.",
+    "exampleTranslation": "Dự báo nói ngày mai trời sẽ mưa.",
+    "pos": "noun"
+  },
+  {
+    "word": "temperature",
+    "phonetic": "/ˈtemprətʃər/",
+    "definition": "a measure of how hot or cold a place is",
+    "translation": "nhiệt độ",
+    "exampleSentence": "The temperature is 30 degrees today.",
+    "exampleTranslation": "Hôm nay nhiệt độ là 30 độ.",
+    "pos": "noun"
+  },
+  {
+    "word": "season",
+    "phonetic": "/ˈsiːzən/",
+    "definition": "one of the four periods of the year, such as spring",
+    "translation": "mùa",
+    "exampleSentence": "My favourite season is summer.",
+    "exampleTranslation": "Mùa tôi thích nhất là mùa hè.",
+    "pos": "noun"
+  },
+  {
+    "word": "spring",
+    "phonetic": "/sprɪŋ/",
+    "definition": "the season between winter and summer when flowers appear",
+    "translation": "mùa xuân",
+    "exampleSentence": "Flowers bloom in spring.",
+    "exampleTranslation": "Hoa nở vào mùa xuân.",
+    "pos": "noun"
+  },
+  {
+    "word": "summer",
+    "phonetic": "/ˈsʌmər/",
+    "definition": "the hottest season of the year, between spring and autumn",
+    "translation": "mùa hè, mùa hạ",
+    "exampleSentence": "We go to the beach every summer.",
+    "exampleTranslation": "Chúng tôi đi biển mỗi mùa hè.",
+    "pos": "noun"
+  },
+  {
+    "word": "autumn",
+    "phonetic": "/ˈɔːtəm/",
+    "definition": "the season between summer and winter when leaves change colour",
+    "translation": "mùa thu",
+    "exampleSentence": "The leaves fall in autumn.",
+    "exampleTranslation": "Lá rơi vào mùa thu.",
+    "pos": "noun"
+  },
+  {
+    "word": "winter",
+    "phonetic": "/ˈwɪntər/",
+    "definition": "the coldest season of the year, after autumn",
+    "translation": "mùa đông",
+    "exampleSentence": "It is very cold here in winter.",
+    "exampleTranslation": "Ở đây mùa đông rất lạnh.",
+    "pos": "noun"
+  },
+  {
+    "word": "sun",
+    "phonetic": "/sʌn/",
+    "definition": "the heat and light that come from the sun",
+    "translation": "mặt trời, ánh nắng",
+    "exampleSentence": "Too much sun is bad for you.",
+    "exampleTranslation": "Phơi nắng quá nhiều không tốt cho bạn.",
+    "pos": "noun"
+  },
+  {
+    "word": "sunshine",
+    "phonetic": "/ˈsʌnʃaɪn/",
+    "definition": "the light and heat from the sun when there is no cloud",
+    "translation": "ánh nắng",
+    "exampleSentence": "We had three days of sunshine.",
+    "exampleTranslation": "Chúng tôi có ba ngày nắng đẹp.",
+    "pos": "noun"
+  },
+  {
+    "word": "sunny",
+    "phonetic": "/ˈsʌni/",
+    "definition": "with a lot of light from the sun",
+    "translation": "có nắng, nắng",
+    "exampleSentence": "It is a warm sunny day.",
+    "exampleTranslation": "Hôm nay là một ngày nắng ấm.",
+    "pos": "adjective"
+  },
+  {
+    "word": "hot",
+    "phonetic": "/hɑːt/",
+    "definition": "having a high temperature",
+    "translation": "nóng",
+    "exampleSentence": "It is very hot today.",
+    "exampleTranslation": "Hôm nay trời rất nóng.",
+    "pos": "adjective"
+  },
+  {
+    "word": "warm",
+    "phonetic": "/wɔːrm/",
+    "definition": "slightly hot in a pleasant way",
+    "translation": "ấm, ấm áp",
+    "exampleSentence": "The house is warm.",
+    "exampleTranslation": "Ngôi nhà rất ấm.",
+    "pos": "adjective"
+  },
+  {
+    "word": "cool",
+    "phonetic": "/kuːl/",
+    "definition": "low in temperature but not cold, in a pleasant way",
+    "translation": "mát, mát mẻ",
+    "exampleSentence": "The water is nice and cool.",
+    "exampleTranslation": "Nước mát rất dễ chịu.",
+    "pos": "adjective"
+  },
+  {
+    "word": "cold",
+    "phonetic": "/koʊld/",
+    "definition": "having a low temperature",
+    "translation": "lạnh",
+    "exampleSentence": "It was so cold this morning.",
+    "exampleTranslation": "Sáng nay trời lạnh quá.",
+    "pos": "adjective"
+  },
+  {
+    "word": "freezing",
+    "phonetic": "/ˈfriːzɪŋ/",
+    "definition": "extremely cold",
+    "translation": "rất lạnh, lạnh cóng",
+    "exampleSentence": "It is freezing in this room.",
+    "exampleTranslation": "Trong phòng này lạnh cóng.",
+    "pos": "adjective"
+  },
+  {
+    "word": "humid",
+    "phonetic": "/ˈhjuːmɪd/",
+    "definition": "with a lot of water in the air, so you feel hot and sticky",
+    "translation": "ẩm, ẩm ướt, oi bức",
+    "exampleSentence": "It is very humid in summer.",
+    "exampleTranslation": "Mùa hè ở đây rất oi bức.",
+    "pos": "adjective"
+  },
+  {
+    "word": "dry",
+    "phonetic": "/draɪ/",
+    "definition": "having very little rain or water",
+    "translation": "khô, khô ráo",
+    "exampleSentence": "The weather was hot and dry.",
+    "exampleTranslation": "Thời tiết nóng và khô.",
+    "pos": "adjective"
+  },
+  {
+    "word": "wet",
+    "phonetic": "/wet/",
+    "definition": "covered in water, or rainy",
+    "translation": "ướt, ẩm ướt",
+    "exampleSentence": "My shirt is still wet.",
+    "exampleTranslation": "Áo của tôi vẫn còn ướt.",
+    "pos": "adjective"
+  },
+  {
+    "word": "heat wave",
+    "phonetic": "/hiːt weɪv/",
+    "definition": "a long period of very hot weather",
+    "translation": "đợt nắng nóng",
+    "exampleSentence": "The heat wave lasted a week.",
+    "exampleTranslation": "Đợt nắng nóng kéo dài một tuần.",
+    "pos": "noun"
+  },
+  {
+    "word": "drought",
+    "phonetic": "/draʊt/",
+    "definition": "a long period of dry weather with not enough water",
+    "translation": "hạn hán",
+    "exampleSentence": "The drought killed many crops.",
+    "exampleTranslation": "Hạn hán làm chết nhiều cây trồng.",
+    "pos": "noun"
+  },
+  {
+    "word": "cloud",
+    "phonetic": "/klaʊd/",
+    "definition": "a white or grey mass in the sky",
+    "translation": "đám mây, mây",
+    "exampleSentence": "Dark clouds covered the sky.",
+    "exampleTranslation": "Mây đen phủ kín bầu trời.",
+    "pos": "noun"
+  },
+  {
+    "word": "cloudy",
+    "phonetic": "/ˈklaʊdi/",
+    "definition": "with a lot of clouds in the sky",
+    "translation": "nhiều mây, âm u",
+    "exampleSentence": "It is cloudy this morning.",
+    "exampleTranslation": "Sáng nay trời nhiều mây.",
+    "pos": "adjective"
+  },
+  {
+    "word": "rain",
+    "phonetic": "/reɪn/",
+    "definition": "water that falls from clouds in small drops",
+    "translation": "mưa, cơn mưa",
+    "exampleSentence": "The rain became heavier.",
+    "exampleTranslation": "Mưa càng lúc càng nặng hạt.",
+    "pos": "noun"
+  },
+  {
+    "word": "rainy",
+    "phonetic": "/ˈreɪni/",
+    "definition": "with a lot of rain",
+    "translation": "có mưa, hay mưa",
+    "exampleSentence": "It was a cold rainy day.",
+    "exampleTranslation": "Đó là một ngày mưa lạnh.",
+    "pos": "adjective"
+  },
+  {
+    "word": "drizzle",
+    "phonetic": "/ˈdrɪzəl/",
+    "definition": "light rain with very small drops",
+    "translation": "mưa phùn",
+    "exampleSentence": "A light drizzle started when we left.",
+    "exampleTranslation": "Mưa phùn bắt đầu khi chúng tôi ra về.",
+    "pos": "noun"
+  },
+  {
+    "word": "puddle",
+    "phonetic": "/ˈpʌdl/",
+    "definition": "a small pool of rainwater on the ground",
+    "translation": "vũng nước",
+    "exampleSentence": "The children splashed in the puddles.",
+    "exampleTranslation": "Bọn trẻ nghịch nước trong các vũng nước.",
+    "pos": "noun"
+  },
+  {
+    "word": "rainbow",
+    "phonetic": "/ˈreɪnboʊ/",
+    "definition": "a curve of different colours in the sky when sun and rain meet",
+    "translation": "cầu vồng",
+    "exampleSentence": "Look at that beautiful rainbow!",
+    "exampleTranslation": "Nhìn cầu vồng đẹp kìa!",
+    "pos": "noun"
+  },
+  {
+    "word": "wind",
+    "phonetic": "/wɪnd/",
+    "definition": "air that moves strongly or quickly",
+    "translation": "gió",
+    "exampleSentence": "The wind blew from the north.",
+    "exampleTranslation": "Gió thổi từ phía bắc.",
+    "pos": "noun"
+  },
+  {
+    "word": "windy",
+    "phonetic": "/ˈwɪndi/",
+    "definition": "with a lot of wind",
+    "translation": "có gió, lộng gió",
+    "exampleSentence": "It is too windy for a picnic.",
+    "exampleTranslation": "Trời nhiều gió quá nên không đi dã ngoại được.",
+    "pos": "adjective"
+  },
+  {
+    "word": "breeze",
+    "phonetic": "/briːz/",
+    "definition": "a gentle wind",
+    "translation": "làn gió nhẹ, gió nhẹ",
+    "exampleSentence": "A cool breeze came off the sea.",
+    "exampleTranslation": "Một làn gió mát thổi từ biển vào.",
+    "pos": "noun"
+  },
+  {
+    "word": "fog",
+    "phonetic": "/fɑːɡ/",
+    "definition": "thick cloudy air near the ground that is hard to see through",
+    "translation": "sương mù",
+    "exampleSentence": "We got lost in the thick fog.",
+    "exampleTranslation": "Chúng tôi bị lạc trong sương mù dày.",
+    "pos": "noun"
+  },
+  {
+    "word": "foggy",
+    "phonetic": "/ˈfɑːɡi/",
+    "definition": "with a lot of fog",
+    "translation": "có sương mù",
+    "exampleSentence": "It was a foggy morning.",
+    "exampleTranslation": "Đó là một buổi sáng nhiều sương mù.",
+    "pos": "adjective"
+  },
+  {
+    "word": "mist",
+    "phonetic": "/mɪst/",
+    "definition": "a light cloud low over the ground",
+    "translation": "sương mỏng, màn sương",
+    "exampleSentence": "We saw the hills through the mist.",
+    "exampleTranslation": "Chúng tôi thấy những ngọn đồi qua màn sương.",
+    "pos": "noun"
+  },
+  {
+    "word": "storm",
+    "phonetic": "/stɔːrm/",
+    "definition": "very bad weather with strong wind and heavy rain",
+    "translation": "cơn bão, bão",
+    "exampleSentence": "A big storm hit the town last night.",
+    "exampleTranslation": "Một cơn bão lớn đã đổ vào thị trấn đêm qua.",
+    "pos": "noun"
+  },
+  {
+    "word": "stormy",
+    "phonetic": "/ˈstɔːrmi/",
+    "definition": "with strong winds, heavy rain and dark clouds",
+    "translation": "có bão, giông bão",
+    "exampleSentence": "The sky looks stormy.",
+    "exampleTranslation": "Bầu trời trông như sắp có bão.",
+    "pos": "adjective"
+  },
+  {
+    "word": "thunder",
+    "phonetic": "/ˈθʌndər/",
+    "definition": "the loud noise you hear during a storm",
+    "translation": "sấm, tiếng sấm",
+    "exampleSentence": "The thunder woke us up in the night.",
+    "exampleTranslation": "Tiếng sấm đánh thức chúng tôi trong đêm.",
+    "pos": "noun"
+  },
+  {
+    "word": "lightning",
+    "phonetic": "/ˈlaɪtnɪŋ/",
+    "definition": "a bright flash of light in the sky during a storm",
+    "translation": "chớp, sét",
+    "exampleSentence": "The tree was hit by lightning.",
+    "exampleTranslation": "Cái cây bị sét đánh.",
+    "pos": "noun"
+  },
+  {
+    "word": "thunderstorm",
+    "phonetic": "/ˈθʌndərstɔːrm/",
+    "definition": "a storm with thunder and lightning",
+    "translation": "cơn giông, bão có sấm sét",
+    "exampleSentence": "There was a thunderstorm last night.",
+    "exampleTranslation": "Đêm qua có giông kèm sấm sét.",
+    "pos": "noun"
+  },
+  {
+    "word": "typhoon",
+    "phonetic": "/taɪˈfuːn/",
+    "definition": "a very strong tropical storm",
+    "translation": "bão, bão nhiệt đới",
+    "exampleSentence": "The typhoon hit the coast on Friday.",
+    "exampleTranslation": "Bão đổ bộ vào bờ biển hôm thứ Sáu.",
+    "pos": "noun"
+  },
+  {
+    "word": "hurricane",
+    "phonetic": "/ˈhɜːrəkeɪn/",
+    "definition": "a storm with very strong winds that forms over the sea",
+    "translation": "cơn bão lớn, bão",
+    "exampleSentence": "The hurricane destroyed many houses.",
+    "exampleTranslation": "Cơn bão đã phá hủy nhiều ngôi nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "flood",
+    "phonetic": "/flʌd/",
+    "definition": "a large amount of water covering land that is usually dry",
+    "translation": "lũ, lũ lụt, trận lụt",
+    "exampleSentence": "The village was cut off by floods.",
+    "exampleTranslation": "Ngôi làng bị cô lập vì lũ.",
+    "pos": "noun"
+  },
+  {
+    "word": "snow",
+    "phonetic": "/snoʊ/",
+    "definition": "soft white pieces of frozen water that fall from the sky",
+    "translation": "tuyết",
+    "exampleSentence": "Snow fell all night.",
+    "exampleTranslation": "Tuyết rơi suốt đêm.",
+    "pos": "noun"
+  },
+  {
+    "word": "snowy",
+    "phonetic": "/ˈsnoʊi/",
+    "definition": "with a lot of snow",
+    "translation": "có tuyết, đầy tuyết",
+    "exampleSentence": "The snowy fields looked beautiful.",
+    "exampleTranslation": "Những cánh đồng phủ tuyết trông thật đẹp.",
+    "pos": "adjective"
+  },
+  {
+    "word": "frost",
+    "phonetic": "/frɔːst/",
+    "definition": "white powdery ice that covers things outside when it is very cold",
+    "translation": "sương giá, băng giá",
+    "exampleSentence": "The grass was white with frost.",
+    "exampleTranslation": "Cỏ trắng xóa vì sương giá.",
+    "pos": "noun"
+  },
+  {
+    "word": "hail",
+    "phonetic": "/heɪl/",
+    "definition": "frozen raindrops that fall as hard balls of ice",
+    "translation": "mưa đá",
+    "exampleSentence": "Hail broke the car window.",
+    "exampleTranslation": "Mưa đá làm vỡ cửa kính xe.",
+    "pos": "noun"
+  },
+  {
+    "word": "freeze",
+    "phonetic": "/friːz/",
+    "definition": "to become hard and solid because it is very cold",
+    "translation": "đóng băng",
+    "exampleSentence": "The lake freezes every winter.",
+    "exampleTranslation": "Hồ đóng băng vào mỗi mùa đông.",
+    "pos": "verb"
+  },
+  {
+    "word": "melt",
+    "phonetic": "/melt/",
+    "definition": "to become liquid because of heat",
+    "translation": "tan, tan chảy",
+    "exampleSentence": "The snow began to melt.",
+    "exampleTranslation": "Tuyết bắt đầu tan.",
+    "pos": "verb"
+  },
+  {
+    "word": "shine",
+    "phonetic": "/ʃaɪn/",
+    "definition": "to give out bright light",
+    "translation": "chiếu sáng, tỏa sáng",
+    "exampleSentence": "The sun was shining.",
+    "exampleTranslation": "Mặt trời đang chiếu sáng.",
+    "pos": "verb"
+  },
+  {
+    "word": "earthquake",
+    "phonetic": "/ˈɜːrθkweɪk/",
+    "definition": "a sudden shaking of the ground that can cause damage",
+    "translation": "động đất, trận động đất",
+    "exampleSentence": "The earthquake shook the whole city.",
+    "exampleTranslation": "Trận động đất làm rung chuyển cả thành phố.",
+    "pos": "noun"
+  },
+  {
+    "word": "nature",
+    "phonetic": "/ˈneɪtʃər/",
+    "definition": "everything in the world not made by people, such as plants and animals",
+    "translation": "thiên nhiên, tự nhiên",
+    "exampleSentence": "I love walking in nature.",
+    "exampleTranslation": "Tôi thích đi dạo giữa thiên nhiên.",
+    "pos": "noun"
+  },
+  {
+    "word": "environment",
+    "phonetic": "/ɪnˈvaɪrənmənt/",
+    "definition": "the air, water and land where people, animals and plants live",
+    "translation": "môi trường",
+    "exampleSentence": "We must protect the environment.",
+    "exampleTranslation": "Chúng ta phải bảo vệ môi trường.",
+    "pos": "noun"
+  },
+  {
+    "word": "scenery",
+    "phonetic": "/ˈsiːnəri/",
+    "definition": "the natural beauty of a place, such as mountains and forests",
+    "translation": "phong cảnh, cảnh đẹp",
+    "exampleSentence": "The scenery here is fantastic.",
+    "exampleTranslation": "Phong cảnh ở đây thật tuyệt.",
+    "pos": "noun"
+  },
+  {
+    "word": "countryside",
+    "phonetic": "/ˈkʌntrisaɪd/",
+    "definition": "land outside cities and towns",
+    "translation": "vùng nông thôn, miền quê",
+    "exampleSentence": "We drove through the countryside.",
+    "exampleTranslation": "Chúng tôi lái xe qua vùng nông thôn.",
+    "pos": "noun"
+  },
+  {
+    "word": "wildlife",
+    "phonetic": "/ˈwaɪldlaɪf/",
+    "definition": "animals and plants that live in natural conditions",
+    "translation": "động vật hoang dã, thế giới hoang dã",
+    "exampleSentence": "This park is full of wildlife.",
+    "exampleTranslation": "Công viên này có rất nhiều động vật hoang dã.",
+    "pos": "noun"
+  },
+  {
+    "word": "tree",
+    "phonetic": "/triː/",
+    "definition": "a tall plant with a trunk, branches and leaves",
+    "translation": "cây, cây to",
+    "exampleSentence": "The children climbed the tree.",
+    "exampleTranslation": "Bọn trẻ trèo lên cây.",
+    "pos": "noun"
+  },
+  {
+    "word": "branch",
+    "phonetic": "/bræntʃ/",
+    "definition": "a part of a tree that grows out from the trunk",
+    "translation": "cành cây, nhánh cây",
+    "exampleSentence": "A bird sat on the branch.",
+    "exampleTranslation": "Một con chim đậu trên cành cây.",
+    "pos": "noun"
+  },
+  {
+    "word": "flower",
+    "phonetic": "/ˈflaʊər/",
+    "definition": "the coloured part of a plant that appears before the fruit",
+    "translation": "hoa, bông hoa",
+    "exampleSentence": "I picked some flowers in the garden.",
+    "exampleTranslation": "Tôi hái vài bông hoa trong vườn.",
+    "pos": "noun"
+  },
+  {
+    "word": "grass",
+    "phonetic": "/ɡræs/",
+    "definition": "a common green plant with thin leaves that covers the ground",
+    "translation": "cỏ",
+    "exampleSentence": "The children sat on the grass.",
+    "exampleTranslation": "Bọn trẻ ngồi trên cỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "bush",
+    "phonetic": "/bʊʃ/",
+    "definition": "a plant with many thin branches growing from the ground",
+    "translation": "bụi cây, cây bụi",
+    "exampleSentence": "There is a rose bush in the garden.",
+    "exampleTranslation": "Trong vườn có một bụi hoa hồng.",
+    "pos": "noun"
+  },
+  {
+    "word": "forest",
+    "phonetic": "/ˈfɔːrɪst/",
+    "definition": "a large area of land covered with trees",
+    "translation": "rừng",
+    "exampleSentence": "We walked through the forest.",
+    "exampleTranslation": "Chúng tôi đi bộ xuyên qua khu rừng.",
+    "pos": "noun"
+  },
+  {
+    "word": "rain forest",
+    "phonetic": "/ˈreɪnfɔːrɪst/",
+    "definition": "a thick tropical forest in a place where it rains a lot",
+    "translation": "rừng nhiệt đới, rừng mưa nhiệt đới",
+    "exampleSentence": "The rain forest is home to many animals.",
+    "exampleTranslation": "Rừng nhiệt đới là nhà của nhiều loài động vật.",
+    "pos": "noun"
+  },
+  {
+    "word": "jungle",
+    "phonetic": "/ˈdʒʌŋɡəl/",
+    "definition": "a thick tropical forest with many plants growing close together",
+    "translation": "rừng rậm, rừng nhiệt đới",
+    "exampleSentence": "They travelled through the jungle.",
+    "exampleTranslation": "Họ đi xuyên qua rừng rậm.",
+    "pos": "noun"
+  },
+  {
+    "word": "wood",
+    "phonetic": "/wʊd/",
+    "definition": "the hard material that trees are made of",
+    "translation": "gỗ",
+    "exampleSentence": "This table is made of wood.",
+    "exampleTranslation": "Cái bàn này làm bằng gỗ.",
+    "pos": "noun"
+  },
+  {
+    "word": "river",
+    "phonetic": "/ˈrɪvər/",
+    "definition": "a long natural flow of water that goes into the sea",
+    "translation": "sông, con sông",
+    "exampleSentence": "We swam in the river.",
+    "exampleTranslation": "Chúng tôi bơi ở sông.",
+    "pos": "noun"
+  },
+  {
+    "word": "stream",
+    "phonetic": "/striːm/",
+    "definition": "a small narrow river",
+    "translation": "suối, dòng suối",
+    "exampleSentence": "A small stream runs through the forest.",
+    "exampleTranslation": "Một dòng suối nhỏ chảy qua khu rừng.",
+    "pos": "noun"
+  },
+  {
+    "word": "waterfall",
+    "phonetic": "/ˈwɔːtərfɔːl/",
+    "definition": "a place where river water falls down over a rock or cliff",
+    "translation": "thác nước",
+    "exampleSentence": "We hiked to a beautiful waterfall.",
+    "exampleTranslation": "Chúng tôi đi bộ đến một thác nước rất đẹp.",
+    "pos": "noun"
+  },
+  {
+    "word": "lake",
+    "phonetic": "/leɪk/",
+    "definition": "a large area of water with land all around it",
+    "translation": "hồ",
+    "exampleSentence": "You can swim in the lake.",
+    "exampleTranslation": "Bạn có thể bơi ở hồ.",
+    "pos": "noun"
+  },
+  {
+    "word": "pond",
+    "phonetic": "/pɑːnd/",
+    "definition": "a small area of water, smaller than a lake",
+    "translation": "ao, cái ao",
+    "exampleSentence": "There are fish in the pond.",
+    "exampleTranslation": "Có cá trong ao.",
+    "pos": "noun"
+  },
+  {
+    "word": "sea",
+    "phonetic": "/siː/",
+    "definition": "the large area of salty water that covers much of the Earth",
+    "translation": "biển",
+    "exampleSentence": "The children ran into the sea.",
+    "exampleTranslation": "Bọn trẻ chạy xuống biển.",
+    "pos": "noun"
+  },
+  {
+    "word": "ocean",
+    "phonetic": "/ˈoʊʃən/",
+    "definition": "one of the very large areas of sea on Earth",
+    "translation": "đại dương",
+    "exampleSentence": "The Pacific is the biggest ocean.",
+    "exampleTranslation": "Thái Bình Dương là đại dương lớn nhất.",
+    "pos": "noun"
+  },
+  {
+    "word": "wave",
+    "phonetic": "/weɪv/",
+    "definition": "a line of raised water that moves across the sea",
+    "translation": "sóng, con sóng",
+    "exampleSentence": "We watched the waves hit the rocks.",
+    "exampleTranslation": "Chúng tôi ngắm sóng đánh vào đá.",
+    "pos": "noun"
+  },
+  {
+    "word": "beach",
+    "phonetic": "/biːtʃ/",
+    "definition": "an area of sand or small stones next to the sea",
+    "translation": "bãi biển",
+    "exampleSentence": "We spent the day on the beach.",
+    "exampleTranslation": "Chúng tôi ở bãi biển cả ngày.",
+    "pos": "noun"
+  },
+  {
+    "word": "coast",
+    "phonetic": "/koʊst/",
+    "definition": "the area where the land meets the sea",
+    "translation": "bờ biển, vùng ven biển",
+    "exampleSentence": "They live on the east coast.",
+    "exampleTranslation": "Họ sống ở bờ biển phía đông.",
+    "pos": "noun"
+  },
+  {
+    "word": "island",
+    "phonetic": "/ˈaɪlənd/",
+    "definition": "a piece of land with water all around it",
+    "translation": "đảo, hòn đảo",
+    "exampleSentence": "We visited a small island.",
+    "exampleTranslation": "Chúng tôi thăm một hòn đảo nhỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "mountain",
+    "phonetic": "/ˈmaʊntən/",
+    "definition": "a very high hill",
+    "translation": "núi, ngọn núi",
+    "exampleSentence": "We climbed the mountain.",
+    "exampleTranslation": "Chúng tôi leo lên ngọn núi.",
+    "pos": "noun"
+  },
+  {
+    "word": "hill",
+    "phonetic": "/hɪl/",
+    "definition": "an area of land higher than the land around it, but smaller than a mountain",
+    "translation": "đồi, ngọn đồi",
+    "exampleSentence": "Their house is on a hill.",
+    "exampleTranslation": "Nhà của họ nằm trên một ngọn đồi.",
+    "pos": "noun"
+  },
+  {
+    "word": "valley",
+    "phonetic": "/ˈvæli/",
+    "definition": "low land between two lines of hills or mountains",
+    "translation": "thung lũng",
+    "exampleSentence": "A river runs through the valley.",
+    "exampleTranslation": "Một con sông chảy qua thung lũng.",
+    "pos": "noun"
+  },
+  {
+    "word": "cliff",
+    "phonetic": "/klɪf/",
+    "definition": "a high rock with a very steep side, often next to the sea",
+    "translation": "vách đá, vách núi",
+    "exampleSentence": "Be careful near the edge of the cliff.",
+    "exampleTranslation": "Hãy cẩn thận gần mép vách đá.",
+    "pos": "noun"
+  },
+  {
+    "word": "cave",
+    "phonetic": "/keɪv/",
+    "definition": "a large natural hole in a cliff or under the ground",
+    "translation": "hang, hang động",
+    "exampleSentence": "Bats live in the cave.",
+    "exampleTranslation": "Dơi sống trong hang.",
+    "pos": "noun"
+  },
+  {
+    "word": "volcano",
+    "phonetic": "/vɑːlˈkeɪnoʊ/",
+    "definition": "a mountain with a hole at the top where hot rock can come out",
+    "translation": "núi lửa",
+    "exampleSentence": "The volcano erupted last year.",
+    "exampleTranslation": "Núi lửa đã phun trào vào năm ngoái.",
+    "pos": "noun"
+  },
+  {
+    "word": "glacier",
+    "phonetic": "/ˈɡleɪʃər/",
+    "definition": "a large mass of ice that moves slowly down a mountain valley",
+    "translation": "sông băng",
+    "exampleSentence": "The glacier is getting smaller every year.",
+    "exampleTranslation": "Sông băng nhỏ đi mỗi năm.",
+    "pos": "noun"
+  },
+  {
+    "word": "desert",
+    "phonetic": "/ˈdezərt/",
+    "definition": "a large dry area with few plants and a lot of sand or rocks",
+    "translation": "sa mạc",
+    "exampleSentence": "It is very hot in the desert.",
+    "exampleTranslation": "Ở sa mạc rất nóng.",
+    "pos": "noun"
+  },
+  {
+    "word": "field",
+    "phonetic": "/fiːld/",
+    "definition": "an area of land in the country where crops or grass grow",
+    "translation": "cánh đồng, ruộng",
+    "exampleSentence": "The cows are in the field.",
+    "exampleTranslation": "Những con bò đang ở trên đồng.",
+    "pos": "noun"
+  },
+  {
+    "word": "path",
+    "phonetic": "/pæθ/",
+    "definition": "a narrow track for walking",
+    "translation": "con đường mòn, lối đi",
+    "exampleSentence": "We followed the path through the woods.",
+    "exampleTranslation": "Chúng tôi đi theo lối mòn qua rừng.",
+    "pos": "noun"
+  },
+  {
+    "word": "rock",
+    "phonetic": "/rɑːk/",
+    "definition": "the hard substance that forms the Earth, or a large piece of it",
+    "translation": "đá, tảng đá",
+    "exampleSentence": "I sat on a big rock.",
+    "exampleTranslation": "Tôi ngồi trên một tảng đá lớn.",
+    "pos": "noun"
+  },
+  {
+    "word": "sand",
+    "phonetic": "/sænd/",
+    "definition": "tiny grains of rock that cover beaches and deserts",
+    "translation": "cát",
+    "exampleSentence": "The children played in the sand.",
+    "exampleTranslation": "Bọn trẻ chơi trên cát.",
+    "pos": "noun"
+  },
+  {
+    "word": "mud",
+    "phonetic": "/mʌd/",
+    "definition": "wet earth that has become soft and sticky",
+    "translation": "bùn",
+    "exampleSentence": "The kids were covered in mud.",
+    "exampleTranslation": "Bọn trẻ lấm lem bùn.",
+    "pos": "noun"
+  },
+  {
+    "word": "soil",
+    "phonetic": "/sɔɪl/",
+    "definition": "the top layer of earth in which plants grow",
+    "translation": "đất, đất trồng",
+    "exampleSentence": "This soil is good for growing vegetables.",
+    "exampleTranslation": "Loại đất này tốt cho việc trồng rau.",
+    "pos": "noun"
+  },
+  {
+    "word": "dust",
+    "phonetic": "/dʌst/",
+    "definition": "dry powder made of very small bits of dirt",
+    "translation": "bụi",
+    "exampleSentence": "The furniture was covered in dust.",
+    "exampleTranslation": "Đồ đạc phủ đầy bụi.",
+    "pos": "noun"
+  },
+  {
+    "word": "sky",
+    "phonetic": "/skaɪ/",
+    "definition": "the space above the Earth where clouds and stars appear",
+    "translation": "bầu trời, trời",
+    "exampleSentence": "The sky is blue today.",
+    "exampleTranslation": "Hôm nay trời xanh.",
+    "pos": "noun"
+  },
+  {
+    "word": "moon",
+    "phonetic": "/muːn/",
+    "definition": "the large round object that shines in the sky at night",
+    "translation": "mặt trăng, trăng",
+    "exampleSentence": "The moon is bright tonight.",
+    "exampleTranslation": "Tối nay trăng sáng.",
+    "pos": "noun"
+  },
+  {
+    "word": "star",
+    "phonetic": "/stɑːr/",
+    "definition": "a ball of burning gas that you see as a point of light at night",
+    "translation": "ngôi sao, sao",
+    "exampleSentence": "I looked up at the stars.",
+    "exampleTranslation": "Tôi ngước nhìn những vì sao.",
+    "pos": "noun"
+  },
+  {
+    "word": "planet",
+    "phonetic": "/ˈplænɪt/",
+    "definition": "a large round object in space that moves around the sun",
+    "translation": "hành tinh",
+    "exampleSentence": "Mars is a planet.",
+    "exampleTranslation": "Sao Hỏa là một hành tinh.",
+    "pos": "noun"
+  },
+  {
+    "word": "earth",
+    "phonetic": "/ɜːrθ/",
+    "definition": "the planet that we live on",
+    "translation": "Trái Đất, địa cầu",
+    "exampleSentence": "The Earth moves around the sun.",
+    "exampleTranslation": "Trái Đất quay quanh mặt trời.",
+    "pos": "noun"
+  },
+  {
+    "word": "sunrise",
+    "phonetic": "/ˈsʌnraɪz/",
+    "definition": "the time in the morning when the sun first appears",
+    "translation": "bình minh, lúc mặt trời mọc",
+    "exampleSentence": "We got up at sunrise.",
+    "exampleTranslation": "Chúng tôi dậy lúc mặt trời mọc.",
+    "pos": "noun"
+  },
+  {
+    "word": "sunset",
+    "phonetic": "/ˈsʌnset/",
+    "definition": "the time in the evening when the sun disappears",
+    "translation": "hoàng hôn, lúc mặt trời lặn",
+    "exampleSentence": "We watched the sunset from the beach.",
+    "exampleTranslation": "Chúng tôi ngắm hoàng hôn từ bãi biển.",
+    "pos": "noun"
+  },
+  {
+    "word": "air",
+    "phonetic": "/er/",
+    "definition": "the mixture of gases around the Earth that we breathe",
+    "translation": "không khí",
+    "exampleSentence": "Let us go outside and get some air.",
+    "exampleTranslation": "Ra ngoài hít thở không khí đi.",
+    "pos": "noun"
+  },
+  {
+    "word": "fresh air",
+    "phonetic": "/freʃ er/",
+    "definition": "clean air from outside",
+    "translation": "không khí trong lành",
+    "exampleSentence": "Open the window and let in some fresh air.",
+    "exampleTranslation": "Mở cửa sổ cho không khí trong lành vào đi.",
+    "pos": "noun"
+  },
+  {
+    "word": "fire",
+    "phonetic": "/faɪr/",
+    "definition": "flames, light and heat that burn and destroy things",
+    "translation": "lửa, đám cháy",
+    "exampleSentence": "There was a big fire in the forest.",
+    "exampleTranslation": "Có một đám cháy lớn trong rừng.",
+    "pos": "noun"
+  },
+  {
+    "word": "pollution",
+    "phonetic": "/pəˈluːʃən/",
+    "definition": "dirty substances that harm the air, water or soil",
+    "translation": "ô nhiễm, sự ô nhiễm",
+    "exampleSentence": "Pollution is a big problem in many cities.",
+    "exampleTranslation": "Ô nhiễm là vấn đề lớn ở nhiều thành phố.",
+    "pos": "noun"
+  },
+  {
+    "word": "litter",
+    "phonetic": "/ˈlɪtər/",
+    "definition": "waste paper, cans and other rubbish left on the ground in public places",
+    "translation": "rác (vứt bừa bãi)",
+    "exampleSentence": "Please do not drop litter in the park.",
+    "exampleTranslation": "Xin đừng xả rác trong công viên.",
+    "pos": "noun"
+  },
+  {
+    "word": "recycle",
+    "phonetic": "/ˌriːˈsaɪkəl/",
+    "definition": "to treat used things so they can be used again",
+    "translation": "tái chế",
+    "exampleSentence": "We recycle all our bottles and cans.",
+    "exampleTranslation": "Chúng tôi tái chế tất cả chai và lon.",
+    "pos": "verb"
+  }
+]

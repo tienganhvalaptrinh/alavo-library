@@ -1,0 +1,152 @@
+{
+  "id": "everyday-activity-phrases-635",
+  "type": "vocabulary",
+  "title": "635 everyday activity phrases",
+  "description": "635 phrases for daily life with meanings and examples. 27 topics: waking, grooming, dressing, breakfast, cooking, cleaning, laundry, tidying, repairs, commute, driving, shopping, dining, errands, money, office, school, calls, leisure, internet, sport, friends, parties, kids, pets, health, bed.",
+  "category": "daily-activities",
+  "level": "mixed",
+  "order": 13,
+  "sourceLang": "en",
+  "targetLang": "vi",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "source": "Written by the Alavo team. Phrases chosen by hand for 27 daily-activity topics, using standard verb and noun combinations; many were checked against Longman (LDOCE) examples and collocations. Definitions, translations and examples are original.",
+  "wordCount": 635,
+  "files": [
+    {
+      "path": "words-001.json",
+      "count": 25,
+      "sha256": "b8244223cf44a666b391df0b95567d4e7ff4a58329f12975dd4dfb987d628e7a"
+    },
+    {
+      "path": "words-002.json",
+      "count": 24,
+      "sha256": "f8c61be9aecb09baec8f27ec519df41a61f7046e5c4d0b5fbc8fbfbd7c3e7d3b"
+    },
+    {
+      "path": "words-003.json",
+      "count": 21,
+      "sha256": "ff41cd03301125876076c608ec9cad5af0c09bfdc8083d7e385604e7436f7dc3"
+    },
+    {
+      "path": "words-004.json",
+      "count": 24,
+      "sha256": "a345d63e9e0eec0af27fe955dc2676ff04e22d537d294d21fccf98341d1e926b"
+    },
+    {
+      "path": "words-005.json",
+      "count": 35,
+      "sha256": "2155241e53f9cd020bfb65db2340e24fadb598800f046cd4180f357b6ffa5517"
+    },
+    {
+      "path": "words-006.json",
+      "count": 24,
+      "sha256": "5931ea650362b49fd3970d9f339192e45b0c0c93c62c29914990d3419ee6e0c2"
+    },
+    {
+      "path": "words-007.json",
+      "count": 23,
+      "sha256": "d0cb9feebbb0479d06694207ea88b05e0fe1db8587b7b56a5cff9271e6b89854"
+    },
+    {
+      "path": "words-008.json",
+      "count": 25,
+      "sha256": "90afdf786f949612d221823f9636dd64b33052e99416d390872f601337e16941"
+    },
+    {
+      "path": "words-009.json",
+      "count": 25,
+      "sha256": "4481636690e392895c381f38b252e889e83671deaf802d7369b445e1e3974dc9"
+    },
+    {
+      "path": "words-010.json",
+      "count": 30,
+      "sha256": "a89b4b441d5a282e268257dae1aca57f0599b9d40f7f7eb48495c302ef38d0f5"
+    },
+    {
+      "path": "words-011.json",
+      "count": 29,
+      "sha256": "c5b056f6b9cff37f604ff5830ecc352da764ebc72912b5026d1209f537e73ed1"
+    },
+    {
+      "path": "words-012.json",
+      "count": 20,
+      "sha256": "d60fd18fc935653802079059d197e4e0f27e1c9a8575dc9b2612043eee9178f9"
+    },
+    {
+      "path": "words-013.json",
+      "count": 21,
+      "sha256": "7c8f736b39d732a56bd54591f2759fd952c88001be65c7cd1473be7d6930e560"
+    },
+    {
+      "path": "words-014.json",
+      "count": 21,
+      "sha256": "a16dcde8f6a01918bf28f17962659e7bb2b5f7aeb1706b8e031ee51e209c33a1"
+    },
+    {
+      "path": "words-015.json",
+      "count": 21,
+      "sha256": "4aa74c4154317a3ad7dc4a89529d982fffcc977646d9d9082ebee44684d49122"
+    },
+    {
+      "path": "words-016.json",
+      "count": 24,
+      "sha256": "2b493e69a9960d7216f5c53cee6b016bb80e30b78d5903cb2c1a39f7a8d48511"
+    },
+    {
+      "path": "words-017.json",
+      "count": 14,
+      "sha256": "222343a2017b1e8b289bc9a626fc4954d2564a53d6bfd986b4dcd801346a328d"
+    },
+    {
+      "path": "words-018.json",
+      "count": 18,
+      "sha256": "b2006f8262c5949aa997142677fb2f327bee20fd1e6d1de5b1b0e95019de8816"
+    },
+    {
+      "path": "words-019.json",
+      "count": 26,
+      "sha256": "611c83ae391f7d39fd2a7bdffcd3987655e61a2326fce8b6801896f5a079e24c"
+    },
+    {
+      "path": "words-020.json",
+      "count": 30,
+      "sha256": "e942ef54321b4f8a86727038ac8f1d660a6a28d923036b7cb5d30e3326b59b5a"
+    },
+    {
+      "path": "words-021.json",
+      "count": 22,
+      "sha256": "5111dd302424bd77e388a213c8b60fdc2f2d57b6ff4f9c5cea88739a2ceceb3d"
+    },
+    {
+      "path": "words-022.json",
+      "count": 17,
+      "sha256": "78750535837a20e85a6e0ec13e1f788148690648d0397207528b111dca977c59"
+    },
+    {
+      "path": "words-023.json",
+      "count": 21,
+      "sha256": "910dc2401a3f8d2da9c076346ddb9cfa379e971685f1ccd9cb5ea8a2459c3ccb"
+    },
+    {
+      "path": "words-024.json",
+      "count": 24,
+      "sha256": "8ff1b7030fc9765d12bad63475bcb1a269b0f61ba2d80e8c18fa0b7df8b44b59"
+    },
+    {
+      "path": "words-025.json",
+      "count": 23,
+      "sha256": "57508ea204bdb88dee3b2e82a61d7c69d7c64879ffc4d790c0290a509c5aca55"
+    },
+    {
+      "path": "words-026.json",
+      "count": 21,
+      "sha256": "1b9dce6eaead40932884eeca39e7cdde730e444b82d32847f0c9f41a200242ae"
+    },
+    {
+      "path": "words-027.json",
+      "count": 27,
+      "sha256": "f0954f6228bbac76724f7125841c6354c066eb8e8b213c7df17357a890401c7f"
+    }
+  ]
+}

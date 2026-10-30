@@ -1,0 +1,236 @@
+[
+  {
+    "word": "watch a film",
+    "phonetic": "/ˌwɑːtʃ ə ˈfɪlm/",
+    "definition": "to look at a film on TV or at the cinema",
+    "translation": "xem phim",
+    "exampleSentence": "We watch a film on Friday nights.",
+    "exampleTranslation": "Tối thứ Sáu chúng tôi xem phim.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "watch a movie",
+    "phonetic": "/ˌwɑːtʃ ə ˈmuːvi/",
+    "definition": "to look at a film; American English",
+    "translation": "xem phim",
+    "exampleSentence": "Let's watch a movie tonight.",
+    "exampleTranslation": "Tối nay mình xem phim nhé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "watch a series",
+    "phonetic": "/ˌwɑːtʃ ə ˈsɪriːz/",
+    "definition": "to watch a set of programmes with the same story",
+    "translation": "xem phim bộ",
+    "exampleSentence": "I'm watching a new series.",
+    "exampleTranslation": "Tôi đang xem một bộ phim mới.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "binge-watch",
+    "phonetic": "/ˈbɪndʒ ˌwɑːtʃ/",
+    "definition": "to watch many episodes of a series one after another",
+    "translation": "cày phim, xem liền mạch nhiều tập",
+    "exampleSentence": "We binge-watched the whole season.",
+    "exampleTranslation": "Chúng tôi cày hết cả mùa phim.",
+    "pos": "verb"
+  },
+  {
+    "word": "turn off the TV",
+    "phonetic": "/ˌtɜːrn ˌɔːf ðə ˌtiː ˈviː/",
+    "definition": "to switch the television off",
+    "translation": "tắt tivi",
+    "exampleSentence": "Turn off the TV and go to bed.",
+    "exampleTranslation": "Tắt tivi rồi đi ngủ đi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "change the channel",
+    "phonetic": "/ˌtʃeɪndʒ ðə ˈtʃænl/",
+    "definition": "to choose another TV station",
+    "translation": "đổi kênh",
+    "exampleSentence": "Can you change the channel?",
+    "exampleTranslation": "Bạn đổi kênh giúp mình được không?",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "record a programme",
+    "phonetic": "/rɪˌkɔːrd ə ˈproʊɡræm/",
+    "definition": "to save a TV show to watch later",
+    "translation": "ghi lại một chương trình",
+    "exampleSentence": "I recorded the programme last night.",
+    "exampleTranslation": "Tối qua tôi đã ghi lại chương trình đó.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "listen to the radio",
+    "phonetic": "/ˌlɪsn tə ðə ˈreɪdioʊ/",
+    "definition": "to hear a programme on the radio",
+    "translation": "nghe đài",
+    "exampleSentence": "My grandfather listens to the radio every morning.",
+    "exampleTranslation": "Sáng nào ông tôi cũng nghe đài.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "listen to a podcast",
+    "phonetic": "/ˌlɪsn tu ə ˈpɑːdkæst/",
+    "definition": "to hear an audio show from the internet",
+    "translation": "nghe podcast",
+    "exampleSentence": "I listen to a podcast on the bus.",
+    "exampleTranslation": "Tôi nghe podcast trên xe buýt.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "put on some music",
+    "phonetic": "/ˌpʊt ɑːn səm ˈmjuːzɪk/",
+    "definition": "to start playing music",
+    "translation": "bật nhạc",
+    "exampleSentence": "Put on some music while we cook.",
+    "exampleTranslation": "Bật nhạc lên trong lúc mình nấu ăn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "play an instrument",
+    "phonetic": "/ˌpleɪ ən ˈɪnstrəmənt/",
+    "definition": "to make music with something like a guitar or piano",
+    "translation": "chơi nhạc cụ",
+    "exampleSentence": "Do you play an instrument?",
+    "exampleTranslation": "Bạn có chơi nhạc cụ nào không?",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "play the guitar",
+    "phonetic": "/ˌpleɪ ðə ɡɪˈtɑːr/",
+    "definition": "to make music with a guitar",
+    "translation": "chơi đàn ghi-ta",
+    "exampleSentence": "He plays the guitar in the evening.",
+    "exampleTranslation": "Buổi tối bạn ấy chơi đàn ghi-ta.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "play cards",
+    "phonetic": "/ˌpleɪ ˈkɑːrdz/",
+    "definition": "to play a game with playing cards",
+    "translation": "chơi bài",
+    "exampleSentence": "We play cards after dinner.",
+    "exampleTranslation": "Sau bữa tối chúng tôi chơi bài.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "play a board game",
+    "phonetic": "/ˌpleɪ ə ˈbɔːrd ˌɡeɪm/",
+    "definition": "to play a game on a board with pieces",
+    "translation": "chơi trò chơi cờ bàn",
+    "exampleSentence": "We play a board game on rainy days.",
+    "exampleTranslation": "Những ngày mưa chúng tôi chơi trò chơi cờ bàn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "do a jigsaw",
+    "phonetic": "/ˌduː ə ˈdʒɪɡsɔː/",
+    "definition": "to put the pieces of a picture puzzle together",
+    "translation": "ghép tranh",
+    "exampleSentence": "She is doing a jigsaw at the table.",
+    "exampleTranslation": "Cô ấy đang ghép tranh ở bàn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "do a crossword",
+    "phonetic": "/ˌduː ə ˈkrɔːswɜːrd/",
+    "definition": "to fill in a word puzzle",
+    "translation": "giải ô chữ",
+    "exampleSentence": "My dad does a crossword every day.",
+    "exampleTranslation": "Ngày nào bố tôi cũng giải ô chữ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "read a magazine",
+    "phonetic": "/ˌriːd ə ˈmæɡəziːn/",
+    "definition": "to read a magazine",
+    "translation": "đọc tạp chí",
+    "exampleSentence": "I read a magazine at the café.",
+    "exampleTranslation": "Tôi đọc tạp chí ở quán cà phê.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "read the newspaper",
+    "phonetic": "/ˌriːd ðə ˈnuːzpeɪpər/",
+    "definition": "to read the news in the paper",
+    "translation": "đọc báo",
+    "exampleSentence": "He reads the newspaper with his breakfast.",
+    "exampleTranslation": "Bố đọc báo trong lúc ăn sáng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "draw a picture",
+    "phonetic": "/ˌdrɔː ə ˈpɪktʃər/",
+    "definition": "to make a picture with a pencil or pen",
+    "translation": "vẽ tranh",
+    "exampleSentence": "The children draw a picture of their family.",
+    "exampleTranslation": "Bọn trẻ vẽ tranh về gia đình của mình.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "paint a picture",
+    "phonetic": "/ˌpeɪnt ə ˈpɪktʃər/",
+    "definition": "to make a picture with paint",
+    "translation": "vẽ tranh màu",
+    "exampleSentence": "She paints a picture on Sundays.",
+    "exampleTranslation": "Chủ nhật nào cô ấy cũng vẽ tranh.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "take photos",
+    "phonetic": "/ˌteɪk ˈfoʊtoʊz/",
+    "definition": "to use a camera to make pictures",
+    "translation": "chụp ảnh",
+    "exampleSentence": "We took photos at the park.",
+    "exampleTranslation": "Chúng tôi chụp ảnh ở công viên.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "knit a scarf",
+    "phonetic": "/ˌnɪt ə ˈskɑːrf/",
+    "definition": "to make a scarf from wool with needles",
+    "translation": "đan khăn len",
+    "exampleSentence": "My mother is knitting a scarf for winter.",
+    "exampleTranslation": "Mẹ tôi đang đan một chiếc khăn len cho mùa đông.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "relax on the sofa",
+    "phonetic": "/rɪˌlæks ɑːn ðə ˈsoʊfə/",
+    "definition": "to rest on the sofa",
+    "translation": "thư giãn trên ghế sofa",
+    "exampleSentence": "I relax on the sofa after work.",
+    "exampleTranslation": "Sau giờ làm tôi thư giãn trên ghế sofa.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "put your feet up",
+    "phonetic": "/ˌpʊt jər ˈfiːt ˌʌp/",
+    "definition": "to rest with your feet raised",
+    "translation": "gác chân nghỉ ngơi",
+    "exampleSentence": "Come in and put your feet up.",
+    "exampleTranslation": "Vào đây gác chân nghỉ ngơi đi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "have a lie-in",
+    "phonetic": "/hæv ə ˈlaɪ ˌɪn/",
+    "definition": "to stay in bed later than usual in the morning",
+    "translation": "ngủ nướng",
+    "exampleSentence": "I have a lie-in on Sundays.",
+    "exampleTranslation": "Chủ nhật tôi ngủ nướng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "doze off",
+    "phonetic": "/ˌdoʊz ˈɔːf/",
+    "definition": "to fall asleep for a short time without meaning to",
+    "translation": "thiếp đi, ngủ gật",
+    "exampleSentence": "I dozed off in front of the TV.",
+    "exampleTranslation": "Tôi ngủ gật trước tivi.",
+    "pos": "verb phrase"
+  }
+]

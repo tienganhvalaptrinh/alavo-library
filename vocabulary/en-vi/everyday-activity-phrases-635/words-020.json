@@ -1,0 +1,272 @@
+[
+  {
+    "word": "charge your phone",
+    "phonetic": "/ˌtʃɑːrdʒ jər ˈfoʊn/",
+    "definition": "to connect your phone to power so the battery fills",
+    "translation": "sạc điện thoại",
+    "exampleSentence": "I charge my phone at night.",
+    "exampleTranslation": "Buổi tối tôi sạc điện thoại.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "unlock your phone",
+    "phonetic": "/ʌnˌlɑːk jər ˈfoʊn/",
+    "definition": "to open your phone so you can use it",
+    "translation": "mở khóa điện thoại",
+    "exampleSentence": "I unlock my phone with my face.",
+    "exampleTranslation": "Tôi mở khóa điện thoại bằng khuôn mặt.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "turn off your phone",
+    "phonetic": "/ˌtɜːrn ˌɔːf jər ˈfoʊn/",
+    "definition": "to switch your phone off",
+    "translation": "tắt điện thoại",
+    "exampleSentence": "Please turn off your phone in the cinema.",
+    "exampleTranslation": "Xin hãy tắt điện thoại trong rạp chiếu phim.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "put your phone on silent",
+    "phonetic": "/ˌpʊt jər ˌfoʊn ɑːn ˈsaɪlənt/",
+    "definition": "to stop your phone from making a sound",
+    "translation": "để điện thoại ở chế độ im lặng",
+    "exampleSentence": "Put your phone on silent in class.",
+    "exampleTranslation": "Hãy để điện thoại ở chế độ im lặng trong lớp.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "check your messages",
+    "phonetic": "/ˌtʃek jər ˈmesɪdʒɪz/",
+    "definition": "to look to see if you have new messages",
+    "translation": "xem tin nhắn",
+    "exampleSentence": "I check my messages every hour.",
+    "exampleTranslation": "Mỗi giờ tôi xem tin nhắn một lần.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "scroll down",
+    "phonetic": "/ˌskroʊl ˈdaʊn/",
+    "definition": "to move down a page on a screen",
+    "translation": "cuộn xuống",
+    "exampleSentence": "Scroll down to see more.",
+    "exampleTranslation": "Cuộn xuống để xem thêm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "swipe left",
+    "phonetic": "/ˌswaɪp ˈleft/",
+    "definition": "to move your finger across the screen to the left",
+    "translation": "vuốt sang trái",
+    "exampleSentence": "Swipe left to delete the message.",
+    "exampleTranslation": "Vuốt sang trái để xóa tin nhắn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "tap the screen",
+    "phonetic": "/ˌtæp ðə ˈskriːn/",
+    "definition": "to touch the screen lightly with your finger",
+    "translation": "chạm vào màn hình",
+    "exampleSentence": "Tap the screen to start.",
+    "exampleTranslation": "Chạm vào màn hình để bắt đầu.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "click on a link",
+    "phonetic": "/ˌklɪk ɑːn ə ˈlɪŋk/",
+    "definition": "to press a link with a mouse or finger",
+    "translation": "bấm vào đường dẫn",
+    "exampleSentence": "Click on the link below.",
+    "exampleTranslation": "Bấm vào đường dẫn bên dưới.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "open an app",
+    "phonetic": "/ˌoʊpən ən ˈæp/",
+    "definition": "to start a program on your phone",
+    "translation": "mở ứng dụng",
+    "exampleSentence": "Open the app and log in.",
+    "exampleTranslation": "Mở ứng dụng rồi đăng nhập.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "download an app",
+    "phonetic": "/ˌdaʊnloʊd ən ˈæp/",
+    "definition": "to get a program from the internet onto your phone",
+    "translation": "tải ứng dụng",
+    "exampleSentence": "I downloaded a new app.",
+    "exampleTranslation": "Tôi đã tải một ứng dụng mới.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "install an app",
+    "phonetic": "/ɪnˌstɔːl ən ˈæp/",
+    "definition": "to put a program on your phone so you can use it",
+    "translation": "cài đặt ứng dụng",
+    "exampleSentence": "I installed an app to learn English.",
+    "exampleTranslation": "Tôi cài một ứng dụng để học tiếng Anh.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "update the software",
+    "phonetic": "/ˌʌpdeɪt ðə ˈsɔːftwer/",
+    "definition": "to put the newest version of a program on your device",
+    "translation": "cập nhật phần mềm",
+    "exampleSentence": "Remember to update the software.",
+    "exampleTranslation": "Nhớ cập nhật phần mềm nhé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "delete a file",
+    "phonetic": "/dɪˌliːt ə ˈfaɪl/",
+    "definition": "to remove a file from your device",
+    "translation": "xóa tệp",
+    "exampleSentence": "I deleted the file by mistake.",
+    "exampleTranslation": "Tôi lỡ xóa mất tệp đó.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "back up your files",
+    "phonetic": "/ˌbæk ˌʌp jər ˈfaɪlz/",
+    "definition": "to make a safe copy of your files",
+    "translation": "sao lưu tệp",
+    "exampleSentence": "Back up your files every week.",
+    "exampleTranslation": "Hãy sao lưu tệp mỗi tuần.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "log out",
+    "phonetic": "/ˌlɔːɡ ˈaʊt/",
+    "definition": "to leave an account on a website or app",
+    "translation": "đăng xuất",
+    "exampleSentence": "Don't forget to log out.",
+    "exampleTranslation": "Đừng quên đăng xuất.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "sign in",
+    "phonetic": "/ˌsaɪn ˈɪn/",
+    "definition": "to enter your name and password to use an account",
+    "translation": "đăng nhập",
+    "exampleSentence": "Sign in with your email address.",
+    "exampleTranslation": "Đăng nhập bằng địa chỉ email của bạn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "create an account",
+    "phonetic": "/kriˌeɪt ən əˈkaʊnt/",
+    "definition": "to make a new account on a website or app",
+    "translation": "tạo tài khoản",
+    "exampleSentence": "You need to create an account first.",
+    "exampleTranslation": "Trước hết bạn cần tạo tài khoản.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "reset your password",
+    "phonetic": "/ˌriːset jər ˈpæswɜːrd/",
+    "definition": "to choose a new password",
+    "translation": "đặt lại mật khẩu",
+    "exampleSentence": "I had to reset my password.",
+    "exampleTranslation": "Tôi phải đặt lại mật khẩu.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "forget your password",
+    "phonetic": "/fərˌɡet jər ˈpæswɜːrd/",
+    "definition": "to not remember your password",
+    "translation": "quên mật khẩu",
+    "exampleSentence": "I always forget my password.",
+    "exampleTranslation": "Tôi lúc nào cũng quên mật khẩu.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "browse the web",
+    "phonetic": "/ˌbraʊz ðə ˈweb/",
+    "definition": "to look at different websites",
+    "translation": "lướt web",
+    "exampleSentence": "I browse the web before bed.",
+    "exampleTranslation": "Trước khi ngủ tôi lướt web.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "stream a video",
+    "phonetic": "/ˌstriːm ə ˈvɪdioʊ/",
+    "definition": "to watch a video directly on the internet",
+    "translation": "xem video trực tuyến",
+    "exampleSentence": "We stream a video every night.",
+    "exampleTranslation": "Tối nào chúng tôi cũng xem video trực tuyến.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "post a photo",
+    "phonetic": "/ˌpoʊst ə ˈfoʊtoʊ/",
+    "definition": "to put a picture online for others to see",
+    "translation": "đăng ảnh",
+    "exampleSentence": "She posted a photo of her cat.",
+    "exampleTranslation": "Cô ấy đăng ảnh con mèo của mình.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "share a post",
+    "phonetic": "/ˌʃer ə ˈpoʊst/",
+    "definition": "to send someone's post to your own followers",
+    "translation": "chia sẻ bài đăng",
+    "exampleSentence": "I shared your post with my friends.",
+    "exampleTranslation": "Tôi đã chia sẻ bài đăng của bạn với bạn bè.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "like a post",
+    "phonetic": "/ˌlaɪk ə ˈpoʊst/",
+    "definition": "to press a button to show you enjoyed a post",
+    "translation": "thích một bài đăng",
+    "exampleSentence": "I liked her post.",
+    "exampleTranslation": "Tôi đã thích bài đăng của cô ấy.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "take a selfie",
+    "phonetic": "/ˌteɪk ə ˈselfi/",
+    "definition": "to take a photo of yourself with your phone",
+    "translation": "chụp ảnh tự sướng",
+    "exampleSentence": "Let's take a selfie together.",
+    "exampleTranslation": "Mình chụp một tấm ảnh tự sướng cùng nhau đi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "take a screenshot",
+    "phonetic": "/ˌteɪk ə ˈskriːnʃɑːt/",
+    "definition": "to save a picture of what is on your screen",
+    "translation": "chụp màn hình",
+    "exampleSentence": "I took a screenshot of the message.",
+    "exampleTranslation": "Tôi chụp màn hình tin nhắn đó.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "connect to wi-fi",
+    "phonetic": "/kəˌnekt tə ˈwaɪ ˌfaɪ/",
+    "definition": "to join a wireless internet network",
+    "translation": "kết nối wi-fi",
+    "exampleSentence": "I connect to wi-fi when I get home.",
+    "exampleTranslation": "Về đến nhà tôi kết nối wi-fi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "run out of battery",
+    "phonetic": "/ˌrʌn ˌaʊt əv ˈbætəri/",
+    "definition": "to have no power left in your phone",
+    "translation": "hết pin",
+    "exampleSentence": "My phone ran out of battery.",
+    "exampleTranslation": "Điện thoại của tôi hết pin.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "run out of data",
+    "phonetic": "/ˌrʌn ˌaʊt əv ˈdeɪtə/",
+    "definition": "to use all the internet data on your phone plan",
+    "translation": "hết dung lượng data",
+    "exampleSentence": "I ran out of data this month.",
+    "exampleTranslation": "Tháng này tôi hết dung lượng data.",
+    "pos": "verb phrase"
+  }
+]

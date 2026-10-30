@@ -1,0 +1,209 @@
+[
+  {
+    "word": "sort the laundry",
+    "phonetic": "/ˌsɔːrt ðə ˈlɔːndri/",
+    "definition": "to separate dirty clothes by colour before washing",
+    "translation": "phân loại quần áo trước khi giặt",
+    "exampleSentence": "I sort the laundry into whites and colours.",
+    "exampleTranslation": "Tôi phân loại quần áo thành đồ trắng và đồ màu.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "load the washing machine",
+    "phonetic": "/ˌloʊd ðə ˈwɑːʃɪŋ məˌʃiːn/",
+    "definition": "to put dirty clothes into the washing machine",
+    "translation": "cho quần áo vào máy giặt",
+    "exampleSentence": "Load the washing machine and press start.",
+    "exampleTranslation": "Cho quần áo vào máy giặt rồi bấm nút bắt đầu.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "add detergent",
+    "phonetic": "/ˌæd dɪˈtɜːrdʒənt/",
+    "definition": "to put washing powder or liquid into the machine",
+    "translation": "cho bột giặt, cho nước giặt",
+    "exampleSentence": "Add detergent and close the door.",
+    "exampleTranslation": "Cho nước giặt vào rồi đóng cửa máy.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "hang out the washing",
+    "phonetic": "/ˌhæŋ ˌaʊt ðə ˈwɑːʃɪŋ/",
+    "definition": "to put wet clothes outside on a line to dry",
+    "translation": "phơi quần áo",
+    "exampleSentence": "I hang out the washing when the sun is out.",
+    "exampleTranslation": "Tôi phơi quần áo khi có nắng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "hang up the washing",
+    "phonetic": "/ˌhæŋ ˌʌp ðə ˈwɑːʃɪŋ/",
+    "definition": "to put wet clothes on a line or rack to dry",
+    "translation": "phơi quần áo lên dây",
+    "exampleSentence": "She hangs up the washing on the balcony.",
+    "exampleTranslation": "Cô ấy phơi quần áo ngoài ban công.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "take down the washing",
+    "phonetic": "/ˌteɪk ˌdaʊn ðə ˈwɑːʃɪŋ/",
+    "definition": "to take dry clothes off the line",
+    "translation": "thu quần áo đã khô",
+    "exampleSentence": "Please take down the washing before it rains.",
+    "exampleTranslation": "Hãy thu quần áo vào trước khi trời mưa.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "put the clothes in the dryer",
+    "phonetic": "/ˌpʊt ðə ˌkloʊðz ɪn ðə ˈdraɪər/",
+    "definition": "to put wet clothes into a machine that dries them",
+    "translation": "cho quần áo vào máy sấy",
+    "exampleSentence": "I put the clothes in the dryer at night.",
+    "exampleTranslation": "Buổi tối tôi cho quần áo vào máy sấy.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "dry the clothes",
+    "phonetic": "/ˌdraɪ ðə ˈkloʊðz/",
+    "definition": "to make wet clothes dry",
+    "translation": "làm khô quần áo, phơi khô quần áo",
+    "exampleSentence": "It takes two hours to dry the clothes.",
+    "exampleTranslation": "Phơi khô quần áo mất hai tiếng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "fold the towels",
+    "phonetic": "/ˌfoʊld ðə ˈtaʊəlz/",
+    "definition": "to bend the towels into neat flat shapes",
+    "translation": "gấp khăn tắm",
+    "exampleSentence": "She folds the towels and puts them in the cupboard.",
+    "exampleTranslation": "Cô ấy gấp khăn tắm rồi cất vào tủ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "iron a shirt",
+    "phonetic": "/ˌaɪərn ə ˈʃɜːrt/",
+    "definition": "to make a shirt smooth with a hot iron",
+    "translation": "ủi áo sơ mi",
+    "exampleSentence": "I iron a shirt for work every morning.",
+    "exampleTranslation": "Sáng nào tôi cũng ủi một chiếc áo sơ mi để đi làm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "put away the clothes",
+    "phonetic": "/ˌpʊt əˌweɪ ðə ˈkloʊðz/",
+    "definition": "to put clean clothes back in drawers or the wardrobe",
+    "translation": "cất quần áo vào tủ",
+    "exampleSentence": "Please put away the clothes on your bed.",
+    "exampleTranslation": "Hãy cất đống quần áo trên giường vào tủ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "sew a button",
+    "phonetic": "/ˌsoʊ ə ˈbʌtn/",
+    "definition": "to fix a button onto clothes with a needle and thread",
+    "translation": "khâu cúc áo",
+    "exampleSentence": "I need to sew a button on my shirt.",
+    "exampleTranslation": "Tôi cần khâu lại cúc áo sơ mi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "mend a hole",
+    "phonetic": "/ˌmend ə ˈhoʊl/",
+    "definition": "to repair a hole in clothes",
+    "translation": "vá lỗ thủng",
+    "exampleSentence": "My grandmother mends holes in our socks.",
+    "exampleTranslation": "Bà tôi vá những chỗ thủng trên tất của chúng tôi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "darn socks",
+    "phonetic": "/ˌdɑːrn ˈsɑːks/",
+    "definition": "to mend a hole in a sock with a needle and thread",
+    "translation": "vá tất",
+    "exampleSentence": "She learned to darn socks as a child.",
+    "exampleTranslation": "Cô ấy học vá tất từ nhỏ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "soak the clothes",
+    "phonetic": "/ˌsoʊk ðə ˈkloʊðz/",
+    "definition": "to leave clothes in water for some time",
+    "translation": "ngâm quần áo",
+    "exampleSentence": "Soak the clothes in cold water first.",
+    "exampleTranslation": "Ngâm quần áo trong nước lạnh trước đã.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "wring out the clothes",
+    "phonetic": "/ˌrɪŋ ˌaʊt ðə ˈkloʊðz/",
+    "definition": "to twist wet clothes to squeeze the water out",
+    "translation": "vắt quần áo",
+    "exampleSentence": "Wring out the clothes before you hang them.",
+    "exampleTranslation": "Vắt quần áo trước khi phơi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "wash by hand",
+    "phonetic": "/ˌwɑːʃ baɪ ˈhænd/",
+    "definition": "to wash clothes with your hands, not in a machine",
+    "translation": "giặt tay",
+    "exampleSentence": "I wash my silk dress by hand.",
+    "exampleTranslation": "Tôi giặt tay chiếc váy lụa của mình.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "dry clean",
+    "phonetic": "/ˌdraɪ ˈkliːn/",
+    "definition": "to clean clothes with chemicals instead of water",
+    "translation": "giặt khô",
+    "exampleSentence": "This coat must be dry cleaned.",
+    "exampleTranslation": "Chiếc áo khoác này phải giặt khô.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pick up the dry cleaning",
+    "phonetic": "/ˌpɪk ˌʌp ðə ˌdraɪ ˈkliːnɪŋ/",
+    "definition": "to collect clothes you left at the dry cleaner",
+    "translation": "lấy đồ giặt khô",
+    "exampleSentence": "I pick up the dry cleaning on my way home.",
+    "exampleTranslation": "Trên đường về nhà tôi ghé lấy đồ giặt khô.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "shrink in the wash",
+    "phonetic": "/ˌʃrɪŋk ɪn ðə ˈwɑːʃ/",
+    "definition": "to become smaller after being washed",
+    "translation": "bị co khi giặt",
+    "exampleSentence": "Wool can shrink in the wash.",
+    "exampleTranslation": "Len có thể bị co khi giặt.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "check the pockets",
+    "phonetic": "/ˌtʃek ðə ˈpɑːkɪts/",
+    "definition": "to look inside the pockets before washing clothes",
+    "translation": "kiểm tra túi quần áo",
+    "exampleSentence": "Check the pockets before you wash the jeans.",
+    "exampleTranslation": "Kiểm tra túi trước khi giặt quần jean.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "hang out the clothes",
+    "phonetic": "/ˌhæŋ ˌaʊt ðə ˈkloʊðz/",
+    "definition": "to put wet clothes outside to dry",
+    "translation": "phơi đồ",
+    "exampleSentence": "We hang out the clothes on the roof.",
+    "exampleTranslation": "Chúng tôi phơi đồ trên sân thượng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "air-dry",
+    "phonetic": "/ˌer ˈdraɪ/",
+    "definition": "to let something dry naturally in the air",
+    "translation": "phơi khô tự nhiên",
+    "exampleSentence": "I air-dry my sweaters.",
+    "exampleTranslation": "Tôi phơi khô tự nhiên những chiếc áo len.",
+    "pos": "verb"
+  }
+]

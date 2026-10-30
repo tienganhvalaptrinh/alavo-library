@@ -1,0 +1,884 @@
+[
+  {
+    "word": "dog",
+    "phonetic": "/dɔːɡ/",
+    "definition": "a common animal kept as a pet or used to guard places",
+    "translation": "con chó",
+    "exampleSentence": "My dog likes to run in the park.",
+    "exampleTranslation": "Con chó của tôi thích chạy trong công viên.",
+    "pos": "noun"
+  },
+  {
+    "word": "puppy",
+    "phonetic": "/ˈpʌpi/",
+    "definition": "a young dog",
+    "translation": "chó con",
+    "exampleSentence": "The puppy is sleeping on the sofa.",
+    "exampleTranslation": "Chú chó con đang ngủ trên ghế sofa.",
+    "pos": "noun"
+  },
+  {
+    "word": "cat",
+    "phonetic": "/kæt/",
+    "definition": "a small furry animal that people often keep as a pet",
+    "translation": "con mèo",
+    "exampleSentence": "The cat is sitting on the window.",
+    "exampleTranslation": "Con mèo đang ngồi trên cửa sổ.",
+    "pos": "noun"
+  },
+  {
+    "word": "kitten",
+    "phonetic": "/ˈkɪtn/",
+    "definition": "a young cat",
+    "translation": "mèo con",
+    "exampleSentence": "The kitten drinks milk every morning.",
+    "exampleTranslation": "Chú mèo con uống sữa mỗi sáng.",
+    "pos": "noun"
+  },
+  {
+    "word": "pet",
+    "phonetic": "/pet/",
+    "definition": "an animal that you keep at home and look after",
+    "translation": "thú cưng, thú nuôi",
+    "exampleSentence": "Do you have a pet at home?",
+    "exampleTranslation": "Nhà bạn có nuôi thú cưng không?",
+    "pos": "noun"
+  },
+  {
+    "word": "rabbit",
+    "phonetic": "/ˈræbɪt/",
+    "definition": "a small animal with long ears and soft fur",
+    "translation": "con thỏ",
+    "exampleSentence": "The rabbit is eating a carrot.",
+    "exampleTranslation": "Con thỏ đang ăn một củ cà rốt.",
+    "pos": "noun"
+  },
+  {
+    "word": "hamster",
+    "phonetic": "/ˈhæmstər/",
+    "definition": "a small furry animal with no tail, often kept as a pet",
+    "translation": "chuột hamster, chuột lang",
+    "exampleSentence": "My hamster runs on a small wheel.",
+    "exampleTranslation": "Con hamster của tôi chạy trên một cái bánh xe nhỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "mouse",
+    "phonetic": "/maʊs/",
+    "definition": "a small furry animal with a long tail",
+    "translation": "con chuột",
+    "exampleSentence": "A mouse ran across the kitchen floor.",
+    "exampleTranslation": "Một con chuột chạy ngang sàn bếp.",
+    "pos": "noun"
+  },
+  {
+    "word": "rat",
+    "phonetic": "/ræt/",
+    "definition": "an animal like a large mouse with a long tail",
+    "translation": "con chuột cống, chuột",
+    "exampleSentence": "There is a rat in the garden.",
+    "exampleTranslation": "Có một con chuột cống trong vườn.",
+    "pos": "noun"
+  },
+  {
+    "word": "horse",
+    "phonetic": "/hɔːrs/",
+    "definition": "a large strong animal that people ride",
+    "translation": "con ngựa",
+    "exampleSentence": "I ride a horse every weekend.",
+    "exampleTranslation": "Cuối tuần nào tôi cũng cưỡi ngựa.",
+    "pos": "noun"
+  },
+  {
+    "word": "foal",
+    "phonetic": "/foʊl/",
+    "definition": "a young horse",
+    "translation": "ngựa con",
+    "exampleSentence": "The foal stood up next to its mother.",
+    "exampleTranslation": "Con ngựa con đứng dậy bên cạnh mẹ nó.",
+    "pos": "noun"
+  },
+  {
+    "word": "donkey",
+    "phonetic": "/ˈdɑːŋki/",
+    "definition": "an animal like a small horse with long ears",
+    "translation": "con lừa",
+    "exampleSentence": "The donkey carried the bags up the hill.",
+    "exampleTranslation": "Con lừa chở những chiếc túi lên đồi.",
+    "pos": "noun"
+  },
+  {
+    "word": "cow",
+    "phonetic": "/kaʊ/",
+    "definition": "a large farm animal that gives milk",
+    "translation": "con bò, bò sữa",
+    "exampleSentence": "The cow is eating grass in the field.",
+    "exampleTranslation": "Con bò đang ăn cỏ ngoài đồng.",
+    "pos": "noun"
+  },
+  {
+    "word": "bull",
+    "phonetic": "/bʊl/",
+    "definition": "an adult male animal of the cattle family",
+    "translation": "con bò đực",
+    "exampleSentence": "Be careful, that bull is dangerous.",
+    "exampleTranslation": "Cẩn thận, con bò đực đó rất nguy hiểm.",
+    "pos": "noun"
+  },
+  {
+    "word": "buffalo",
+    "phonetic": "/ˈbʌfəloʊ/",
+    "definition": "a large animal like a cow with long curved horns",
+    "translation": "con trâu",
+    "exampleSentence": "A buffalo was walking along the river.",
+    "exampleTranslation": "Một con trâu đang đi dọc bờ sông.",
+    "pos": "noun"
+  },
+  {
+    "word": "pig",
+    "phonetic": "/pɪɡ/",
+    "definition": "a farm animal with a fat body and short legs",
+    "translation": "con heo, con lợn",
+    "exampleSentence": "The farmer has ten pigs.",
+    "exampleTranslation": "Người nông dân có mười con heo.",
+    "pos": "noun"
+  },
+  {
+    "word": "sheep",
+    "phonetic": "/ʃiːp/",
+    "definition": "a farm animal kept for its wool and meat",
+    "translation": "con cừu",
+    "exampleSentence": "The sheep are eating grass on the hill.",
+    "exampleTranslation": "Những con cừu đang ăn cỏ trên đồi.",
+    "pos": "noun"
+  },
+  {
+    "word": "goat",
+    "phonetic": "/ɡoʊt/",
+    "definition": "an animal with horns that lives on farms or in hills",
+    "translation": "con dê",
+    "exampleSentence": "The goat is climbing the rocks.",
+    "exampleTranslation": "Con dê đang trèo lên những tảng đá.",
+    "pos": "noun"
+  },
+  {
+    "word": "hen",
+    "phonetic": "/hen/",
+    "definition": "an adult female chicken",
+    "translation": "gà mái",
+    "exampleSentence": "The hen lays an egg every day.",
+    "exampleTranslation": "Con gà mái đẻ một quả trứng mỗi ngày.",
+    "pos": "noun"
+  },
+  {
+    "word": "chick",
+    "phonetic": "/tʃɪk/",
+    "definition": "a baby bird",
+    "translation": "gà con, chim non",
+    "exampleSentence": "The chick is under its mother.",
+    "exampleTranslation": "Con gà con đang núp dưới gà mẹ.",
+    "pos": "noun"
+  },
+  {
+    "word": "tiger",
+    "phonetic": "/ˈtaɪɡər/",
+    "definition": "a large wild cat with yellow and black lines",
+    "translation": "con hổ, con cọp",
+    "exampleSentence": "The tiger is sleeping in the shade.",
+    "exampleTranslation": "Con hổ đang ngủ dưới bóng râm.",
+    "pos": "noun"
+  },
+  {
+    "word": "lion",
+    "phonetic": "/ˈlaɪən/",
+    "definition": "a large wild cat that lives in Africa",
+    "translation": "con sư tử",
+    "exampleSentence": "The lion is the king of the animals.",
+    "exampleTranslation": "Sư tử là chúa tể của muôn loài.",
+    "pos": "noun"
+  },
+  {
+    "word": "leopard",
+    "phonetic": "/ˈlepərd/",
+    "definition": "a large wild cat with yellow fur and black spots",
+    "translation": "con báo",
+    "exampleSentence": "A leopard can climb trees very well.",
+    "exampleTranslation": "Con báo có thể trèo cây rất giỏi.",
+    "pos": "noun"
+  },
+  {
+    "word": "cheetah",
+    "phonetic": "/ˈtʃiːtə/",
+    "definition": "a wild cat with long legs that can run very fast",
+    "translation": "con báo săn",
+    "exampleSentence": "The cheetah is the fastest animal on land.",
+    "exampleTranslation": "Báo săn là loài chạy nhanh nhất trên cạn.",
+    "pos": "noun"
+  },
+  {
+    "word": "cub",
+    "phonetic": "/kʌb/",
+    "definition": "the baby of a wild animal such as a lion or a bear",
+    "translation": "con thú con",
+    "exampleSentence": "The lion cub is playing with its mother.",
+    "exampleTranslation": "Con sư tử con đang chơi với mẹ.",
+    "pos": "noun"
+  },
+  {
+    "word": "elephant",
+    "phonetic": "/ˈeləfənt/",
+    "definition": "a very large grey animal with a long nose called a trunk",
+    "translation": "con voi",
+    "exampleSentence": "The elephant drinks water with its trunk.",
+    "exampleTranslation": "Con voi uống nước bằng vòi.",
+    "pos": "noun"
+  },
+  {
+    "word": "monkey",
+    "phonetic": "/ˈmʌŋki/",
+    "definition": "a small animal with a long tail that climbs trees",
+    "translation": "con khỉ",
+    "exampleSentence": "The monkey took a banana from my hand.",
+    "exampleTranslation": "Con khỉ lấy quả chuối khỏi tay tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "gorilla",
+    "phonetic": "/ɡəˈrɪlə/",
+    "definition": "a very large African ape",
+    "translation": "con khỉ đột",
+    "exampleSentence": "The gorilla is sitting under a tree.",
+    "exampleTranslation": "Con khỉ đột đang ngồi dưới gốc cây.",
+    "pos": "noun"
+  },
+  {
+    "word": "chimpanzee",
+    "phonetic": "/ˌtʃɪmpænˈziː/",
+    "definition": "an intelligent African animal like a large monkey without a tail",
+    "translation": "con tinh tinh",
+    "exampleSentence": "The chimpanzee uses a stick to get food.",
+    "exampleTranslation": "Con tinh tinh dùng một cây gậy để lấy thức ăn.",
+    "pos": "noun"
+  },
+  {
+    "word": "bear",
+    "phonetic": "/ber/",
+    "definition": "a large strong animal with thick fur",
+    "translation": "con gấu",
+    "exampleSentence": "We saw a bear in the forest.",
+    "exampleTranslation": "Chúng tôi thấy một con gấu trong rừng.",
+    "pos": "noun"
+  },
+  {
+    "word": "polar bear",
+    "phonetic": "/ˈpoʊlər ber/",
+    "definition": "a large white bear that lives near the North Pole",
+    "translation": "gấu Bắc Cực",
+    "exampleSentence": "The polar bear lives in the cold north.",
+    "exampleTranslation": "Gấu Bắc Cực sống ở vùng cực bắc lạnh giá.",
+    "pos": "noun"
+  },
+  {
+    "word": "panda",
+    "phonetic": "/ˈpændə/",
+    "definition": "a large black and white animal that looks like a bear",
+    "translation": "gấu trúc",
+    "exampleSentence": "The panda is eating bamboo.",
+    "exampleTranslation": "Con gấu trúc đang ăn tre.",
+    "pos": "noun"
+  },
+  {
+    "word": "koala",
+    "phonetic": "/koʊˈɑːlə/",
+    "definition": "an Australian animal like a small grey bear that eats leaves",
+    "translation": "gấu koala",
+    "exampleSentence": "The koala sleeps in a tree all day.",
+    "exampleTranslation": "Gấu koala ngủ trên cây cả ngày.",
+    "pos": "noun"
+  },
+  {
+    "word": "kangaroo",
+    "phonetic": "/ˌkæŋɡəˈruː/",
+    "definition": "an Australian animal that jumps and carries its baby in a pouch",
+    "translation": "con chuột túi, con kanguru",
+    "exampleSentence": "The kangaroo jumped over the fence.",
+    "exampleTranslation": "Con kanguru nhảy qua hàng rào.",
+    "pos": "noun"
+  },
+  {
+    "word": "wolf",
+    "phonetic": "/wʊlf/",
+    "definition": "a wild animal like a large dog that lives and hunts in groups",
+    "translation": "con sói",
+    "exampleSentence": "The wolf howled at the moon.",
+    "exampleTranslation": "Con sói hú lên với mặt trăng.",
+    "pos": "noun"
+  },
+  {
+    "word": "fox",
+    "phonetic": "/fɑːks/",
+    "definition": "a wild animal like a dog with red-brown fur and a thick tail",
+    "translation": "con cáo",
+    "exampleSentence": "A fox ran across the road.",
+    "exampleTranslation": "Một con cáo chạy băng qua đường.",
+    "pos": "noun"
+  },
+  {
+    "word": "deer",
+    "phonetic": "/dɪr/",
+    "definition": "a large wild animal that runs fast and eats grass",
+    "translation": "con nai, con hươu",
+    "exampleSentence": "The deer ran into the forest.",
+    "exampleTranslation": "Con nai chạy vào rừng.",
+    "pos": "noun"
+  },
+  {
+    "word": "giraffe",
+    "phonetic": "/dʒəˈræf/",
+    "definition": "a tall African animal with a very long neck",
+    "translation": "con hươu cao cổ",
+    "exampleSentence": "The giraffe is eating leaves from a tall tree.",
+    "exampleTranslation": "Con hươu cao cổ đang ăn lá trên cây cao.",
+    "pos": "noun"
+  },
+  {
+    "word": "zebra",
+    "phonetic": "/ˈziːbrə/",
+    "definition": "an animal like a horse with black and white lines",
+    "translation": "con ngựa vằn",
+    "exampleSentence": "The zebra has black and white stripes.",
+    "exampleTranslation": "Con ngựa vằn có sọc đen và trắng.",
+    "pos": "noun"
+  },
+  {
+    "word": "hippo",
+    "phonetic": "/ˈhɪpoʊ/",
+    "definition": "a very large African animal that lives in and near rivers",
+    "translation": "con hà mã",
+    "exampleSentence": "The hippo spends the day in the water.",
+    "exampleTranslation": "Con hà mã ở dưới nước cả ngày.",
+    "pos": "noun"
+  },
+  {
+    "word": "rhinoceros",
+    "phonetic": "/raɪˈnɑːsərəs/",
+    "definition": "a large heavy animal with thick skin and one or two horns on its nose",
+    "translation": "con tê giác",
+    "exampleSentence": "The rhinoceros has a big horn on its nose.",
+    "exampleTranslation": "Con tê giác có một cái sừng lớn trên mũi.",
+    "pos": "noun"
+  },
+  {
+    "word": "camel",
+    "phonetic": "/ˈkæməl/",
+    "definition": "a large desert animal with a long neck and humps on its back",
+    "translation": "con lạc đà",
+    "exampleSentence": "The camel can walk for days without water.",
+    "exampleTranslation": "Con lạc đà có thể đi nhiều ngày không cần nước.",
+    "pos": "noun"
+  },
+  {
+    "word": "squirrel",
+    "phonetic": "/ˈskwɜːrəl/",
+    "definition": "a small animal with a long furry tail that climbs trees",
+    "translation": "con sóc",
+    "exampleSentence": "The squirrel is eating a nut.",
+    "exampleTranslation": "Con sóc đang ăn một hạt dẻ.",
+    "pos": "noun"
+  },
+  {
+    "word": "bat",
+    "phonetic": "/bæt/",
+    "definition": "a small animal like a mouse with wings that flies at night",
+    "translation": "con dơi",
+    "exampleSentence": "A bat flew out of the cave at night.",
+    "exampleTranslation": "Một con dơi bay ra khỏi hang vào ban đêm.",
+    "pos": "noun"
+  },
+  {
+    "word": "snake",
+    "phonetic": "/sneɪk/",
+    "definition": "an animal with a long thin body and no legs",
+    "translation": "con rắn",
+    "exampleSentence": "There is a snake under that rock.",
+    "exampleTranslation": "Có một con rắn dưới tảng đá đó.",
+    "pos": "noun"
+  },
+  {
+    "word": "lizard",
+    "phonetic": "/ˈlɪzərd/",
+    "definition": "a small reptile with four legs and a long tail",
+    "translation": "con thằn lằn",
+    "exampleSentence": "The lizard is sitting in the sun.",
+    "exampleTranslation": "Con thằn lằn đang ngồi phơi nắng.",
+    "pos": "noun"
+  },
+  {
+    "word": "gecko",
+    "phonetic": "/ˈɡekoʊ/",
+    "definition": "a small lizard",
+    "translation": "con tắc kè, con thạch sùng",
+    "exampleSentence": "A gecko is on the wall near the light.",
+    "exampleTranslation": "Một con thạch sùng đang bò trên tường gần cái đèn.",
+    "pos": "noun"
+  },
+  {
+    "word": "crocodile",
+    "phonetic": "/ˈkrɑːkədaɪl/",
+    "definition": "a large reptile with a long mouth and sharp teeth that lives in rivers",
+    "translation": "con cá sấu",
+    "exampleSentence": "The crocodile lay quietly in the river.",
+    "exampleTranslation": "Con cá sấu nằm im trong dòng sông.",
+    "pos": "noun"
+  },
+  {
+    "word": "turtle",
+    "phonetic": "/ˈtɜːrtl/",
+    "definition": "a reptile that lives in water and has a hard shell",
+    "translation": "con rùa, con rùa biển",
+    "exampleSentence": "The turtle walks very slowly.",
+    "exampleTranslation": "Con rùa đi rất chậm.",
+    "pos": "noun"
+  },
+  {
+    "word": "reptile",
+    "phonetic": "/ˈreptl/",
+    "definition": "an animal such as a snake or lizard that has cold blood and lays eggs",
+    "translation": "loài bò sát",
+    "exampleSentence": "A snake is a reptile.",
+    "exampleTranslation": "Rắn là một loài bò sát.",
+    "pos": "noun"
+  },
+  {
+    "word": "frog",
+    "phonetic": "/frɑːɡ/",
+    "definition": "a small green animal that lives near water and jumps",
+    "translation": "con ếch",
+    "exampleSentence": "The frog jumped into the pond.",
+    "exampleTranslation": "Con ếch nhảy xuống ao.",
+    "pos": "noun"
+  },
+  {
+    "word": "bird",
+    "phonetic": "/bɜːrd/",
+    "definition": "an animal with wings and feathers that can usually fly",
+    "translation": "con chim",
+    "exampleSentence": "A bird is singing in the tree.",
+    "exampleTranslation": "Một con chim đang hót trên cây.",
+    "pos": "noun"
+  },
+  {
+    "word": "eagle",
+    "phonetic": "/ˈiːɡəl/",
+    "definition": "a very large strong bird that hunts small animals",
+    "translation": "con đại bàng",
+    "exampleSentence": "The eagle flew high above the mountains.",
+    "exampleTranslation": "Con đại bàng bay cao trên những ngọn núi.",
+    "pos": "noun"
+  },
+  {
+    "word": "owl",
+    "phonetic": "/aʊl/",
+    "definition": "a bird with large eyes that hunts at night",
+    "translation": "con cú",
+    "exampleSentence": "The owl sleeps during the day.",
+    "exampleTranslation": "Con cú ngủ vào ban ngày.",
+    "pos": "noun"
+  },
+  {
+    "word": "parrot",
+    "phonetic": "/ˈpærət/",
+    "definition": "a tropical bird with bright feathers that can copy human speech",
+    "translation": "con vẹt",
+    "exampleSentence": "My parrot can say hello.",
+    "exampleTranslation": "Con vẹt của tôi biết nói xin chào.",
+    "pos": "noun"
+  },
+  {
+    "word": "pigeon",
+    "phonetic": "/ˈpɪdʒɪn/",
+    "definition": "a grey bird with short legs that is common in cities",
+    "translation": "con bồ câu, chim bồ câu",
+    "exampleSentence": "Pigeons are eating bread in the square.",
+    "exampleTranslation": "Những con bồ câu đang ăn bánh mì ở quảng trường.",
+    "pos": "noun"
+  },
+  {
+    "word": "crow",
+    "phonetic": "/kroʊ/",
+    "definition": "a large black bird with a loud cry",
+    "translation": "con quạ",
+    "exampleSentence": "A crow is sitting on the roof.",
+    "exampleTranslation": "Một con quạ đang đậu trên mái nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "sparrow",
+    "phonetic": "/ˈspæroʊ/",
+    "definition": "a small brown bird that is very common",
+    "translation": "con chim sẻ",
+    "exampleSentence": "A sparrow is in the garden.",
+    "exampleTranslation": "Một con chim sẻ đang ở trong vườn.",
+    "pos": "noun"
+  },
+  {
+    "word": "swan",
+    "phonetic": "/swɑːn/",
+    "definition": "a large white bird with a long neck that lives on lakes",
+    "translation": "con thiên nga",
+    "exampleSentence": "The swan is swimming on the lake.",
+    "exampleTranslation": "Con thiên nga đang bơi trên hồ.",
+    "pos": "noun"
+  },
+  {
+    "word": "goose",
+    "phonetic": "/ɡuːs/",
+    "definition": "a bird like a duck but larger",
+    "translation": "con ngỗng",
+    "exampleSentence": "The goose made a loud noise.",
+    "exampleTranslation": "Con ngỗng kêu rất to.",
+    "pos": "noun"
+  },
+  {
+    "word": "penguin",
+    "phonetic": "/ˈpeŋɡwɪn/",
+    "definition": "a black and white sea bird that cannot fly but swims well",
+    "translation": "chim cánh cụt",
+    "exampleSentence": "The penguin cannot fly but swims well.",
+    "exampleTranslation": "Chim cánh cụt không biết bay nhưng bơi giỏi.",
+    "pos": "noun"
+  },
+  {
+    "word": "whale",
+    "phonetic": "/weɪl/",
+    "definition": "a very large sea animal that looks like a fish",
+    "translation": "con cá voi",
+    "exampleSentence": "We saw a whale from the boat.",
+    "exampleTranslation": "Chúng tôi thấy một con cá voi từ trên thuyền.",
+    "pos": "noun"
+  },
+  {
+    "word": "dolphin",
+    "phonetic": "/ˈdɑːlfɪn/",
+    "definition": "an intelligent sea animal with a long grey pointed nose",
+    "translation": "con cá heo",
+    "exampleSentence": "The dolphin jumped out of the water.",
+    "exampleTranslation": "Con cá heo nhảy lên khỏi mặt nước.",
+    "pos": "noun"
+  },
+  {
+    "word": "shark",
+    "phonetic": "/ʃɑːrk/",
+    "definition": "a large sea fish with very sharp teeth",
+    "translation": "con cá mập",
+    "exampleSentence": "The shark swam around the boat.",
+    "exampleTranslation": "Con cá mập bơi quanh con thuyền.",
+    "pos": "noun"
+  },
+  {
+    "word": "seal",
+    "phonetic": "/siːl/",
+    "definition": "a large sea animal that eats fish and lives near the coast",
+    "translation": "con hải cẩu",
+    "exampleSentence": "The seal is resting on a rock.",
+    "exampleTranslation": "Con hải cẩu đang nghỉ trên một tảng đá.",
+    "pos": "noun"
+  },
+  {
+    "word": "jellyfish",
+    "phonetic": "/ˈdʒelifɪʃ/",
+    "definition": "a sea animal with a round transparent body that can sting",
+    "translation": "con sứa",
+    "exampleSentence": "A jellyfish stung me at the beach.",
+    "exampleTranslation": "Một con sứa đã đốt tôi ở bãi biển.",
+    "pos": "noun"
+  },
+  {
+    "word": "insect",
+    "phonetic": "/ˈɪnsekt/",
+    "definition": "a small creature with six legs and sometimes wings",
+    "translation": "côn trùng, sâu bọ",
+    "exampleSentence": "A small insect is on my arm.",
+    "exampleTranslation": "Một con côn trùng nhỏ đang đậu trên tay tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "spider",
+    "phonetic": "/ˈspaɪdər/",
+    "definition": "a small creature with eight legs that makes webs",
+    "translation": "con nhện",
+    "exampleSentence": "A spider made a web in the corner.",
+    "exampleTranslation": "Một con nhện đã giăng mạng ở góc phòng.",
+    "pos": "noun"
+  },
+  {
+    "word": "ant",
+    "phonetic": "/ænt/",
+    "definition": "a small insect that lives in large groups",
+    "translation": "con kiến",
+    "exampleSentence": "An ant is carrying a crumb.",
+    "exampleTranslation": "Một con kiến đang tha một mẩu vụn.",
+    "pos": "noun"
+  },
+  {
+    "word": "bee",
+    "phonetic": "/biː/",
+    "definition": "a black and yellow flying insect that makes honey",
+    "translation": "con ong",
+    "exampleSentence": "The bee flew from flower to flower.",
+    "exampleTranslation": "Con ong bay từ bông hoa này sang bông hoa khác.",
+    "pos": "noun"
+  },
+  {
+    "word": "butterfly",
+    "phonetic": "/ˈbʌtərflaɪ/",
+    "definition": "an insect with large wings and beautiful colours",
+    "translation": "con bướm",
+    "exampleSentence": "A butterfly landed on the flower.",
+    "exampleTranslation": "Một con bướm đậu xuống bông hoa.",
+    "pos": "noun"
+  },
+  {
+    "word": "mosquito",
+    "phonetic": "/məˈskiːtoʊ/",
+    "definition": "a small flying insect that bites and sucks blood",
+    "translation": "con muỗi",
+    "exampleSentence": "A mosquito bit me last night.",
+    "exampleTranslation": "Đêm qua có con muỗi cắn tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "fly",
+    "phonetic": "/flaɪ/",
+    "definition": "a small flying insect with two wings",
+    "translation": "con ruồi",
+    "exampleSentence": "There is a fly in my soup.",
+    "exampleTranslation": "Có một con ruồi trong bát canh của tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "cockroach",
+    "phonetic": "/ˈkɑːkroʊtʃ/",
+    "definition": "a large brown insect that lives in warm dirty places",
+    "translation": "con gián",
+    "exampleSentence": "I saw a cockroach in the kitchen.",
+    "exampleTranslation": "Tôi thấy một con gián trong bếp.",
+    "pos": "noun"
+  },
+  {
+    "word": "worm",
+    "phonetic": "/wɜːrm/",
+    "definition": "a long thin creature with no legs that lives in soil",
+    "translation": "con giun, con sâu",
+    "exampleSentence": "The bird pulled a worm out of the ground.",
+    "exampleTranslation": "Con chim kéo một con giun lên khỏi mặt đất.",
+    "pos": "noun"
+  },
+  {
+    "word": "snail",
+    "phonetic": "/sneɪl/",
+    "definition": "a small soft animal with a hard shell on its back",
+    "translation": "con ốc sên",
+    "exampleSentence": "The snail moves very slowly.",
+    "exampleTranslation": "Con ốc sên di chuyển rất chậm.",
+    "pos": "noun"
+  },
+  {
+    "word": "wild",
+    "phonetic": "/waɪld/",
+    "definition": "living in nature and not controlled by people",
+    "translation": "hoang dã",
+    "exampleSentence": "Tigers are wild animals.",
+    "exampleTranslation": "Hổ là động vật hoang dã.",
+    "pos": "adjective"
+  },
+  {
+    "word": "tame",
+    "phonetic": "/teɪm/",
+    "definition": "not wild any more because it lives with people",
+    "translation": "đã được thuần hóa, hiền, dạn người",
+    "exampleSentence": "The tame deer eats from my hand.",
+    "exampleTranslation": "Con nai đã quen người ăn từ tay tôi.",
+    "pos": "adjective"
+  },
+  {
+    "word": "zoo",
+    "phonetic": "/zuː/",
+    "definition": "a place where many kinds of animals are kept for people to see",
+    "translation": "sở thú, vườn thú",
+    "exampleSentence": "We went to the zoo on Sunday.",
+    "exampleTranslation": "Chủ nhật chúng tôi đi sở thú.",
+    "pos": "noun"
+  },
+  {
+    "word": "cage",
+    "phonetic": "/keɪdʒ/",
+    "definition": "a structure with bars or wires for keeping birds or animals",
+    "translation": "cái lồng, chuồng",
+    "exampleSentence": "The bird is in a small cage.",
+    "exampleTranslation": "Con chim ở trong một cái lồng nhỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "nest",
+    "phonetic": "/nest/",
+    "definition": "a place made by a bird for its eggs and babies",
+    "translation": "cái tổ, tổ chim",
+    "exampleSentence": "The bird built a nest in the tree.",
+    "exampleTranslation": "Con chim làm một cái tổ trên cây.",
+    "pos": "noun"
+  },
+  {
+    "word": "tail",
+    "phonetic": "/teɪl/",
+    "definition": "the part that sticks out at the back of an animal",
+    "translation": "cái đuôi",
+    "exampleSentence": "The dog wagged its tail.",
+    "exampleTranslation": "Con chó vẫy đuôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "fur",
+    "phonetic": "/fɜːr/",
+    "definition": "the thick soft hair that covers some animals",
+    "translation": "bộ lông, lông thú",
+    "exampleSentence": "The cat has soft white fur.",
+    "exampleTranslation": "Con mèo có bộ lông trắng mềm.",
+    "pos": "noun"
+  },
+  {
+    "word": "feather",
+    "phonetic": "/ˈfeðər/",
+    "definition": "one of the light soft parts that cover a bird",
+    "translation": "cái lông chim, lông vũ",
+    "exampleSentence": "I found a blue feather on the ground.",
+    "exampleTranslation": "Tôi nhặt được một chiếc lông chim màu xanh trên đất.",
+    "pos": "noun"
+  },
+  {
+    "word": "paw",
+    "phonetic": "/pɔː/",
+    "definition": "an animal foot that has nails or claws",
+    "translation": "bàn chân thú, chân",
+    "exampleSentence": "The dog gave me its paw.",
+    "exampleTranslation": "Con chó đưa chân cho tôi bắt.",
+    "pos": "noun"
+  },
+  {
+    "word": "claw",
+    "phonetic": "/klɔː/",
+    "definition": "a sharp curved nail on an animal or bird",
+    "translation": "móng vuốt",
+    "exampleSentence": "The cat has sharp claws.",
+    "exampleTranslation": "Con mèo có móng vuốt sắc nhọn.",
+    "pos": "noun"
+  },
+  {
+    "word": "beak",
+    "phonetic": "/biːk/",
+    "definition": "the hard pointed mouth of a bird",
+    "translation": "cái mỏ, mỏ chim",
+    "exampleSentence": "The bird has a long yellow beak.",
+    "exampleTranslation": "Con chim có cái mỏ dài màu vàng.",
+    "pos": "noun"
+  },
+  {
+    "word": "horn",
+    "phonetic": "/hɔːrn/",
+    "definition": "the hard pointed part that grows on the head of a cow or goat",
+    "translation": "cái sừng",
+    "exampleSentence": "The cow has two short horns.",
+    "exampleTranslation": "Con bò có hai cái sừng ngắn.",
+    "pos": "noun"
+  },
+  {
+    "word": "shell",
+    "phonetic": "/ʃel/",
+    "definition": "the hard cover that protects an animal such as a snail or crab",
+    "translation": "cái vỏ, mai, vỏ ốc",
+    "exampleSentence": "We collected shells on the beach.",
+    "exampleTranslation": "Chúng tôi nhặt vỏ sò ốc trên bãi biển.",
+    "pos": "noun"
+  },
+  {
+    "word": "bark",
+    "phonetic": "/bɑːrk/",
+    "definition": "when a dog barks, it makes a short loud sound",
+    "translation": "sủa",
+    "exampleSentence": "The dog barks at strangers.",
+    "exampleTranslation": "Con chó sủa người lạ.",
+    "pos": "verb"
+  },
+  {
+    "word": "meow",
+    "phonetic": "/miˈaʊ/",
+    "definition": "when a cat meows, it makes a short high sound",
+    "translation": "kêu meo meo",
+    "exampleSentence": "The cat meows when it is hungry.",
+    "exampleTranslation": "Con mèo kêu meo meo khi nó đói.",
+    "pos": "verb"
+  },
+  {
+    "word": "roar",
+    "phonetic": "/rɔːr/",
+    "definition": "to make a deep, very loud noise",
+    "translation": "gầm",
+    "exampleSentence": "We heard a lion roar.",
+    "exampleTranslation": "Chúng tôi nghe thấy một con sư tử gầm.",
+    "pos": "verb"
+  },
+  {
+    "word": "swim",
+    "phonetic": "/swɪm/",
+    "definition": "to move through water using your body",
+    "translation": "bơi",
+    "exampleSentence": "Fish swim in the river.",
+    "exampleTranslation": "Cá bơi trong sông.",
+    "pos": "verb"
+  },
+  {
+    "word": "fly",
+    "phonetic": "/flaɪ/",
+    "definition": "to move through the air using wings",
+    "translation": "bay",
+    "exampleSentence": "Birds can fly.",
+    "exampleTranslation": "Chim có thể bay.",
+    "pos": "verb"
+  },
+  {
+    "word": "hunt",
+    "phonetic": "/hʌnt/",
+    "definition": "to chase animals or birds in order to catch or kill them",
+    "translation": "săn, đi săn",
+    "exampleSentence": "Lions hunt at night.",
+    "exampleTranslation": "Sư tử đi săn vào ban đêm.",
+    "pos": "verb"
+  },
+  {
+    "word": "bite",
+    "phonetic": "/baɪt/",
+    "definition": "to use your teeth to cut or injure something",
+    "translation": "cắn",
+    "exampleSentence": "Does your dog bite?",
+    "exampleTranslation": "Con chó của bạn có cắn không?",
+    "pos": "verb"
+  },
+  {
+    "word": "feed",
+    "phonetic": "/fiːd/",
+    "definition": "to give food to a person or animal",
+    "translation": "cho ăn",
+    "exampleSentence": "Please feed the cat at six.",
+    "exampleTranslation": "Làm ơn cho mèo ăn lúc sáu giờ.",
+    "pos": "verb"
+  },
+  {
+    "word": "breed",
+    "phonetic": "/briːd/",
+    "definition": "when animals breed, they mate to have babies",
+    "translation": "sinh sản, gây giống",
+    "exampleSentence": "Many birds breed in spring.",
+    "exampleTranslation": "Nhiều loài chim sinh sản vào mùa xuân.",
+    "pos": "verb"
+  }
+]

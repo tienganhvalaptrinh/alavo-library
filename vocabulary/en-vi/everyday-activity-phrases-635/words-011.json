@@ -1,0 +1,263 @@
+[
+  {
+    "word": "start the car",
+    "phonetic": "/ˌstɑːrt ðə ˈkɑːr/",
+    "definition": "to turn on the engine of a car",
+    "translation": "nổ máy xe",
+    "exampleSentence": "He started the car and drove off.",
+    "exampleTranslation": "Bạn ấy nổ máy xe rồi chạy đi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "turn off the engine",
+    "phonetic": "/ˌtɜːrn ˌɔːf ði ˈendʒɪn/",
+    "definition": "to stop the engine of a car",
+    "translation": "tắt máy",
+    "exampleSentence": "Turn off the engine when you stop.",
+    "exampleTranslation": "Hãy tắt máy khi dừng xe.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "adjust the mirror",
+    "phonetic": "/əˌdʒʌst ðə ˈmɪrər/",
+    "definition": "to move the mirror so you can see behind",
+    "translation": "chỉnh gương",
+    "exampleSentence": "Adjust the mirror before you drive.",
+    "exampleTranslation": "Hãy chỉnh gương trước khi lái xe.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "check the mirror",
+    "phonetic": "/ˌtʃek ðə ˈmɪrər/",
+    "definition": "to look in the car mirror before you move",
+    "translation": "nhìn gương",
+    "exampleSentence": "Check the mirror before you turn.",
+    "exampleTranslation": "Nhìn gương trước khi rẽ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "indicate",
+    "phonetic": "/ˈɪndɪkeɪt/",
+    "definition": "to show with a signal that you are going to turn",
+    "translation": "bật xi-nhan",
+    "exampleSentence": "Always indicate before you turn.",
+    "exampleTranslation": "Luôn bật xi-nhan trước khi rẽ.",
+    "pos": "verb"
+  },
+  {
+    "word": "turn right",
+    "phonetic": "/ˌtɜːrn ˈraɪt/",
+    "definition": "to go towards the right",
+    "translation": "rẽ phải",
+    "exampleSentence": "Turn right after the bank.",
+    "exampleTranslation": "Rẽ phải sau ngân hàng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "change gear",
+    "phonetic": "/ˌtʃeɪndʒ ˈɡɪr/",
+    "definition": "to move the gear stick to another position",
+    "translation": "chuyển số",
+    "exampleSentence": "Change gear before the hill.",
+    "exampleTranslation": "Hãy chuyển số trước khi lên dốc.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "press the brake",
+    "phonetic": "/ˌpres ðə ˈbreɪk/",
+    "definition": "to push the pedal that makes a car slow down",
+    "translation": "đạp phanh",
+    "exampleSentence": "He pressed the brake quickly.",
+    "exampleTranslation": "Bạn ấy đạp phanh thật nhanh.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "brake hard",
+    "phonetic": "/ˌbreɪk ˈhɑːrd/",
+    "definition": "to stop a car very quickly",
+    "translation": "phanh gấp",
+    "exampleSentence": "I had to brake hard to avoid the dog.",
+    "exampleTranslation": "Tôi phải phanh gấp để tránh con chó.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "speed up",
+    "phonetic": "/ˌspiːd ˈʌp/",
+    "definition": "to go faster",
+    "translation": "tăng tốc",
+    "exampleSentence": "The car speeded up on the open road.",
+    "exampleTranslation": "Chiếc xe tăng tốc trên đoạn đường thoáng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "stop at the red light",
+    "phonetic": "/ˌstɑːp ət ðə ˌred ˈlaɪt/",
+    "definition": "to stop when the traffic light is red",
+    "translation": "dừng lại ở đèn đỏ",
+    "exampleSentence": "Always stop at the red light.",
+    "exampleTranslation": "Luôn dừng lại ở đèn đỏ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "overtake a car",
+    "phonetic": "/ˌoʊvərˈteɪk ə ˈkɑːr/",
+    "definition": "to pass a car that is going slower",
+    "translation": "vượt xe",
+    "exampleSentence": "It is dangerous to overtake a car on a bend.",
+    "exampleTranslation": "Vượt xe ở khúc cua rất nguy hiểm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "reverse the car",
+    "phonetic": "/rɪˌvɜːrs ðə ˈkɑːr/",
+    "definition": "to drive the car backwards",
+    "translation": "lùi xe",
+    "exampleSentence": "Reverse the car slowly into the space.",
+    "exampleTranslation": "Lùi xe từ từ vào chỗ đỗ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "find a parking space",
+    "phonetic": "/ˌfaɪnd ə ˈpɑːrkɪŋ ˌspeɪs/",
+    "definition": "to find an empty place to park",
+    "translation": "tìm chỗ đỗ xe",
+    "exampleSentence": "It is hard to find a parking space downtown.",
+    "exampleTranslation": "Ở trung tâm rất khó tìm chỗ đỗ xe.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pay for parking",
+    "phonetic": "/ˌpeɪ fər ˈpɑːrkɪŋ/",
+    "definition": "to give money so you can leave your car in a place",
+    "translation": "trả tiền gửi xe",
+    "exampleSentence": "We pay for parking by the hour.",
+    "exampleTranslation": "Chúng tôi trả tiền gửi xe theo giờ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "fill up the tank",
+    "phonetic": "/ˌfɪl ˌʌp ðə ˈtæŋk/",
+    "definition": "to put petrol in the car until the tank is full",
+    "translation": "đổ đầy bình xăng",
+    "exampleSentence": "I need to fill up the tank before the trip.",
+    "exampleTranslation": "Tôi cần đổ đầy bình xăng trước chuyến đi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "check the oil",
+    "phonetic": "/ˌtʃek ði ˈɔɪl/",
+    "definition": "to see how much oil is in the car engine",
+    "translation": "kiểm tra dầu máy",
+    "exampleSentence": "Check the oil once a month.",
+    "exampleTranslation": "Hãy kiểm tra dầu máy mỗi tháng một lần.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "check the tyres",
+    "phonetic": "/ˌtʃek ðə ˈtaɪərz/",
+    "definition": "to see if the tyres have enough air",
+    "translation": "kiểm tra lốp xe",
+    "exampleSentence": "Check the tyres before a long trip.",
+    "exampleTranslation": "Hãy kiểm tra lốp xe trước một chuyến đi dài.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pump up the tyres",
+    "phonetic": "/ˌpʌmp ˌʌp ðə ˈtaɪərz/",
+    "definition": "to put more air into the tyres",
+    "translation": "bơm lốp xe",
+    "exampleSentence": "I pump up the tyres at the petrol station.",
+    "exampleTranslation": "Tôi bơm lốp xe ở trạm xăng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "get a flat tyre",
+    "phonetic": "/ˌɡet ə ˌflæt ˈtaɪər/",
+    "definition": "to have a tyre with no air in it",
+    "translation": "bị xẹp lốp",
+    "exampleSentence": "We got a flat tyre on the highway.",
+    "exampleTranslation": "Chúng tôi bị xẹp lốp trên đường cao tốc.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "call a mechanic",
+    "phonetic": "/ˌkɔːl ə məˈkænɪk/",
+    "definition": "to ask a car repair person to come",
+    "translation": "gọi thợ sửa xe",
+    "exampleSentence": "We called a mechanic to fix the engine.",
+    "exampleTranslation": "Chúng tôi gọi thợ sửa xe đến sửa động cơ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "get the car serviced",
+    "phonetic": "/ˌɡet ðə ˌkɑːr ˈsɜːrvɪst/",
+    "definition": "to have the car checked and repaired by a garage",
+    "translation": "đem xe đi bảo dưỡng",
+    "exampleSentence": "I get the car serviced every year.",
+    "exampleTranslation": "Năm nào tôi cũng đem xe đi bảo dưỡng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "renew your licence",
+    "phonetic": "/rɪˌnuː jər ˈlaɪsns/",
+    "definition": "to get a new date on your driving licence",
+    "translation": "gia hạn bằng lái",
+    "exampleSentence": "I need to renew my licence this year.",
+    "exampleTranslation": "Năm nay tôi cần gia hạn bằng lái.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pass a driving test",
+    "phonetic": "/ˌpæs ə ˈdraɪvɪŋ ˌtest/",
+    "definition": "to succeed in the test to get a driving licence",
+    "translation": "đậu kỳ thi lấy bằng lái",
+    "exampleSentence": "She passed her driving test at the first try.",
+    "exampleTranslation": "Cô ấy đậu kỳ thi lấy bằng lái ngay lần đầu.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "give someone a lift",
+    "phonetic": "/ˌɡɪv ˈsʌmwʌn ə ˈlɪft/",
+    "definition": "to take someone somewhere in your car",
+    "translation": "cho ai đi nhờ xe",
+    "exampleSentence": "Can you give me a lift to the station?",
+    "exampleTranslation": "Bạn cho tôi đi nhờ xe đến nhà ga được không?",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "drop someone off",
+    "phonetic": "/ˌdrɑːp ˈsʌmwʌn ˈɔːf/",
+    "definition": "to take someone somewhere and let them get out",
+    "translation": "thả ai xuống, đưa ai đến nơi",
+    "exampleSentence": "I drop my kids off at school.",
+    "exampleTranslation": "Tôi đưa các con đến trường.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pick someone up",
+    "phonetic": "/ˌpɪk ˈsʌmwʌn ˈʌp/",
+    "definition": "to collect someone in your car",
+    "translation": "đón ai",
+    "exampleSentence": "I will pick you up at eight.",
+    "exampleTranslation": "Tám giờ tôi sẽ đến đón bạn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "lock the car",
+    "phonetic": "/ˌlɑːk ðə ˈkɑːr/",
+    "definition": "to lock the doors of a car",
+    "translation": "khóa xe",
+    "exampleSentence": "Don't forget to lock the car.",
+    "exampleTranslation": "Đừng quên khóa xe.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "open the boot",
+    "phonetic": "/ˌoʊpən ðə ˈbuːt/",
+    "definition": "to open the back part of a car where you put bags",
+    "translation": "mở cốp xe",
+    "exampleSentence": "Open the boot and put the bags in.",
+    "exampleTranslation": "Mở cốp xe rồi cho túi vào.",
+    "pos": "verb phrase"
+  }
+]

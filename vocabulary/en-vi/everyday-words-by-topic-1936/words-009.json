@@ -1,0 +1,623 @@
+[
+  {
+    "word": "beef",
+    "phonetic": "/biːf/",
+    "definition": "meat from a cow",
+    "translation": "thịt bò",
+    "exampleSentence": "I cook beef with onions.",
+    "exampleTranslation": "Tôi xào thịt bò với hành.",
+    "pos": "noun"
+  },
+  {
+    "word": "pork",
+    "phonetic": "/pɔːrk/",
+    "definition": "meat from a pig",
+    "translation": "thịt lợn, thịt heo",
+    "exampleSentence": "We had pork and rice for lunch.",
+    "exampleTranslation": "Bữa trưa chúng tôi ăn cơm với thịt heo.",
+    "pos": "noun"
+  },
+  {
+    "word": "chicken",
+    "phonetic": "/ˈtʃɪkɪn/",
+    "definition": "the meat of a chicken, eaten as food",
+    "translation": "thịt gà",
+    "exampleSentence": "Do you want chicken or fish?",
+    "exampleTranslation": "Bạn muốn ăn thịt gà hay cá?",
+    "pos": "noun"
+  },
+  {
+    "word": "lamb",
+    "phonetic": "/læm/",
+    "definition": "the meat of a young sheep",
+    "translation": "thịt cừu non, thịt cừu",
+    "exampleSentence": "We had roast lamb on Sunday.",
+    "exampleTranslation": "Chủ nhật chúng tôi ăn thịt cừu nướng.",
+    "pos": "noun"
+  },
+  {
+    "word": "duck",
+    "phonetic": "/dʌk/",
+    "definition": "the meat of a duck, eaten as food",
+    "translation": "thịt vịt",
+    "exampleSentence": "Roast duck is my favourite dish.",
+    "exampleTranslation": "Vịt quay là món tôi thích nhất.",
+    "pos": "noun"
+  },
+  {
+    "word": "turkey",
+    "phonetic": "/ˈtɜːrki/",
+    "definition": "the meat of a turkey, eaten as food",
+    "translation": "thịt gà tây",
+    "exampleSentence": "Many families eat turkey at Christmas.",
+    "exampleTranslation": "Nhiều gia đình ăn thịt gà tây vào dịp Giáng sinh.",
+    "pos": "noun"
+  },
+  {
+    "word": "bacon",
+    "phonetic": "/ˈbeɪkən/",
+    "definition": "salted or smoked meat from a pig, cut in thin slices",
+    "translation": "thịt xông khói",
+    "exampleSentence": "I like bacon and eggs for breakfast.",
+    "exampleTranslation": "Tôi thích ăn thịt xông khói và trứng vào bữa sáng.",
+    "pos": "noun"
+  },
+  {
+    "word": "ham",
+    "phonetic": "/hæm/",
+    "definition": "meat from a pig's leg, kept with salt or smoke",
+    "translation": "giăm bông, thịt nguội",
+    "exampleSentence": "I made a ham sandwich for lunch.",
+    "exampleTranslation": "Tôi làm một cái bánh mì kẹp giăm bông cho bữa trưa.",
+    "pos": "noun"
+  },
+  {
+    "word": "sausage",
+    "phonetic": "/ˈsɔːsɪdʒ/",
+    "definition": "a tube of skin filled with minced meat and spices",
+    "translation": "xúc xích",
+    "exampleSentence": "We cooked sausages on the grill.",
+    "exampleTranslation": "Chúng tôi nướng xúc xích trên vỉ.",
+    "pos": "noun"
+  },
+  {
+    "word": "steak",
+    "phonetic": "/steɪk/",
+    "definition": "a large thick piece of good quality meat, usually beef",
+    "translation": "bít tết, miếng thịt bò",
+    "exampleSentence": "I'd like my steak well done, please.",
+    "exampleTranslation": "Làm ơn cho tôi bít tết chín kỹ.",
+    "pos": "noun"
+  },
+  {
+    "word": "mince",
+    "phonetic": "/mɪns/",
+    "definition": "meat, especially beef, cut into very small pieces",
+    "translation": "thịt băm, thịt xay",
+    "exampleSentence": "We use mince to make spaghetti sauce.",
+    "exampleTranslation": "Chúng tôi dùng thịt băm để làm sốt mì Ý.",
+    "pos": "noun"
+  },
+  {
+    "word": "chop",
+    "phonetic": "/tʃɑːp/",
+    "definition": "a small piece of meat on a bone, from a pig or sheep",
+    "translation": "sườn cốt lết, cốt lết",
+    "exampleSentence": "We had pork chops for dinner.",
+    "exampleTranslation": "Bữa tối chúng tôi ăn sườn cốt lết heo.",
+    "pos": "noun"
+  },
+  {
+    "word": "ribs",
+    "phonetic": "/rɪbz/",
+    "definition": "pieces of meat with bones from an animal's chest",
+    "translation": "sườn",
+    "exampleSentence": "We shared a plate of grilled ribs.",
+    "exampleTranslation": "Chúng tôi chia nhau một đĩa sườn nướng.",
+    "pos": "noun"
+  },
+  {
+    "word": "liver",
+    "phonetic": "/ˈlɪvər/",
+    "definition": "the liver of an animal, eaten as food",
+    "translation": "gan",
+    "exampleSentence": "Liver has a lot of iron.",
+    "exampleTranslation": "Gan có nhiều chất sắt.",
+    "pos": "noun"
+  },
+  {
+    "word": "meat",
+    "phonetic": "/miːt/",
+    "definition": "the flesh of animals and birds, eaten as food",
+    "translation": "thịt",
+    "exampleSentence": "I gave up eating meat last year.",
+    "exampleTranslation": "Năm ngoái tôi đã bỏ ăn thịt.",
+    "pos": "noun"
+  },
+  {
+    "word": "poultry",
+    "phonetic": "/ˈpoʊltri/",
+    "definition": "meat from birds such as chickens and ducks",
+    "translation": "thịt gia cầm",
+    "exampleSentence": "Poultry must be cooked well.",
+    "exampleTranslation": "Thịt gia cầm phải được nấu chín kỹ.",
+    "pos": "noun"
+  },
+  {
+    "word": "veal",
+    "phonetic": "/viːl/",
+    "definition": "the meat of a young cow",
+    "translation": "thịt bê",
+    "exampleSentence": "Veal is more expensive than beef.",
+    "exampleTranslation": "Thịt bê đắt hơn thịt bò.",
+    "pos": "noun"
+  },
+  {
+    "word": "meatball",
+    "phonetic": "/ˈmiːtbɔːl/",
+    "definition": "a small round ball of meat, often served with sauce",
+    "translation": "thịt viên",
+    "exampleSentence": "We had spaghetti and meatballs.",
+    "exampleTranslation": "Chúng tôi ăn mì Ý với thịt viên.",
+    "pos": "noun"
+  },
+  {
+    "word": "salami",
+    "phonetic": "/səˈlɑːmi/",
+    "definition": "a large sausage with a strong taste, eaten cold",
+    "translation": "xúc xích Ý, salami",
+    "exampleSentence": "I put salami on my sandwich.",
+    "exampleTranslation": "Tôi cho xúc xích Ý vào bánh mì kẹp của mình.",
+    "pos": "noun"
+  },
+  {
+    "word": "hamburger",
+    "phonetic": "/ˈhæmbɜːrɡər/",
+    "definition": "a flat round piece of beef cooked and eaten in a bread bun",
+    "translation": "bánh mì kẹp thịt, hăm-bơ-gơ",
+    "exampleSentence": "We ordered two hamburgers and fries.",
+    "exampleTranslation": "Chúng tôi gọi hai cái hăm-bơ-gơ và khoai tây chiên.",
+    "pos": "noun"
+  },
+  {
+    "word": "hot dog",
+    "phonetic": "/ˈhɑːt ˌdɔːɡ/",
+    "definition": "a cooked sausage in a long piece of bread",
+    "translation": "bánh mì xúc xích, hot dog",
+    "exampleSentence": "We ate hot dogs at the park.",
+    "exampleTranslation": "Chúng tôi ăn bánh mì xúc xích ở công viên.",
+    "pos": "noun"
+  },
+  {
+    "word": "breast",
+    "phonetic": "/brest/",
+    "definition": "meat from the front part of a bird such as a chicken",
+    "translation": "ức gà, ức",
+    "exampleSentence": "I eat chicken breast for lunch.",
+    "exampleTranslation": "Tôi ăn ức gà vào bữa trưa.",
+    "pos": "noun"
+  },
+  {
+    "word": "wing",
+    "phonetic": "/wɪŋ/",
+    "definition": "the meat on the wing of a chicken or duck, eaten as food",
+    "translation": "cánh gà",
+    "exampleSentence": "We shared a plate of spicy chicken wings.",
+    "exampleTranslation": "Chúng tôi chia nhau một đĩa cánh gà cay.",
+    "pos": "noun"
+  },
+  {
+    "word": "drumstick",
+    "phonetic": "/ˈdrʌmˌstɪk/",
+    "definition": "the lower part of a chicken's leg, cooked as food",
+    "translation": "đùi tỏi, đùi gà",
+    "exampleSentence": "The children love chicken drumsticks.",
+    "exampleTranslation": "Bọn trẻ rất thích đùi tỏi gà.",
+    "pos": "noun"
+  },
+  {
+    "word": "thigh",
+    "phonetic": "/θaɪ/",
+    "definition": "the top part of a bird's leg, used as food",
+    "translation": "đùi gà, phần đùi trên",
+    "exampleSentence": "I prefer chicken thighs to breast.",
+    "exampleTranslation": "Tôi thích đùi gà hơn ức gà.",
+    "pos": "noun"
+  },
+  {
+    "word": "leg",
+    "phonetic": "/leɡ/",
+    "definition": "the leg of an animal, cooked and eaten as food",
+    "translation": "đùi",
+    "exampleSentence": "We had roast leg of lamb.",
+    "exampleTranslation": "Chúng tôi ăn đùi cừu nướng.",
+    "pos": "noun"
+  },
+  {
+    "word": "fillet",
+    "phonetic": "/fɪˈleɪ/",
+    "definition": "a piece of meat or fish without bones",
+    "translation": "phi lê, miếng thịt không xương",
+    "exampleSentence": "We ordered a salmon fillet.",
+    "exampleTranslation": "Chúng tôi gọi một miếng phi lê cá hồi.",
+    "pos": "noun"
+  },
+  {
+    "word": "gravy",
+    "phonetic": "/ˈɡreɪvi/",
+    "definition": "a sauce made from the juice of cooked meat",
+    "translation": "nước sốt thịt",
+    "exampleSentence": "Would you like gravy on your potatoes?",
+    "exampleTranslation": "Bạn có muốn rưới nước sốt thịt lên khoai tây không?",
+    "pos": "noun"
+  },
+  {
+    "word": "tender",
+    "phonetic": "/ˈtendər/",
+    "definition": "easy to cut and eat, because it has been cooked well",
+    "translation": "mềm",
+    "exampleSentence": "The steak was very tender.",
+    "exampleTranslation": "Miếng bít tết rất mềm.",
+    "pos": "adjective"
+  },
+  {
+    "word": "lean",
+    "phonetic": "/liːn/",
+    "definition": "lean meat has very little fat on it",
+    "translation": "nạc",
+    "exampleSentence": "I buy lean beef to stay healthy.",
+    "exampleTranslation": "Tôi mua thịt bò nạc để giữ sức khoẻ.",
+    "pos": "adjective"
+  },
+  {
+    "word": "fish",
+    "phonetic": "/fɪʃ/",
+    "definition": "the flesh of a fish, eaten as food",
+    "translation": "cá, thịt cá",
+    "exampleSentence": "We usually have fish on Fridays.",
+    "exampleTranslation": "Chúng tôi thường ăn cá vào thứ Sáu.",
+    "pos": "noun"
+  },
+  {
+    "word": "salmon",
+    "phonetic": "/ˈsæmən/",
+    "definition": "a large fish with pink flesh, eaten as food",
+    "translation": "cá hồi",
+    "exampleSentence": "Grilled salmon is very healthy.",
+    "exampleTranslation": "Cá hồi nướng rất tốt cho sức khoẻ.",
+    "pos": "noun"
+  },
+  {
+    "word": "tuna",
+    "phonetic": "/ˈtuːnə/",
+    "definition": "a large sea fish, often sold cooked in cans",
+    "translation": "cá ngừ",
+    "exampleSentence": "I made a tuna sandwich.",
+    "exampleTranslation": "Tôi làm một cái bánh mì kẹp cá ngừ.",
+    "pos": "noun"
+  },
+  {
+    "word": "cod",
+    "phonetic": "/kɑːd/",
+    "definition": "the white flesh of a large sea fish, eaten as food",
+    "translation": "cá tuyết",
+    "exampleSentence": "Two cod fillets, please.",
+    "exampleTranslation": "Làm ơn cho tôi hai miếng phi lê cá tuyết.",
+    "pos": "noun"
+  },
+  {
+    "word": "trout",
+    "phonetic": "/traʊt/",
+    "definition": "a common river fish, eaten as food",
+    "translation": "cá hồi vân, cá hồi nước ngọt",
+    "exampleSentence": "We caught a trout in the river.",
+    "exampleTranslation": "Chúng tôi câu được một con cá hồi vân ở sông.",
+    "pos": "noun"
+  },
+  {
+    "word": "herring",
+    "phonetic": "/ˈherɪŋ/",
+    "definition": "a long thin silver sea fish that can be eaten",
+    "translation": "cá trích",
+    "exampleSentence": "Herring is popular in northern Europe.",
+    "exampleTranslation": "Cá trích rất phổ biến ở Bắc Âu.",
+    "pos": "noun"
+  },
+  {
+    "word": "mackerel",
+    "phonetic": "/ˈmækərəl/",
+    "definition": "a sea fish with oily flesh and a strong taste",
+    "translation": "cá thu",
+    "exampleSentence": "I bought smoked mackerel at the market.",
+    "exampleTranslation": "Tôi mua cá thu hun khói ở chợ.",
+    "pos": "noun"
+  },
+  {
+    "word": "sardine",
+    "phonetic": "/ˌsɑːrˈdiːn/",
+    "definition": "a small young fish, often sold in cans",
+    "translation": "cá mòi",
+    "exampleSentence": "I opened a can of sardines.",
+    "exampleTranslation": "Tôi mở một hộp cá mòi.",
+    "pos": "noun"
+  },
+  {
+    "word": "anchovy",
+    "phonetic": "/ˈæntʃoʊvi/",
+    "definition": "a very small fish that tastes strongly of salt",
+    "translation": "cá cơm",
+    "exampleSentence": "I don't like anchovies on pizza.",
+    "exampleTranslation": "Tôi không thích cá cơm trên bánh pizza.",
+    "pos": "noun"
+  },
+  {
+    "word": "eel",
+    "phonetic": "/iːl/",
+    "definition": "a long thin fish that looks like a snake",
+    "translation": "lươn",
+    "exampleSentence": "Grilled eel is a famous dish in Japan.",
+    "exampleTranslation": "Lươn nướng là món nổi tiếng ở Nhật Bản.",
+    "pos": "noun"
+  },
+  {
+    "word": "seafood",
+    "phonetic": "/ˈsiːfuːd/",
+    "definition": "fish and shellfish that you can eat",
+    "translation": "hải sản",
+    "exampleSentence": "This restaurant serves fresh seafood.",
+    "exampleTranslation": "Nhà hàng này phục vụ hải sản tươi.",
+    "pos": "noun"
+  },
+  {
+    "word": "shellfish",
+    "phonetic": "/ˈʃelˌfɪʃ/",
+    "definition": "a sea animal with a shell that can be eaten, such as a crab",
+    "translation": "hải sản có vỏ, động vật có vỏ",
+    "exampleSentence": "Some people are allergic to shellfish.",
+    "exampleTranslation": "Một số người bị dị ứng với hải sản có vỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "shrimp",
+    "phonetic": "/ʃrɪmp/",
+    "definition": "a small sea animal with a soft shell that you can eat",
+    "translation": "tôm",
+    "exampleSentence": "We had fried shrimp for dinner.",
+    "exampleTranslation": "Bữa tối chúng tôi ăn tôm chiên.",
+    "pos": "noun"
+  },
+  {
+    "word": "prawn",
+    "phonetic": "/prɔːn/",
+    "definition": "a small pink shellfish that can be eaten",
+    "translation": "tôm, tôm sú",
+    "exampleSentence": "I ordered a prawn salad.",
+    "exampleTranslation": "Tôi gọi một đĩa salad tôm.",
+    "pos": "noun"
+  },
+  {
+    "word": "crab",
+    "phonetic": "/kræb/",
+    "definition": "a sea animal with a hard shell and two claws, or its meat",
+    "translation": "cua",
+    "exampleSentence": "We ate fresh crab at the beach.",
+    "exampleTranslation": "Chúng tôi ăn cua tươi ở bãi biển.",
+    "pos": "noun"
+  },
+  {
+    "word": "lobster",
+    "phonetic": "/ˈlɑːbstər/",
+    "definition": "a sea animal with a shell and two large claws, eaten as food",
+    "translation": "tôm hùm",
+    "exampleSentence": "Lobster is very expensive here.",
+    "exampleTranslation": "Tôm hùm ở đây rất đắt.",
+    "pos": "noun"
+  },
+  {
+    "word": "squid",
+    "phonetic": "/skwɪd/",
+    "definition": "a sea animal with a soft body and ten arms",
+    "translation": "mực, mực ống",
+    "exampleSentence": "We ordered grilled squid.",
+    "exampleTranslation": "Chúng tôi gọi mực nướng.",
+    "pos": "noun"
+  },
+  {
+    "word": "octopus",
+    "phonetic": "/ˈɑːktəpəs/",
+    "definition": "a sea animal with eight arms",
+    "translation": "bạch tuộc",
+    "exampleSentence": "The octopus salad was delicious.",
+    "exampleTranslation": "Món salad bạch tuộc rất ngon.",
+    "pos": "noun"
+  },
+  {
+    "word": "oyster",
+    "phonetic": "/ˈɔɪstər/",
+    "definition": "a shellfish that can be eaten cooked or raw",
+    "translation": "hàu",
+    "exampleSentence": "Have you ever eaten oysters?",
+    "exampleTranslation": "Bạn đã bao giờ ăn hàu chưa?",
+    "pos": "noun"
+  },
+  {
+    "word": "mussel",
+    "phonetic": "/ˈmʌsəl/",
+    "definition": "a small shellfish with a black shell that can be eaten",
+    "translation": "vẹm, con trai",
+    "exampleSentence": "We had mussels with garlic bread.",
+    "exampleTranslation": "Chúng tôi ăn vẹm với bánh mì bơ tỏi.",
+    "pos": "noun"
+  },
+  {
+    "word": "clam",
+    "phonetic": "/klæm/",
+    "definition": "a shellfish you can eat, with a shell in two parts",
+    "translation": "nghêu, ngao",
+    "exampleSentence": "Clam soup is popular here.",
+    "exampleTranslation": "Canh nghêu rất phổ biến ở đây.",
+    "pos": "noun"
+  },
+  {
+    "word": "scallop",
+    "phonetic": "/ˈskɑːləp/",
+    "definition": "a small sea animal with a flat round shell, eaten as food",
+    "translation": "sò điệp",
+    "exampleSentence": "We ate grilled scallops with butter.",
+    "exampleTranslation": "Chúng tôi ăn sò điệp nướng bơ.",
+    "pos": "noun"
+  },
+  {
+    "word": "egg",
+    "phonetic": "/eɡ/",
+    "definition": "an egg, especially from a chicken, used as food",
+    "translation": "trứng",
+    "exampleSentence": "I eat an egg every morning.",
+    "exampleTranslation": "Mỗi sáng tôi ăn một quả trứng.",
+    "pos": "noun"
+  },
+  {
+    "word": "egg white",
+    "phonetic": "/ˈeɡ ˌwaɪt/",
+    "definition": "the clear white part of an egg",
+    "translation": "lòng trắng trứng",
+    "exampleSentence": "Whisk the egg white until it is stiff.",
+    "exampleTranslation": "Đánh lòng trắng trứng cho đến khi bông cứng.",
+    "pos": "noun"
+  },
+  {
+    "word": "yolk",
+    "phonetic": "/joʊk/",
+    "definition": "the yellow part in the centre of an egg",
+    "translation": "lòng đỏ trứng",
+    "exampleSentence": "I don't eat the yolk.",
+    "exampleTranslation": "Tôi không ăn lòng đỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "boiled egg",
+    "phonetic": "/ˌbɔɪld ˈeɡ/",
+    "definition": "an egg cooked in boiling water in its shell",
+    "translation": "trứng luộc",
+    "exampleSentence": "I have a boiled egg for breakfast.",
+    "exampleTranslation": "Tôi ăn một quả trứng luộc vào bữa sáng.",
+    "pos": "noun"
+  },
+  {
+    "word": "fried egg",
+    "phonetic": "/ˌfraɪd ˈeɡ/",
+    "definition": "an egg cooked in hot oil or fat in a pan",
+    "translation": "trứng ốp la, trứng chiên",
+    "exampleSentence": "I like a fried egg on my rice.",
+    "exampleTranslation": "Tôi thích ăn cơm với trứng ốp la.",
+    "pos": "noun"
+  },
+  {
+    "word": "scrambled egg",
+    "phonetic": "/ˈskræmbəld ˌeɡ/",
+    "definition": "eggs mixed together and cooked in a pan",
+    "translation": "trứng bác, trứng khuấy",
+    "exampleSentence": "We had scrambled eggs on toast.",
+    "exampleTranslation": "Chúng tôi ăn trứng bác với bánh mì nướng.",
+    "pos": "noun"
+  },
+  {
+    "word": "omelette",
+    "phonetic": "/ˈɑːmlət/",
+    "definition": "eggs mixed together and cooked in hot fat",
+    "translation": "trứng tráng, trứng ốp lết",
+    "exampleSentence": "I made a cheese omelette.",
+    "exampleTranslation": "Tôi làm một món trứng tráng phô mai.",
+    "pos": "noun"
+  },
+  {
+    "word": "milk",
+    "phonetic": "/mɪlk/",
+    "definition": "a white liquid from cows that people drink",
+    "translation": "sữa",
+    "exampleSentence": "I drink a glass of milk every day.",
+    "exampleTranslation": "Mỗi ngày tôi uống một ly sữa.",
+    "pos": "noun"
+  },
+  {
+    "word": "skimmed milk",
+    "phonetic": "/ˌskɪmd ˈmɪlk/",
+    "definition": "milk that has had all the fat removed",
+    "translation": "sữa tách béo",
+    "exampleSentence": "I drink skimmed milk to stay healthy.",
+    "exampleTranslation": "Tôi uống sữa tách béo để giữ sức khoẻ.",
+    "pos": "noun"
+  },
+  {
+    "word": "condensed milk",
+    "phonetic": "/kənˌdenst ˈmɪlk/",
+    "definition": "thick sweet milk sold in cans",
+    "translation": "sữa đặc",
+    "exampleSentence": "I put condensed milk in my coffee.",
+    "exampleTranslation": "Tôi cho sữa đặc vào cà phê.",
+    "pos": "noun"
+  },
+  {
+    "word": "whipped cream",
+    "phonetic": "/ˌwɪpt ˈkriːm/",
+    "definition": "cream that has been beaten until it is thick",
+    "translation": "kem tươi đánh bông, kem tươi",
+    "exampleSentence": "Would you like whipped cream on your cake?",
+    "exampleTranslation": "Bạn có muốn thêm kem tươi lên bánh không?",
+    "pos": "noun"
+  },
+  {
+    "word": "cheese",
+    "phonetic": "/tʃiːz/",
+    "definition": "a solid food made from milk",
+    "translation": "phô mai, pho mát",
+    "exampleSentence": "Would you like some cheese?",
+    "exampleTranslation": "Bạn có muốn ăn chút phô mai không?",
+    "pos": "noun"
+  },
+  {
+    "word": "cottage cheese",
+    "phonetic": "/ˈkɑːtɪdʒ ˌtʃiːz/",
+    "definition": "soft white cheese made from sour milk",
+    "translation": "phô mai tươi, phô mai cottage",
+    "exampleSentence": "I eat cottage cheese with fruit.",
+    "exampleTranslation": "Tôi ăn phô mai tươi với trái cây.",
+    "pos": "noun"
+  },
+  {
+    "word": "butter",
+    "phonetic": "/ˈbʌtər/",
+    "definition": "a soft yellow food made from milk, spread on bread",
+    "translation": "bơ",
+    "exampleSentence": "Please pass me the butter.",
+    "exampleTranslation": "Làm ơn đưa giúp tôi lọ bơ.",
+    "pos": "noun"
+  },
+  {
+    "word": "margarine",
+    "phonetic": "/ˈmɑːrdʒərɪn/",
+    "definition": "a yellow food like butter made from vegetable or animal fats",
+    "translation": "bơ thực vật, ma-ga-rin",
+    "exampleSentence": "I use margarine instead of butter.",
+    "exampleTranslation": "Tôi dùng bơ thực vật thay cho bơ.",
+    "pos": "noun"
+  },
+  {
+    "word": "yogurt",
+    "phonetic": "/ˈjoʊɡərt/",
+    "definition": "a thick, slightly sour food made from milk",
+    "translation": "sữa chua",
+    "exampleSentence": "I have yogurt with fruit for breakfast.",
+    "exampleTranslation": "Tôi ăn sữa chua với trái cây vào bữa sáng.",
+    "pos": "noun"
+  },
+  {
+    "word": "ice cream",
+    "phonetic": "/ˈaɪs ˌkriːm/",
+    "definition": "a frozen sweet food made from milk, cream and sugar",
+    "translation": "kem",
+    "exampleSentence": "Can I have an ice cream?",
+    "exampleTranslation": "Cho tôi một cây kem được không?",
+    "pos": "noun"
+  }
+]

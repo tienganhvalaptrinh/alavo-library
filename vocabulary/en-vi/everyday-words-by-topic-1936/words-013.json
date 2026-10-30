@@ -1,0 +1,722 @@
+[
+  {
+    "word": "head",
+    "phonetic": "/hed/",
+    "definition": "the top part of your body, with your face at the front",
+    "translation": "đầu",
+    "exampleSentence": "I have a pain in my head.",
+    "exampleTranslation": "Tôi bị đau đầu.",
+    "pos": "noun"
+  },
+  {
+    "word": "face",
+    "phonetic": "/feɪs/",
+    "definition": "the front part of your head, with your eyes, nose and mouth",
+    "translation": "mặt, khuôn mặt",
+    "exampleSentence": "Wash your face before dinner.",
+    "exampleTranslation": "Hãy rửa mặt trước bữa tối.",
+    "pos": "noun"
+  },
+  {
+    "word": "hair",
+    "phonetic": "/her/",
+    "definition": "the thin threads that grow on your head",
+    "translation": "tóc, lông",
+    "exampleSentence": "My hair is black and short.",
+    "exampleTranslation": "Tóc tôi đen và ngắn.",
+    "pos": "noun"
+  },
+  {
+    "word": "forehead",
+    "phonetic": "/ˈfɔːrəd/",
+    "definition": "the part of your face above your eyes",
+    "translation": "trán",
+    "exampleSentence": "Put your hand on my forehead.",
+    "exampleTranslation": "Hãy đặt tay lên trán tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "eye",
+    "phonetic": "/aɪ/",
+    "definition": "one of the two parts of the body you see with",
+    "translation": "mắt",
+    "exampleSentence": "I have brown eyes.",
+    "exampleTranslation": "Tôi có đôi mắt nâu.",
+    "pos": "noun"
+  },
+  {
+    "word": "eyebrow",
+    "phonetic": "/ˈaɪbraʊ/",
+    "definition": "the line of hair above your eye",
+    "translation": "lông mày",
+    "exampleSentence": "My teacher raised one eyebrow.",
+    "exampleTranslation": "Thầy cô tôi nhướng một bên lông mày.",
+    "pos": "noun"
+  },
+  {
+    "word": "eyelash",
+    "phonetic": "/ˈaɪlæʃ/",
+    "definition": "one of the small hairs along the edge of your eyelid",
+    "translation": "lông mi",
+    "exampleSentence": "There is an eyelash in my eye.",
+    "exampleTranslation": "Có một sợi lông mi trong mắt tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "ear",
+    "phonetic": "/ɪr/",
+    "definition": "one of the two parts on your head that you hear with",
+    "translation": "tai",
+    "exampleSentence": "My ears are cold.",
+    "exampleTranslation": "Tai tôi lạnh cóng.",
+    "pos": "noun"
+  },
+  {
+    "word": "nose",
+    "phonetic": "/noʊz/",
+    "definition": "the part of your face used for smelling and breathing",
+    "translation": "mũi",
+    "exampleSentence": "I have a cold and my nose is red.",
+    "exampleTranslation": "Tôi bị cảm và mũi tôi đỏ lên.",
+    "pos": "noun"
+  },
+  {
+    "word": "cheek",
+    "phonetic": "/tʃiːk/",
+    "definition": "the soft round part of your face below your eye",
+    "translation": "má",
+    "exampleSentence": "The baby has soft cheeks.",
+    "exampleTranslation": "Em bé có đôi má mềm mại.",
+    "pos": "noun"
+  },
+  {
+    "word": "mouth",
+    "phonetic": "/maʊθ/",
+    "definition": "the part of your face used for eating and speaking",
+    "translation": "miệng",
+    "exampleSentence": "Open your mouth, please.",
+    "exampleTranslation": "Làm ơn há miệng ra.",
+    "pos": "noun"
+  },
+  {
+    "word": "lip",
+    "phonetic": "/lɪp/",
+    "definition": "one of the two soft edges of your mouth",
+    "translation": "môi",
+    "exampleSentence": "My lips are dry in winter.",
+    "exampleTranslation": "Môi tôi bị khô vào mùa đông.",
+    "pos": "noun"
+  },
+  {
+    "word": "tongue",
+    "phonetic": "/tʌŋ/",
+    "definition": "the soft part in your mouth that you use to taste and speak",
+    "translation": "lưỡi",
+    "exampleSentence": "Don't burn your tongue on the soup.",
+    "exampleTranslation": "Đừng để canh làm bỏng lưỡi bạn.",
+    "pos": "noun"
+  },
+  {
+    "word": "tooth",
+    "phonetic": "/tuːθ/",
+    "definition": "one of the hard white parts in your mouth that you bite with",
+    "translation": "răng",
+    "exampleSentence": "I brush my teeth twice a day.",
+    "exampleTranslation": "Tôi đánh răng hai lần một ngày.",
+    "pos": "noun"
+  },
+  {
+    "word": "gum",
+    "phonetic": "/ɡʌm/",
+    "definition": "the firm pink flesh in your mouth around your teeth",
+    "translation": "nướu, lợi",
+    "exampleSentence": "My gums bleed when I brush my teeth.",
+    "exampleTranslation": "Nướu của tôi chảy máu khi tôi đánh răng.",
+    "pos": "noun"
+  },
+  {
+    "word": "jaw",
+    "phonetic": "/dʒɔː/",
+    "definition": "one of the two bones in your face that hold your teeth",
+    "translation": "hàm, quai hàm",
+    "exampleSentence": "The ball hit me on the jaw.",
+    "exampleTranslation": "Quả bóng đập vào hàm tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "chin",
+    "phonetic": "/tʃɪn/",
+    "definition": "the part of your face below your mouth",
+    "translation": "cằm",
+    "exampleSentence": "My uncle has a small beard on his chin.",
+    "exampleTranslation": "Chú tôi có chòm râu nhỏ trên cằm.",
+    "pos": "noun"
+  },
+  {
+    "word": "beard",
+    "phonetic": "/bɪrd/",
+    "definition": "hair that grows on a man's chin and cheeks",
+    "translation": "râu, râu quai nón",
+    "exampleSentence": "My uncle has a long beard.",
+    "exampleTranslation": "Chú tôi có bộ râu dài.",
+    "pos": "noun"
+  },
+  {
+    "word": "moustache",
+    "phonetic": "/ˈmʌstæʃ/",
+    "definition": "hair that grows on a man's upper lip",
+    "translation": "ria mép, ria",
+    "exampleSentence": "My uncle has a grey moustache.",
+    "exampleTranslation": "Chú tôi có bộ ria màu xám.",
+    "pos": "noun"
+  },
+  {
+    "word": "neck",
+    "phonetic": "/nek/",
+    "definition": "the part of your body between your head and shoulders",
+    "translation": "cổ",
+    "exampleSentence": "My neck hurts after sleeping.",
+    "exampleTranslation": "Tôi bị đau cổ sau khi ngủ dậy.",
+    "pos": "noun"
+  },
+  {
+    "word": "throat",
+    "phonetic": "/θroʊt/",
+    "definition": "the passage at the back of your mouth, going down your neck",
+    "translation": "họng, cổ họng",
+    "exampleSentence": "I have a sore throat.",
+    "exampleTranslation": "Tôi bị đau họng.",
+    "pos": "noun"
+  },
+  {
+    "word": "shoulder",
+    "phonetic": "/ˈʃoʊldər/",
+    "definition": "the part of your body where your arm joins your neck",
+    "translation": "vai",
+    "exampleSentence": "I carry my bag on my shoulder.",
+    "exampleTranslation": "Tôi đeo túi trên vai.",
+    "pos": "noun"
+  },
+  {
+    "word": "arm",
+    "phonetic": "/ɑːrm/",
+    "definition": "one of the two long parts of your body between your shoulders and hands",
+    "translation": "cánh tay, tay",
+    "exampleSentence": "I broke my arm last year.",
+    "exampleTranslation": "Năm ngoái tôi bị gãy tay.",
+    "pos": "noun"
+  },
+  {
+    "word": "elbow",
+    "phonetic": "/ˈelboʊ/",
+    "definition": "the joint where your arm bends",
+    "translation": "khuỷu tay, cùi chỏ",
+    "exampleSentence": "Don't put your elbows on the table.",
+    "exampleTranslation": "Đừng chống khuỷu tay lên bàn.",
+    "pos": "noun"
+  },
+  {
+    "word": "wrist",
+    "phonetic": "/rɪst/",
+    "definition": "the part of your body where your hand joins your arm",
+    "translation": "cổ tay",
+    "exampleSentence": "I wear my watch on my wrist.",
+    "exampleTranslation": "Tôi đeo đồng hồ ở cổ tay.",
+    "pos": "noun"
+  },
+  {
+    "word": "hand",
+    "phonetic": "/hænd/",
+    "definition": "the part at the end of your arm, with fingers and a thumb",
+    "translation": "tay, bàn tay",
+    "exampleSentence": "Please wash your hands.",
+    "exampleTranslation": "Hãy rửa tay đi.",
+    "pos": "noun"
+  },
+  {
+    "word": "palm",
+    "phonetic": "/pɑːm/",
+    "definition": "the inside surface of your hand",
+    "translation": "lòng bàn tay",
+    "exampleSentence": "Show me the palm of your hand.",
+    "exampleTranslation": "Cho tôi xem lòng bàn tay của bạn.",
+    "pos": "noun"
+  },
+  {
+    "word": "finger",
+    "phonetic": "/ˈfɪŋɡər/",
+    "definition": "one of the long thin parts of your hand",
+    "translation": "ngón tay",
+    "exampleSentence": "I cut my finger with a knife.",
+    "exampleTranslation": "Tôi bị dao cắt vào ngón tay.",
+    "pos": "noun"
+  },
+  {
+    "word": "thumb",
+    "phonetic": "/θʌm/",
+    "definition": "the short thick finger at the side of your hand",
+    "translation": "ngón tay cái",
+    "exampleSentence": "I hurt my thumb with the hammer.",
+    "exampleTranslation": "Tôi bị búa đập vào ngón tay cái.",
+    "pos": "noun"
+  },
+  {
+    "word": "fist",
+    "phonetic": "/fɪst/",
+    "definition": "a hand with the fingers tightly closed",
+    "translation": "nắm đấm, nắm tay",
+    "exampleSentence": "Make a fist with your hand.",
+    "exampleTranslation": "Hãy nắm bàn tay lại.",
+    "pos": "noun"
+  },
+  {
+    "word": "fingernail",
+    "phonetic": "/ˈfɪŋɡərneɪl/",
+    "definition": "the hard flat part at the end of your finger",
+    "translation": "móng tay",
+    "exampleSentence": "I bite my fingernails when I am nervous.",
+    "exampleTranslation": "Tôi cắn móng tay khi lo lắng.",
+    "pos": "noun"
+  },
+  {
+    "word": "chest",
+    "phonetic": "/tʃest/",
+    "definition": "the front part of your body between your neck and stomach",
+    "translation": "ngực",
+    "exampleSentence": "I have a pain in my chest.",
+    "exampleTranslation": "Tôi bị đau ở ngực.",
+    "pos": "noun"
+  },
+  {
+    "word": "back",
+    "phonetic": "/bæk/",
+    "definition": "the part of your body behind you, from your neck to your waist",
+    "translation": "lưng",
+    "exampleSentence": "My back hurts after sitting all day.",
+    "exampleTranslation": "Lưng tôi đau sau khi ngồi cả ngày.",
+    "pos": "noun"
+  },
+  {
+    "word": "stomach",
+    "phonetic": "/ˈstʌmək/",
+    "definition": "the organ in your body where food goes, or your belly",
+    "translation": "dạ dày, bụng",
+    "exampleSentence": "I have a pain in my stomach.",
+    "exampleTranslation": "Tôi bị đau bụng.",
+    "pos": "noun"
+  },
+  {
+    "word": "belly",
+    "phonetic": "/ˈbeli/",
+    "definition": "your stomach, the front part of your body below your chest",
+    "translation": "bụng",
+    "exampleSentence": "The baby has a round belly.",
+    "exampleTranslation": "Em bé có cái bụng tròn.",
+    "pos": "noun"
+  },
+  {
+    "word": "tummy",
+    "phonetic": "/ˈtʌmi/",
+    "definition": "stomach, used especially by or to children",
+    "translation": "bụng, cái bụng",
+    "exampleSentence": "My tummy hurts.",
+    "exampleTranslation": "Bụng tôi đau.",
+    "pos": "noun"
+  },
+  {
+    "word": "belly button",
+    "phonetic": "/ˈbeli ˈbʌtn/",
+    "definition": "the small round mark in the middle of your stomach",
+    "translation": "rốn",
+    "exampleSentence": "Babies have a small belly button.",
+    "exampleTranslation": "Em bé có cái rốn nhỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "waist",
+    "phonetic": "/weɪst/",
+    "definition": "the narrow part in the middle of your body",
+    "translation": "eo, thắt lưng",
+    "exampleSentence": "This belt is too big for my waist.",
+    "exampleTranslation": "Chiếc thắt lưng này quá rộng so với eo tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "hip",
+    "phonetic": "/hɪp/",
+    "definition": "one of the two parts at the sides of your body below your waist",
+    "translation": "hông",
+    "exampleSentence": "Put your hands on your hips.",
+    "exampleTranslation": "Hãy chống tay lên hông.",
+    "pos": "noun"
+  },
+  {
+    "word": "armpit",
+    "phonetic": "/ˈɑːrmˌpɪt/",
+    "definition": "the hollow place under your arm where it joins your body",
+    "translation": "nách",
+    "exampleSentence": "My shirt is wet under my armpit.",
+    "exampleTranslation": "Áo tôi bị ướt ở chỗ nách.",
+    "pos": "noun"
+  },
+  {
+    "word": "knee",
+    "phonetic": "/niː/",
+    "definition": "the joint in the middle of your leg",
+    "translation": "đầu gối",
+    "exampleSentence": "I fell and hurt my knee.",
+    "exampleTranslation": "Tôi bị ngã và đau đầu gối.",
+    "pos": "noun"
+  },
+  {
+    "word": "shin",
+    "phonetic": "/ʃɪn/",
+    "definition": "the front part of your leg between your knee and foot",
+    "translation": "ống chân, cẳng chân",
+    "exampleSentence": "The ball hit me on the shin.",
+    "exampleTranslation": "Quả bóng đập vào ống chân tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "calf",
+    "phonetic": "/kæf/",
+    "definition": "the back part of your leg between your knee and ankle",
+    "translation": "bắp chân",
+    "exampleSentence": "My calf hurts after the run.",
+    "exampleTranslation": "Bắp chân tôi đau sau khi chạy.",
+    "pos": "noun"
+  },
+  {
+    "word": "ankle",
+    "phonetic": "/ˈæŋkəl/",
+    "definition": "the joint between your foot and your leg",
+    "translation": "mắt cá chân, cổ chân",
+    "exampleSentence": "I twisted my ankle yesterday.",
+    "exampleTranslation": "Hôm qua tôi bị trẹo cổ chân.",
+    "pos": "noun"
+  },
+  {
+    "word": "foot",
+    "phonetic": "/fʊt/",
+    "definition": "the part of your body that you stand and walk on",
+    "translation": "bàn chân, chân",
+    "exampleSentence": "My feet are cold.",
+    "exampleTranslation": "Chân tôi lạnh.",
+    "pos": "noun"
+  },
+  {
+    "word": "toe",
+    "phonetic": "/toʊ/",
+    "definition": "one of the five movable parts at the end of your foot",
+    "translation": "ngón chân",
+    "exampleSentence": "I hit my toe on the door.",
+    "exampleTranslation": "Tôi bị va ngón chân vào cánh cửa.",
+    "pos": "noun"
+  },
+  {
+    "word": "bone",
+    "phonetic": "/boʊn/",
+    "definition": "one of the hard parts that form the frame of your body",
+    "translation": "xương",
+    "exampleSentence": "I broke a bone in my foot.",
+    "exampleTranslation": "Tôi bị gãy một cái xương ở bàn chân.",
+    "pos": "noun"
+  },
+  {
+    "word": "joint",
+    "phonetic": "/dʒɔɪnt/",
+    "definition": "a part of your body that can bend, where two bones meet",
+    "translation": "khớp, khớp xương",
+    "exampleSentence": "My knee joint hurts when I walk.",
+    "exampleTranslation": "Khớp gối của tôi đau khi tôi đi bộ.",
+    "pos": "noun"
+  },
+  {
+    "word": "muscle",
+    "phonetic": "/ˈmʌsəl/",
+    "definition": "a piece of flesh in your body that you use to move",
+    "translation": "cơ, bắp thịt",
+    "exampleSentence": "He has strong arm muscles.",
+    "exampleTranslation": "Người đó có cơ tay rất khỏe.",
+    "pos": "noun"
+  },
+  {
+    "word": "skull",
+    "phonetic": "/skʌl/",
+    "definition": "the bones of a person's head",
+    "translation": "hộp sọ, sọ",
+    "exampleSentence": "The skull protects the brain.",
+    "exampleTranslation": "Hộp sọ bảo vệ não.",
+    "pos": "noun"
+  },
+  {
+    "word": "rib",
+    "phonetic": "/rɪb/",
+    "definition": "one of the curved bones around your chest",
+    "translation": "xương sườn",
+    "exampleSentence": "I hurt a rib when I fell.",
+    "exampleTranslation": "Tôi bị đau một xương sườn khi ngã.",
+    "pos": "noun"
+  },
+  {
+    "word": "spine",
+    "phonetic": "/spaɪn/",
+    "definition": "the row of bones down the middle of your back",
+    "translation": "cột sống, xương sống",
+    "exampleSentence": "Sit up straight to protect your spine.",
+    "exampleTranslation": "Hãy ngồi thẳng để bảo vệ cột sống.",
+    "pos": "noun"
+  },
+  {
+    "word": "organ",
+    "phonetic": "/ˈɔːrɡən/",
+    "definition": "a part of the body, such as the heart, with a special purpose",
+    "translation": "cơ quan, nội tạng",
+    "exampleSentence": "The heart is an important organ.",
+    "exampleTranslation": "Tim là một cơ quan quan trọng.",
+    "pos": "noun"
+  },
+  {
+    "word": "heart",
+    "phonetic": "/hɑːrt/",
+    "definition": "the organ in your chest that pumps blood",
+    "translation": "tim, trái tim",
+    "exampleSentence": "My heart beats fast when I run.",
+    "exampleTranslation": "Tim tôi đập nhanh khi tôi chạy.",
+    "pos": "noun"
+  },
+  {
+    "word": "lung",
+    "phonetic": "/lʌŋ/",
+    "definition": "one of the two organs in your chest that you breathe with",
+    "translation": "phổi",
+    "exampleSentence": "Smoking is bad for your lungs.",
+    "exampleTranslation": "Hút thuốc có hại cho phổi.",
+    "pos": "noun"
+  },
+  {
+    "word": "brain",
+    "phonetic": "/breɪn/",
+    "definition": "the organ in your head that controls how you think and move",
+    "translation": "não, bộ não",
+    "exampleSentence": "The brain controls the whole body.",
+    "exampleTranslation": "Bộ não điều khiển cả cơ thể.",
+    "pos": "noun"
+  },
+  {
+    "word": "kidney",
+    "phonetic": "/ˈkɪdni/",
+    "definition": "one of the two organs in your lower back that clean your blood",
+    "translation": "thận, quả thận",
+    "exampleSentence": "You have two kidneys.",
+    "exampleTranslation": "Bạn có hai quả thận.",
+    "pos": "noun"
+  },
+  {
+    "word": "vein",
+    "phonetic": "/veɪn/",
+    "definition": "a tube that carries blood to your heart",
+    "translation": "tĩnh mạch, mạch máu",
+    "exampleSentence": "The nurse found a vein in my arm.",
+    "exampleTranslation": "Y tá tìm thấy một mạch máu ở tay tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "nerve",
+    "phonetic": "/nɜːrv/",
+    "definition": "a thin thread in your body that carries messages to and from the brain",
+    "translation": "dây thần kinh",
+    "exampleSentence": "This nerve sends pain to the brain.",
+    "exampleTranslation": "Dây thần kinh này gửi cảm giác đau lên não.",
+    "pos": "noun"
+  },
+  {
+    "word": "blood",
+    "phonetic": "/blʌd/",
+    "definition": "the red liquid that your heart pumps around your body",
+    "translation": "máu",
+    "exampleSentence": "There was blood on my finger.",
+    "exampleTranslation": "Có máu trên ngón tay tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "body",
+    "phonetic": "/ˈbɑːdi/",
+    "definition": "the whole physical structure of a person",
+    "translation": "cơ thể, thân thể",
+    "exampleSentence": "Exercise is good for your body.",
+    "exampleTranslation": "Tập thể dục tốt cho cơ thể.",
+    "pos": "noun"
+  },
+  {
+    "word": "breath",
+    "phonetic": "/breθ/",
+    "definition": "the air that you take into or send out of your lungs",
+    "translation": "hơi thở, hơi",
+    "exampleSentence": "Take a deep breath.",
+    "exampleTranslation": "Hãy hít một hơi thật sâu.",
+    "pos": "noun"
+  },
+  {
+    "word": "breathe",
+    "phonetic": "/briːð/",
+    "definition": "to take air into your lungs and send it out again",
+    "translation": "thở, hít thở",
+    "exampleSentence": "It is hard to breathe in this room.",
+    "exampleTranslation": "Rất khó thở trong căn phòng này.",
+    "pos": "verb"
+  },
+  {
+    "word": "voice",
+    "phonetic": "/vɔɪs/",
+    "definition": "the sound you make when you speak or sing",
+    "translation": "giọng nói, giọng, tiếng nói",
+    "exampleSentence": "I lost my voice after the concert.",
+    "exampleTranslation": "Tôi bị mất giọng sau buổi hòa nhạc.",
+    "pos": "noun"
+  },
+  {
+    "word": "saliva",
+    "phonetic": "/səˈlaɪvə/",
+    "definition": "the liquid produced in your mouth",
+    "translation": "nước bọt, nước miếng",
+    "exampleSentence": "Saliva helps you to digest food.",
+    "exampleTranslation": "Nước bọt giúp tiêu hóa thức ăn.",
+    "pos": "noun"
+  },
+  {
+    "word": "sweat",
+    "phonetic": "/swet/",
+    "definition": "drops of salty liquid that come out of your skin when you are hot",
+    "translation": "mồ hôi",
+    "exampleSentence": "Sweat ran down my face.",
+    "exampleTranslation": "Mồ hôi chảy xuống mặt tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "tear",
+    "phonetic": "/tɪr/",
+    "definition": "a drop of salty liquid that comes from your eye when you cry",
+    "translation": "nước mắt, giọt nước mắt",
+    "exampleSentence": "A tear ran down my cheek.",
+    "exampleTranslation": "Một giọt nước mắt lăn xuống má tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "see",
+    "phonetic": "/siː/",
+    "definition": "to notice or look at something using your eyes",
+    "translation": "thấy, nhìn thấy",
+    "exampleSentence": "I can see a bird in the tree.",
+    "exampleTranslation": "Tôi nhìn thấy một con chim trên cây.",
+    "pos": "verb"
+  },
+  {
+    "word": "hear",
+    "phonetic": "/hɪr/",
+    "definition": "to know that a sound is being made, using your ears",
+    "translation": "nghe, nghe thấy",
+    "exampleSentence": "I can't hear you. Please speak louder.",
+    "exampleTranslation": "Tôi không nghe thấy bạn. Làm ơn nói to hơn.",
+    "pos": "verb"
+  },
+  {
+    "word": "smell",
+    "phonetic": "/smel/",
+    "definition": "to notice a smell with your nose",
+    "translation": "ngửi, ngửi thấy",
+    "exampleSentence": "I can smell fresh bread.",
+    "exampleTranslation": "Tôi ngửi thấy mùi bánh mì mới nướng.",
+    "pos": "verb"
+  },
+  {
+    "word": "touch",
+    "phonetic": "/tʌtʃ/",
+    "definition": "to put your hand or finger on something",
+    "translation": "chạm, sờ",
+    "exampleSentence": "Don't touch the hot pan.",
+    "exampleTranslation": "Đừng chạm vào cái chảo nóng.",
+    "pos": "verb"
+  },
+  {
+    "word": "feel",
+    "phonetic": "/fiːl/",
+    "definition": "to experience a physical feeling or emotion",
+    "translation": "cảm thấy, cảm nhận",
+    "exampleSentence": "I feel tired today.",
+    "exampleTranslation": "Hôm nay tôi cảm thấy mệt.",
+    "pos": "verb"
+  },
+  {
+    "word": "bald",
+    "phonetic": "/bɔːld/",
+    "definition": "having little or no hair on your head",
+    "translation": "hói, trọc",
+    "exampleSentence": "My grandfather is bald.",
+    "exampleTranslation": "Ông tôi bị hói.",
+    "pos": "adjective"
+  },
+  {
+    "word": "tall",
+    "phonetic": "/tɔːl/",
+    "definition": "greater in height than normal",
+    "translation": "cao",
+    "exampleSentence": "My brother is very tall.",
+    "exampleTranslation": "Anh trai tôi rất cao.",
+    "pos": "adjective"
+  },
+  {
+    "word": "short",
+    "phonetic": "/ʃɔːrt/",
+    "definition": "not as tall as most people",
+    "translation": "thấp, lùn",
+    "exampleSentence": "I am short, so I can't reach the shelf.",
+    "exampleTranslation": "Tôi thấp nên không với tới cái kệ.",
+    "pos": "adjective"
+  },
+  {
+    "word": "thin",
+    "phonetic": "/θɪn/",
+    "definition": "having little fat on your body",
+    "translation": "gầy, ốm",
+    "exampleSentence": "My cousin is tall and thin.",
+    "exampleTranslation": "Anh chị em họ của tôi cao và gầy.",
+    "pos": "adjective"
+  },
+  {
+    "word": "fat",
+    "phonetic": "/fæt/",
+    "definition": "weighing too much because you have a lot of flesh",
+    "translation": "béo, mập",
+    "exampleSentence": "The cat is getting fat.",
+    "exampleTranslation": "Con mèo đang béo lên.",
+    "pos": "adjective"
+  },
+  {
+    "word": "slim",
+    "phonetic": "/slɪm/",
+    "definition": "attractively thin",
+    "translation": "thon gọn, mảnh mai",
+    "exampleSentence": "My friend is tall and slim.",
+    "exampleTranslation": "Bạn tôi cao và thon gọn.",
+    "pos": "adjective"
+  },
+  {
+    "word": "strong",
+    "phonetic": "/strɔːŋ/",
+    "definition": "having a lot of physical power",
+    "translation": "khỏe, mạnh",
+    "exampleSentence": "My dad is strong enough to lift the box.",
+    "exampleTranslation": "Bố tôi đủ khỏe để nhấc cái hộp.",
+    "pos": "adjective"
+  },
+  {
+    "word": "weak",
+    "phonetic": "/wiːk/",
+    "definition": "not physically strong",
+    "translation": "yếu, yếu ớt",
+    "exampleSentence": "I feel weak after being ill.",
+    "exampleTranslation": "Tôi thấy yếu sau khi ốm.",
+    "pos": "adjective"
+  }
+]

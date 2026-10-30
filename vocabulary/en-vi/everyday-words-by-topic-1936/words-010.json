@@ -1,0 +1,578 @@
+[
+  {
+    "word": "breakfast",
+    "phonetic": "/ˈbrekfəst/",
+    "definition": "the meal you have in the morning",
+    "translation": "bữa sáng, bữa điểm tâm",
+    "exampleSentence": "I usually have breakfast at seven o'clock.",
+    "exampleTranslation": "Tôi thường ăn sáng lúc bảy giờ.",
+    "pos": "noun"
+  },
+  {
+    "word": "brunch",
+    "phonetic": "/brʌntʃ/",
+    "definition": "a meal eaten in the late morning, instead of breakfast and lunch",
+    "translation": "bữa brunch, bữa sáng muộn",
+    "exampleSentence": "We met for brunch on Sunday.",
+    "exampleTranslation": "Chúng tôi gặp nhau ăn brunch vào Chủ nhật.",
+    "pos": "noun"
+  },
+  {
+    "word": "lunch",
+    "phonetic": "/lʌntʃ/",
+    "definition": "a meal eaten in the middle of the day",
+    "translation": "bữa trưa",
+    "exampleSentence": "What's for lunch today?",
+    "exampleTranslation": "Trưa nay ăn gì vậy?",
+    "pos": "noun"
+  },
+  {
+    "word": "packed lunch",
+    "phonetic": "/pækt lʌntʃ/",
+    "definition": "food such as sandwiches that you take to work or school for lunch",
+    "translation": "cơm trưa mang theo, bữa trưa mang theo",
+    "exampleSentence": "I take a packed lunch to work every day.",
+    "exampleTranslation": "Ngày nào tôi cũng mang cơm trưa đi làm.",
+    "pos": "noun"
+  },
+  {
+    "word": "dinner",
+    "phonetic": "/ˈdɪnər/",
+    "definition": "the main meal of the day, usually eaten in the evening",
+    "translation": "bữa tối",
+    "exampleSentence": "We are having fish for dinner tonight.",
+    "exampleTranslation": "Tối nay chúng tôi ăn cá.",
+    "pos": "noun"
+  },
+  {
+    "word": "supper",
+    "phonetic": "/ˈsʌpər/",
+    "definition": "the meal you have in the early evening",
+    "translation": "bữa tối",
+    "exampleSentence": "Why don't you come over for supper on Friday?",
+    "exampleTranslation": "Thứ Sáu bạn qua nhà chúng tôi ăn tối nhé?",
+    "pos": "noun"
+  },
+  {
+    "word": "meal",
+    "phonetic": "/miːl/",
+    "definition": "an occasion when you eat food, or the food you eat then",
+    "translation": "bữa ăn",
+    "exampleSentence": "We must have a meal together some time.",
+    "exampleTranslation": "Lúc nào đó chúng ta phải cùng ăn một bữa nhé.",
+    "pos": "noun"
+  },
+  {
+    "word": "snack",
+    "phonetic": "/snæk/",
+    "definition": "a small amount of food eaten between meals",
+    "translation": "bữa ăn nhẹ, đồ ăn vặt",
+    "exampleSentence": "I grabbed a quick snack on the way home.",
+    "exampleTranslation": "Tôi ăn vội chút đồ ăn nhẹ trên đường về nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "picnic",
+    "phonetic": "/ˈpɪknɪk/",
+    "definition": "a meal you take with you and eat outdoors",
+    "translation": "buổi dã ngoại, bữa ăn ngoài trời",
+    "exampleSentence": "Let's go on a picnic today.",
+    "exampleTranslation": "Hôm nay mình đi dã ngoại nhé.",
+    "pos": "noun"
+  },
+  {
+    "word": "barbecue",
+    "phonetic": "/ˈbɑːrbɪkjuː/",
+    "definition": "a meal or party where food is cooked over a fire outdoors",
+    "translation": "tiệc nướng, tiệc BBQ",
+    "exampleSentence": "We had a barbecue on the beach.",
+    "exampleTranslation": "Chúng tôi tổ chức tiệc nướng trên bãi biển.",
+    "pos": "noun"
+  },
+  {
+    "word": "buffet",
+    "phonetic": "/bəˈfeɪ/",
+    "definition": "a meal where people serve themselves from a table",
+    "translation": "tiệc buffet, bữa ăn tự chọn",
+    "exampleSentence": "The price includes a buffet lunch.",
+    "exampleTranslation": "Giá đã bao gồm bữa trưa buffet.",
+    "pos": "noun"
+  },
+  {
+    "word": "takeaway",
+    "phonetic": "/ˈteɪkəweɪ/",
+    "definition": "a meal you buy at a restaurant and eat at home",
+    "translation": "đồ ăn mang về, bữa ăn mang đi",
+    "exampleSentence": "Let's have a takeaway tonight.",
+    "exampleTranslation": "Tối nay mình gọi đồ ăn mang về nhé.",
+    "pos": "noun"
+  },
+  {
+    "word": "leftovers",
+    "phonetic": "/ˈleftoʊvərz/",
+    "definition": "food that has not been eaten at the end of a meal",
+    "translation": "đồ ăn thừa, thức ăn thừa",
+    "exampleSentence": "Give the leftovers to the dog.",
+    "exampleTranslation": "Cho con chó ăn đồ ăn thừa đi.",
+    "pos": "noun"
+  },
+  {
+    "word": "ready meal",
+    "phonetic": "/ˈredi miːl/",
+    "definition": "a meal that is already cooked and sold ready to eat",
+    "translation": "bữa ăn làm sẵn, đồ ăn đóng gói sẵn",
+    "exampleSentence": "I was tired, so I bought a ready meal.",
+    "exampleTranslation": "Tôi mệt nên mua một bữa ăn làm sẵn.",
+    "pos": "noun"
+  },
+  {
+    "word": "fast food",
+    "phonetic": "/fæst fuːd/",
+    "definition": "food like hamburgers that is made quickly and can be taken away",
+    "translation": "đồ ăn nhanh",
+    "exampleSentence": "Fast food is quick, but it is not very healthy.",
+    "exampleTranslation": "Đồ ăn nhanh thì nhanh, nhưng không tốt cho sức khỏe lắm.",
+    "pos": "noun"
+  },
+  {
+    "word": "course",
+    "phonetic": "/kɔːrs/",
+    "definition": "one of the separate parts of a meal",
+    "translation": "món (trong bữa ăn), phần ăn",
+    "exampleSentence": "We had fish for the main course.",
+    "exampleTranslation": "Chúng tôi ăn cá cho món chính.",
+    "pos": "noun"
+  },
+  {
+    "word": "starter",
+    "phonetic": "/ˈstɑːrtər/",
+    "definition": "a small amount of food eaten at the start of a meal",
+    "translation": "món khai vị",
+    "exampleSentence": "We had soup as a starter, followed by steak.",
+    "exampleTranslation": "Chúng tôi ăn súp làm món khai vị, sau đó là bít tết.",
+    "pos": "noun"
+  },
+  {
+    "word": "appetizer",
+    "phonetic": "/ˈæpətaɪzər/",
+    "definition": "a small dish that you eat at the beginning of a meal",
+    "translation": "món khai vị",
+    "exampleSentence": "We shared an appetizer before the main course.",
+    "exampleTranslation": "Chúng tôi chia nhau một món khai vị trước món chính.",
+    "pos": "noun"
+  },
+  {
+    "word": "main course",
+    "phonetic": "/meɪn kɔːrs/",
+    "definition": "the main part of a meal",
+    "translation": "món chính",
+    "exampleSentence": "What are you going to have for your main course?",
+    "exampleTranslation": "Bạn sẽ ăn món chính là gì?",
+    "pos": "noun"
+  },
+  {
+    "word": "side dish",
+    "phonetic": "/saɪd dɪʃ/",
+    "definition": "a small amount of food eaten with the main part of a meal",
+    "translation": "món ăn kèm",
+    "exampleSentence": "I ordered a side dish of vegetables.",
+    "exampleTranslation": "Tôi gọi thêm một món rau ăn kèm.",
+    "pos": "noun"
+  },
+  {
+    "word": "dessert",
+    "phonetic": "/dɪˈzɜːrt/",
+    "definition": "sweet food served after the main part of a meal",
+    "translation": "món tráng miệng",
+    "exampleSentence": "What are we having for dessert?",
+    "exampleTranslation": "Chúng ta ăn gì tráng miệng vậy?",
+    "pos": "noun"
+  },
+  {
+    "word": "portion",
+    "phonetic": "/ˈpɔːrʃən/",
+    "definition": "an amount of food for one person, especially in a restaurant",
+    "translation": "suất ăn, phần ăn",
+    "exampleSentence": "The portions are very big in this restaurant.",
+    "exampleTranslation": "Suất ăn ở nhà hàng này rất lớn.",
+    "pos": "noun"
+  },
+  {
+    "word": "soup",
+    "phonetic": "/suːp/",
+    "definition": "cooked liquid food, often with pieces of meat or vegetables",
+    "translation": "súp, canh",
+    "exampleSentence": "I'd like a bowl of tomato soup, please.",
+    "exampleTranslation": "Cho tôi một bát súp cà chua.",
+    "pos": "noun"
+  },
+  {
+    "word": "sandwich",
+    "phonetic": "/ˈsænwɪtʃ/",
+    "definition": "two pieces of bread with cheese, meat or egg between them",
+    "translation": "bánh mì kẹp, bánh sandwich",
+    "exampleSentence": "I made a ham sandwich for lunch.",
+    "exampleTranslation": "Tôi làm một cái bánh mì kẹp giăm bông cho bữa trưa.",
+    "pos": "noun"
+  },
+  {
+    "word": "burger",
+    "phonetic": "/ˈbɜːrɡər/",
+    "definition": "a flat round piece of cooked beef, often served in a bread bun",
+    "translation": "bánh hamburger, bánh mì kẹp thịt",
+    "exampleSentence": "I'll have a burger and a cold drink.",
+    "exampleTranslation": "Cho tôi một cái hamburger và một ly nước lạnh.",
+    "pos": "noun"
+  },
+  {
+    "word": "pizza",
+    "phonetic": "/ˈpiːtsə/",
+    "definition": "a flat round bread baked with tomato, cheese and other food on top",
+    "translation": "bánh pizza",
+    "exampleSentence": "Would you like a slice of pizza?",
+    "exampleTranslation": "Bạn có muốn một miếng pizza không?",
+    "pos": "noun"
+  },
+  {
+    "word": "pasta",
+    "phonetic": "/ˈpɑːstə/",
+    "definition": "an Italian food made from flour, eggs and water, usually eaten with a sauce",
+    "translation": "mì Ý, pasta",
+    "exampleSentence": "I eat a lot of pasta.",
+    "exampleTranslation": "Tôi ăn rất nhiều mì Ý.",
+    "pos": "noun"
+  },
+  {
+    "word": "spaghetti",
+    "phonetic": "/spəˈɡeti/",
+    "definition": "a type of pasta in very long thin pieces",
+    "translation": "mì Ý, mì spaghetti",
+    "exampleSentence": "For supper we had spaghetti.",
+    "exampleTranslation": "Bữa tối chúng tôi ăn mì Ý.",
+    "pos": "noun"
+  },
+  {
+    "word": "lasagne",
+    "phonetic": "/ləˈzɑːnjə/",
+    "definition": "an Italian food made with flat pasta, meat or vegetables, and cheese",
+    "translation": "mì lasagna, lasagna",
+    "exampleSentence": "I made a big lasagne for dinner.",
+    "exampleTranslation": "Tôi làm một khay lasagna lớn cho bữa tối.",
+    "pos": "noun"
+  },
+  {
+    "word": "noodles",
+    "phonetic": "/ˈnuːdlz/",
+    "definition": "long thin pieces of food made from flour, water and eggs, cooked in soup or boiling water",
+    "translation": "mì, mì sợi",
+    "exampleSentence": "Serve the meat with rice or noodles.",
+    "exampleTranslation": "Dọn thịt ăn kèm cơm hoặc mì.",
+    "pos": "noun"
+  },
+  {
+    "word": "rice",
+    "phonetic": "/raɪs/",
+    "definition": "small white or brown grains that you boil in water and eat",
+    "translation": "cơm, gạo",
+    "exampleSentence": "I'd like a plate of rice, please.",
+    "exampleTranslation": "Cho tôi một đĩa cơm.",
+    "pos": "noun"
+  },
+  {
+    "word": "sushi",
+    "phonetic": "/ˈsuːʃi/",
+    "definition": "a Japanese dish of small cakes of cooked rice with raw fish",
+    "translation": "sushi",
+    "exampleSentence": "Let's order some sushi tonight.",
+    "exampleTranslation": "Tối nay mình gọi sushi nhé.",
+    "pos": "noun"
+  },
+  {
+    "word": "curry",
+    "phonetic": "/ˈkɜːri/",
+    "definition": "a dish of meat or vegetables in a spicy sauce",
+    "translation": "cà ri",
+    "exampleSentence": "I think I'll have a chicken curry.",
+    "exampleTranslation": "Tôi nghĩ tôi sẽ gọi món cà ri gà.",
+    "pos": "noun"
+  },
+  {
+    "word": "stew",
+    "phonetic": "/stuː/",
+    "definition": "a hot meal of meat and vegetables cooked slowly in liquid",
+    "translation": "món hầm, thịt hầm",
+    "exampleSentence": "We had beef stew for dinner.",
+    "exampleTranslation": "Chúng tôi ăn món bò hầm cho bữa tối.",
+    "pos": "noun"
+  },
+  {
+    "word": "spring roll",
+    "phonetic": "/sprɪŋ roʊl/",
+    "definition": "thin rolled pastry filled with vegetables or meat and cooked in oil",
+    "translation": "chả giò, nem rán",
+    "exampleSentence": "We shared a plate of spring rolls.",
+    "exampleTranslation": "Chúng tôi chia nhau một đĩa chả giò.",
+    "pos": "noun"
+  },
+  {
+    "word": "taco",
+    "phonetic": "/ˈtɑːkoʊ/",
+    "definition": "a Mexican food made of a folded corn pancake filled with meat or beans",
+    "translation": "bánh taco",
+    "exampleSentence": "We made tacos for dinner.",
+    "exampleTranslation": "Chúng tôi làm bánh taco cho bữa tối.",
+    "pos": "noun"
+  },
+  {
+    "word": "kebab",
+    "phonetic": "/kəˈbɑːb/",
+    "definition": "small pieces of meat and vegetables cooked on a stick",
+    "translation": "thịt nướng xiên, kebab",
+    "exampleSentence": "We ate chicken kebabs at the market.",
+    "exampleTranslation": "Chúng tôi ăn thịt gà nướng xiên ở chợ.",
+    "pos": "noun"
+  },
+  {
+    "word": "fried chicken",
+    "phonetic": "/fraɪd ˈtʃɪkɪn/",
+    "definition": "chicken cooked in hot oil",
+    "translation": "gà rán, gà chiên",
+    "exampleSentence": "They filled their plates with fried chicken.",
+    "exampleTranslation": "Họ xếp đầy đĩa gà rán.",
+    "pos": "noun"
+  },
+  {
+    "word": "roast chicken",
+    "phonetic": "/roʊst ˈtʃɪkɪn/",
+    "definition": "chicken cooked in an oven",
+    "translation": "gà nướng",
+    "exampleSentence": "For dinner we're having roast chicken.",
+    "exampleTranslation": "Bữa tối chúng tôi ăn gà nướng.",
+    "pos": "noun"
+  },
+  {
+    "word": "fish and chips",
+    "phonetic": "/fɪʃ ən tʃɪps/",
+    "definition": "a meal of fried fish with fried pieces of potato",
+    "translation": "cá chiên và khoai tây chiên",
+    "exampleSentence": "Get some fish and chips on your way home.",
+    "exampleTranslation": "Trên đường về, bạn mua ít cá và khoai tây chiên nhé.",
+    "pos": "noun"
+  },
+  {
+    "word": "chips",
+    "phonetic": "/tʃɪps/",
+    "definition": "long thin pieces of potato cooked in oil (British English)",
+    "translation": "khoai tây chiên",
+    "exampleSentence": "I had steak and chips for dinner.",
+    "exampleTranslation": "Tôi ăn bít tết và khoai tây chiên vào bữa tối.",
+    "pos": "noun"
+  },
+  {
+    "word": "French fries",
+    "phonetic": "/frentʃ fraɪz/",
+    "definition": "long thin pieces of potato cooked in hot oil",
+    "translation": "khoai tây chiên",
+    "exampleSentence": "I'd like a burger and French fries.",
+    "exampleTranslation": "Cho tôi một cái hamburger và khoai tây chiên.",
+    "pos": "noun"
+  },
+  {
+    "word": "mashed potatoes",
+    "phonetic": "/mæʃt pəˈteɪtoʊz/",
+    "definition": "potatoes boiled and crushed until smooth",
+    "translation": "khoai tây nghiền",
+    "exampleSentence": "I like sausages with mashed potatoes.",
+    "exampleTranslation": "Tôi thích xúc xích ăn kèm khoai tây nghiền.",
+    "pos": "noun"
+  },
+  {
+    "word": "baked potato",
+    "phonetic": "/beɪkt pəˈteɪtoʊ/",
+    "definition": "a potato cooked in its skin in an oven",
+    "translation": "khoai tây nướng",
+    "exampleSentence": "I'd like a baked potato with cheese.",
+    "exampleTranslation": "Tôi muốn một củ khoai tây nướng phô mai.",
+    "pos": "noun"
+  },
+  {
+    "word": "pie",
+    "phonetic": "/paɪ/",
+    "definition": "fruit, meat or vegetables baked inside a pastry covering",
+    "translation": "bánh nướng nhân, bánh pie",
+    "exampleSentence": "Would you like another piece of apple pie?",
+    "exampleTranslation": "Bạn có muốn thêm một miếng bánh táo nữa không?",
+    "pos": "noun"
+  },
+  {
+    "word": "pancake",
+    "phonetic": "/ˈpænkeɪk/",
+    "definition": "a thin flat round cake cooked in a pan and eaten hot",
+    "translation": "bánh kếp, bánh pancake",
+    "exampleSentence": "I had pancakes with honey for breakfast.",
+    "exampleTranslation": "Tôi ăn bánh kếp với mật ong vào bữa sáng.",
+    "pos": "noun"
+  },
+  {
+    "word": "bread",
+    "phonetic": "/bred/",
+    "definition": "a food made from flour and water that is baked",
+    "translation": "bánh mì",
+    "exampleSentence": "Would you like some bread with your soup?",
+    "exampleTranslation": "Bạn có muốn ăn bánh mì với súp không?",
+    "pos": "noun"
+  },
+  {
+    "word": "toast",
+    "phonetic": "/toʊst/",
+    "definition": "bread that has been heated until it is brown and crisp",
+    "translation": "bánh mì nướng",
+    "exampleSentence": "I had a piece of toast for breakfast.",
+    "exampleTranslation": "Tôi ăn một lát bánh mì nướng vào bữa sáng.",
+    "pos": "noun"
+  },
+  {
+    "word": "roll",
+    "phonetic": "/roʊl/",
+    "definition": "a small round loaf of bread for one person",
+    "translation": "ổ bánh mì nhỏ, bánh mì tròn nhỏ",
+    "exampleSentence": "I had a cheese roll for lunch.",
+    "exampleTranslation": "Tôi ăn một ổ bánh mì phô mai vào bữa trưa.",
+    "pos": "noun"
+  },
+  {
+    "word": "bun",
+    "phonetic": "/bʌn/",
+    "definition": "a small round type of bread",
+    "translation": "bánh mì tròn",
+    "exampleSentence": "I put the burger in a bun.",
+    "exampleTranslation": "Tôi kẹp miếng thịt vào bánh mì tròn.",
+    "pos": "noun"
+  },
+  {
+    "word": "baguette",
+    "phonetic": "/bæˈɡet/",
+    "definition": "a long thin loaf of bread, made especially in France",
+    "translation": "bánh mì baguette, bánh mì Pháp",
+    "exampleSentence": "I bought a fresh baguette this morning.",
+    "exampleTranslation": "Sáng nay tôi mua một ổ bánh mì baguette mới.",
+    "pos": "noun"
+  },
+  {
+    "word": "cereal",
+    "phonetic": "/ˈsɪriəl/",
+    "definition": "a breakfast food made from grain, usually eaten with milk",
+    "translation": "ngũ cốc ăn sáng",
+    "exampleSentence": "I eat a bowl of cereal every morning.",
+    "exampleTranslation": "Sáng nào tôi cũng ăn một bát ngũ cốc.",
+    "pos": "noun"
+  },
+  {
+    "word": "porridge",
+    "phonetic": "/ˈpɑːrɪdʒ/",
+    "definition": "oats cooked with milk or water and served hot for breakfast",
+    "translation": "cháo yến mạch",
+    "exampleSentence": "I often have porridge for breakfast.",
+    "exampleTranslation": "Tôi thường ăn cháo yến mạch vào bữa sáng.",
+    "pos": "noun"
+  },
+  {
+    "word": "sauce",
+    "phonetic": "/sɔːs/",
+    "definition": "a thick cooked liquid served with food to give it taste",
+    "translation": "nước sốt, xốt",
+    "exampleSentence": "Do you want tomato sauce on your pasta?",
+    "exampleTranslation": "Bạn có muốn thêm sốt cà chua lên mì không?",
+    "pos": "noun"
+  },
+  {
+    "word": "menu",
+    "phonetic": "/ˈmenjuː/",
+    "definition": "a list of the food you can order in a restaurant",
+    "translation": "thực đơn, menu",
+    "exampleSentence": "Could we have the menu, please?",
+    "exampleTranslation": "Cho chúng tôi xem thực đơn nhé.",
+    "pos": "noun"
+  },
+  {
+    "word": "order",
+    "phonetic": "/ˈɔːrdər/",
+    "definition": "to ask for food or a drink in a restaurant",
+    "translation": "gọi món, gọi (đồ ăn, thức uống)",
+    "exampleSentence": "Are you ready to order?",
+    "exampleTranslation": "Bạn đã sẵn sàng gọi món chưa?",
+    "pos": "verb"
+  },
+  {
+    "word": "serve",
+    "phonetic": "/sɜːrv/",
+    "definition": "to give someone food or drink, especially in a restaurant",
+    "translation": "phục vụ, dọn (món ăn)",
+    "exampleSentence": "They serve breakfast until ten o'clock.",
+    "exampleTranslation": "Họ phục vụ bữa sáng đến mười giờ.",
+    "pos": "verb"
+  },
+  {
+    "word": "waiter",
+    "phonetic": "/ˈweɪtər/",
+    "definition": "a man who serves food and drink at tables in a restaurant",
+    "translation": "người phục vụ nam, bồi bàn",
+    "exampleSentence": "The waiter brought us the menu.",
+    "exampleTranslation": "Người phục vụ mang thực đơn đến cho chúng tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "waitress",
+    "phonetic": "/ˈweɪtrɪs/",
+    "definition": "a woman who serves food and drink at tables in a restaurant",
+    "translation": "nữ phục vụ bàn, cô bồi bàn",
+    "exampleSentence": "The waitress brought our soup.",
+    "exampleTranslation": "Nhân viên phục vụ mang súp đến cho chúng tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "chef",
+    "phonetic": "/ʃef/",
+    "definition": "a skilled cook, especially the main cook in a restaurant",
+    "translation": "đầu bếp, bếp trưởng",
+    "exampleSentence": "The chef made a wonderful pasta dish.",
+    "exampleTranslation": "Đầu bếp đã làm một món mì Ý tuyệt vời.",
+    "pos": "noun"
+  },
+  {
+    "word": "bill",
+    "phonetic": "/bɪl/",
+    "definition": "a list showing how much you must pay for food in a restaurant",
+    "translation": "hóa đơn, phiếu tính tiền",
+    "exampleSentence": "Could we have the bill, please?",
+    "exampleTranslation": "Cho chúng tôi xin hóa đơn.",
+    "pos": "noun"
+  },
+  {
+    "word": "tip",
+    "phonetic": "/tɪp/",
+    "definition": "a small extra amount of money you give to a waiter",
+    "translation": "tiền boa, tiền tip",
+    "exampleSentence": "Did you leave a tip for the waiter?",
+    "exampleTranslation": "Bạn có để lại tiền boa cho người phục vụ không?",
+    "pos": "noun"
+  },
+  {
+    "word": "vegan",
+    "phonetic": "/ˈviːɡən/",
+    "definition": "someone who eats no animal products, such as meat, eggs or milk",
+    "translation": "người ăn thuần chay",
+    "exampleSentence": "I am a vegan, so I don't eat eggs or milk.",
+    "exampleTranslation": "Tôi ăn thuần chay nên không ăn trứng hay sữa.",
+    "pos": "noun"
+  },
+  {
+    "word": "diet",
+    "phonetic": "/ˈdaɪət/",
+    "definition": "the kind of food that a person eats each day",
+    "translation": "chế độ ăn, khẩu phần ăn",
+    "exampleSentence": "A healthy diet includes lots of fruit and vegetables.",
+    "exampleTranslation": "Một chế độ ăn lành mạnh có nhiều trái cây và rau.",
+    "pos": "noun"
+  }
+]

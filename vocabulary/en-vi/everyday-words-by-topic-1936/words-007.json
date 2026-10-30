@@ -1,0 +1,614 @@
+[
+  {
+    "word": "vegetable",
+    "phonetic": "/ˈvedʒtəbəl/",
+    "definition": "a plant that you eat, such as a carrot or a cabbage",
+    "translation": "rau, rau củ",
+    "exampleSentence": "I eat vegetables every day.",
+    "exampleTranslation": "Tôi ăn rau mỗi ngày.",
+    "pos": "noun"
+  },
+  {
+    "word": "carrot",
+    "phonetic": "/ˈkærət/",
+    "definition": "a long pointed orange vegetable that grows under the ground",
+    "translation": "cà rốt",
+    "exampleSentence": "Rabbits like carrots.",
+    "exampleTranslation": "Thỏ thích ăn cà rốt.",
+    "pos": "noun"
+  },
+  {
+    "word": "potato",
+    "phonetic": "/pəˈteɪtoʊ/",
+    "definition": "a round vegetable with brown skin that grows under the ground",
+    "translation": "khoai tây",
+    "exampleSentence": "Please peel the potatoes.",
+    "exampleTranslation": "Làm ơn gọt vỏ khoai tây giúp tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "sweet potato",
+    "phonetic": "/swiːt pəˈteɪtoʊ/",
+    "definition": "a vegetable that looks like a red potato, is yellow inside, and tastes sweet",
+    "translation": "khoai lang",
+    "exampleSentence": "We baked a sweet potato for dinner.",
+    "exampleTranslation": "Chúng tôi nướng một củ khoai lang cho bữa tối.",
+    "pos": "noun"
+  },
+  {
+    "word": "cassava",
+    "phonetic": "/kəˈsɑːvə/",
+    "definition": "a tropical plant with thick roots that you can eat",
+    "translation": "khoai mì, sắn",
+    "exampleSentence": "Cassava grows well in hot countries.",
+    "exampleTranslation": "Khoai mì mọc tốt ở những nước nóng.",
+    "pos": "noun"
+  },
+  {
+    "word": "turnip",
+    "phonetic": "/ˈtɜːrnɪp/",
+    "definition": "a large round pale yellow vegetable that grows under the ground",
+    "translation": "củ cải",
+    "exampleSentence": "My grandmother cooks turnip soup.",
+    "exampleTranslation": "Bà tôi nấu món canh củ cải.",
+    "pos": "noun"
+  },
+  {
+    "word": "radish",
+    "phonetic": "/ˈrædɪʃ/",
+    "definition": "a small vegetable with a red or white root and a spicy taste",
+    "translation": "củ cải đỏ, củ cải trắng",
+    "exampleSentence": "I put a few radishes in the salad.",
+    "exampleTranslation": "Tôi cho vài củ cải đỏ vào món salad.",
+    "pos": "noun"
+  },
+  {
+    "word": "beetroot",
+    "phonetic": "/ˈbiːtruːt/",
+    "definition": "a plant with a round dark red root that you cook and eat",
+    "translation": "củ dền",
+    "exampleSentence": "Beetroot turns the soup red.",
+    "exampleTranslation": "Củ dền làm món súp có màu đỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "onion",
+    "phonetic": "/ˈʌnjən/",
+    "definition": "a round vegetable with many layers and a strong taste and smell",
+    "translation": "hành tây",
+    "exampleSentence": "Onions make me cry.",
+    "exampleTranslation": "Hành tây làm tôi chảy nước mắt.",
+    "pos": "noun"
+  },
+  {
+    "word": "spring onion",
+    "phonetic": "/sprɪŋ ˈʌnjən/",
+    "definition": "an onion with a small white round part and a long green stem",
+    "translation": "hành lá",
+    "exampleSentence": "Add some chopped spring onion on top.",
+    "exampleTranslation": "Hãy rắc thêm ít hành lá thái nhỏ lên trên.",
+    "pos": "noun"
+  },
+  {
+    "word": "shallot",
+    "phonetic": "/ʃəˈlɑːt/",
+    "definition": "a vegetable like a small onion",
+    "translation": "hành tím",
+    "exampleSentence": "Fry the shallots until they are brown.",
+    "exampleTranslation": "Hãy chiên hành tím cho đến khi vàng.",
+    "pos": "noun"
+  },
+  {
+    "word": "leek",
+    "phonetic": "/liːk/",
+    "definition": "a vegetable with a long white stem and flat green leaves, tasting like an onion",
+    "translation": "tỏi tây",
+    "exampleSentence": "I made a soup with leeks.",
+    "exampleTranslation": "Tôi nấu một nồi súp với tỏi tây.",
+    "pos": "noun"
+  },
+  {
+    "word": "garlic",
+    "phonetic": "/ˈɡɑːrlɪk/",
+    "definition": "a plant like a small onion, used in cooking to give a strong taste",
+    "translation": "tỏi",
+    "exampleSentence": "Add two cloves of garlic.",
+    "exampleTranslation": "Hãy cho thêm hai tép tỏi.",
+    "pos": "noun"
+  },
+  {
+    "word": "ginger",
+    "phonetic": "/ˈdʒɪndʒər/",
+    "definition": "a root with a strong hot taste, used in cooking",
+    "translation": "gừng",
+    "exampleSentence": "I put fresh ginger in my tea.",
+    "exampleTranslation": "Tôi cho gừng tươi vào trà.",
+    "pos": "noun"
+  },
+  {
+    "word": "tomato",
+    "phonetic": "/təˈmeɪtoʊ/",
+    "definition": "a round soft red fruit that is eaten raw or cooked as a vegetable",
+    "translation": "cà chua",
+    "exampleSentence": "Slice the tomatoes for the sandwich.",
+    "exampleTranslation": "Hãy cắt lát cà chua cho món bánh mì kẹp.",
+    "pos": "noun"
+  },
+  {
+    "word": "cucumber",
+    "phonetic": "/ˈkjuːkʌmbər/",
+    "definition": "a long thin vegetable with dark green skin, usually eaten raw",
+    "translation": "dưa leo, dưa chuột",
+    "exampleSentence": "I like cucumber in my salad.",
+    "exampleTranslation": "Tôi thích dưa leo trong món salad.",
+    "pos": "noun"
+  },
+  {
+    "word": "pumpkin",
+    "phonetic": "/ˈpʌmpkɪn/",
+    "definition": "a very large round orange vegetable that grows on the ground",
+    "translation": "bí đỏ, bí ngô",
+    "exampleSentence": "We made soup from a pumpkin.",
+    "exampleTranslation": "Chúng tôi nấu súp từ một quả bí đỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "squash",
+    "phonetic": "/skwɑːʃ/",
+    "definition": "a large vegetable with solid flesh and hard skin, such as a pumpkin",
+    "translation": "bí",
+    "exampleSentence": "Cut the squash in half.",
+    "exampleTranslation": "Hãy cắt quả bí làm đôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "courgette",
+    "phonetic": "/kʊrˈʒet/",
+    "definition": "a long vegetable with dark green skin",
+    "translation": "bí ngòi",
+    "exampleSentence": "Slice the courgette into thin rounds.",
+    "exampleTranslation": "Hãy cắt bí ngòi thành những lát tròn mỏng.",
+    "pos": "noun"
+  },
+  {
+    "word": "aubergine",
+    "phonetic": "/ˈoʊbərʒiːn/",
+    "definition": "a large dark purple vegetable",
+    "translation": "cà tím",
+    "exampleSentence": "Grill the aubergine for ten minutes.",
+    "exampleTranslation": "Hãy nướng cà tím trong mười phút.",
+    "pos": "noun"
+  },
+  {
+    "word": "eggplant",
+    "phonetic": "/ˈeɡplænt/",
+    "definition": "a large vegetable with smooth purple skin",
+    "translation": "cà tím",
+    "exampleSentence": "My mother cooks eggplant with garlic.",
+    "exampleTranslation": "Mẹ tôi nấu cà tím với tỏi.",
+    "pos": "noun"
+  },
+  {
+    "word": "pepper",
+    "phonetic": "/ˈpepər/",
+    "definition": "a hollow red, green, or yellow vegetable, eaten raw or cooked",
+    "translation": "ớt chuông",
+    "exampleSentence": "I cut a red pepper into strips.",
+    "exampleTranslation": "Tôi cắt một quả ớt chuông đỏ thành sợi.",
+    "pos": "noun"
+  },
+  {
+    "word": "bell pepper",
+    "phonetic": "/bel ˈpepər/",
+    "definition": "a hollow red, green, or yellow vegetable",
+    "translation": "ớt chuông",
+    "exampleSentence": "I added a green bell pepper to the pasta.",
+    "exampleTranslation": "Tôi cho thêm một quả ớt chuông xanh vào món mì Ý.",
+    "pos": "noun"
+  },
+  {
+    "word": "chilli",
+    "phonetic": "/ˈtʃɪli/",
+    "definition": "a small thin red or green pepper with a very hot taste",
+    "translation": "ớt",
+    "exampleSentence": "This soup has too much chilli.",
+    "exampleTranslation": "Món súp này cho quá nhiều ớt.",
+    "pos": "noun"
+  },
+  {
+    "word": "cabbage",
+    "phonetic": "/ˈkæbɪdʒ/",
+    "definition": "a large round vegetable with thick green or purple leaves",
+    "translation": "bắp cải",
+    "exampleSentence": "We boiled some cabbage.",
+    "exampleTranslation": "Chúng tôi luộc một ít bắp cải.",
+    "pos": "noun"
+  },
+  {
+    "word": "kale",
+    "phonetic": "/keɪl/",
+    "definition": "a dark green vegetable with curled leaves",
+    "translation": "cải xoăn",
+    "exampleSentence": "Kale is good for you.",
+    "exampleTranslation": "Cải xoăn rất tốt cho sức khỏe.",
+    "pos": "noun"
+  },
+  {
+    "word": "lettuce",
+    "phonetic": "/ˈletɪs/",
+    "definition": "a round vegetable with thin green leaves, eaten raw in salads",
+    "translation": "rau xà lách, xà lách",
+    "exampleSentence": "Wash the lettuce before you eat it.",
+    "exampleTranslation": "Hãy rửa xà lách trước khi ăn.",
+    "pos": "noun"
+  },
+  {
+    "word": "spinach",
+    "phonetic": "/ˈspɪnɪdʒ/",
+    "definition": "a vegetable with large dark green leaves",
+    "translation": "rau chân vịt, rau bina",
+    "exampleSentence": "Children often do not like spinach.",
+    "exampleTranslation": "Trẻ con thường không thích rau chân vịt.",
+    "pos": "noun"
+  },
+  {
+    "word": "rocket",
+    "phonetic": "/ˈrɑːkɪt/",
+    "definition": "a plant with green leaves and a strong taste, eaten raw in salads",
+    "translation": "rau rocket, xà lách rocket",
+    "exampleSentence": "I bought some rocket for the salad.",
+    "exampleTranslation": "Tôi mua ít rau rocket để làm salad.",
+    "pos": "noun"
+  },
+  {
+    "word": "broccoli",
+    "phonetic": "/ˈbrɑːkəli/",
+    "definition": "a green vegetable that has short branch-like stems",
+    "translation": "súp lơ xanh, bông cải xanh",
+    "exampleSentence": "Steam the broccoli for five minutes.",
+    "exampleTranslation": "Hãy hấp súp lơ xanh trong năm phút.",
+    "pos": "noun"
+  },
+  {
+    "word": "cauliflower",
+    "phonetic": "/ˈkɔːliˌflaʊər/",
+    "definition": "a vegetable with green leaves around a firm white centre",
+    "translation": "súp lơ trắng, bông cải trắng",
+    "exampleSentence": "We had cauliflower with cheese.",
+    "exampleTranslation": "Chúng tôi ăn súp lơ trắng với phô mai.",
+    "pos": "noun"
+  },
+  {
+    "word": "asparagus",
+    "phonetic": "/əˈspærəɡəs/",
+    "definition": "a long thin green vegetable with a point at one end",
+    "translation": "măng tây",
+    "exampleSentence": "Asparagus is nice with eggs.",
+    "exampleTranslation": "Măng tây ăn rất hợp với trứng.",
+    "pos": "noun"
+  },
+  {
+    "word": "celery",
+    "phonetic": "/ˈseləri/",
+    "definition": "a vegetable with long pale green stems that you can eat cooked or raw",
+    "translation": "cần tây",
+    "exampleSentence": "Cut the celery into small pieces.",
+    "exampleTranslation": "Hãy cắt cần tây thành miếng nhỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "okra",
+    "phonetic": "/ˈoʊkrə/",
+    "definition": "a green vegetable used in cooking, especially in Asia and the southern US",
+    "translation": "đậu bắp",
+    "exampleSentence": "We cooked okra in a sour soup.",
+    "exampleTranslation": "Chúng tôi nấu đậu bắp trong món canh chua.",
+    "pos": "noun"
+  },
+  {
+    "word": "corn",
+    "phonetic": "/kɔːrn/",
+    "definition": "a tall plant with large yellow seeds, cooked and eaten as a vegetable",
+    "translation": "ngô, bắp",
+    "exampleSentence": "We ate grilled corn at the market.",
+    "exampleTranslation": "Chúng tôi ăn bắp nướng ở chợ.",
+    "pos": "noun"
+  },
+  {
+    "word": "sweetcorn",
+    "phonetic": "/ˈswiːtkɔːrn/",
+    "definition": "the soft yellow seeds from maize that are cooked and eaten",
+    "translation": "ngô ngọt, bắp ngọt",
+    "exampleSentence": "I put sweetcorn in the soup.",
+    "exampleTranslation": "Tôi cho bắp ngọt vào súp.",
+    "pos": "noun"
+  },
+  {
+    "word": "pea",
+    "phonetic": "/piː/",
+    "definition": "a small round green seed that is cooked and eaten as a vegetable",
+    "translation": "đậu Hà Lan",
+    "exampleSentence": "The children like peas.",
+    "exampleTranslation": "Bọn trẻ thích ăn đậu Hà Lan.",
+    "pos": "noun"
+  },
+  {
+    "word": "bean",
+    "phonetic": "/biːn/",
+    "definition": "a seed or pod from a climbing plant, cooked and eaten as food",
+    "translation": "đậu, hạt đậu",
+    "exampleSentence": "We had rice and beans for lunch.",
+    "exampleTranslation": "Chúng tôi ăn cơm với đậu cho bữa trưa.",
+    "pos": "noun"
+  },
+  {
+    "word": "green bean",
+    "phonetic": "/ɡriːn biːn/",
+    "definition": "a long thin green vegetable picked before the beans inside it grow",
+    "translation": "đậu que, đậu cô ve",
+    "exampleSentence": "Boil the green beans for three minutes.",
+    "exampleTranslation": "Hãy luộc đậu que trong ba phút.",
+    "pos": "noun"
+  },
+  {
+    "word": "soya bean",
+    "phonetic": "/ˈsɔɪbiːn/",
+    "definition": "a bean from an Asian plant used to make oil and food like tofu",
+    "translation": "đậu nành, đậu tương",
+    "exampleSentence": "Tofu is made from soya beans.",
+    "exampleTranslation": "Đậu hũ được làm từ đậu nành.",
+    "pos": "noun"
+  },
+  {
+    "word": "tofu",
+    "phonetic": "/ˈtoʊfuː/",
+    "definition": "a soft white food made from soya beans, used in cooking instead of meat",
+    "translation": "đậu hũ, đậu phụ",
+    "exampleSentence": "I fried some tofu for dinner.",
+    "exampleTranslation": "Tôi chiên đậu hũ cho bữa tối.",
+    "pos": "noun"
+  },
+  {
+    "word": "lentil",
+    "phonetic": "/ˈlentl/",
+    "definition": "a small round seed like a bean, dried and used for food",
+    "translation": "đậu lăng",
+    "exampleSentence": "Lentil soup is cheap and healthy.",
+    "exampleTranslation": "Súp đậu lăng vừa rẻ vừa tốt cho sức khỏe.",
+    "pos": "noun"
+  },
+  {
+    "word": "chickpea",
+    "phonetic": "/ˈtʃɪkpiː/",
+    "definition": "a large brown pea which is cooked and eaten",
+    "translation": "đậu gà",
+    "exampleSentence": "I added chickpeas to the salad.",
+    "exampleTranslation": "Tôi cho đậu gà vào món salad.",
+    "pos": "noun"
+  },
+  {
+    "word": "beansprout",
+    "phonetic": "/ˈbiːnspraʊt/",
+    "definition": "the small white stem from a bean seed that is eaten as a vegetable",
+    "translation": "giá đỗ, giá",
+    "exampleSentence": "Put some beansprouts in the noodle soup.",
+    "exampleTranslation": "Hãy cho ít giá đỗ vào tô mì.",
+    "pos": "noun"
+  },
+  {
+    "word": "sprout",
+    "phonetic": "/spraʊt/",
+    "definition": "a small green vegetable like a very small cabbage",
+    "translation": "cải Brussels, bắp cải con",
+    "exampleSentence": "Do you want some sprouts with your dinner?",
+    "exampleTranslation": "Bạn có muốn ăn thêm cải Brussels với bữa tối không?",
+    "pos": "noun"
+  },
+  {
+    "word": "mushroom",
+    "phonetic": "/ˈmʌʃruːm/",
+    "definition": "a fungus with a stem and a round top that you can eat",
+    "translation": "nấm",
+    "exampleSentence": "I like mushroom soup.",
+    "exampleTranslation": "Tôi thích súp nấm.",
+    "pos": "noun"
+  },
+  {
+    "word": "seaweed",
+    "phonetic": "/ˈsiːwiːd/",
+    "definition": "a plant that grows in the sea and can be eaten",
+    "translation": "rong biển, tảo biển",
+    "exampleSentence": "Sushi is wrapped in seaweed.",
+    "exampleTranslation": "Món sushi được cuốn bằng rong biển.",
+    "pos": "noun"
+  },
+  {
+    "word": "olive",
+    "phonetic": "/ˈɑːləv/",
+    "definition": "a small bitter egg-shaped black or green fruit, used as food and for making oil",
+    "translation": "ô liu, trái ô liu",
+    "exampleSentence": "Would you like some olives on your pizza?",
+    "exampleTranslation": "Bạn có muốn thêm ô liu lên bánh pizza không?",
+    "pos": "noun"
+  },
+  {
+    "word": "herb",
+    "phonetic": "/ɜːrb/",
+    "definition": "a small plant used to give a better taste to food",
+    "translation": "rau thơm, thảo mộc",
+    "exampleSentence": "Sprinkle fresh herbs on the dish.",
+    "exampleTranslation": "Hãy rắc rau thơm tươi lên món ăn.",
+    "pos": "noun"
+  },
+  {
+    "word": "parsley",
+    "phonetic": "/ˈpɑːrsli/",
+    "definition": "a herb with curly leaves, used in cooking or as decoration on food",
+    "translation": "mùi tây, ngò tây",
+    "exampleSentence": "Chop some parsley for the sauce.",
+    "exampleTranslation": "Hãy thái nhỏ ít mùi tây cho món sốt.",
+    "pos": "noun"
+  },
+  {
+    "word": "mint",
+    "phonetic": "/mɪnt/",
+    "definition": "a small plant with green leaves that have a fresh smell and taste",
+    "translation": "bạc hà, rau húng",
+    "exampleSentence": "I added fresh mint to my tea.",
+    "exampleTranslation": "Tôi cho bạc hà tươi vào trà.",
+    "pos": "noun"
+  },
+  {
+    "word": "basil",
+    "phonetic": "/ˈbeɪzəl/",
+    "definition": "a strong-smelling and strong-tasting herb used in cooking",
+    "translation": "húng quế",
+    "exampleSentence": "We use basil in tomato sauce.",
+    "exampleTranslation": "Chúng tôi dùng húng quế trong sốt cà chua.",
+    "pos": "noun"
+  },
+  {
+    "word": "coriander",
+    "phonetic": "/ˌkɔːriˈændər/",
+    "definition": "a herb used especially in Asian and Mexican cooking",
+    "translation": "rau mùi, ngò rí",
+    "exampleSentence": "Add some coriander before you serve it.",
+    "exampleTranslation": "Hãy thêm ít rau mùi trước khi dọn món.",
+    "pos": "noun"
+  },
+  {
+    "word": "chives",
+    "phonetic": "/tʃaɪvz/",
+    "definition": "the long thin green leaves of a plant that taste like onion",
+    "translation": "hẹ, hành hẹ",
+    "exampleSentence": "Sprinkle chives over the eggs.",
+    "exampleTranslation": "Hãy rắc hẹ lên trứng.",
+    "pos": "noun"
+  },
+  {
+    "word": "lemon grass",
+    "phonetic": "/ˈlemən ɡræs/",
+    "definition": "a type of grass that grows in warm countries and is used in cooking",
+    "translation": "sả",
+    "exampleSentence": "The soup smells of lemon grass.",
+    "exampleTranslation": "Món súp có mùi sả.",
+    "pos": "noun"
+  },
+  {
+    "word": "salad",
+    "phonetic": "/ˈsæləd/",
+    "definition": "a mixture of raw vegetables, especially lettuce, cucumber, and tomato",
+    "translation": "món salad, rau trộn",
+    "exampleSentence": "Would you like some salad with your meal?",
+    "exampleTranslation": "Bạn có muốn ăn thêm salad với bữa ăn không?",
+    "pos": "noun"
+  },
+  {
+    "word": "greens",
+    "phonetic": "/ɡriːnz/",
+    "definition": "vegetables with large green leaves",
+    "translation": "rau xanh, rau lá xanh",
+    "exampleSentence": "Eat your greens.",
+    "exampleTranslation": "Hãy ăn rau xanh đi.",
+    "pos": "noun"
+  },
+  {
+    "word": "root",
+    "phonetic": "/ruːt/",
+    "definition": "the part of a plant that grows under the ground",
+    "translation": "rễ, củ",
+    "exampleSentence": "Carrots are root vegetables.",
+    "exampleTranslation": "Cà rốt là loại rau củ.",
+    "pos": "noun"
+  },
+  {
+    "word": "leaf",
+    "phonetic": "/liːf/",
+    "definition": "one of the flat green parts of a plant",
+    "translation": "lá",
+    "exampleSentence": "Remove the outer leaves of the cabbage.",
+    "exampleTranslation": "Hãy bỏ những lá bên ngoài của bắp cải.",
+    "pos": "noun"
+  },
+  {
+    "word": "stalk",
+    "phonetic": "/stɔːk/",
+    "definition": "a long narrow part of a plant that supports leaves, fruits, or flowers",
+    "translation": "cọng, thân",
+    "exampleSentence": "I need two stalks of celery.",
+    "exampleTranslation": "Tôi cần hai cọng cần tây.",
+    "pos": "noun"
+  },
+  {
+    "word": "stem",
+    "phonetic": "/stem/",
+    "definition": "the long thin part of a plant, from which leaves or fruit grow",
+    "translation": "thân, cuống",
+    "exampleSentence": "Cut off the stems of the mushrooms.",
+    "exampleTranslation": "Hãy cắt bỏ cuống nấm.",
+    "pos": "noun"
+  },
+  {
+    "word": "pod",
+    "phonetic": "/pɑːd/",
+    "definition": "a long narrow case that holds the seeds of plants such as peas and beans",
+    "translation": "vỏ đậu, quả đậu",
+    "exampleSentence": "Open the pod and take out the peas.",
+    "exampleTranslation": "Hãy bóc vỏ đậu và lấy hạt đậu ra.",
+    "pos": "noun"
+  },
+  {
+    "word": "seed",
+    "phonetic": "/siːd/",
+    "definition": "a small hard object from a plant, from which a new plant grows",
+    "translation": "hạt, hạt giống",
+    "exampleSentence": "Plant the seeds in spring.",
+    "exampleTranslation": "Hãy gieo hạt vào mùa xuân.",
+    "pos": "noun"
+  },
+  {
+    "word": "fresh",
+    "phonetic": "/freʃ/",
+    "definition": "fresh food has recently been picked or prepared and is not frozen or preserved",
+    "translation": "tươi",
+    "exampleSentence": "These vegetables are fresh from the garden.",
+    "exampleTranslation": "Những loại rau này vừa mới hái ngoài vườn.",
+    "pos": "adjective"
+  },
+  {
+    "word": "ripe",
+    "phonetic": "/raɪp/",
+    "definition": "fully grown and ready to eat",
+    "translation": "chín",
+    "exampleSentence": "These tomatoes are not ripe yet.",
+    "exampleTranslation": "Những quả cà chua này chưa chín.",
+    "pos": "adjective"
+  },
+  {
+    "word": "raw",
+    "phonetic": "/rɔː/",
+    "definition": "not cooked",
+    "translation": "sống, tươi",
+    "exampleSentence": "You can eat carrots raw.",
+    "exampleTranslation": "Bạn có thể ăn cà rốt sống.",
+    "pos": "adjective"
+  },
+  {
+    "word": "organic",
+    "phonetic": "/ɔːrˈɡænɪk/",
+    "definition": "grown without artificial chemicals",
+    "translation": "hữu cơ",
+    "exampleSentence": "I buy organic vegetables at the market.",
+    "exampleTranslation": "Tôi mua rau hữu cơ ở chợ.",
+    "pos": "adjective"
+  },
+  {
+    "word": "vegetarian",
+    "phonetic": "/ˌvedʒəˈteriən/",
+    "definition": "a person who does not eat meat or fish",
+    "translation": "người ăn chay",
+    "exampleSentence": "My friend is a vegetarian.",
+    "exampleTranslation": "Bạn tôi là người ăn chay.",
+    "pos": "noun"
+  }
+]

@@ -1,0 +1,533 @@
+[
+  {
+    "word": "bathroom",
+    "phonetic": "/ˈbæθruːm/",
+    "definition": "a room with a bath or shower, and often a toilet",
+    "translation": "phòng tắm, nhà tắm",
+    "exampleSentence": "The bathroom is next to my bedroom.",
+    "exampleTranslation": "Phòng tắm ở cạnh phòng ngủ của tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "bathtub",
+    "phonetic": "/ˈbæθtʌb/",
+    "definition": "a large container that you fill with water to sit in and wash",
+    "translation": "bồn tắm",
+    "exampleSentence": "The bathtub is full of warm water.",
+    "exampleTranslation": "Bồn tắm đầy nước ấm.",
+    "pos": "noun"
+  },
+  {
+    "word": "bath",
+    "phonetic": "/bæθ/",
+    "definition": "an act of washing your body while sitting in a bath of water",
+    "translation": "việc tắm bồn, bồn tắm",
+    "exampleSentence": "After a week of camping, I really needed a bath.",
+    "exampleTranslation": "Sau một tuần cắm trại, tôi thật sự cần tắm bồn.",
+    "pos": "noun"
+  },
+  {
+    "word": "shower",
+    "phonetic": "/ʃaʊr/",
+    "definition": "equipment you stand under to wash your body, or the act of using it",
+    "translation": "vòi hoa sen, việc tắm",
+    "exampleSentence": "I take a shower every morning.",
+    "exampleTranslation": "Tôi tắm vòi sen mỗi sáng.",
+    "pos": "noun"
+  },
+  {
+    "word": "shower curtain",
+    "phonetic": "/ˈʃaʊr ˌkɜːrtn/",
+    "definition": "a curtain that keeps the water inside the shower",
+    "translation": "rèm phòng tắm, màn che vòi sen",
+    "exampleSentence": "Please close the shower curtain.",
+    "exampleTranslation": "Bạn nhớ kéo rèm phòng tắm lại nhé.",
+    "pos": "noun"
+  },
+  {
+    "word": "bath mat",
+    "phonetic": "/ˈbæθ mæt/",
+    "definition": "a piece of thick cloth on the floor next to the bath",
+    "translation": "thảm chân phòng tắm, thảm lau chân",
+    "exampleSentence": "Step on the bath mat when you get out.",
+    "exampleTranslation": "Hãy bước lên thảm lau chân khi bạn bước ra.",
+    "pos": "noun"
+  },
+  {
+    "word": "toilet",
+    "phonetic": "/ˈtɔɪlɪt/",
+    "definition": "a large bowl you sit on to get rid of body waste, or the room with it",
+    "translation": "bồn cầu, nhà vệ sinh",
+    "exampleSentence": "Where is the toilet, please?",
+    "exampleTranslation": "Làm ơn cho hỏi nhà vệ sinh ở đâu?",
+    "pos": "noun"
+  },
+  {
+    "word": "flush",
+    "phonetic": "/flʌʃ/",
+    "definition": "to make water go through a toilet to clean it",
+    "translation": "xả nước bồn cầu, giật nước",
+    "exampleSentence": "Please flush the toilet after you use it.",
+    "exampleTranslation": "Vui lòng xả nước bồn cầu sau khi dùng.",
+    "pos": "verb"
+  },
+  {
+    "word": "toilet paper",
+    "phonetic": "/ˈtɔɪlɪt ˌpeɪpər/",
+    "definition": "soft thin paper for cleaning yourself after using the toilet",
+    "translation": "giấy vệ sinh",
+    "exampleSentence": "We have no more toilet paper.",
+    "exampleTranslation": "Chúng ta hết giấy vệ sinh rồi.",
+    "pos": "noun"
+  },
+  {
+    "word": "wet wipe",
+    "phonetic": "/wet waɪp/",
+    "definition": "a piece of wet material that you use to clean something and then throw away",
+    "translation": "khăn ướt",
+    "exampleSentence": "I always carry wet wipes in my bag.",
+    "exampleTranslation": "Tôi luôn mang khăn ướt trong túi.",
+    "pos": "noun"
+  },
+  {
+    "word": "sanitary pad",
+    "phonetic": "/ˈsænəteri pæd/",
+    "definition": "a piece of soft material worn in underwear to take in blood during a period",
+    "translation": "băng vệ sinh",
+    "exampleSentence": "I always carry sanitary pads in my bag.",
+    "exampleTranslation": "Tôi luôn mang băng vệ sinh trong túi.",
+    "pos": "noun"
+  },
+  {
+    "word": "basin",
+    "phonetic": "/ˈbeɪsən/",
+    "definition": "a round container fixed to the bathroom wall, where you wash your hands and face",
+    "translation": "bồn rửa mặt, chậu rửa mặt",
+    "exampleSentence": "I washed my face in the basin.",
+    "exampleTranslation": "Tôi rửa mặt ở bồn rửa.",
+    "pos": "noun"
+  },
+  {
+    "word": "faucet",
+    "phonetic": "/ˈfɔːsɪt/",
+    "definition": "the thing you turn on and off to control water from a pipe",
+    "translation": "vòi nước",
+    "exampleSentence": "The faucet in the bathroom is leaking.",
+    "exampleTranslation": "Vòi nước trong phòng tắm bị rỉ nước.",
+    "pos": "noun"
+  },
+  {
+    "word": "drain",
+    "phonetic": "/dreɪn/",
+    "definition": "the hole in the bottom of a bath or sink that water flows out through",
+    "translation": "lỗ thoát nước, cống thoát nước",
+    "exampleSentence": "The drain in the shower is blocked.",
+    "exampleTranslation": "Lỗ thoát nước trong phòng tắm bị tắc.",
+    "pos": "noun"
+  },
+  {
+    "word": "wash",
+    "phonetic": "/wɑːʃ/",
+    "definition": "to clean your body with soap and water",
+    "translation": "rửa, tắm rửa",
+    "exampleSentence": "Wash your hands with soap and water.",
+    "exampleTranslation": "Hãy rửa tay bằng xà phòng và nước.",
+    "pos": "verb"
+  },
+  {
+    "word": "rinse",
+    "phonetic": "/rɪns/",
+    "definition": "to remove soap or dirt by washing quickly with water",
+    "translation": "xả, tráng, rửa sạch",
+    "exampleSentence": "Rinse your hair well with warm water.",
+    "exampleTranslation": "Hãy xả tóc thật sạch bằng nước ấm.",
+    "pos": "verb"
+  },
+  {
+    "word": "soap",
+    "phonetic": "/soʊp/",
+    "definition": "a substance you use with water to wash your body",
+    "translation": "xà phòng, xà bông",
+    "exampleSentence": "Wash your hands with soap and water.",
+    "exampleTranslation": "Rửa tay bằng xà phòng và nước.",
+    "pos": "noun"
+  },
+  {
+    "word": "shower gel",
+    "phonetic": "/ˈʃaʊr dʒel/",
+    "definition": "a liquid soap you use to wash yourself in the shower",
+    "translation": "sữa tắm",
+    "exampleSentence": "This shower gel smells like lemon.",
+    "exampleTranslation": "Sữa tắm này có mùi chanh.",
+    "pos": "noun"
+  },
+  {
+    "word": "bubble bath",
+    "phonetic": "/ˈbʌbəl bæθ/",
+    "definition": "a liquid soap that makes bubbles in your bath water",
+    "translation": "sữa tắm tạo bọt, bọt tắm",
+    "exampleSentence": "I put some bubble bath in the water.",
+    "exampleTranslation": "Tôi cho một ít sữa tắm tạo bọt vào nước.",
+    "pos": "noun"
+  },
+  {
+    "word": "flannel",
+    "phonetic": "/ˈflænl/",
+    "definition": "a small piece of cloth that you use to wash your face and body",
+    "translation": "khăn mặt",
+    "exampleSentence": "Wet the flannel with warm water.",
+    "exampleTranslation": "Hãy làm ướt khăn mặt bằng nước ấm.",
+    "pos": "noun"
+  },
+  {
+    "word": "washcloth",
+    "phonetic": "/ˈwɑːʃklɔːθ/",
+    "definition": "a small square cloth for washing your hands and face",
+    "translation": "khăn mặt",
+    "exampleSentence": "I washed my face with a clean washcloth.",
+    "exampleTranslation": "Tôi rửa mặt bằng một chiếc khăn mặt sạch.",
+    "pos": "noun"
+  },
+  {
+    "word": "bath towel",
+    "phonetic": "/ˈbæθ taʊəl/",
+    "definition": "a large towel for drying your body after a bath or shower",
+    "translation": "khăn tắm",
+    "exampleSentence": "I need a dry bath towel.",
+    "exampleTranslation": "Tôi cần một chiếc khăn tắm khô.",
+    "pos": "noun"
+  },
+  {
+    "word": "bathrobe",
+    "phonetic": "/ˈbæθroʊb/",
+    "definition": "a loose piece of clothing that you wear before or after a bath or shower",
+    "translation": "áo choàng tắm",
+    "exampleSentence": "I put on my bathrobe after the shower.",
+    "exampleTranslation": "Tôi mặc áo choàng tắm sau khi tắm xong.",
+    "pos": "noun"
+  },
+  {
+    "word": "slippers",
+    "phonetic": "/ˈslɪpərz/",
+    "definition": "light soft shoes that you wear at home",
+    "translation": "dép đi trong nhà",
+    "exampleSentence": "Take off your shoes and put on slippers.",
+    "exampleTranslation": "Hãy cởi giày và mang dép đi trong nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "shampoo",
+    "phonetic": "/ʃæmˈpuː/",
+    "definition": "a liquid soap for washing your hair",
+    "translation": "dầu gội, dầu gội đầu",
+    "exampleSentence": "What kind of shampoo do you use?",
+    "exampleTranslation": "Bạn dùng loại dầu gội nào?",
+    "pos": "noun"
+  },
+  {
+    "word": "conditioner",
+    "phonetic": "/kənˈdɪʃənər/",
+    "definition": "a liquid you put on your hair after washing it to make it softer",
+    "translation": "dầu xả",
+    "exampleSentence": "Use conditioner after you wash your hair.",
+    "exampleTranslation": "Hãy dùng dầu xả sau khi gội đầu.",
+    "pos": "noun"
+  },
+  {
+    "word": "comb",
+    "phonetic": "/koʊm/",
+    "definition": "a flat piece of plastic with thin teeth, used for making your hair tidy",
+    "translation": "cái lược",
+    "exampleSentence": "I need a comb for my hair.",
+    "exampleTranslation": "Tôi cần một cái lược để chải tóc.",
+    "pos": "noun"
+  },
+  {
+    "word": "hairbrush",
+    "phonetic": "/ˈherbrʌʃ/",
+    "definition": "a brush that you use on your hair to make it smooth",
+    "translation": "lược chải tóc, bàn chải tóc",
+    "exampleSentence": "Please pass me my hairbrush.",
+    "exampleTranslation": "Làm ơn đưa tôi cái lược chải tóc.",
+    "pos": "noun"
+  },
+  {
+    "word": "hairdryer",
+    "phonetic": "/ˈherˌdraɪər/",
+    "definition": "a machine that blows out hot air for drying hair",
+    "translation": "máy sấy tóc",
+    "exampleSentence": "I dry my hair with a hairdryer.",
+    "exampleTranslation": "Tôi sấy tóc bằng máy sấy tóc.",
+    "pos": "noun"
+  },
+  {
+    "word": "hair gel",
+    "phonetic": "/her dʒel/",
+    "definition": "a thick substance that you put on your hair to keep it in style",
+    "translation": "gel vuốt tóc, keo vuốt tóc",
+    "exampleSentence": "Use a little hair gel.",
+    "exampleTranslation": "Hãy dùng một chút gel vuốt tóc.",
+    "pos": "noun"
+  },
+  {
+    "word": "hairspray",
+    "phonetic": "/ˈherspreɪ/",
+    "definition": "a sticky liquid that you spray on your hair to keep it in place",
+    "translation": "keo xịt tóc",
+    "exampleSentence": "I use hairspray on special days.",
+    "exampleTranslation": "Tôi dùng keo xịt tóc vào những ngày đặc biệt.",
+    "pos": "noun"
+  },
+  {
+    "word": "toothbrush",
+    "phonetic": "/ˈtuːθbrʌʃ/",
+    "definition": "a small brush that you use for cleaning your teeth",
+    "translation": "bàn chải đánh răng",
+    "exampleSentence": "Do not forget your toothbrush.",
+    "exampleTranslation": "Đừng quên bàn chải đánh răng của bạn.",
+    "pos": "noun"
+  },
+  {
+    "word": "toothpaste",
+    "phonetic": "/ˈtuːθpeɪst/",
+    "definition": "a thick substance that you use to clean your teeth",
+    "translation": "kem đánh răng",
+    "exampleSentence": "We need to buy some toothpaste.",
+    "exampleTranslation": "Chúng ta cần mua kem đánh răng.",
+    "pos": "noun"
+  },
+  {
+    "word": "dental floss",
+    "phonetic": "/ˈdentl flɑːs/",
+    "definition": "thin strong string for cleaning between your teeth",
+    "translation": "chỉ nha khoa",
+    "exampleSentence": "Use dental floss every day.",
+    "exampleTranslation": "Hãy dùng chỉ nha khoa mỗi ngày.",
+    "pos": "noun"
+  },
+  {
+    "word": "mouthwash",
+    "phonetic": "/ˈmaʊθwɑːʃ/",
+    "definition": "a liquid that makes your mouth smell fresh",
+    "translation": "nước súc miệng",
+    "exampleSentence": "I use mouthwash after brushing.",
+    "exampleTranslation": "Tôi dùng nước súc miệng sau khi đánh răng.",
+    "pos": "noun"
+  },
+  {
+    "word": "brush your teeth",
+    "phonetic": "/brʌʃ jər tiːθ/",
+    "definition": "to clean your teeth with a toothbrush",
+    "translation": "đánh răng",
+    "exampleSentence": "Do not forget to brush your teeth.",
+    "exampleTranslation": "Đừng quên đánh răng nhé.",
+    "pos": "phrase"
+  },
+  {
+    "word": "shave",
+    "phonetic": "/ʃeɪv/",
+    "definition": "to cut hair off your skin with a razor",
+    "translation": "cạo râu, cạo lông",
+    "exampleSentence": "I shave every morning.",
+    "exampleTranslation": "Tôi cạo râu mỗi sáng.",
+    "pos": "verb"
+  },
+  {
+    "word": "razor",
+    "phonetic": "/ˈreɪzər/",
+    "definition": "a tool with a sharp blade for removing hair from your skin",
+    "translation": "dao cạo",
+    "exampleSentence": "I need a new razor.",
+    "exampleTranslation": "Tôi cần một cái dao cạo mới.",
+    "pos": "noun"
+  },
+  {
+    "word": "razor blade",
+    "phonetic": "/ˈreɪzər bleɪd/",
+    "definition": "a small flat blade with a very sharp edge, used in a razor",
+    "translation": "lưỡi dao cạo",
+    "exampleSentence": "Be careful with the razor blade.",
+    "exampleTranslation": "Hãy cẩn thận với lưỡi dao cạo.",
+    "pos": "noun"
+  },
+  {
+    "word": "shaver",
+    "phonetic": "/ˈʃeɪvər/",
+    "definition": "a small electric tool for shaving",
+    "translation": "máy cạo râu",
+    "exampleSentence": "I bought an electric shaver.",
+    "exampleTranslation": "Tôi đã mua một chiếc máy cạo râu điện.",
+    "pos": "noun"
+  },
+  {
+    "word": "shaving cream",
+    "phonetic": "/ˈʃeɪvɪŋ kriːm/",
+    "definition": "a cream that you put on your face when you shave",
+    "translation": "kem cạo râu",
+    "exampleSentence": "Put shaving cream on your face first.",
+    "exampleTranslation": "Hãy thoa kem cạo râu lên mặt trước.",
+    "pos": "noun"
+  },
+  {
+    "word": "deodorant",
+    "phonetic": "/diːˈoʊdərənt/",
+    "definition": "a substance you put under your arms to stop bad smells",
+    "translation": "lăn khử mùi, chất khử mùi",
+    "exampleSentence": "I put on deodorant every morning.",
+    "exampleTranslation": "Tôi dùng lăn khử mùi mỗi sáng.",
+    "pos": "noun"
+  },
+  {
+    "word": "perfume",
+    "phonetic": "/ˈpɜːrfjuːm/",
+    "definition": "a liquid with a strong pleasant smell that you put on your skin",
+    "translation": "nước hoa",
+    "exampleSentence": "This perfume smells like flowers.",
+    "exampleTranslation": "Nước hoa này có mùi hoa.",
+    "pos": "noun"
+  },
+  {
+    "word": "lotion",
+    "phonetic": "/ˈloʊʃən/",
+    "definition": "a liquid that you put on your skin to clean, soften or protect it",
+    "translation": "sữa dưỡng thể, lotion",
+    "exampleSentence": "I put lotion on my hands.",
+    "exampleTranslation": "Tôi thoa sữa dưỡng lên tay.",
+    "pos": "noun"
+  },
+  {
+    "word": "cream",
+    "phonetic": "/kriːm/",
+    "definition": "a thick smooth substance that you put on your skin to make it soft",
+    "translation": "kem dưỡng da, kem bôi da",
+    "exampleSentence": "Put some cream on your dry hands.",
+    "exampleTranslation": "Hãy thoa chút kem lên đôi tay khô của bạn.",
+    "pos": "noun"
+  },
+  {
+    "word": "moisturizer",
+    "phonetic": "/ˈmɔɪstʃəraɪzər/",
+    "definition": "a cream that you put on your skin to make it less dry",
+    "translation": "kem dưỡng ẩm",
+    "exampleSentence": "I use moisturizer after I wash my face.",
+    "exampleTranslation": "Tôi dùng kem dưỡng ẩm sau khi rửa mặt.",
+    "pos": "noun"
+  },
+  {
+    "word": "sunscreen",
+    "phonetic": "/ˈsʌnskriːn/",
+    "definition": "a cream that you put on your skin to stop the sun burning it",
+    "translation": "kem chống nắng",
+    "exampleSentence": "Do not forget to put on sunscreen.",
+    "exampleTranslation": "Đừng quên thoa kem chống nắng.",
+    "pos": "noun"
+  },
+  {
+    "word": "make-up",
+    "phonetic": "/ˈmeɪkʌp/",
+    "definition": "coloured substances that you put on your face to improve how it looks",
+    "translation": "đồ trang điểm, mỹ phẩm",
+    "exampleSentence": "I do not wear much make-up.",
+    "exampleTranslation": "Tôi không trang điểm nhiều.",
+    "pos": "noun"
+  },
+  {
+    "word": "lipstick",
+    "phonetic": "/ˈlɪpˌstɪk/",
+    "definition": "a small stick of colour that you put on your lips",
+    "translation": "son môi, son",
+    "exampleSentence": "I bought a red lipstick.",
+    "exampleTranslation": "Tôi đã mua một thỏi son đỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "mascara",
+    "phonetic": "/mæˈskærə/",
+    "definition": "a dark substance that you use to colour your eyelashes",
+    "translation": "mascara, chuốt mi",
+    "exampleSentence": "I put mascara on my eyelashes.",
+    "exampleTranslation": "Tôi chuốt mascara lên lông mi.",
+    "pos": "noun"
+  },
+  {
+    "word": "nail polish",
+    "phonetic": "/neɪl ˈpɑːlɪʃ/",
+    "definition": "a coloured liquid that you paint on your nails",
+    "translation": "sơn móng tay",
+    "exampleSentence": "I like your red nail polish.",
+    "exampleTranslation": "Tôi thích màu sơn móng tay đỏ của bạn.",
+    "pos": "noun"
+  },
+  {
+    "word": "nail clippers",
+    "phonetic": "/neɪl ˈklɪpərz/",
+    "definition": "a special tool for cutting your nails",
+    "translation": "cái bấm móng tay",
+    "exampleSentence": "Can I borrow your nail clippers?",
+    "exampleTranslation": "Cho tôi mượn cái bấm móng tay của bạn được không?",
+    "pos": "noun"
+  },
+  {
+    "word": "nail file",
+    "phonetic": "/ˈneɪl faɪl/",
+    "definition": "a thin piece of metal with a rough surface for shaping your nails",
+    "translation": "cái dũa móng tay",
+    "exampleSentence": "I use a nail file to shape my nails.",
+    "exampleTranslation": "Tôi dùng dũa móng tay để tạo dáng móng.",
+    "pos": "noun"
+  },
+  {
+    "word": "tweezers",
+    "phonetic": "/ˈtwiːzərz/",
+    "definition": "a small tool with two narrow pieces of metal, used to pull out small things",
+    "translation": "cái nhíp",
+    "exampleSentence": "I use tweezers to pull out small hairs.",
+    "exampleTranslation": "Tôi dùng nhíp để nhổ những sợi lông nhỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "cotton wool",
+    "phonetic": "/ˈkɑːtn wʊl/",
+    "definition": "a soft mass of cotton used for cleaning the skin or small cuts",
+    "translation": "bông gòn, bông y tế",
+    "exampleSentence": "Clean the cut with some cotton wool.",
+    "exampleTranslation": "Hãy lau vết cắt bằng một ít bông gòn.",
+    "pos": "noun"
+  },
+  {
+    "word": "cotton bud",
+    "phonetic": "/ˈkɑːtn bʌd/",
+    "definition": "a small stick with cotton wool at each end, used for cleaning your ears",
+    "translation": "tăm bông, bông ngoáy tai",
+    "exampleSentence": "I bought a box of cotton buds.",
+    "exampleTranslation": "Tôi đã mua một hộp tăm bông.",
+    "pos": "noun"
+  },
+  {
+    "word": "potty",
+    "phonetic": "/ˈpɑːti/",
+    "definition": "a container that very young children use as a toilet",
+    "translation": "cái bô, bô em bé",
+    "exampleSentence": "The baby is learning to use the potty.",
+    "exampleTranslation": "Em bé đang tập dùng bô.",
+    "pos": "noun"
+  },
+  {
+    "word": "nappy",
+    "phonetic": "/ˈnæpi/",
+    "definition": "a piece of soft cloth or paper that a baby wears to hold waste",
+    "translation": "tã, bỉm",
+    "exampleSentence": "I need to change the baby's nappy.",
+    "exampleTranslation": "Tôi cần thay tã cho em bé.",
+    "pos": "noun"
+  },
+  {
+    "word": "diaper",
+    "phonetic": "/ˈdaɪpər/",
+    "definition": "a piece of soft cloth or paper that a baby wears to hold waste",
+    "translation": "tã, bỉm",
+    "exampleSentence": "I changed the baby's diaper.",
+    "exampleTranslation": "Tôi đã thay tã cho em bé.",
+    "pos": "noun"
+  }
+]

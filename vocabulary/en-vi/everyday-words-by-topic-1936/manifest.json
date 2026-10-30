@@ -1,0 +1,137 @@
+{
+  "id": "everyday-words-by-topic-1936",
+  "type": "vocabulary",
+  "title": "1936 everyday words by topic",
+  "description": "1936 everyday words with Vietnamese meanings and examples, one file per topic: household, kitchen, bathroom, rooms, clothes, shoes, vegetables, fruit, meat and dairy, meals, seasonings, drinks, body, family, jobs, school, weather, animals, transport, shops, tech, colours, time, health.",
+  "category": "topics",
+  "level": "mixed",
+  "order": 12,
+  "sourceLang": "en",
+  "targetLang": "vi",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "source": "Written by the Alavo team. Topics follow the topic lists of the Cambridge A2 Key and B1 Preliminary vocabulary lists, extended by hand; every word is kept only if Longman (LDOCE) lists it. Definitions paraphrase LDOCE; translations and examples are original.",
+  "wordCount": 1936,
+  "files": [
+    {
+      "path": "words-001.json",
+      "count": 105,
+      "sha256": "2cd15c1954f7eacca81dd3bf2405500d9b528a1d2cf5dee5efaedec0da6f4378"
+    },
+    {
+      "path": "words-002.json",
+      "count": 81,
+      "sha256": "64a75637f4d14aac2b0a84dcca38c67a2b536adf9c22b843f9c7a4a49ac3c999"
+    },
+    {
+      "path": "words-003.json",
+      "count": 59,
+      "sha256": "3683c65eb9836b7fa60cec71623ef604dd224bd955c4a6ed0c3bc5c8c44c6ba9"
+    },
+    {
+      "path": "words-004.json",
+      "count": 78,
+      "sha256": "c32f7a854c1af55527fc0b12a14e06127a5062d9c86809675856bccd730c092c"
+    },
+    {
+      "path": "words-005.json",
+      "count": 93,
+      "sha256": "79b7f117316bd04bd968a3bf48793107c497aca8cf4897559c4d68ffe8eecfea"
+    },
+    {
+      "path": "words-006.json",
+      "count": 49,
+      "sha256": "cb0bf2934132f4beda8127bc9c9d618988ad9f801ec354f6be642c18e50dd334"
+    },
+    {
+      "path": "words-007.json",
+      "count": 68,
+      "sha256": "de3f48b3e304033e9f261edb79c6716756cc9d68350037f427c63de387b3c402"
+    },
+    {
+      "path": "words-008.json",
+      "count": 59,
+      "sha256": "8595c9f93be324504f652815921328f49be9c1119c71b21f87291e32c4a34190"
+    },
+    {
+      "path": "words-009.json",
+      "count": 69,
+      "sha256": "45c5d01ba3b888ef1357690e08fe679dcaaafcdce751531a74bf8abfddc4c336"
+    },
+    {
+      "path": "words-010.json",
+      "count": 64,
+      "sha256": "2f1251c3ed77a9c5edd5539bd3143e6f4aa484d909e758894bc0e7072c751b71"
+    },
+    {
+      "path": "words-011.json",
+      "count": 53,
+      "sha256": "3e70317e80d1efca335700cfe0efbd77f81bd43a49cbd1ca08431d3a4480ee17"
+    },
+    {
+      "path": "words-012.json",
+      "count": 55,
+      "sha256": "e33234edbe28ba15db930d13fffd0dfc2105210bedaba4fc2b7f380a83188142"
+    },
+    {
+      "path": "words-013.json",
+      "count": 80,
+      "sha256": "0c50e9e7e0fd5d3eff73062942f1baac2a1bc19bf1097fcaee3be5d3a622b717"
+    },
+    {
+      "path": "words-014.json",
+      "count": 104,
+      "sha256": "1bdd4204367efff3bce1d70902d2e8ef2d57228b56be2f5e60569638433e92fe"
+    },
+    {
+      "path": "words-015.json",
+      "count": 109,
+      "sha256": "4994d0eb0c505e6c23bd353613e559f5e260371abaae4f6f060aec118f881adc"
+    },
+    {
+      "path": "words-016.json",
+      "count": 98,
+      "sha256": "e0cd712ccae93be6343abd92a8376a39770a2f1c747858229e0111a4a6c3249c"
+    },
+    {
+      "path": "words-017.json",
+      "count": 103,
+      "sha256": "d19006c96c74c4a719f88b6a8be760501ed76a8a7fd551217f02c3fc9ca5349a"
+    },
+    {
+      "path": "words-018.json",
+      "count": 98,
+      "sha256": "a875d797419cf661c919459653027bfca8fc21237b5ae0fc8cff50e0531c8ed4"
+    },
+    {
+      "path": "words-019.json",
+      "count": 103,
+      "sha256": "ca0fa201a639ed52e0a65ed176e56e550be08a07adabc34caed7df3e6ccab58b"
+    },
+    {
+      "path": "words-020.json",
+      "count": 71,
+      "sha256": "5121ae7f1a7a2ac237c8f2038ff24e2aa630a5bf47fe024a7dce8ee7c4488ec6"
+    },
+    {
+      "path": "words-021.json",
+      "count": 84,
+      "sha256": "efa4dd17efae987dd41e295da486b0cfa94155109d464a34202df26d28f1093b"
+    },
+    {
+      "path": "words-022.json",
+      "count": 68,
+      "sha256": "8e0313921d03b12107dfcf0e25577bcf185bb7b74232bf632b4b294e90e99f8f"
+    },
+    {
+      "path": "words-023.json",
+      "count": 99,
+      "sha256": "9d69defb969d504987efa3d4049ae5c937e4cc482121b725fec3cb6dcddb6659"
+    },
+    {
+      "path": "words-024.json",
+      "count": 86,
+      "sha256": "6c761cea69430e15704693e774e07712b610aedd4b99d800dcca1042c8577821"
+    }
+  ]
+}

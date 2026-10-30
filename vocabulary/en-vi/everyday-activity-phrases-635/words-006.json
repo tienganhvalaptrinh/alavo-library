@@ -1,0 +1,218 @@
+[
+  {
+    "word": "vacuum the carpet",
+    "phonetic": "/ˌvækjuːm ðə ˈkɑːrpɪt/",
+    "definition": "to clean the carpet with a vacuum cleaner",
+    "translation": "hút bụi thảm",
+    "exampleSentence": "I vacuum the carpet every Saturday.",
+    "exampleTranslation": "Thứ Bảy nào tôi cũng hút bụi thảm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "vacuum the floor",
+    "phonetic": "/ˌvækjuːm ðə ˈflɔːr/",
+    "definition": "to clean the floor with a vacuum cleaner",
+    "translation": "hút bụi sàn nhà",
+    "exampleSentence": "He vacuums the floor twice a week.",
+    "exampleTranslation": "Bạn ấy hút bụi sàn nhà hai lần một tuần.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "dust the furniture",
+    "phonetic": "/ˌdʌst ðə ˈfɜːrnɪtʃər/",
+    "definition": "to wipe dust off tables and shelves",
+    "translation": "lau bụi đồ đạc",
+    "exampleSentence": "I dust the furniture on Sundays.",
+    "exampleTranslation": "Tôi lau bụi đồ đạc vào các Chủ nhật.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "wipe the surface",
+    "phonetic": "/ˌwaɪp ðə ˈsɜːrfɪs/",
+    "definition": "to clean a flat area with a cloth",
+    "translation": "lau bề mặt",
+    "exampleSentence": "Wipe the surface with a damp cloth.",
+    "exampleTranslation": "Lau bề mặt bằng khăn ẩm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "wipe the counter",
+    "phonetic": "/ˌwaɪp ðə ˈkaʊntər/",
+    "definition": "to clean the kitchen work surface",
+    "translation": "lau mặt bàn bếp",
+    "exampleSentence": "Please wipe the counter after you cook.",
+    "exampleTranslation": "Nấu xong nhớ lau mặt bàn bếp nhé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "scrub the floor",
+    "phonetic": "/ˌskrʌb ðə ˈflɔːr/",
+    "definition": "to clean the floor by rubbing it hard with a brush",
+    "translation": "chà sàn nhà",
+    "exampleSentence": "She scrubbed the floor on her hands and knees.",
+    "exampleTranslation": "Cô ấy quỳ xuống chà sàn nhà.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "scrub the sink",
+    "phonetic": "/ˌskrʌb ðə ˈsɪŋk/",
+    "definition": "to clean the sink by rubbing it hard",
+    "translation": "cọ bồn rửa",
+    "exampleSentence": "Scrub the sink with a brush.",
+    "exampleTranslation": "Cọ bồn rửa bằng bàn chải.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "clean the bathroom",
+    "phonetic": "/ˌkliːn ðə ˈbæθruːm/",
+    "definition": "to make the bathroom clean",
+    "translation": "dọn dẹp nhà tắm",
+    "exampleSentence": "We clean the bathroom every weekend.",
+    "exampleTranslation": "Cuối tuần nào chúng tôi cũng dọn nhà tắm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "clean the toilet",
+    "phonetic": "/ˌkliːn ðə ˈtɔɪlət/",
+    "definition": "to wash and clean the toilet",
+    "translation": "cọ bồn cầu",
+    "exampleSentence": "It is my turn to clean the toilet.",
+    "exampleTranslation": "Đến lượt tôi cọ bồn cầu.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "clean the windows",
+    "phonetic": "/ˌkliːn ðə ˈwɪndoʊz/",
+    "definition": "to wash the glass of the windows",
+    "translation": "lau cửa sổ",
+    "exampleSentence": "I clean the windows once a month.",
+    "exampleTranslation": "Tôi lau cửa sổ mỗi tháng một lần.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "polish the furniture",
+    "phonetic": "/ˌpɑːlɪʃ ðə ˈfɜːrnɪtʃər/",
+    "definition": "to rub furniture to make it shine",
+    "translation": "đánh bóng đồ gỗ",
+    "exampleSentence": "She polished the furniture before the guests came.",
+    "exampleTranslation": "Cô ấy đánh bóng đồ gỗ trước khi khách đến.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "empty the bin",
+    "phonetic": "/ˌempti ðə ˈbɪn/",
+    "definition": "to take the rubbish out of the bin",
+    "translation": "đổ thùng rác",
+    "exampleSentence": "Can you empty the bin, please?",
+    "exampleTranslation": "Bạn đổ thùng rác giúp mình nhé?",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "take out the rubbish",
+    "phonetic": "/ˌteɪk ˌaʊt ðə ˈrʌbɪʃ/",
+    "definition": "to carry the rubbish outside the house",
+    "translation": "đem rác ra ngoài",
+    "exampleSentence": "I take out the rubbish every night.",
+    "exampleTranslation": "Đêm nào tôi cũng đem rác ra ngoài.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "throw away rubbish",
+    "phonetic": "/ˌθroʊ əˌweɪ ˈrʌbɪʃ/",
+    "definition": "to put rubbish in the bin",
+    "translation": "vứt rác",
+    "exampleSentence": "Please throw away your rubbish.",
+    "exampleTranslation": "Xin hãy vứt rác đúng nơi quy định.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "sort the rubbish",
+    "phonetic": "/ˌsɔːrt ðə ˈrʌbɪʃ/",
+    "definition": "to separate the rubbish into groups for recycling",
+    "translation": "phân loại rác",
+    "exampleSentence": "We sort the rubbish into paper and plastic.",
+    "exampleTranslation": "Chúng tôi phân loại rác thành giấy và nhựa.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "recycle bottles",
+    "phonetic": "/ˌriːsaɪkl ˈbɑːtlz/",
+    "definition": "to put used bottles where they can be made into new things",
+    "translation": "tái chế chai lọ",
+    "exampleSentence": "We recycle bottles and cans.",
+    "exampleTranslation": "Chúng tôi tái chế chai lọ và lon.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "change the bin bag",
+    "phonetic": "/ˌtʃeɪndʒ ðə ˈbɪn ˌbæɡ/",
+    "definition": "to put a new bag in the bin",
+    "translation": "thay túi rác",
+    "exampleSentence": "Remember to change the bin bag.",
+    "exampleTranslation": "Nhớ thay túi rác nhé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "do the washing-up",
+    "phonetic": "/ˌduː ðə ˌwɑːʃɪŋ ˈʌp/",
+    "definition": "to wash the plates and cups after a meal; British English",
+    "translation": "rửa bát đĩa",
+    "exampleSentence": "I do the washing-up after dinner.",
+    "exampleTranslation": "Tôi rửa bát đĩa sau bữa tối.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "clean the kitchen",
+    "phonetic": "/ˌkliːn ðə ˈkɪtʃɪn/",
+    "definition": "to wash and wipe everything in the kitchen",
+    "translation": "dọn dẹp nhà bếp",
+    "exampleSentence": "We clean the kitchen after we eat.",
+    "exampleTranslation": "Ăn xong chúng tôi dọn dẹp nhà bếp.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "wring out the mop",
+    "phonetic": "/ˌrɪŋ ˌaʊt ðə ˈmɑːp/",
+    "definition": "to twist the mop to squeeze the water out",
+    "translation": "vắt nước cây lau nhà",
+    "exampleSentence": "Wring out the mop before you wash the floor.",
+    "exampleTranslation": "Vắt nước cây lau nhà trước khi lau sàn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "air the room",
+    "phonetic": "/ˌer ðə ˈruːm/",
+    "definition": "to open the windows to let fresh air in",
+    "translation": "mở cửa cho thông thoáng phòng",
+    "exampleSentence": "I air the room every morning.",
+    "exampleTranslation": "Sáng nào tôi cũng mở cửa cho phòng thông thoáng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "tidy up",
+    "phonetic": "/ˌtaɪdi ˈʌp/",
+    "definition": "to make a place neat by putting things where they belong",
+    "translation": "dọn dẹp cho gọn gàng",
+    "exampleSentence": "Please tidy up your room.",
+    "exampleTranslation": "Con hãy dọn phòng của mình cho gọn gàng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "shake out the rug",
+    "phonetic": "/ˌʃeɪk ˌaʊt ðə ˈrʌɡ/",
+    "definition": "to shake a rug to get the dust out",
+    "translation": "giũ tấm thảm",
+    "exampleSentence": "He shakes out the rug outside.",
+    "exampleTranslation": "Bạn ấy giũ tấm thảm ngoài sân.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "remove stains",
+    "phonetic": "/rɪˌmuːv ˈsteɪnz/",
+    "definition": "to take dirty marks out of cloth or a surface",
+    "translation": "tẩy vết bẩn",
+    "exampleSentence": "This soap removes stains well.",
+    "exampleTranslation": "Loại xà phòng này tẩy vết bẩn rất tốt.",
+    "pos": "verb phrase"
+  }
+]

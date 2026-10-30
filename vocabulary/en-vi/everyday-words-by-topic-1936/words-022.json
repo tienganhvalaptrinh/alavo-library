@@ -1,0 +1,614 @@
+[
+  {
+    "word": "colour",
+    "phonetic": "/ˈkʌlər/",
+    "definition": "red, blue, yellow, green, brown, purple and so on",
+    "translation": "màu, màu sắc",
+    "exampleSentence": "What colour is your bag?",
+    "exampleTranslation": "Túi của bạn màu gì?",
+    "pos": "noun"
+  },
+  {
+    "word": "red",
+    "phonetic": "/red/",
+    "definition": "having the colour of blood",
+    "translation": "đỏ, màu đỏ",
+    "exampleSentence": "I painted the door red.",
+    "exampleTranslation": "Tôi sơn cánh cửa màu đỏ.",
+    "pos": "adjective"
+  },
+  {
+    "word": "yellow",
+    "phonetic": "/ˈjeloʊ/",
+    "definition": "having the colour of butter or the middle of an egg",
+    "translation": "vàng, màu vàng",
+    "exampleSentence": "These yellow flowers smell nice.",
+    "exampleTranslation": "Những bông hoa vàng này thơm quá.",
+    "pos": "adjective"
+  },
+  {
+    "word": "green",
+    "phonetic": "/ɡriːn/",
+    "definition": "having the colour of grass or leaves",
+    "translation": "xanh lá, xanh lá cây",
+    "exampleSentence": "The leaves are green in spring.",
+    "exampleTranslation": "Mùa xuân lá cây có màu xanh.",
+    "pos": "adjective"
+  },
+  {
+    "word": "blue",
+    "phonetic": "/bluː/",
+    "definition": "having the colour of the sky on a fine day",
+    "translation": "xanh dương, xanh da trời",
+    "exampleSentence": "The sky is blue today.",
+    "exampleTranslation": "Hôm nay trời xanh.",
+    "pos": "adjective"
+  },
+  {
+    "word": "navy",
+    "phonetic": "/ˈneɪvi/",
+    "definition": "a very dark blue colour",
+    "translation": "xanh navy, xanh đậm",
+    "exampleSentence": "Navy is a good colour for a school uniform.",
+    "exampleTranslation": "Xanh navy là màu hợp với đồng phục học sinh.",
+    "pos": "noun"
+  },
+  {
+    "word": "turquoise",
+    "phonetic": "/ˈtɜːrkwɔɪz/",
+    "definition": "a greenish-blue colour",
+    "translation": "xanh ngọc, xanh lam ngọc",
+    "exampleSentence": "The sea looked turquoise in the sun.",
+    "exampleTranslation": "Biển có màu xanh ngọc dưới ánh nắng.",
+    "pos": "noun"
+  },
+  {
+    "word": "purple",
+    "phonetic": "/ˈpɜːrpəl/",
+    "definition": "having a dark colour that is a mixture of red and blue",
+    "translation": "tím, màu tím",
+    "exampleSentence": "I bought a purple scarf.",
+    "exampleTranslation": "Tôi đã mua một chiếc khăn quàng màu tím.",
+    "pos": "adjective"
+  },
+  {
+    "word": "violet",
+    "phonetic": "/ˈvaɪəlɪt/",
+    "definition": "a bluish-purple colour",
+    "translation": "màu tím violet, tím hoa cà",
+    "exampleSentence": "Her eyes were a deep violet.",
+    "exampleTranslation": "Đôi mắt ấy có màu tím violet đậm.",
+    "pos": "noun"
+  },
+  {
+    "word": "pink",
+    "phonetic": "/pɪŋk/",
+    "definition": "pale red",
+    "translation": "hồng, màu hồng",
+    "exampleSentence": "I have a pink umbrella.",
+    "exampleTranslation": "Tôi có một chiếc ô màu hồng.",
+    "pos": "adjective"
+  },
+  {
+    "word": "brown",
+    "phonetic": "/braʊn/",
+    "definition": "having the colour of earth, wood or coffee",
+    "translation": "nâu, màu nâu",
+    "exampleSentence": "My dog has brown eyes.",
+    "exampleTranslation": "Con chó của tôi có đôi mắt màu nâu.",
+    "pos": "adjective"
+  },
+  {
+    "word": "beige",
+    "phonetic": "/beɪʒ/",
+    "definition": "a pale brown colour",
+    "translation": "màu be, màu kem",
+    "exampleSentence": "Beige goes well with white.",
+    "exampleTranslation": "Màu be hợp với màu trắng.",
+    "pos": "noun"
+  },
+  {
+    "word": "black",
+    "phonetic": "/blæk/",
+    "definition": "having the darkest colour, like coal or night",
+    "translation": "đen, màu đen",
+    "exampleSentence": "I need a black pen.",
+    "exampleTranslation": "Tôi cần một cây bút màu đen.",
+    "pos": "adjective"
+  },
+  {
+    "word": "white",
+    "phonetic": "/waɪt/",
+    "definition": "having the colour of milk or snow",
+    "translation": "trắng, màu trắng",
+    "exampleSentence": "The walls are white.",
+    "exampleTranslation": "Những bức tường màu trắng.",
+    "pos": "adjective"
+  },
+  {
+    "word": "grey",
+    "phonetic": "/ɡreɪ/",
+    "definition": "having the colour of dark clouds, between black and white",
+    "translation": "xám, màu xám, ghi",
+    "exampleSentence": "The sky is grey today.",
+    "exampleTranslation": "Hôm nay trời xám xịt.",
+    "pos": "adjective"
+  },
+  {
+    "word": "light",
+    "phonetic": "/laɪt/",
+    "definition": "a light colour is pale and not dark",
+    "translation": "nhạt, sáng (màu)",
+    "exampleSentence": "I like light colours.",
+    "exampleTranslation": "Tôi thích những màu nhạt.",
+    "pos": "adjective"
+  },
+  {
+    "word": "dark",
+    "phonetic": "/dɑːrk/",
+    "definition": "close to black in colour",
+    "translation": "đậm, sẫm, tối (màu)",
+    "exampleSentence": "I wore a dark coat.",
+    "exampleTranslation": "Tôi mặc một chiếc áo khoác màu sẫm.",
+    "pos": "adjective"
+  },
+  {
+    "word": "bright",
+    "phonetic": "/braɪt/",
+    "definition": "a bright colour is strong and easy to see",
+    "translation": "tươi, rực rỡ, sáng",
+    "exampleSentence": "The room has bright yellow walls.",
+    "exampleTranslation": "Căn phòng có những bức tường màu vàng tươi.",
+    "pos": "adjective"
+  },
+  {
+    "word": "pale",
+    "phonetic": "/peɪl/",
+    "definition": "a pale colour has more white in it than usual",
+    "translation": "nhạt, xanh xao (da)",
+    "exampleSentence": "The baby has pale blue eyes.",
+    "exampleTranslation": "Em bé có đôi mắt xanh nhạt.",
+    "pos": "adjective"
+  },
+  {
+    "word": "colourful",
+    "phonetic": "/ˈkʌlərfəl/",
+    "definition": "having bright colours or a lot of different colours",
+    "translation": "nhiều màu sắc, sặc sỡ",
+    "exampleSentence": "The market is colourful and busy.",
+    "exampleTranslation": "Khu chợ nhiều màu sắc và nhộn nhịp.",
+    "pos": "adjective"
+  },
+  {
+    "word": "shade",
+    "phonetic": "/ʃeɪd/",
+    "definition": "a particular type of red, green, blue and so on",
+    "translation": "sắc độ, tông màu",
+    "exampleSentence": "This is a darker shade of blue.",
+    "exampleTranslation": "Đây là tông xanh đậm hơn.",
+    "pos": "noun"
+  },
+  {
+    "word": "dye",
+    "phonetic": "/daɪ/",
+    "definition": "a substance you use to change the colour of clothes or hair",
+    "translation": "thuốc nhuộm",
+    "exampleSentence": "I used hair dye at home.",
+    "exampleTranslation": "Tôi nhuộm tóc tại nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "shape",
+    "phonetic": "/ʃeɪp/",
+    "definition": "the form that something has, for example round or square",
+    "translation": "hình dạng, hình",
+    "exampleSentence": "What shape is the table?",
+    "exampleTranslation": "Cái bàn có hình dạng gì?",
+    "pos": "noun"
+  },
+  {
+    "word": "circle",
+    "phonetic": "/ˈsɜːrkəl/",
+    "definition": "a completely round shape, like the letter O",
+    "translation": "hình tròn, vòng tròn",
+    "exampleSentence": "Draw a circle on the paper.",
+    "exampleTranslation": "Hãy vẽ một hình tròn lên giấy.",
+    "pos": "noun"
+  },
+  {
+    "word": "square",
+    "phonetic": "/skwer/",
+    "definition": "a shape with four straight equal sides and four right angles",
+    "translation": "hình vuông",
+    "exampleSentence": "Cut the paper into a square.",
+    "exampleTranslation": "Hãy cắt tờ giấy thành hình vuông.",
+    "pos": "noun"
+  },
+  {
+    "word": "triangle",
+    "phonetic": "/ˈtraɪæŋɡəl/",
+    "definition": "a flat shape with three straight sides",
+    "translation": "hình tam giác",
+    "exampleSentence": "A triangle has three sides.",
+    "exampleTranslation": "Hình tam giác có ba cạnh.",
+    "pos": "noun"
+  },
+  {
+    "word": "rectangle",
+    "phonetic": "/ˈrektæŋɡəl/",
+    "definition": "a shape with four straight sides and four right angles, two sides longer",
+    "translation": "hình chữ nhật",
+    "exampleSentence": "The door is a rectangle.",
+    "exampleTranslation": "Cánh cửa có hình chữ nhật.",
+    "pos": "noun"
+  },
+  {
+    "word": "oval",
+    "phonetic": "/ˈoʊvəl/",
+    "definition": "a shape like a circle but longer in one direction",
+    "translation": "hình bầu dục, hình ô van",
+    "exampleSentence": "The mirror is an oval.",
+    "exampleTranslation": "Chiếc gương có hình bầu dục.",
+    "pos": "noun"
+  },
+  {
+    "word": "cube",
+    "phonetic": "/kjuːb/",
+    "definition": "a solid object with six equal square sides",
+    "translation": "hình lập phương, khối vuông",
+    "exampleSentence": "I put a sugar cube in my tea.",
+    "exampleTranslation": "Tôi cho một viên đường vào trà.",
+    "pos": "noun"
+  },
+  {
+    "word": "sphere",
+    "phonetic": "/sfɪr/",
+    "definition": "a ball shape",
+    "translation": "hình cầu, quả cầu",
+    "exampleSentence": "The Earth is shaped like a sphere.",
+    "exampleTranslation": "Trái Đất có hình cầu.",
+    "pos": "noun"
+  },
+  {
+    "word": "cone",
+    "phonetic": "/koʊn/",
+    "definition": "a shape that is round at one end and has a point at the other",
+    "translation": "hình nón, cái nón",
+    "exampleSentence": "The ice cream cone is almost empty.",
+    "exampleTranslation": "Cây kem ốc quế sắp hết rồi.",
+    "pos": "noun"
+  },
+  {
+    "word": "cylinder",
+    "phonetic": "/ˈsɪləndər/",
+    "definition": "a shape with circular ends and long straight sides",
+    "translation": "hình trụ, ống trụ",
+    "exampleSentence": "The gas is stored in a cylinder.",
+    "exampleTranslation": "Khí được chứa trong một bình hình trụ.",
+    "pos": "noun"
+  },
+  {
+    "word": "pyramid",
+    "phonetic": "/ˈpɪrəmɪd/",
+    "definition": "a shape with a square base and triangular sides that meet at a point",
+    "translation": "hình chóp, kim tự tháp",
+    "exampleSentence": "We visited the pyramids in Egypt.",
+    "exampleTranslation": "Chúng tôi đã đi thăm các kim tự tháp ở Ai Cập.",
+    "pos": "noun"
+  },
+  {
+    "word": "round",
+    "phonetic": "/raʊnd/",
+    "definition": "shaped like a circle or a ball",
+    "translation": "tròn, hình tròn",
+    "exampleSentence": "We have a big round table.",
+    "exampleTranslation": "Chúng tôi có một cái bàn tròn lớn.",
+    "pos": "adjective"
+  },
+  {
+    "word": "line",
+    "phonetic": "/laɪn/",
+    "definition": "a long thin mark on a surface",
+    "translation": "đường kẻ, đường, vạch",
+    "exampleSentence": "Draw a straight line across the page.",
+    "exampleTranslation": "Hãy vẽ một đường thẳng ngang trang giấy.",
+    "pos": "noun"
+  },
+  {
+    "word": "curve",
+    "phonetic": "/kɜːrv/",
+    "definition": "a line that gradually bends like part of a circle",
+    "translation": "đường cong, đường vòng",
+    "exampleSentence": "The road has a sharp curve here.",
+    "exampleTranslation": "Con đường có một khúc cua gấp ở đây.",
+    "pos": "noun"
+  },
+  {
+    "word": "straight",
+    "phonetic": "/streɪt/",
+    "definition": "not bending or curving",
+    "translation": "thẳng",
+    "exampleSentence": "Keep your back straight.",
+    "exampleTranslation": "Hãy giữ lưng thẳng.",
+    "pos": "adjective"
+  },
+  {
+    "word": "curved",
+    "phonetic": "/kɜːrvd/",
+    "definition": "having a shape like a curve and not straight",
+    "translation": "cong, uốn cong",
+    "exampleSentence": "The table has curved legs.",
+    "exampleTranslation": "Cái bàn có chân cong.",
+    "pos": "adjective"
+  },
+  {
+    "word": "angle",
+    "phonetic": "/ˈæŋɡəl/",
+    "definition": "the space between two lines that meet, measured in degrees",
+    "translation": "góc",
+    "exampleSentence": "A square has four right angles.",
+    "exampleTranslation": "Hình vuông có bốn góc vuông.",
+    "pos": "noun"
+  },
+  {
+    "word": "side",
+    "phonetic": "/saɪd/",
+    "definition": "one of the flat surfaces or edges of a shape",
+    "translation": "cạnh, mặt",
+    "exampleSentence": "A cube has six sides.",
+    "exampleTranslation": "Hình lập phương có sáu mặt.",
+    "pos": "noun"
+  },
+  {
+    "word": "edge",
+    "phonetic": "/edʒ/",
+    "definition": "the part of an object that is furthest from its centre",
+    "translation": "mép, rìa, cạnh",
+    "exampleSentence": "Don't sit on the edge of the table.",
+    "exampleTranslation": "Đừng ngồi trên mép bàn.",
+    "pos": "noun"
+  },
+  {
+    "word": "point",
+    "phonetic": "/pɔɪnt/",
+    "definition": "the sharp end of something",
+    "translation": "mũi nhọn, đầu nhọn, mũi",
+    "exampleSentence": "The point of the pencil is broken.",
+    "exampleTranslation": "Đầu nhọn của cây bút chì bị gãy rồi.",
+    "pos": "noun"
+  },
+  {
+    "word": "pointed",
+    "phonetic": "/ˈpɔɪntɪd/",
+    "definition": "having a point at the end",
+    "translation": "nhọn, có đầu nhọn",
+    "exampleSentence": "The cat has pointed ears.",
+    "exampleTranslation": "Con mèo có đôi tai nhọn.",
+    "pos": "adjective"
+  },
+  {
+    "word": "sharp",
+    "phonetic": "/ʃɑːrp/",
+    "definition": "having a very thin edge or point that can cut easily",
+    "translation": "sắc, nhọn",
+    "exampleSentence": "Be careful, this knife is sharp.",
+    "exampleTranslation": "Cẩn thận, con dao này sắc đấy.",
+    "pos": "adjective"
+  },
+  {
+    "word": "flat",
+    "phonetic": "/flæt/",
+    "definition": "smooth and level, not curved or sloping",
+    "translation": "phẳng, bằng phẳng",
+    "exampleSentence": "The roof of the house is flat.",
+    "exampleTranslation": "Mái nhà phẳng.",
+    "pos": "adjective"
+  },
+  {
+    "word": "dot",
+    "phonetic": "/dɑːt/",
+    "definition": "a small round mark or spot",
+    "translation": "chấm, dấu chấm",
+    "exampleSentence": "Draw a red dot on the map.",
+    "exampleTranslation": "Hãy vẽ một chấm đỏ lên bản đồ.",
+    "pos": "noun"
+  },
+  {
+    "word": "spot",
+    "phonetic": "/spɑːt/",
+    "definition": "a small round area of a different colour on a surface",
+    "translation": "đốm, chấm, vết",
+    "exampleSentence": "The cat is white with brown spots.",
+    "exampleTranslation": "Con mèo màu trắng có những đốm nâu.",
+    "pos": "noun"
+  },
+  {
+    "word": "striped",
+    "phonetic": "/straɪpt/",
+    "definition": "having lines or bands of colour",
+    "translation": "có sọc, kẻ sọc",
+    "exampleSentence": "I like your striped shirt.",
+    "exampleTranslation": "Tôi thích chiếc áo sơ mi kẻ sọc của bạn.",
+    "pos": "adjective"
+  },
+  {
+    "word": "checked",
+    "phonetic": "/tʃekt/",
+    "definition": "having a pattern of squares of different colours",
+    "translation": "kẻ ô, ca rô",
+    "exampleSentence": "I bought a checked jacket.",
+    "exampleTranslation": "Tôi đã mua một chiếc áo khoác ca rô.",
+    "pos": "adjective"
+  },
+  {
+    "word": "big",
+    "phonetic": "/bɪɡ/",
+    "definition": "of more than average size",
+    "translation": "to, lớn",
+    "exampleSentence": "They live in a big house.",
+    "exampleTranslation": "Họ sống trong một ngôi nhà lớn.",
+    "pos": "adjective"
+  },
+  {
+    "word": "large",
+    "phonetic": "/lɑːrdʒ/",
+    "definition": "big in size or amount",
+    "translation": "to, lớn, rộng",
+    "exampleSentence": "I need a large box.",
+    "exampleTranslation": "Tôi cần một cái hộp lớn.",
+    "pos": "adjective"
+  },
+  {
+    "word": "huge",
+    "phonetic": "/hjuːdʒ/",
+    "definition": "extremely large",
+    "translation": "khổng lồ, rất lớn",
+    "exampleSentence": "There is a huge tree in the park.",
+    "exampleTranslation": "Trong công viên có một cái cây khổng lồ.",
+    "pos": "adjective"
+  },
+  {
+    "word": "medium",
+    "phonetic": "/ˈmiːdiəm/",
+    "definition": "of middle size",
+    "translation": "vừa, cỡ vừa, cỡ M",
+    "exampleSentence": "Do you have this shirt in medium?",
+    "exampleTranslation": "Bạn có chiếc áo này cỡ vừa không?",
+    "pos": "adjective"
+  },
+  {
+    "word": "small",
+    "phonetic": "/smɔːl/",
+    "definition": "not large in size or amount",
+    "translation": "nhỏ, bé",
+    "exampleSentence": "This room is small.",
+    "exampleTranslation": "Căn phòng này nhỏ.",
+    "pos": "adjective"
+  },
+  {
+    "word": "tiny",
+    "phonetic": "/ˈtaɪni/",
+    "definition": "extremely small",
+    "translation": "nhỏ xíu, bé tí",
+    "exampleSentence": "The baby has tiny hands.",
+    "exampleTranslation": "Em bé có đôi bàn tay bé xíu.",
+    "pos": "adjective"
+  },
+  {
+    "word": "long",
+    "phonetic": "/lɔːŋ/",
+    "definition": "measuring a great length from one end to the other",
+    "translation": "dài",
+    "exampleSentence": "I have long hair.",
+    "exampleTranslation": "Tôi có mái tóc dài.",
+    "pos": "adjective"
+  },
+  {
+    "word": "wide",
+    "phonetic": "/waɪd/",
+    "definition": "measuring a large distance from one side to the other",
+    "translation": "rộng",
+    "exampleSentence": "The river is wide here.",
+    "exampleTranslation": "Con sông ở đây rộng.",
+    "pos": "adjective"
+  },
+  {
+    "word": "narrow",
+    "phonetic": "/ˈneroʊ/",
+    "definition": "measuring only a small distance from one side to the other",
+    "translation": "hẹp, chật",
+    "exampleSentence": "The street is very narrow.",
+    "exampleTranslation": "Con phố rất hẹp.",
+    "pos": "adjective"
+  },
+  {
+    "word": "thick",
+    "phonetic": "/θɪk/",
+    "definition": "having a large distance between two opposite sides",
+    "translation": "dày",
+    "exampleSentence": "The book is very thick.",
+    "exampleTranslation": "Cuốn sách này rất dày.",
+    "pos": "adjective"
+  },
+  {
+    "word": "deep",
+    "phonetic": "/diːp/",
+    "definition": "going far down from the top or surface",
+    "translation": "sâu",
+    "exampleSentence": "The lake is very deep.",
+    "exampleTranslation": "Cái hồ rất sâu.",
+    "pos": "adjective"
+  },
+  {
+    "word": "shallow",
+    "phonetic": "/ˈʃæloʊ/",
+    "definition": "measuring only a short distance from the top to the bottom",
+    "translation": "nông, cạn",
+    "exampleSentence": "The water is shallow here.",
+    "exampleTranslation": "Nước ở đây nông.",
+    "pos": "adjective"
+  },
+  {
+    "word": "smooth",
+    "phonetic": "/smuːð/",
+    "definition": "a smooth surface has no rough parts or lumps",
+    "translation": "nhẵn, mịn, trơn",
+    "exampleSentence": "The baby has smooth skin.",
+    "exampleTranslation": "Em bé có làn da mịn màng.",
+    "pos": "adjective"
+  },
+  {
+    "word": "rough",
+    "phonetic": "/rʌf/",
+    "definition": "having an uneven surface",
+    "translation": "sần sùi, thô ráp, gồ ghề",
+    "exampleSentence": "My hands are rough from work.",
+    "exampleTranslation": "Tay tôi thô ráp vì làm việc.",
+    "pos": "adjective"
+  },
+  {
+    "word": "soft",
+    "phonetic": "/sɔːft/",
+    "definition": "not hard or firm, easy to press",
+    "translation": "mềm",
+    "exampleSentence": "The bed is very soft.",
+    "exampleTranslation": "Cái giường rất mềm.",
+    "pos": "adjective"
+  },
+  {
+    "word": "hard",
+    "phonetic": "/hɑːrd/",
+    "definition": "firm, stiff and difficult to press, break or cut",
+    "translation": "cứng, rắn",
+    "exampleSentence": "This chair is too hard.",
+    "exampleTranslation": "Cái ghế này cứng quá.",
+    "pos": "adjective"
+  },
+  {
+    "word": "shiny",
+    "phonetic": "/ˈʃaɪni/",
+    "definition": "smooth and bright, reflecting light",
+    "translation": "bóng, sáng bóng",
+    "exampleSentence": "I have shiny black shoes.",
+    "exampleTranslation": "Tôi có đôi giày đen bóng.",
+    "pos": "adjective"
+  },
+  {
+    "word": "dull",
+    "phonetic": "/dʌl/",
+    "definition": "not bright or shiny",
+    "translation": "xỉn, mờ, xám xịt",
+    "exampleSentence": "The colour is dull and grey.",
+    "exampleTranslation": "Màu này xỉn và xám.",
+    "pos": "adjective"
+  },
+  {
+    "word": "transparent",
+    "phonetic": "/trænˈspærənt/",
+    "definition": "if something is transparent, you can see through it",
+    "translation": "trong suốt",
+    "exampleSentence": "The bag is transparent.",
+    "exampleTranslation": "Cái túi trong suốt.",
+    "pos": "adjective"
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "word": "water",
+    "phonetic": "/ˈwɔːtər/",
+    "definition": "the clear liquid you drink that has no colour or taste",
+    "translation": "nước, nước lọc",
+    "exampleSentence": "Can I have a glass of water, please?",
+    "exampleTranslation": "Cho tôi xin một cốc nước nhé?",
+    "pos": "noun"
+  },
+  {
+    "word": "mineral water",
+    "phonetic": "/ˈmɪnərəl ˈwɔːtər/",
+    "definition": "water from under the ground that is sold in bottles",
+    "translation": "nước khoáng",
+    "exampleSentence": "I always drink mineral water with my lunch.",
+    "exampleTranslation": "Tôi luôn uống nước khoáng trong bữa trưa.",
+    "pos": "noun"
+  },
+  {
+    "word": "tea",
+    "phonetic": "/tiː/",
+    "definition": "a hot drink made by pouring hot water on dried leaves",
+    "translation": "trà, chè",
+    "exampleSentence": "Do you take milk and sugar in your tea?",
+    "exampleTranslation": "Bạn có uống trà với sữa và đường không?",
+    "pos": "noun"
+  },
+  {
+    "word": "green tea",
+    "phonetic": "/ɡriːn tiː/",
+    "definition": "light-coloured tea made from leaves heated with steam",
+    "translation": "trà xanh, chè xanh",
+    "exampleSentence": "My grandmother drinks green tea every morning.",
+    "exampleTranslation": "Bà tôi uống trà xanh mỗi sáng.",
+    "pos": "noun"
+  },
+  {
+    "word": "coffee",
+    "phonetic": "/ˈkɔːfi/",
+    "definition": "a hot dark brown drink with a slightly bitter taste",
+    "translation": "cà phê",
+    "exampleSentence": "Do you want a cup of coffee?",
+    "exampleTranslation": "Bạn có muốn một tách cà phê không?",
+    "pos": "noun"
+  },
+  {
+    "word": "espresso",
+    "phonetic": "/eˈspresoʊ/",
+    "definition": "strong black Italian coffee, or a cup of it",
+    "translation": "cà phê espresso",
+    "exampleSentence": "I'll have an espresso, please.",
+    "exampleTranslation": "Cho tôi một ly espresso nhé.",
+    "pos": "noun"
+  },
+  {
+    "word": "cappuccino",
+    "phonetic": "/ˌkæpəˈtʃiːnoʊ/",
+    "definition": "Italian coffee made with hot milk and chocolate powder on top",
+    "translation": "cà phê cappuccino",
+    "exampleSentence": "Two cappuccinos, please.",
+    "exampleTranslation": "Cho tôi hai ly cappuccino.",
+    "pos": "noun"
+  },
+  {
+    "word": "latte",
+    "phonetic": "/ˈlɑːteɪ/",
+    "definition": "strong coffee with a lot of hot milk in it",
+    "translation": "cà phê latte",
+    "exampleSentence": "I ordered a large latte at the cafe.",
+    "exampleTranslation": "Tôi gọi một ly latte lớn ở quán cà phê.",
+    "pos": "noun"
+  },
+  {
+    "word": "hot chocolate",
+    "phonetic": "/hɑːt ˈtʃɑːkələt/",
+    "definition": "a hot drink made with chocolate powder and milk or water",
+    "translation": "sô-cô-la nóng, ca cao nóng",
+    "exampleSentence": "The children want hot chocolate after school.",
+    "exampleTranslation": "Bọn trẻ muốn uống sô-cô-la nóng sau giờ học.",
+    "pos": "noun"
+  },
+  {
+    "word": "milk shake",
+    "phonetic": "/mɪlk ʃeɪk/",
+    "definition": "a sweet drink made of milk, ice cream and fruit or chocolate",
+    "translation": "sữa lắc, sinh tố sữa",
+    "exampleSentence": "I'd like a chocolate milk shake.",
+    "exampleTranslation": "Tôi muốn một ly sữa lắc sô-cô-la.",
+    "pos": "noun"
+  },
+  {
+    "word": "smoothie",
+    "phonetic": "/ˈsmuːði/",
+    "definition": "a thick drink made of fruit mixed with juice, ice or milk",
+    "translation": "sinh tố",
+    "exampleSentence": "This strawberry smoothie is really good.",
+    "exampleTranslation": "Ly sinh tố dâu này ngon thật.",
+    "pos": "noun"
+  },
+  {
+    "word": "lemonade",
+    "phonetic": "/ˌleməˈneɪd/",
+    "definition": "a sweet drink made from lemons, sugar and water",
+    "translation": "nước chanh",
+    "exampleSentence": "We sold lemonade on the street in summer.",
+    "exampleTranslation": "Mùa hè chúng tôi bán nước chanh bên đường.",
+    "pos": "noun"
+  },
+  {
+    "word": "cola",
+    "phonetic": "/ˈkoʊlə/",
+    "definition": "a brown sweet fizzy drink, or a can or glass of it",
+    "translation": "cô-ca, nước ngọt cola",
+    "exampleSentence": "I drank a can of cola.",
+    "exampleTranslation": "Tôi uống một lon cô-ca.",
+    "pos": "noun"
+  },
+  {
+    "word": "soda",
+    "phonetic": "/ˈsoʊdə/",
+    "definition": "a sweet fizzy drink, or a can or bottle of it",
+    "translation": "nước ngọt có ga",
+    "exampleSentence": "There is a cooler full of soda at the party.",
+    "exampleTranslation": "Ở bữa tiệc có một thùng lạnh đầy nước ngọt có ga.",
+    "pos": "noun"
+  },
+  {
+    "word": "soft drink",
+    "phonetic": "/sɔːft drɪŋk/",
+    "definition": "a cold drink that does not contain alcohol",
+    "translation": "nước ngọt, nước giải khát",
+    "exampleSentence": "Soft drinks are not good for your teeth.",
+    "exampleTranslation": "Nước ngọt không tốt cho răng.",
+    "pos": "noun"
+  },
+  {
+    "word": "fizzy drink",
+    "phonetic": "/ˈfɪzi drɪŋk/",
+    "definition": "a sweet drink with bubbles of gas, without alcohol",
+    "translation": "nước ngọt có ga, nước có ga",
+    "exampleSentence": "I don't like fizzy drinks.",
+    "exampleTranslation": "Tôi không thích nước ngọt có ga.",
+    "pos": "noun"
+  },
+  {
+    "word": "tonic",
+    "phonetic": "/ˈtɑːnɪk/",
+    "definition": "a clear bitter drink that you can mix with alcohol",
+    "translation": "nước tonic",
+    "exampleSentence": "I ordered a gin and tonic.",
+    "exampleTranslation": "Tôi gọi một ly gin tonic.",
+    "pos": "noun"
+  },
+  {
+    "word": "ice",
+    "phonetic": "/aɪs/",
+    "definition": "water that has frozen into a solid",
+    "translation": "đá, nước đá",
+    "exampleSentence": "Would you like some ice in your drink?",
+    "exampleTranslation": "Bạn có muốn cho đá vào đồ uống không?",
+    "pos": "noun"
+  },
+  {
+    "word": "ice cube",
+    "phonetic": "/aɪs kjuːb/",
+    "definition": "a small block of ice used to make drinks cold",
+    "translation": "viên đá, đá viên",
+    "exampleSentence": "Put two ice cubes in my glass, please.",
+    "exampleTranslation": "Cho hai viên đá vào ly của tôi nhé.",
+    "pos": "noun"
+  },
+  {
+    "word": "straw",
+    "phonetic": "/strɔː/",
+    "definition": "a thin tube you use to suck up a drink",
+    "translation": "ống hút",
+    "exampleSentence": "I drank my lemonade through a straw.",
+    "exampleTranslation": "Tôi uống nước chanh bằng ống hút.",
+    "pos": "noun"
+  },
+  {
+    "word": "beer",
+    "phonetic": "/bɪr/",
+    "definition": "an alcoholic drink made from malt and hops",
+    "translation": "bia",
+    "exampleSentence": "Do you fancy a cold beer?",
+    "exampleTranslation": "Bạn có muốn một chai bia lạnh không?",
+    "pos": "noun"
+  },
+  {
+    "word": "wine",
+    "phonetic": "/waɪn/",
+    "definition": "an alcoholic drink made from grapes",
+    "translation": "rượu vang, rượu nho",
+    "exampleSentence": "We had a bottle of red wine with dinner.",
+    "exampleTranslation": "Chúng tôi uống một chai rượu vang đỏ với bữa tối.",
+    "pos": "noun"
+  },
+  {
+    "word": "champagne",
+    "phonetic": "/ʃæmˈpeɪn/",
+    "definition": "a French white wine with bubbles, drunk on special occasions",
+    "translation": "rượu sâm panh",
+    "exampleSentence": "They opened champagne at the wedding.",
+    "exampleTranslation": "Họ mở rượu sâm panh trong đám cưới.",
+    "pos": "noun"
+  },
+  {
+    "word": "whisky",
+    "phonetic": "/ˈwɪski/",
+    "definition": "a strong alcoholic drink made from grain",
+    "translation": "rượu whisky, rượu uýt-ki",
+    "exampleSentence": "I poured a glass of whisky.",
+    "exampleTranslation": "Tôi rót một ly whisky.",
+    "pos": "noun"
+  },
+  {
+    "word": "vodka",
+    "phonetic": "/ˈvɑːdkə/",
+    "definition": "a strong clear alcoholic drink from Russia",
+    "translation": "rượu vodka",
+    "exampleSentence": "They mixed vodka with orange juice.",
+    "exampleTranslation": "Họ pha vodka với nước cam.",
+    "pos": "noun"
+  },
+  {
+    "word": "cocktail",
+    "phonetic": "/ˈkɑːkteɪl/",
+    "definition": "an alcoholic drink made by mixing different drinks",
+    "translation": "cocktail, rượu pha",
+    "exampleSentence": "We ordered two cocktails at the bar.",
+    "exampleTranslation": "Chúng tôi gọi hai ly cocktail ở quầy bar.",
+    "pos": "noun"
+  },
+  {
+    "word": "alcohol",
+    "phonetic": "/ˈælkəhɔːl/",
+    "definition": "drinks such as beer or wine that can make you drunk",
+    "translation": "rượu bia, đồ uống có cồn",
+    "exampleSentence": "I don't drink alcohol.",
+    "exampleTranslation": "Tôi không uống rượu bia.",
+    "pos": "noun"
+  },
+  {
+    "word": "drink",
+    "phonetic": "/drɪŋk/",
+    "definition": "to take liquid into your mouth and swallow it",
+    "translation": "uống",
+    "exampleSentence": "You should drink plenty of water.",
+    "exampleTranslation": "Bạn nên uống nhiều nước.",
+    "pos": "verb"
+  },
+  {
+    "word": "sip",
+    "phonetic": "/sɪp/",
+    "definition": "to drink slowly, taking very small mouthfuls",
+    "translation": "nhấp, nhấm nháp",
+    "exampleSentence": "I sat sipping my coffee.",
+    "exampleTranslation": "Tôi ngồi nhấp từng ngụm cà phê.",
+    "pos": "verb"
+  },
+  {
+    "word": "gulp",
+    "phonetic": "/ɡʌlp/",
+    "definition": "to swallow a lot of drink or food quickly",
+    "translation": "uống ừng ực, nốc",
+    "exampleSentence": "I gulped down my water and ran out.",
+    "exampleTranslation": "Tôi uống ừng ực hết cốc nước rồi chạy ra ngoài.",
+    "pos": "verb"
+  },
+  {
+    "word": "thirsty",
+    "phonetic": "/ˈθɜːrsti/",
+    "definition": "feeling that you want or need a drink",
+    "translation": "khát, khát nước",
+    "exampleSentence": "I'm really thirsty. Can I have some water?",
+    "exampleTranslation": "Tôi khát quá. Cho tôi xin ít nước được không?",
+    "pos": "adjective"
+  },
+  {
+    "word": "crisps",
+    "phonetic": "/krɪsps/",
+    "definition": "thin round pieces of fried potato eaten cold from a packet",
+    "translation": "khoai tây chiên lát, snack khoai tây",
+    "exampleSentence": "I ate a packet of crisps.",
+    "exampleTranslation": "Tôi ăn hết một gói khoai tây chiên lát.",
+    "pos": "noun"
+  },
+  {
+    "word": "popcorn",
+    "phonetic": "/ˈpɑːpkɔːrn/",
+    "definition": "corn that bursts open when heated, eaten as a snack",
+    "translation": "bắp rang, bỏng ngô",
+    "exampleSentence": "Let's buy popcorn at the cinema.",
+    "exampleTranslation": "Mình mua bắp rang ở rạp chiếu phim nhé.",
+    "pos": "noun"
+  },
+  {
+    "word": "biscuit",
+    "phonetic": "/ˈbɪskɪt/",
+    "definition": "a small, thin, dry, usually sweet cake",
+    "translation": "bánh quy",
+    "exampleSentence": "We had tea and biscuits.",
+    "exampleTranslation": "Chúng tôi uống trà và ăn bánh quy.",
+    "pos": "noun"
+  },
+  {
+    "word": "cookie",
+    "phonetic": "/ˈkʊki/",
+    "definition": "a small flat sweet cake",
+    "translation": "bánh quy, bánh cookie",
+    "exampleSentence": "Would you like a glass of milk and a cookie?",
+    "exampleTranslation": "Bạn muốn một ly sữa và một chiếc bánh quy không?",
+    "pos": "noun"
+  },
+  {
+    "word": "cracker",
+    "phonetic": "/ˈkrækər/",
+    "definition": "a hard dry bread in small flat pieces, often eaten with cheese",
+    "translation": "bánh quy giòn mặn, bánh cracker",
+    "exampleSentence": "I like cheese and crackers.",
+    "exampleTranslation": "Tôi thích ăn phô mai với bánh cracker.",
+    "pos": "noun"
+  },
+  {
+    "word": "chewing gum",
+    "phonetic": "/ˈtʃuːɪŋ ɡʌm/",
+    "definition": "a sweet you chew for a long time but do not swallow",
+    "translation": "kẹo cao su",
+    "exampleSentence": "Please don't stick chewing gum under the table.",
+    "exampleTranslation": "Làm ơn đừng dán kẹo cao su dưới bàn.",
+    "pos": "noun"
+  },
+  {
+    "word": "candy",
+    "phonetic": "/ˈkændi/",
+    "definition": "a sweet food made from sugar or chocolate",
+    "translation": "kẹo",
+    "exampleSentence": "Do you want a piece of candy?",
+    "exampleTranslation": "Bạn có muốn một viên kẹo không?",
+    "pos": "noun"
+  },
+  {
+    "word": "sweets",
+    "phonetic": "/swiːts/",
+    "definition": "small pieces of sweet food made from sugar or chocolate",
+    "translation": "kẹo",
+    "exampleSentence": "Eating too many sweets is bad for your teeth.",
+    "exampleTranslation": "Ăn nhiều kẹo quá có hại cho răng.",
+    "pos": "noun"
+  },
+  {
+    "word": "lollipop",
+    "phonetic": "/ˈlɑːlipɑːp/",
+    "definition": "a hard sweet on a stick",
+    "translation": "kẹo mút",
+    "exampleSentence": "The child wanted a red lollipop.",
+    "exampleTranslation": "Đứa bé muốn một cây kẹo mút màu đỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "ice lolly",
+    "phonetic": "/aɪs ˈlɑːli/",
+    "definition": "a piece of sweet frozen juice on a stick that you suck",
+    "translation": "kem que",
+    "exampleSentence": "The children are eating ice lollies in the garden.",
+    "exampleTranslation": "Bọn trẻ đang ăn kem que ngoài vườn.",
+    "pos": "noun"
+  },
+  {
+    "word": "doughnut",
+    "phonetic": "/ˈdoʊnʌt/",
+    "definition": "a small round cake, often shaped like a ring",
+    "translation": "bánh donut, bánh vòng",
+    "exampleSentence": "I bought a doughnut at the bakery.",
+    "exampleTranslation": "Tôi mua một cái bánh donut ở tiệm bánh.",
+    "pos": "noun"
+  },
+  {
+    "word": "croissant",
+    "phonetic": "/krɔːˈsɑːnt/",
+    "definition": "a curved sweet bread often eaten for breakfast",
+    "translation": "bánh sừng bò",
+    "exampleSentence": "I had a croissant and coffee for breakfast.",
+    "exampleTranslation": "Bữa sáng tôi ăn bánh sừng bò và uống cà phê.",
+    "pos": "noun"
+  },
+  {
+    "word": "muffin",
+    "phonetic": "/ˈmʌfɪn/",
+    "definition": "a small sweet cake, sometimes with fruit in it",
+    "translation": "bánh muffin",
+    "exampleSentence": "I baked blueberry muffins this morning.",
+    "exampleTranslation": "Sáng nay tôi nướng bánh muffin việt quất.",
+    "pos": "noun"
+  },
+  {
+    "word": "waffle",
+    "phonetic": "/ˈwɑːfəl/",
+    "definition": "a flat cake marked with a pattern of deep squares",
+    "translation": "bánh waffle, bánh tổ ong",
+    "exampleSentence": "Would you like a waffle with ice cream?",
+    "exampleTranslation": "Bạn có muốn bánh waffle với kem không?",
+    "pos": "noun"
+  },
+  {
+    "word": "tart",
+    "phonetic": "/tɑːrt/",
+    "definition": "a pie without a top, with something sweet inside",
+    "translation": "bánh tart, bánh nướng nhân trái cây",
+    "exampleSentence": "I made an apple tart for dessert.",
+    "exampleTranslation": "Tôi làm một cái bánh tart táo để tráng miệng.",
+    "pos": "noun"
+  },
+  {
+    "word": "pastry",
+    "phonetic": "/ˈpeɪstri/",
+    "definition": "a small sweet cake made with a mixture of flour and butter",
+    "translation": "bánh ngọt, bánh nướng",
+    "exampleSentence": "There is a good bakery with fresh pastries.",
+    "exampleTranslation": "Có một tiệm bánh ngon với bánh ngọt mới làm.",
+    "pos": "noun"
+  },
+  {
+    "word": "cake",
+    "phonetic": "/keɪk/",
+    "definition": "a soft sweet food made by baking flour, butter, sugar and eggs",
+    "translation": "bánh ngọt, bánh gato",
+    "exampleSentence": "We had cake and ice cream at the party.",
+    "exampleTranslation": "Chúng tôi ăn bánh ngọt và kem ở bữa tiệc.",
+    "pos": "noun"
+  },
+  {
+    "word": "cupcake",
+    "phonetic": "/ˈkʌpkeɪk/",
+    "definition": "a small round cake",
+    "translation": "bánh cupcake, bánh nướng nhỏ",
+    "exampleSentence": "Every guest got a chocolate cupcake.",
+    "exampleTranslation": "Mỗi khách đều nhận được một cái bánh cupcake sô-cô-la.",
+    "pos": "noun"
+  },
+  {
+    "word": "cheesecake",
+    "phonetic": "/ˈtʃiːzkeɪk/",
+    "definition": "a cake made with soft cheese",
+    "translation": "bánh phô mai",
+    "exampleSentence": "I'd like a slice of cheesecake, please.",
+    "exampleTranslation": "Cho tôi một miếng bánh phô mai nhé.",
+    "pos": "noun"
+  },
+  {
+    "word": "brownie",
+    "phonetic": "/ˈbraʊni/",
+    "definition": "a thick flat chocolate cake",
+    "translation": "bánh brownie",
+    "exampleSentence": "The brownies are still warm.",
+    "exampleTranslation": "Mấy cái bánh brownie vẫn còn ấm.",
+    "pos": "noun"
+  },
+  {
+    "word": "pudding",
+    "phonetic": "/ˈpʊdɪŋ/",
+    "definition": "a thick sweet creamy dish, often served cold",
+    "translation": "bánh pudding, món pudding",
+    "exampleSentence": "We had chocolate pudding for dessert.",
+    "exampleTranslation": "Chúng tôi ăn pudding sô-cô-la tráng miệng.",
+    "pos": "noun"
+  },
+  {
+    "word": "jelly",
+    "phonetic": "/ˈdʒeli/",
+    "definition": "a soft sweet food made from fruit juice",
+    "translation": "thạch",
+    "exampleSentence": "The children love strawberry jelly.",
+    "exampleTranslation": "Bọn trẻ rất thích thạch dâu.",
+    "pos": "noun"
+  },
+  {
+    "word": "custard",
+    "phonetic": "/ˈkʌstərd/",
+    "definition": "a sweet yellow sauce made with milk, sugar and eggs",
+    "translation": "sốt trứng sữa, custard",
+    "exampleSentence": "Apple pie with custard is my favourite.",
+    "exampleTranslation": "Bánh táo với sốt custard là món tôi thích nhất.",
+    "pos": "noun"
+  },
+  {
+    "word": "sundae",
+    "phonetic": "/ˈsʌndi/",
+    "definition": "a dish made from ice cream, fruit, sweet sauce and nuts",
+    "translation": "kem ly, kem sundae",
+    "exampleSentence": "I'd like a chocolate sundae.",
+    "exampleTranslation": "Tôi muốn một ly kem sundae sô-cô-la.",
+    "pos": "noun"
+  }
+]

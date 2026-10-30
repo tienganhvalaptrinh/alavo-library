@@ -1,0 +1,191 @@
+[
+  {
+    "word": "change your clothes",
+    "phonetic": "/ˌtʃeɪndʒ jər ˈkloʊðz/",
+    "definition": "to take off your clothes and put on different ones",
+    "translation": "thay quần áo",
+    "exampleSentence": "I change my clothes after work.",
+    "exampleTranslation": "Tôi thay quần áo sau giờ làm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "get changed",
+    "phonetic": "/ˌɡet ˈtʃeɪndʒd/",
+    "definition": "to put on different clothes",
+    "translation": "thay đồ",
+    "exampleSentence": "I need to get changed before dinner.",
+    "exampleTranslation": "Tôi cần thay đồ trước bữa tối.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "button up",
+    "phonetic": "/ˌbʌtn ˈʌp/",
+    "definition": "to fasten your clothes with buttons",
+    "translation": "cài cúc áo",
+    "exampleSentence": "Button up your jacket.",
+    "exampleTranslation": "Cài cúc áo khoác lại đi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "unbutton",
+    "phonetic": "/ʌnˈbʌtn/",
+    "definition": "to open a piece of clothing by undoing the buttons",
+    "translation": "cởi cúc áo",
+    "exampleSentence": "He unbuttoned his shirt.",
+    "exampleTranslation": "Anh ấy cởi cúc áo sơ mi.",
+    "pos": "verb"
+  },
+  {
+    "word": "zip up",
+    "phonetic": "/ˌzɪp ˈʌp/",
+    "definition": "to close a piece of clothing with a zip",
+    "translation": "kéo khóa lên",
+    "exampleSentence": "Zip up your coat.",
+    "exampleTranslation": "Kéo khóa áo khoác lên đi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "unzip",
+    "phonetic": "/ʌnˈzɪp/",
+    "definition": "to open a zip",
+    "translation": "kéo khóa xuống, mở khóa",
+    "exampleSentence": "She unzipped her bag.",
+    "exampleTranslation": "Cô ấy mở khóa chiếc túi.",
+    "pos": "verb"
+  },
+  {
+    "word": "tie your shoelaces",
+    "phonetic": "/ˌtaɪ jər ˈʃuːleɪsɪz/",
+    "definition": "to fasten your shoes with the laces",
+    "translation": "buộc dây giày",
+    "exampleSentence": "Can you tie your shoelaces by yourself?",
+    "exampleTranslation": "Con tự buộc dây giày được không?",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "put on your shoes",
+    "phonetic": "/ˌpʊt ɑːn jər ˈʃuːz/",
+    "definition": "to wear your shoes",
+    "translation": "mang giày vào",
+    "exampleSentence": "Put on your shoes. We are late.",
+    "exampleTranslation": "Mang giày vào đi. Mình trễ rồi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "take off your shoes",
+    "phonetic": "/ˌteɪk ˌɔːf jər ˈʃuːz/",
+    "definition": "to remove your shoes",
+    "translation": "cởi giày",
+    "exampleSentence": "Please take off your shoes at the door.",
+    "exampleTranslation": "Xin hãy cởi giày ở cửa.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "wear a uniform",
+    "phonetic": "/ˌwer ə ˈjuːnəfɔːrm/",
+    "definition": "to dress in the special clothes for your school or job",
+    "translation": "mặc đồng phục",
+    "exampleSentence": "Students wear a uniform at my school.",
+    "exampleTranslation": "Học sinh trường tôi mặc đồng phục.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "roll up your sleeves",
+    "phonetic": "/ˌroʊl ˌʌp jər ˈsliːvz/",
+    "definition": "to fold your sleeves up above your arms",
+    "translation": "xắn tay áo",
+    "exampleSentence": "He rolled up his sleeves and started to wash the dishes.",
+    "exampleTranslation": "Bạn ấy xắn tay áo lên và bắt đầu rửa bát.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "tuck in your shirt",
+    "phonetic": "/ˌtʌk ɪn jər ˈʃɜːrt/",
+    "definition": "to push the bottom of your shirt inside your trousers",
+    "translation": "bỏ áo vào trong quần",
+    "exampleSentence": "Tuck in your shirt before the photo.",
+    "exampleTranslation": "Hãy bỏ áo vào trong quần trước khi chụp ảnh.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "iron your clothes",
+    "phonetic": "/ˌaɪərn jər ˈkloʊðz/",
+    "definition": "to make your clothes flat and smooth with a hot iron",
+    "translation": "ủi quần áo",
+    "exampleSentence": "I iron my clothes on Sunday night.",
+    "exampleTranslation": "Tôi ủi quần áo vào tối Chủ nhật.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pick out clothes",
+    "phonetic": "/ˌpɪk ˌaʊt ˈkloʊðz/",
+    "definition": "to choose what clothes to wear",
+    "translation": "chọn quần áo",
+    "exampleSentence": "I pick out clothes the night before.",
+    "exampleTranslation": "Tôi chọn quần áo từ tối hôm trước.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "match your clothes",
+    "phonetic": "/ˌmætʃ jər ˈkloʊðz/",
+    "definition": "to choose clothes that look good together",
+    "translation": "phối quần áo",
+    "exampleSentence": "She matches her clothes with a scarf.",
+    "exampleTranslation": "Cô ấy phối quần áo với một chiếc khăn quàng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "dress down",
+    "phonetic": "/ˌdres ˈdaʊn/",
+    "definition": "to wear less formal clothes",
+    "translation": "ăn mặc giản dị",
+    "exampleSentence": "Our office lets us dress down on Fridays.",
+    "exampleTranslation": "Văn phòng cho phép chúng tôi ăn mặc giản dị vào thứ Sáu.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "get undressed",
+    "phonetic": "/ˌɡet ʌnˈdrest/",
+    "definition": "to take off your clothes",
+    "translation": "cởi quần áo",
+    "exampleSentence": "The children get undressed and go to bed.",
+    "exampleTranslation": "Bọn trẻ cởi quần áo rồi đi ngủ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "take off your coat",
+    "phonetic": "/ˌteɪk ˌɔːf jər ˈkoʊt/",
+    "definition": "to remove your coat",
+    "translation": "cởi áo khoác",
+    "exampleSentence": "Take off your coat and stay a while.",
+    "exampleTranslation": "Cởi áo khoác ra rồi ở lại chơi một lát nhé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "hang up your coat",
+    "phonetic": "/ˌhæŋ ˌʌp jər ˈkoʊt/",
+    "definition": "to put your coat on a hook or hanger",
+    "translation": "treo áo khoác lên",
+    "exampleSentence": "Hang up your coat by the door.",
+    "exampleTranslation": "Treo áo khoác lên gần cửa nhé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "fasten your belt",
+    "phonetic": "/ˌfæsn jər ˈbelt/",
+    "definition": "to close your belt around your waist",
+    "translation": "thắt dây lưng",
+    "exampleSentence": "He fastened his belt.",
+    "exampleTranslation": "Anh ấy thắt dây lưng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "put on a scarf",
+    "phonetic": "/ˌpʊt ɑːn ə ˈskɑːrf/",
+    "definition": "to wear a scarf around your neck",
+    "translation": "quàng khăn",
+    "exampleSentence": "I put on a scarf because it is windy.",
+    "exampleTranslation": "Tôi quàng khăn vì trời có gió.",
+    "pos": "verb phrase"
+  }
+]

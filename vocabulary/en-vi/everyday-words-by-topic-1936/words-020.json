@@ -1,0 +1,641 @@
+[
+  {
+    "word": "market",
+    "phonetic": "/ˈmɑːrkɪt/",
+    "definition": "a place, often outside, where people buy and sell food and goods",
+    "translation": "chợ",
+    "exampleSentence": "I buy vegetables at the market.",
+    "exampleTranslation": "Tôi mua rau ở chợ.",
+    "pos": "noun"
+  },
+  {
+    "word": "stall",
+    "phonetic": "/stɔːl/",
+    "definition": "a table or small open shop where goods are sold",
+    "translation": "quầy hàng, sạp",
+    "exampleSentence": "I bought apples at a market stall.",
+    "exampleTranslation": "Tôi mua táo ở một sạp hàng trong chợ.",
+    "pos": "noun"
+  },
+  {
+    "word": "store",
+    "phonetic": "/stɔːr/",
+    "definition": "a place where goods are sold to the public",
+    "translation": "cửa hàng, cửa tiệm",
+    "exampleSentence": "The store opens at nine.",
+    "exampleTranslation": "Cửa hàng mở cửa lúc chín giờ.",
+    "pos": "noun"
+  },
+  {
+    "word": "mall",
+    "phonetic": "/mɔːl/",
+    "definition": "a large covered area with many shops",
+    "translation": "trung tâm thương mại",
+    "exampleSentence": "Let us meet at the mall.",
+    "exampleTranslation": "Hãy gặp nhau ở trung tâm thương mại nhé.",
+    "pos": "noun"
+  },
+  {
+    "word": "shopping centre",
+    "phonetic": "/ˈʃɑːpɪŋ ˌsentər/",
+    "definition": "a group of shops built together in one place",
+    "translation": "trung tâm mua sắm, trung tâm thương mại",
+    "exampleSentence": "There is a cinema in the shopping centre.",
+    "exampleTranslation": "Trong trung tâm mua sắm có một rạp chiếu phim.",
+    "pos": "noun"
+  },
+  {
+    "word": "department store",
+    "phonetic": "/dɪˈpɑːrtmənt stɔːr/",
+    "definition": "a large shop with different sections selling different things",
+    "translation": "cửa hàng bách hóa, trung tâm bách hóa",
+    "exampleSentence": "I bought a coat at the department store.",
+    "exampleTranslation": "Tôi mua một chiếc áo khoác ở cửa hàng bách hóa.",
+    "pos": "noun"
+  },
+  {
+    "word": "convenience store",
+    "phonetic": "/kənˈviːniəns stɔːr/",
+    "definition": "a small shop that sells food and often stays open late",
+    "translation": "cửa hàng tiện lợi",
+    "exampleSentence": "The convenience store is open all night.",
+    "exampleTranslation": "Cửa hàng tiện lợi mở cửa suốt đêm.",
+    "pos": "noun"
+  },
+  {
+    "word": "bakery",
+    "phonetic": "/ˈbeɪkəri/",
+    "definition": "a place where bread and cakes are made or sold",
+    "translation": "tiệm bánh, tiệm bánh mì",
+    "exampleSentence": "I buy bread at the bakery.",
+    "exampleTranslation": "Tôi mua bánh mì ở tiệm bánh.",
+    "pos": "noun"
+  },
+  {
+    "word": "pharmacy",
+    "phonetic": "/ˈfɑːrməsi/",
+    "definition": "a shop where you can buy medicine",
+    "translation": "hiệu thuốc, nhà thuốc",
+    "exampleSentence": "Is there a pharmacy near here?",
+    "exampleTranslation": "Gần đây có hiệu thuốc nào không?",
+    "pos": "noun"
+  },
+  {
+    "word": "bookshop",
+    "phonetic": "/ˈbʊkʃɑːp/",
+    "definition": "a shop that sells books",
+    "translation": "hiệu sách, nhà sách",
+    "exampleSentence": "I bought this book at a bookshop.",
+    "exampleTranslation": "Tôi mua cuốn sách này ở một hiệu sách.",
+    "pos": "noun"
+  },
+  {
+    "word": "butcher's",
+    "phonetic": "/ˈbʊtʃərz/",
+    "definition": "a shop where you can buy meat",
+    "translation": "cửa hàng thịt, hàng thịt",
+    "exampleSentence": "I buy meat at the butcher's.",
+    "exampleTranslation": "Tôi mua thịt ở cửa hàng thịt.",
+    "pos": "noun"
+  },
+  {
+    "word": "greengrocer's",
+    "phonetic": "/ˈɡriːnˌɡroʊsərz/",
+    "definition": "a shop that sells fruit and vegetables",
+    "translation": "cửa hàng rau quả, hàng rau quả",
+    "exampleSentence": "I buy fruit at the greengrocer's.",
+    "exampleTranslation": "Tôi mua trái cây ở cửa hàng rau quả.",
+    "pos": "noun"
+  },
+  {
+    "word": "florist",
+    "phonetic": "/ˈflɔːrɪst/",
+    "definition": "a person or shop that sells flowers",
+    "translation": "người bán hoa, cửa hàng hoa",
+    "exampleSentence": "I bought some flowers from the florist.",
+    "exampleTranslation": "Tôi mua ít hoa ở cửa hàng hoa.",
+    "pos": "noun"
+  },
+  {
+    "word": "hairdresser's",
+    "phonetic": "/ˈherˌdresərz/",
+    "definition": "a place where you go to have your hair cut",
+    "translation": "tiệm cắt tóc, tiệm làm tóc",
+    "exampleSentence": "I have an appointment at the hairdresser's.",
+    "exampleTranslation": "Tôi có hẹn ở tiệm cắt tóc.",
+    "pos": "noun"
+  },
+  {
+    "word": "kiosk",
+    "phonetic": "/ˈkiːɑːsk/",
+    "definition": "a small building in the street where newspapers or snacks are sold",
+    "translation": "quầy bán hàng, ki-ốt",
+    "exampleSentence": "I bought a newspaper at the kiosk.",
+    "exampleTranslation": "Tôi mua một tờ báo ở quầy báo.",
+    "pos": "noun"
+  },
+  {
+    "word": "shopkeeper",
+    "phonetic": "/ˈʃɑːpˌkiːpər/",
+    "definition": "a person who owns or runs a small shop",
+    "translation": "chủ cửa hàng, chủ tiệm",
+    "exampleSentence": "The shopkeeper gave me a bag.",
+    "exampleTranslation": "Chủ cửa hàng đưa cho tôi một cái túi.",
+    "pos": "noun"
+  },
+  {
+    "word": "shopper",
+    "phonetic": "/ˈʃɑːpər/",
+    "definition": "a person who buys things in shops",
+    "translation": "người mua sắm, khách mua sắm",
+    "exampleSentence": "The shop is full of shoppers.",
+    "exampleTranslation": "Cửa hàng đầy người mua sắm.",
+    "pos": "noun"
+  },
+  {
+    "word": "shopping",
+    "phonetic": "/ˈʃɑːpɪŋ/",
+    "definition": "the activity of going to shops and buying things",
+    "translation": "việc mua sắm, đi chợ",
+    "exampleSentence": "I go shopping on Saturdays.",
+    "exampleTranslation": "Tôi đi mua sắm vào các ngày thứ Bảy.",
+    "pos": "noun"
+  },
+  {
+    "word": "groceries",
+    "phonetic": "/ˈɡroʊsəriz/",
+    "definition": "food and other things you buy for the home",
+    "translation": "hàng tạp hóa, đồ thực phẩm",
+    "exampleSentence": "I carried the groceries home.",
+    "exampleTranslation": "Tôi xách đồ thực phẩm về nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "shopping list",
+    "phonetic": "/ˈʃɑːpɪŋ lɪst/",
+    "definition": "a list of things you need to buy",
+    "translation": "danh sách mua sắm, danh sách đồ cần mua",
+    "exampleSentence": "I forgot my shopping list.",
+    "exampleTranslation": "Tôi quên danh sách đồ cần mua rồi.",
+    "pos": "noun"
+  },
+  {
+    "word": "shopping bag",
+    "phonetic": "/ˈʃɑːpɪŋ bæɡ/",
+    "definition": "a large bag for carrying things you have bought",
+    "translation": "túi mua sắm, túi đi chợ",
+    "exampleSentence": "My shopping bag is very heavy.",
+    "exampleTranslation": "Túi mua sắm của tôi rất nặng.",
+    "pos": "noun"
+  },
+  {
+    "word": "carrier bag",
+    "phonetic": "/ˈkæriər bæɡ/",
+    "definition": "a bag a shop gives you to carry things you have bought",
+    "translation": "túi nilon, túi đựng đồ",
+    "exampleSentence": "Do you need a carrier bag?",
+    "exampleTranslation": "Bạn có cần túi đựng đồ không?",
+    "pos": "noun"
+  },
+  {
+    "word": "trolley",
+    "phonetic": "/ˈtrɑːli/",
+    "definition": "a large basket on wheels used for shopping",
+    "translation": "xe đẩy hàng",
+    "exampleSentence": "Please put the bags in the trolley.",
+    "exampleTranslation": "Làm ơn bỏ các túi vào xe đẩy.",
+    "pos": "noun"
+  },
+  {
+    "word": "aisle",
+    "phonetic": "/aɪl/",
+    "definition": "a long passage between rows of shelves in a shop",
+    "translation": "lối đi giữa các kệ hàng",
+    "exampleSentence": "The milk is in the next aisle.",
+    "exampleTranslation": "Sữa ở lối đi kế tiếp.",
+    "pos": "noun"
+  },
+  {
+    "word": "display",
+    "phonetic": "/dɪˈspleɪ/",
+    "definition": "an arrangement of things for people to look at or buy",
+    "translation": "khu trưng bày, màn trưng bày",
+    "exampleSentence": "The shop has a nice display in the window.",
+    "exampleTranslation": "Cửa hàng có một khu trưng bày đẹp ở cửa sổ.",
+    "pos": "noun"
+  },
+  {
+    "word": "counter",
+    "phonetic": "/ˈkaʊntər/",
+    "definition": "the place in a shop where you pay or are served",
+    "translation": "quầy, quầy thu ngân",
+    "exampleSentence": "Please pay at the counter.",
+    "exampleTranslation": "Vui lòng thanh toán ở quầy.",
+    "pos": "noun"
+  },
+  {
+    "word": "checkout",
+    "phonetic": "/ˈtʃekaʊt/",
+    "definition": "the place in a supermarket where you pay",
+    "translation": "quầy thanh toán",
+    "exampleSentence": "The checkout is next to the door.",
+    "exampleTranslation": "Quầy thanh toán ở cạnh cửa.",
+    "pos": "noun"
+  },
+  {
+    "word": "opening hours",
+    "phonetic": "/ˈoʊpənɪŋ aʊərz/",
+    "definition": "the hours when a shop is open to the public",
+    "translation": "giờ mở cửa",
+    "exampleSentence": "What are the shop opening hours?",
+    "exampleTranslation": "Giờ mở cửa của cửa hàng là khi nào?",
+    "pos": "noun"
+  },
+  {
+    "word": "open",
+    "phonetic": "/ˈoʊpən/",
+    "definition": "ready for business and allowing customers to come in",
+    "translation": "mở cửa",
+    "exampleSentence": "The shop is open until nine.",
+    "exampleTranslation": "Cửa hàng mở cửa đến chín giờ.",
+    "pos": "adjective"
+  },
+  {
+    "word": "closed",
+    "phonetic": "/kloʊzd/",
+    "definition": "not open, so people cannot go in",
+    "translation": "đóng cửa",
+    "exampleSentence": "The shops are closed on Sundays.",
+    "exampleTranslation": "Các cửa hàng đóng cửa vào Chủ nhật.",
+    "pos": "adjective"
+  },
+  {
+    "word": "buy",
+    "phonetic": "/baɪ/",
+    "definition": "to get something by paying money for it",
+    "translation": "mua",
+    "exampleSentence": "I want to buy some milk.",
+    "exampleTranslation": "Tôi muốn mua ít sữa.",
+    "pos": "verb"
+  },
+  {
+    "word": "sell",
+    "phonetic": "/sel/",
+    "definition": "to give something to someone in exchange for money",
+    "translation": "bán",
+    "exampleSentence": "Do you sell stamps?",
+    "exampleTranslation": "Bạn có bán tem không?",
+    "pos": "verb"
+  },
+  {
+    "word": "choose",
+    "phonetic": "/tʃuːz/",
+    "definition": "to decide which thing you want",
+    "translation": "chọn, lựa chọn",
+    "exampleSentence": "It is hard to choose a gift.",
+    "exampleTranslation": "Thật khó để chọn một món quà.",
+    "pos": "verb"
+  },
+  {
+    "word": "browse",
+    "phonetic": "/braʊz/",
+    "definition": "to look at goods in a shop without a plan to buy",
+    "translation": "xem hàng, đi dạo xem hàng",
+    "exampleSentence": "I am just browsing, thank you.",
+    "exampleTranslation": "Tôi chỉ xem thôi, cảm ơn bạn.",
+    "pos": "verb"
+  },
+  {
+    "word": "fitting room",
+    "phonetic": "/ˈfɪtɪŋ ruːm/",
+    "definition": "a place in a shop where you try on clothes",
+    "translation": "phòng thử đồ",
+    "exampleSentence": "The fitting room is at the back of the shop.",
+    "exampleTranslation": "Phòng thử đồ ở phía sau cửa hàng.",
+    "pos": "noun"
+  },
+  {
+    "word": "pay",
+    "phonetic": "/peɪ/",
+    "definition": "to give money for something you buy",
+    "translation": "trả tiền, thanh toán",
+    "exampleSentence": "I will pay by card.",
+    "exampleTranslation": "Tôi sẽ thanh toán bằng thẻ.",
+    "pos": "verb"
+  },
+  {
+    "word": "cost",
+    "phonetic": "/kɔːst/",
+    "definition": "to have a particular price",
+    "translation": "có giá, tốn",
+    "exampleSentence": "How much does it cost?",
+    "exampleTranslation": "Cái này giá bao nhiêu?",
+    "pos": "verb"
+  },
+  {
+    "word": "spend",
+    "phonetic": "/spend/",
+    "definition": "to use your money to buy things",
+    "translation": "tiêu, tiêu tiền",
+    "exampleSentence": "I spent too much money today.",
+    "exampleTranslation": "Hôm nay tôi đã tiêu quá nhiều tiền.",
+    "pos": "verb"
+  },
+  {
+    "word": "save",
+    "phonetic": "/seɪv/",
+    "definition": "to keep money so you can use it later",
+    "translation": "tiết kiệm, để dành",
+    "exampleSentence": "I want to save money.",
+    "exampleTranslation": "Tôi muốn tiết kiệm tiền.",
+    "pos": "verb"
+  },
+  {
+    "word": "afford",
+    "phonetic": "/əˈfɔːrd/",
+    "definition": "to have enough money to buy something",
+    "translation": "đủ tiền mua, có khả năng mua",
+    "exampleSentence": "I can't afford a new phone.",
+    "exampleTranslation": "Tôi không đủ tiền mua một chiếc điện thoại mới.",
+    "pos": "verb"
+  },
+  {
+    "word": "price",
+    "phonetic": "/praɪs/",
+    "definition": "the amount of money you pay for something",
+    "translation": "giá, giá cả",
+    "exampleSentence": "What is the price of this bag?",
+    "exampleTranslation": "Cái túi này giá bao nhiêu?",
+    "pos": "noun"
+  },
+  {
+    "word": "price tag",
+    "phonetic": "/ˈpraɪs tæɡ/",
+    "definition": "a small label showing how much something costs",
+    "translation": "nhãn giá, thẻ giá",
+    "exampleSentence": "There is no price tag on this shirt.",
+    "exampleTranslation": "Chiếc áo sơ mi này không có nhãn giá.",
+    "pos": "noun"
+  },
+  {
+    "word": "cheap",
+    "phonetic": "/tʃiːp/",
+    "definition": "not costing much money",
+    "translation": "rẻ",
+    "exampleSentence": "These shoes are cheap.",
+    "exampleTranslation": "Đôi giày này rẻ.",
+    "pos": "adjective"
+  },
+  {
+    "word": "expensive",
+    "phonetic": "/ɪkˈspensɪv/",
+    "definition": "costing a lot of money",
+    "translation": "đắt, đắt tiền",
+    "exampleSentence": "This watch is too expensive.",
+    "exampleTranslation": "Chiếc đồng hồ này đắt quá.",
+    "pos": "adjective"
+  },
+  {
+    "word": "sale",
+    "phonetic": "/seɪl/",
+    "definition": "a time when a shop sells things at lower prices",
+    "translation": "đợt giảm giá, đợt khuyến mãi",
+    "exampleSentence": "The shop has a sale this week.",
+    "exampleTranslation": "Tuần này cửa hàng có đợt giảm giá.",
+    "pos": "noun"
+  },
+  {
+    "word": "discount",
+    "phonetic": "/ˈdɪskaʊnt/",
+    "definition": "a reduction in the usual price of something",
+    "translation": "giảm giá, mức giảm giá",
+    "exampleSentence": "Students get a ten percent discount.",
+    "exampleTranslation": "Sinh viên được giảm giá mười phần trăm.",
+    "pos": "noun"
+  },
+  {
+    "word": "bargain",
+    "phonetic": "/ˈbɑːrɡɪn/",
+    "definition": "something you buy for less than the usual price",
+    "translation": "món hời, hàng giá hời",
+    "exampleSentence": "This jacket was a real bargain.",
+    "exampleTranslation": "Chiếc áo khoác này đúng là một món hời.",
+    "pos": "noun"
+  },
+  {
+    "word": "offer",
+    "phonetic": "/ˈɑːfər/",
+    "definition": "a lower price for something for a short time",
+    "translation": "ưu đãi, khuyến mãi",
+    "exampleSentence": "There is a special offer on milk today.",
+    "exampleTranslation": "Hôm nay có ưu đãi đặc biệt cho sữa.",
+    "pos": "noun"
+  },
+  {
+    "word": "free",
+    "phonetic": "/friː/",
+    "definition": "costing no money",
+    "translation": "miễn phí",
+    "exampleSentence": "The delivery is free.",
+    "exampleTranslation": "Giao hàng miễn phí.",
+    "pos": "adjective"
+  },
+  {
+    "word": "second-hand",
+    "phonetic": "/ˌsekəndˈhænd/",
+    "definition": "not new, because someone else owned it before",
+    "translation": "đã qua sử dụng, cũ",
+    "exampleSentence": "I bought a second-hand bike.",
+    "exampleTranslation": "Tôi mua một chiếc xe đạp cũ.",
+    "pos": "adjective"
+  },
+  {
+    "word": "brand",
+    "phonetic": "/brænd/",
+    "definition": "a type of product made by one particular company",
+    "translation": "nhãn hiệu, thương hiệu",
+    "exampleSentence": "What brand of shoes do you like?",
+    "exampleTranslation": "Bạn thích thương hiệu giày nào?",
+    "pos": "noun"
+  },
+  {
+    "word": "quality",
+    "phonetic": "/ˈkwɑːləti/",
+    "definition": "how good or bad something is",
+    "translation": "chất lượng",
+    "exampleSentence": "This shop sells good quality clothes.",
+    "exampleTranslation": "Cửa hàng này bán quần áo chất lượng tốt.",
+    "pos": "noun"
+  },
+  {
+    "word": "receipt",
+    "phonetic": "/rɪˈsiːt/",
+    "definition": "a piece of paper showing that you have paid",
+    "translation": "hóa đơn, biên lai",
+    "exampleSentence": "Can I have a receipt, please?",
+    "exampleTranslation": "Cho tôi xin hóa đơn được không?",
+    "pos": "noun"
+  },
+  {
+    "word": "refund",
+    "phonetic": "/ˈriːfʌnd/",
+    "definition": "money that is given back when you return something",
+    "translation": "tiền hoàn lại, khoản hoàn tiền",
+    "exampleSentence": "I want a refund, please.",
+    "exampleTranslation": "Tôi muốn được hoàn tiền.",
+    "pos": "noun"
+  },
+  {
+    "word": "exchange",
+    "phonetic": "/ɪksˈtʃeɪndʒ/",
+    "definition": "to give something back and get a different one",
+    "translation": "đổi hàng, đổi",
+    "exampleSentence": "Can I exchange this shirt for a bigger size?",
+    "exampleTranslation": "Tôi có thể đổi chiếc áo này lấy cỡ lớn hơn không?",
+    "pos": "verb"
+  },
+  {
+    "word": "deliver",
+    "phonetic": "/dɪˈlɪvər/",
+    "definition": "to take goods to a person or place",
+    "translation": "giao hàng, chuyển hàng",
+    "exampleSentence": "They deliver food to your home.",
+    "exampleTranslation": "Họ giao đồ ăn tận nhà bạn.",
+    "pos": "verb"
+  },
+  {
+    "word": "delivery",
+    "phonetic": "/dɪˈlɪvəri/",
+    "definition": "the act of bringing goods to a person or place",
+    "translation": "việc giao hàng, giao hàng",
+    "exampleSentence": "Is delivery free?",
+    "exampleTranslation": "Giao hàng có miễn phí không?",
+    "pos": "noun"
+  },
+  {
+    "word": "money",
+    "phonetic": "/ˈmʌni/",
+    "definition": "coins and notes that you use to buy things",
+    "translation": "tiền",
+    "exampleSentence": "I don't have enough money.",
+    "exampleTranslation": "Tôi không có đủ tiền.",
+    "pos": "noun"
+  },
+  {
+    "word": "cash",
+    "phonetic": "/kæʃ/",
+    "definition": "money in coins or notes",
+    "translation": "tiền mặt",
+    "exampleSentence": "Do you take cash?",
+    "exampleTranslation": "Bạn có nhận tiền mặt không?",
+    "pos": "noun"
+  },
+  {
+    "word": "credit card",
+    "phonetic": "/ˈkredɪt kɑːrd/",
+    "definition": "a plastic card you use to buy things and pay later",
+    "translation": "thẻ tín dụng",
+    "exampleSentence": "Can I pay by credit card?",
+    "exampleTranslation": "Tôi có thể thanh toán bằng thẻ tín dụng không?",
+    "pos": "noun"
+  },
+  {
+    "word": "coin",
+    "phonetic": "/kɔɪn/",
+    "definition": "a small round piece of metal used as money",
+    "translation": "đồng xu, tiền xu",
+    "exampleSentence": "I need a coin for the machine.",
+    "exampleTranslation": "Tôi cần một đồng xu cho cái máy.",
+    "pos": "noun"
+  },
+  {
+    "word": "note",
+    "phonetic": "/noʊt/",
+    "definition": "a piece of paper money",
+    "translation": "tờ tiền, tiền giấy",
+    "exampleSentence": "Do you have a ten-pound note?",
+    "exampleTranslation": "Bạn có tờ mười bảng không?",
+    "pos": "noun"
+  },
+  {
+    "word": "change",
+    "phonetic": "/tʃeɪndʒ/",
+    "definition": "the money you get back when you pay too much",
+    "translation": "tiền thối, tiền thừa",
+    "exampleSentence": "Here is your change.",
+    "exampleTranslation": "Đây là tiền thối của bạn.",
+    "pos": "noun"
+  },
+  {
+    "word": "pound",
+    "phonetic": "/paʊnd/",
+    "definition": "the main unit of money in Britain",
+    "translation": "bảng Anh",
+    "exampleSentence": "The book costs five pounds.",
+    "exampleTranslation": "Cuốn sách giá năm bảng.",
+    "pos": "noun"
+  },
+  {
+    "word": "dollar",
+    "phonetic": "/ˈdɑːlər/",
+    "definition": "the main unit of money in the US and some other countries",
+    "translation": "đô la",
+    "exampleSentence": "It costs ten dollars.",
+    "exampleTranslation": "Cái này giá mười đô la.",
+    "pos": "noun"
+  },
+  {
+    "word": "euro",
+    "phonetic": "/ˈjʊroʊ/",
+    "definition": "the unit of money used in many European countries",
+    "translation": "đồng euro, euro",
+    "exampleSentence": "The coffee costs two euros.",
+    "exampleTranslation": "Ly cà phê giá hai euro.",
+    "pos": "noun"
+  },
+  {
+    "word": "penny",
+    "phonetic": "/ˈpeni/",
+    "definition": "a small coin used in Britain",
+    "translation": "đồng penny, xu",
+    "exampleSentence": "I found a penny on the floor.",
+    "exampleTranslation": "Tôi nhặt được một đồng penny trên sàn.",
+    "pos": "noun"
+  },
+  {
+    "word": "cent",
+    "phonetic": "/sent/",
+    "definition": "a small coin worth one hundredth of a dollar or euro",
+    "translation": "xu, đồng xu cent",
+    "exampleSentence": "This apple costs fifty cents.",
+    "exampleTranslation": "Quả táo này giá năm mươi xu.",
+    "pos": "noun"
+  },
+  {
+    "word": "tax",
+    "phonetic": "/tæks/",
+    "definition": "money you pay to the government when you buy things",
+    "translation": "thuế",
+    "exampleSentence": "Is tax included in the price?",
+    "exampleTranslation": "Giá này đã bao gồm thuế chưa?",
+    "pos": "noun"
+  },
+  {
+    "word": "gift",
+    "phonetic": "/ɡɪft/",
+    "definition": "something you give to someone, for example on a special day",
+    "translation": "quà, món quà",
+    "exampleSentence": "This is a gift for my mother.",
+    "exampleTranslation": "Đây là món quà cho mẹ tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "present",
+    "phonetic": "/ˈprezənt/",
+    "definition": "something you give to someone on a special day",
+    "translation": "quà, món quà",
+    "exampleSentence": "I bought a present for my friend.",
+    "exampleTranslation": "Tôi mua một món quà cho bạn tôi.",
+    "pos": "noun"
+  }
+]

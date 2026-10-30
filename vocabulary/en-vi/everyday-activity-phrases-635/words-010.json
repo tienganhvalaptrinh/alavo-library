@@ -1,0 +1,272 @@
+[
+  {
+    "word": "miss the train",
+    "phonetic": "/ˌmɪs ðə ˈtreɪn/",
+    "definition": "to arrive too late to get on the train",
+    "translation": "lỡ chuyến tàu",
+    "exampleSentence": "Hurry up, or we will miss the train.",
+    "exampleTranslation": "Nhanh lên, không thì chúng ta lỡ tàu đấy.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "wait for the bus",
+    "phonetic": "/ˌweɪt fər ðə ˈbʌs/",
+    "definition": "to stay at the bus stop until the bus comes",
+    "translation": "chờ xe buýt",
+    "exampleSentence": "I wait for the bus every morning.",
+    "exampleTranslation": "Sáng nào tôi cũng chờ xe buýt.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "take the bus",
+    "phonetic": "/ˌteɪk ðə ˈbʌs/",
+    "definition": "to travel by bus",
+    "translation": "đi bằng xe buýt",
+    "exampleSentence": "I take the bus to work.",
+    "exampleTranslation": "Tôi đi làm bằng xe buýt.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "take the train",
+    "phonetic": "/ˌteɪk ðə ˈtreɪn/",
+    "definition": "to travel by train",
+    "translation": "đi bằng tàu",
+    "exampleSentence": "She takes the train to the city.",
+    "exampleTranslation": "Cô ấy đi tàu vào thành phố.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "take the subway",
+    "phonetic": "/ˌteɪk ðə ˈsʌbweɪ/",
+    "definition": "to travel by underground train",
+    "translation": "đi tàu điện ngầm",
+    "exampleSentence": "We take the subway downtown.",
+    "exampleTranslation": "Chúng tôi đi tàu điện ngầm vào trung tâm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "call a taxi",
+    "phonetic": "/ˌkɔːl ə ˈtæksi/",
+    "definition": "to phone a taxi company to ask for a taxi",
+    "translation": "gọi taxi",
+    "exampleSentence": "Could you call a taxi for me?",
+    "exampleTranslation": "Bạn gọi giúp tôi một chiếc taxi nhé?",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "hail a cab",
+    "phonetic": "/ˌheɪl ə ˈkæb/",
+    "definition": "to wave your hand to stop a taxi on the street",
+    "translation": "vẫy taxi",
+    "exampleSentence": "He hailed a cab outside the hotel.",
+    "exampleTranslation": "Bạn ấy vẫy taxi trước cửa khách sạn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "buy a ticket",
+    "phonetic": "/ˌbaɪ ə ˈtɪkɪt/",
+    "definition": "to pay for a ticket to travel",
+    "translation": "mua vé",
+    "exampleSentence": "I buy a ticket at the station.",
+    "exampleTranslation": "Tôi mua vé ở nhà ga.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "show your ticket",
+    "phonetic": "/ˌʃoʊ jər ˈtɪkɪt/",
+    "definition": "to let someone check your ticket",
+    "translation": "xuất trình vé",
+    "exampleSentence": "Please show your ticket to the driver.",
+    "exampleTranslation": "Xin hãy xuất trình vé cho tài xế.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "swipe your card",
+    "phonetic": "/ˌswaɪp jər ˈkɑːrd/",
+    "definition": "to pass your card through a machine to pay",
+    "translation": "quẹt thẻ",
+    "exampleSentence": "Swipe your card when you get on.",
+    "exampleTranslation": "Hãy quẹt thẻ khi lên xe.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pay the fare",
+    "phonetic": "/ˌpeɪ ðə ˈfer/",
+    "definition": "to pay the money for a journey",
+    "translation": "trả tiền vé",
+    "exampleSentence": "You pay the fare when you get on.",
+    "exampleTranslation": "Bạn trả tiền vé khi lên xe.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "change trains",
+    "phonetic": "/ˌtʃeɪndʒ ˈtreɪnz/",
+    "definition": "to get off one train and get on another",
+    "translation": "đổi tàu",
+    "exampleSentence": "You have to change trains at Central Station.",
+    "exampleTranslation": "Bạn phải đổi tàu ở ga Trung tâm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "change buses",
+    "phonetic": "/ˌtʃeɪndʒ ˈbʌsɪz/",
+    "definition": "to get off one bus and get on another",
+    "translation": "đổi xe buýt",
+    "exampleSentence": "I change buses on the way to school.",
+    "exampleTranslation": "Trên đường đến trường tôi đổi xe buýt một lần.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "queue up",
+    "phonetic": "/ˈkjuː ˌʌp/",
+    "definition": "to stand in a line and wait",
+    "translation": "xếp hàng",
+    "exampleSentence": "People queue up for the bus.",
+    "exampleTranslation": "Mọi người xếp hàng chờ xe buýt.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "find a seat",
+    "phonetic": "/ˌfaɪnd ə ˈsiːt/",
+    "definition": "to find a place to sit",
+    "translation": "tìm chỗ ngồi",
+    "exampleSentence": "It is hard to find a seat in the rush hour.",
+    "exampleTranslation": "Giờ cao điểm rất khó tìm chỗ ngồi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "give up your seat",
+    "phonetic": "/ˌɡɪv ˌʌp jər ˈsiːt/",
+    "definition": "to let someone else sit in your place",
+    "translation": "nhường ghế",
+    "exampleSentence": "I gave up my seat to an old man.",
+    "exampleTranslation": "Tôi nhường ghế cho một cụ già.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "hold the handrail",
+    "phonetic": "/ˌhoʊld ðə ˈhændreɪl/",
+    "definition": "to hold the bar on a bus or train so you do not fall",
+    "translation": "nắm tay vịn",
+    "exampleSentence": "Hold the handrail when the bus moves.",
+    "exampleTranslation": "Hãy nắm tay vịn khi xe chạy.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "ring the bell",
+    "phonetic": "/ˌrɪŋ ðə ˈbel/",
+    "definition": "to press the bell to tell the driver you want to get off",
+    "translation": "bấm chuông xuống xe",
+    "exampleSentence": "Ring the bell at the next stop.",
+    "exampleTranslation": "Bấm chuông ở trạm kế tiếp nhé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "get stuck in traffic",
+    "phonetic": "/ˌɡet ˌstʌk ɪn ˈtræfɪk/",
+    "definition": "to be unable to move because there are too many cars",
+    "translation": "bị kẹt xe",
+    "exampleSentence": "We got stuck in traffic for an hour.",
+    "exampleTranslation": "Chúng tôi bị kẹt xe một tiếng đồng hồ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "get to work",
+    "phonetic": "/ˌɡet tə ˈwɜːrk/",
+    "definition": "to arrive at your place of work",
+    "translation": "đến chỗ làm",
+    "exampleSentence": "I get to work at eight o'clock.",
+    "exampleTranslation": "Tôi đến chỗ làm lúc tám giờ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "get home",
+    "phonetic": "/ˌɡet ˈhoʊm/",
+    "definition": "to arrive at your house",
+    "translation": "về đến nhà",
+    "exampleSentence": "I get home at six.",
+    "exampleTranslation": "Sáu giờ tôi về đến nhà.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "be late for work",
+    "phonetic": "/bi ˌleɪt fər ˈwɜːrk/",
+    "definition": "to arrive at work after the correct time",
+    "translation": "đi làm trễ",
+    "exampleSentence": "I was late for work because of the rain.",
+    "exampleTranslation": "Tôi đi làm trễ vì trời mưa.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "arrive on time",
+    "phonetic": "/əˌraɪv ɑːn ˈtaɪm/",
+    "definition": "to get somewhere at the right time",
+    "translation": "đến đúng giờ",
+    "exampleSentence": "The train arrived on time.",
+    "exampleTranslation": "Chuyến tàu đến đúng giờ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "commute to work",
+    "phonetic": "/kəˌmjuːt tə ˈwɜːrk/",
+    "definition": "to travel to work every day",
+    "translation": "đi làm hằng ngày (từ xa)",
+    "exampleSentence": "I commute to work by train.",
+    "exampleTranslation": "Tôi đi làm hằng ngày bằng tàu.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "walk to work",
+    "phonetic": "/ˌwɔːk tə ˈwɜːrk/",
+    "definition": "to go to your job on foot",
+    "translation": "đi bộ đi làm",
+    "exampleSentence": "I walk to work when the weather is good.",
+    "exampleTranslation": "Khi trời đẹp tôi đi bộ đi làm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "walk to school",
+    "phonetic": "/ˌwɔːk tə ˈskuːl/",
+    "definition": "to go to school on foot",
+    "translation": "đi bộ đến trường",
+    "exampleSentence": "The children walk to school together.",
+    "exampleTranslation": "Bọn trẻ cùng nhau đi bộ đến trường.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "lock your bike",
+    "phonetic": "/ˌlɑːk jər ˈbaɪk/",
+    "definition": "to fasten your bike with a lock so no one takes it",
+    "translation": "khóa xe đạp",
+    "exampleSentence": "Always lock your bike.",
+    "exampleTranslation": "Nhớ lúc nào cũng khóa xe đạp.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "take the stairs",
+    "phonetic": "/ˌteɪk ðə ˈsterz/",
+    "definition": "to go up or down using the stairs",
+    "translation": "đi cầu thang bộ",
+    "exampleSentence": "I take the stairs instead of the lift.",
+    "exampleTranslation": "Tôi đi cầu thang bộ thay vì thang máy.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "cross the street",
+    "phonetic": "/ˌkrɔːs ðə ˈstriːt/",
+    "definition": "to go from one side of the street to the other",
+    "translation": "băng qua đường",
+    "exampleSentence": "Look left and right before you cross the street.",
+    "exampleTranslation": "Nhìn trái nhìn phải trước khi băng qua đường.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "wait for the green light",
+    "phonetic": "/ˌweɪt fər ðə ˌɡriːn ˈlaɪt/",
+    "definition": "to wait until the traffic light turns green",
+    "translation": "chờ đèn xanh",
+    "exampleSentence": "Wait for the green light before you cross.",
+    "exampleTranslation": "Chờ đèn xanh rồi hãy qua đường.",
+    "pos": "verb phrase"
+  }
+]

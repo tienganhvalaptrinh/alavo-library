@@ -1,0 +1,128 @@
+[
+  {
+    "word": "go to class",
+    "phonetic": "/ˌɡoʊ tə ˈklæs/",
+    "definition": "to attend a lesson",
+    "translation": "đi học, đến lớp",
+    "exampleSentence": "I go to class at eight.",
+    "exampleTranslation": "Tám giờ tôi đến lớp.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "attend a lecture",
+    "phonetic": "/əˌtend ə ˈlektʃər/",
+    "definition": "to go to a talk given by a teacher at university",
+    "translation": "nghe giảng, dự buổi giảng",
+    "exampleSentence": "I attend three lectures a day.",
+    "exampleTranslation": "Mỗi ngày tôi dự ba buổi giảng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "sit in class",
+    "phonetic": "/ˌsɪt ɪn ˈklæs/",
+    "definition": "to be seated in a lesson",
+    "translation": "ngồi trong lớp",
+    "exampleSentence": "I sit in class next to my friend.",
+    "exampleTranslation": "Tôi ngồi trong lớp cạnh bạn thân.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "take a test",
+    "phonetic": "/ˌteɪk ə ˈtest/",
+    "definition": "to do a test",
+    "translation": "làm bài kiểm tra",
+    "exampleSentence": "We take a test every Friday.",
+    "exampleTranslation": "Thứ Sáu nào chúng tôi cũng làm bài kiểm tra.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "revise for an exam",
+    "phonetic": "/rɪˌvaɪz fər ən ɪɡˈzæm/",
+    "definition": "to read your notes again before an exam; British English",
+    "translation": "ôn thi",
+    "exampleSentence": "I'm revising for my exam.",
+    "exampleTranslation": "Tôi đang ôn thi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "do your homework",
+    "phonetic": "/ˌduː jər ˈhoʊmwɜːrk/",
+    "definition": "to do the work your teacher gave you to do at home",
+    "translation": "làm bài tập về nhà",
+    "exampleSentence": "Do your homework before you play.",
+    "exampleTranslation": "Làm bài tập về nhà xong rồi mới được chơi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "copy from the board",
+    "phonetic": "/ˌkɑːpi frəm ðə ˈbɔːrd/",
+    "definition": "to write what is on the board in your notebook",
+    "translation": "chép bài trên bảng",
+    "exampleSentence": "Copy the sentences from the board.",
+    "exampleTranslation": "Hãy chép các câu trên bảng vào vở.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "use a dictionary",
+    "phonetic": "/ˌjuːz ə ˈdɪkʃəneri/",
+    "definition": "to find the meanings of words in a dictionary",
+    "translation": "dùng từ điển",
+    "exampleSentence": "You can use a dictionary in the exam.",
+    "exampleTranslation": "Em được dùng từ điển trong giờ thi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "go to the library",
+    "phonetic": "/ˌɡoʊ tə ðə ˈlaɪbreri/",
+    "definition": "to go to the place where books are kept",
+    "translation": "đến thư viện",
+    "exampleSentence": "I go to the library after school.",
+    "exampleTranslation": "Tan học tôi đến thư viện.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "work in groups",
+    "phonetic": "/ˌwɜːrk ɪn ˈɡruːps/",
+    "definition": "to do a task together with other students",
+    "translation": "làm việc nhóm",
+    "exampleSentence": "We work in groups of four.",
+    "exampleTranslation": "Chúng tôi làm việc theo nhóm bốn người.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "give a talk",
+    "phonetic": "/ˌɡɪv ə ˈtɔːk/",
+    "definition": "to speak to a group about a subject",
+    "translation": "trình bày trước lớp",
+    "exampleSentence": "She gave a talk about her trip.",
+    "exampleTranslation": "Cô ấy trình bày về chuyến đi của mình.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "get good marks",
+    "phonetic": "/ˌɡet ˌɡʊd ˈmɑːrks/",
+    "definition": "to receive high scores for your work",
+    "translation": "được điểm cao",
+    "exampleSentence": "He gets good marks in maths.",
+    "exampleTranslation": "Bạn ấy được điểm cao môn toán.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "be late for class",
+    "phonetic": "/bi ˌleɪt fər ˈklæs/",
+    "definition": "to arrive after the lesson has started",
+    "translation": "đến lớp trễ",
+    "exampleSentence": "I was late for class again.",
+    "exampleTranslation": "Tôi lại đến lớp trễ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "sign up for a course",
+    "phonetic": "/ˌsaɪn ˌʌp fər ə ˈkɔːrs/",
+    "definition": "to put your name on a list to join a course",
+    "translation": "đăng ký khóa học",
+    "exampleSentence": "I signed up for an English course.",
+    "exampleTranslation": "Tôi đã đăng ký một khóa học tiếng Anh.",
+    "pos": "verb phrase"
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "word": "shoe",
+    "phonetic": "/ʃuː/",
+    "definition": "something you wear on your foot, made of leather or other strong material",
+    "translation": "giày",
+    "exampleSentence": "I took off my shoes at the door.",
+    "exampleTranslation": "Tôi cởi giày ở cửa.",
+    "pos": "noun"
+  },
+  {
+    "word": "boot",
+    "phonetic": "/buːt/",
+    "definition": "a type of shoe that covers your foot and the lower part of your leg",
+    "translation": "bốt, ủng",
+    "exampleSentence": "These boots keep my feet warm in winter.",
+    "exampleTranslation": "Đôi bốt này giữ ấm chân tôi vào mùa đông.",
+    "pos": "noun"
+  },
+  {
+    "word": "sandal",
+    "phonetic": "/ˈsændl/",
+    "definition": "a light shoe with bands that fasten onto your foot, worn in warm weather",
+    "translation": "dép xăng đan, dép quai hậu",
+    "exampleSentence": "I wear sandals in summer.",
+    "exampleTranslation": "Tôi đi dép quai hậu vào mùa hè.",
+    "pos": "noun"
+  },
+  {
+    "word": "slipper",
+    "phonetic": "/ˈslɪpər/",
+    "definition": "a light soft shoe that you wear at home",
+    "translation": "dép đi trong nhà",
+    "exampleSentence": "Put on your slippers, the floor is cold.",
+    "exampleTranslation": "Hãy xỏ dép đi trong nhà vào, sàn nhà lạnh đấy.",
+    "pos": "noun"
+  },
+  {
+    "word": "trainers",
+    "phonetic": "/ˈtreɪnərz/",
+    "definition": "strong shoes that you wear for sport or every day",
+    "translation": "giày thể thao",
+    "exampleSentence": "I bought a new pair of trainers.",
+    "exampleTranslation": "Tôi vừa mua một đôi giày thể thao mới.",
+    "pos": "noun"
+  },
+  {
+    "word": "sneakers",
+    "phonetic": "/ˈsniːkərz/",
+    "definition": "light soft shoes with rubber soles, used for sport",
+    "translation": "giày thể thao, giày sneaker",
+    "exampleSentence": "I wear white sneakers to school.",
+    "exampleTranslation": "Tôi đi giày thể thao trắng đến trường.",
+    "pos": "noun"
+  },
+  {
+    "word": "high heels",
+    "phonetic": "/ˌhaɪ ˈhiːlz/",
+    "definition": "women's shoes with high heels",
+    "translation": "giày cao gót",
+    "exampleSentence": "I can't walk far in high heels.",
+    "exampleTranslation": "Tôi không đi bộ xa được bằng giày cao gót.",
+    "pos": "noun"
+  },
+  {
+    "word": "flip-flops",
+    "phonetic": "/ˈflɪp flɑːps/",
+    "definition": "open summer shoes made of rubber, with a V-shaped band across the front",
+    "translation": "dép xỏ ngón, dép tông",
+    "exampleSentence": "Don't forget your flip-flops for the beach.",
+    "exampleTranslation": "Đừng quên dép xỏ ngón để đi biển nhé.",
+    "pos": "noun"
+  },
+  {
+    "word": "wellingtons",
+    "phonetic": "/ˈwelɪŋtənz/",
+    "definition": "rubber boots that keep your feet dry",
+    "translation": "ủng cao su",
+    "exampleSentence": "Wear your wellingtons, it's very wet outside.",
+    "exampleTranslation": "Hãy đi ủng cao su nhé, bên ngoài ướt lắm.",
+    "pos": "noun"
+  },
+  {
+    "word": "shoelace",
+    "phonetic": "/ˈʃuːleɪs/",
+    "definition": "a thin piece of string that you use to tie your shoes",
+    "translation": "dây giày",
+    "exampleSentence": "Your shoelace is untied.",
+    "exampleTranslation": "Dây giày của bạn bị tuột rồi.",
+    "pos": "noun"
+  },
+  {
+    "word": "sole",
+    "phonetic": "/soʊl/",
+    "definition": "the flat bottom part of a shoe, not including the heel",
+    "translation": "đế giày",
+    "exampleSentence": "The soles of these shoes are very thin.",
+    "exampleTranslation": "Đế của đôi giày này rất mỏng.",
+    "pos": "noun"
+  },
+  {
+    "word": "heel",
+    "phonetic": "/hiːl/",
+    "definition": "the raised part at the back of the bottom of a shoe",
+    "translation": "gót giày",
+    "exampleSentence": "One heel on my shoe is broken.",
+    "exampleTranslation": "Một bên gót giày của tôi bị gãy.",
+    "pos": "noun"
+  },
+  {
+    "word": "handbag",
+    "phonetic": "/ˈhændbæɡ/",
+    "definition": "a small bag in which a woman carries money and personal things",
+    "translation": "túi xách",
+    "exampleSentence": "My keys are in my handbag.",
+    "exampleTranslation": "Chìa khóa của tôi ở trong túi xách.",
+    "pos": "noun"
+  },
+  {
+    "word": "shoulder bag",
+    "phonetic": "/ˈʃoʊldər bæɡ/",
+    "definition": "a bag that hangs from your shoulder",
+    "translation": "túi đeo vai",
+    "exampleSentence": "I carry my laptop in a shoulder bag.",
+    "exampleTranslation": "Tôi mang laptop trong một chiếc túi đeo vai.",
+    "pos": "noun"
+  },
+  {
+    "word": "backpack",
+    "phonetic": "/ˈbækpæk/",
+    "definition": "a bag that you carry on your back",
+    "translation": "ba lô",
+    "exampleSentence": "My backpack is heavy today.",
+    "exampleTranslation": "Hôm nay ba lô của tôi nặng quá.",
+    "pos": "noun"
+  },
+  {
+    "word": "rucksack",
+    "phonetic": "/ˈrʌksæk/",
+    "definition": "a bag for carrying things on your back, especially on long walks",
+    "translation": "ba lô",
+    "exampleSentence": "We packed our rucksacks for the hike.",
+    "exampleTranslation": "Chúng tôi chuẩn bị ba lô cho chuyến đi bộ đường dài.",
+    "pos": "noun"
+  },
+  {
+    "word": "briefcase",
+    "phonetic": "/ˈbriːfkeɪs/",
+    "definition": "a flat case that business people use for carrying papers",
+    "translation": "cặp tài liệu, cặp da",
+    "exampleSentence": "The manager carries a black briefcase.",
+    "exampleTranslation": "Quản lý mang một chiếc cặp tài liệu màu đen.",
+    "pos": "noun"
+  },
+  {
+    "word": "suitcase",
+    "phonetic": "/ˈsuːtkeɪs/",
+    "definition": "a large case with a handle, used for carrying clothes when you travel",
+    "translation": "va li",
+    "exampleSentence": "I need a bigger suitcase for this trip.",
+    "exampleTranslation": "Tôi cần một chiếc va li lớn hơn cho chuyến đi này.",
+    "pos": "noun"
+  },
+  {
+    "word": "purse",
+    "phonetic": "/pɜːrs/",
+    "definition": "a small bag in which women keep money, coins and cards",
+    "translation": "ví nữ, ví cầm tay",
+    "exampleSentence": "I took some coins out of my purse.",
+    "exampleTranslation": "Tôi lấy vài đồng xu ra khỏi ví.",
+    "pos": "noun"
+  },
+  {
+    "word": "wallet",
+    "phonetic": "/ˈwɑːlɪt/",
+    "definition": "a small flat case for carrying paper money and bank cards in your pocket",
+    "translation": "ví, bóp",
+    "exampleSentence": "I left my wallet at home.",
+    "exampleTranslation": "Tôi để quên ví ở nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "belt",
+    "phonetic": "/belt/",
+    "definition": "a band of leather or cloth that you wear around your waist",
+    "translation": "thắt lưng, dây nịt",
+    "exampleSentence": "This belt is too tight.",
+    "exampleTranslation": "Chiếc thắt lưng này chật quá.",
+    "pos": "noun"
+  },
+  {
+    "word": "buckle",
+    "phonetic": "/ˈbʌkəl/",
+    "definition": "a piece of metal used for fastening a belt, shoe or bag",
+    "translation": "khóa thắt lưng, khóa cài",
+    "exampleSentence": "The buckle on my belt is broken.",
+    "exampleTranslation": "Khóa thắt lưng của tôi bị hỏng.",
+    "pos": "noun"
+  },
+  {
+    "word": "strap",
+    "phonetic": "/stræp/",
+    "definition": "a narrow band of strong material used to fasten, hang or hold something",
+    "translation": "dây đeo, quai",
+    "exampleSentence": "The strap of my bag broke.",
+    "exampleTranslation": "Quai túi của tôi bị đứt.",
+    "pos": "noun"
+  },
+  {
+    "word": "watch",
+    "phonetic": "/wɑːtʃ/",
+    "definition": "a small clock that you wear on your wrist",
+    "translation": "đồng hồ đeo tay",
+    "exampleSentence": "My watch is five minutes fast.",
+    "exampleTranslation": "Đồng hồ đeo tay của tôi nhanh năm phút.",
+    "pos": "noun"
+  },
+  {
+    "word": "glasses",
+    "phonetic": "/ˈɡlæsɪz/",
+    "definition": "two pieces of glass or plastic in a frame that you wear to see better",
+    "translation": "kính, mắt kính",
+    "exampleSentence": "I can't read without my glasses.",
+    "exampleTranslation": "Tôi không đọc được nếu không có kính.",
+    "pos": "noun"
+  },
+  {
+    "word": "sunglasses",
+    "phonetic": "/ˈsʌnˌɡlæsɪz/",
+    "definition": "dark glasses that protect your eyes from the sun",
+    "translation": "kính râm, kính mát",
+    "exampleSentence": "Take your sunglasses, it's very sunny.",
+    "exampleTranslation": "Hãy mang kính râm theo, trời rất nắng.",
+    "pos": "noun"
+  },
+  {
+    "word": "jewellery",
+    "phonetic": "/ˈdʒuːəlri/",
+    "definition": "small things you wear for decoration, such as rings or necklaces",
+    "translation": "trang sức, đồ trang sức",
+    "exampleSentence": "I don't wear much jewellery.",
+    "exampleTranslation": "Tôi không đeo nhiều trang sức.",
+    "pos": "noun"
+  },
+  {
+    "word": "necklace",
+    "phonetic": "/ˈneklɪs/",
+    "definition": "a chain or string of beads that you wear around your neck",
+    "translation": "dây chuyền, vòng cổ",
+    "exampleSentence": "This necklace was a gift from my mother.",
+    "exampleTranslation": "Chiếc dây chuyền này là quà của mẹ tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "pendant",
+    "phonetic": "/ˈpendənt/",
+    "definition": "a jewel or small object that hangs from a chain around your neck",
+    "translation": "mặt dây chuyền",
+    "exampleSentence": "She wore a silver pendant on a thin chain.",
+    "exampleTranslation": "Người đó đeo một mặt dây chuyền bạc trên sợi dây mảnh.",
+    "pos": "noun"
+  },
+  {
+    "word": "bracelet",
+    "phonetic": "/ˈbreɪslɪt/",
+    "definition": "a band or chain that you wear around your wrist as decoration",
+    "translation": "vòng tay, lắc tay",
+    "exampleSentence": "I made a bracelet for my friend.",
+    "exampleTranslation": "Tôi làm một chiếc vòng tay cho bạn tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "ring",
+    "phonetic": "/rɪŋ/",
+    "definition": "a piece of jewellery that you wear on your finger",
+    "translation": "nhẫn",
+    "exampleSentence": "They gave each other a gold ring.",
+    "exampleTranslation": "Họ tặng nhau một chiếc nhẫn vàng.",
+    "pos": "noun"
+  },
+  {
+    "word": "earring",
+    "phonetic": "/ˈɪrɪŋ/",
+    "definition": "a piece of jewellery that you wear on your ear",
+    "translation": "hoa tai, khuyên tai, bông tai",
+    "exampleSentence": "I lost one of my earrings.",
+    "exampleTranslation": "Tôi làm mất một chiếc hoa tai.",
+    "pos": "noun"
+  },
+  {
+    "word": "chain",
+    "phonetic": "/tʃeɪn/",
+    "definition": "a series of metal rings joined together, used for decoration or fastening things",
+    "translation": "dây chuyền, xích",
+    "exampleSentence": "I wear a gold chain around my neck.",
+    "exampleTranslation": "Tôi đeo một sợi dây chuyền vàng ở cổ.",
+    "pos": "noun"
+  },
+  {
+    "word": "brooch",
+    "phonetic": "/broʊtʃ/",
+    "definition": "a piece of jewellery that you fasten to your clothes",
+    "translation": "ghim cài áo, trâm cài",
+    "exampleSentence": "I wore a flower brooch on my coat.",
+    "exampleTranslation": "Tôi cài một chiếc ghim hình hoa lên áo khoác.",
+    "pos": "noun"
+  },
+  {
+    "word": "badge",
+    "phonetic": "/bædʒ/",
+    "definition": "a small piece of metal or plastic that you wear to show your name or group",
+    "translation": "huy hiệu, thẻ tên",
+    "exampleSentence": "Everyone wore a badge with their name on it.",
+    "exampleTranslation": "Ai cũng đeo một huy hiệu có ghi tên mình.",
+    "pos": "noun"
+  },
+  {
+    "word": "jewel",
+    "phonetic": "/ˈdʒuːəl/",
+    "definition": "a valuable stone, such as a diamond",
+    "translation": "đá quý, ngọc",
+    "exampleSentence": "The crown was covered in jewels.",
+    "exampleTranslation": "Chiếc vương miện được đính đầy đá quý.",
+    "pos": "noun"
+  },
+  {
+    "word": "diamond",
+    "phonetic": "/ˈdaɪəmənd/",
+    "definition": "a clear, very hard, valuable stone used in jewellery",
+    "translation": "kim cương",
+    "exampleSentence": "She has a diamond ring.",
+    "exampleTranslation": "Người đó có một chiếc nhẫn kim cương.",
+    "pos": "noun"
+  },
+  {
+    "word": "pearl",
+    "phonetic": "/pɜːrl/",
+    "definition": "a small round white jewel that forms inside an oyster",
+    "translation": "ngọc trai",
+    "exampleSentence": "My grandmother wears a pearl necklace.",
+    "exampleTranslation": "Bà tôi đeo một chiếc vòng cổ ngọc trai.",
+    "pos": "noun"
+  },
+  {
+    "word": "gold",
+    "phonetic": "/ɡoʊld/",
+    "definition": "a valuable soft yellow metal used to make jewellery",
+    "translation": "vàng",
+    "exampleSentence": "This ring is made of gold.",
+    "exampleTranslation": "Chiếc nhẫn này làm bằng vàng.",
+    "pos": "noun"
+  },
+  {
+    "word": "silver",
+    "phonetic": "/ˈsɪlvər/",
+    "definition": "a valuable shiny grey metal used to make jewellery",
+    "translation": "bạc",
+    "exampleSentence": "I like silver earrings more than gold ones.",
+    "exampleTranslation": "Tôi thích hoa tai bạc hơn hoa tai vàng.",
+    "pos": "noun"
+  },
+  {
+    "word": "sun hat",
+    "phonetic": "/ˈsʌn hæt/",
+    "definition": "a hat that protects your head from the sun",
+    "translation": "mũ rộng vành, mũ che nắng",
+    "exampleSentence": "Wear a sun hat at the beach.",
+    "exampleTranslation": "Hãy đội mũ che nắng khi ra biển.",
+    "pos": "noun"
+  },
+  {
+    "word": "beret",
+    "phonetic": "/bəˈreɪ/",
+    "definition": "a round soft flat cap",
+    "translation": "mũ nồi",
+    "exampleSentence": "He wore a red beret.",
+    "exampleTranslation": "Người đó đội một chiếc mũ nồi màu đỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "headscarf",
+    "phonetic": "/ˈhedskɑːrf/",
+    "definition": "a square piece of cloth that you wear over your head",
+    "translation": "khăn trùm đầu",
+    "exampleSentence": "She tied a headscarf over her hair.",
+    "exampleTranslation": "Người đó buộc một chiếc khăn trùm đầu lên tóc.",
+    "pos": "noun"
+  },
+  {
+    "word": "shawl",
+    "phonetic": "/ʃɔːl/",
+    "definition": "a large piece of cloth worn around the shoulders",
+    "translation": "khăn choàng vai",
+    "exampleSentence": "She put a warm shawl around her shoulders.",
+    "exampleTranslation": "Người đó choàng một chiếc khăn ấm lên vai.",
+    "pos": "noun"
+  },
+  {
+    "word": "mittens",
+    "phonetic": "/ˈmɪtnz/",
+    "definition": "gloves that have one part for the thumb and one for all the fingers",
+    "translation": "găng tay bao, găng tay hở ngón",
+    "exampleSentence": "The children wear mittens in the snow.",
+    "exampleTranslation": "Bọn trẻ đeo găng tay bao khi chơi tuyết.",
+    "pos": "noun"
+  },
+  {
+    "word": "handkerchief",
+    "phonetic": "/ˈhæŋkərtʃɪf/",
+    "definition": "a piece of cloth that you use for drying your nose or eyes",
+    "translation": "khăn tay, khăn mùi xoa",
+    "exampleSentence": "Can I borrow your handkerchief?",
+    "exampleTranslation": "Tôi mượn khăn tay của bạn được không?",
+    "pos": "noun"
+  },
+  {
+    "word": "bow",
+    "phonetic": "/boʊ/",
+    "definition": "a knot with two loops and two loose ends, used for tying or decoration",
+    "translation": "cái nơ",
+    "exampleSentence": "She tied a bow in her hair.",
+    "exampleTranslation": "Em ấy buộc một chiếc nơ lên tóc.",
+    "pos": "noun"
+  },
+  {
+    "word": "ribbon",
+    "phonetic": "/ˈrɪbən/",
+    "definition": "a narrow piece of attractive cloth used to tie hair or decorate things",
+    "translation": "ruy băng, dải ruy băng",
+    "exampleSentence": "The gift had a red ribbon on it.",
+    "exampleTranslation": "Món quà có một dải ruy băng đỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "accessory",
+    "phonetic": "/əkˈsesəri/",
+    "definition": "something such as a bag, belt or jewellery that you wear to look attractive",
+    "translation": "phụ kiện",
+    "exampleSentence": "A scarf is a useful fashion accessory.",
+    "exampleTranslation": "Khăn quàng cổ là một phụ kiện thời trang hữu ích.",
+    "pos": "noun"
+  }
+]

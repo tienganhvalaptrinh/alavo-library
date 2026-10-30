@@ -1,0 +1,191 @@
+[
+  {
+    "word": "send a letter",
+    "phonetic": "/ˌsend ə ˈletər/",
+    "definition": "to post a letter to someone",
+    "translation": "gửi thư",
+    "exampleSentence": "I need to send a letter to my uncle.",
+    "exampleTranslation": "Tôi cần gửi một lá thư cho chú tôi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "post a letter",
+    "phonetic": "/ˌpoʊst ə ˈletər/",
+    "definition": "to put a letter in a postbox to be sent",
+    "translation": "gửi thư (bỏ vào hòm thư)",
+    "exampleSentence": "I'll post a letter on my way to work.",
+    "exampleTranslation": "Trên đường đi làm tôi sẽ bỏ thư vào hòm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "send a parcel",
+    "phonetic": "/ˌsend ə ˈpɑːrsl/",
+    "definition": "to send a package by post",
+    "translation": "gửi bưu kiện",
+    "exampleSentence": "I'm going to send a parcel to my sister.",
+    "exampleTranslation": "Tôi định gửi một bưu kiện cho chị gái.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "mail a letter",
+    "phonetic": "/ˌmeɪl ə ˈletər/",
+    "definition": "to send a letter by post; American English",
+    "translation": "gửi thư qua bưu điện",
+    "exampleSentence": "She mailed a letter this morning.",
+    "exampleTranslation": "Sáng nay cô ấy gửi một lá thư qua bưu điện.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "buy stamps",
+    "phonetic": "/ˌbaɪ ˈstæmps/",
+    "definition": "to buy small stickers needed to post letters",
+    "translation": "mua tem",
+    "exampleSentence": "I need to buy stamps for these letters.",
+    "exampleTranslation": "Tôi cần mua tem cho những lá thư này.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "stick on a stamp",
+    "phonetic": "/ˌstɪk ɑːn ə ˈstæmp/",
+    "definition": "to put a stamp on a letter",
+    "translation": "dán tem",
+    "exampleSentence": "Don't forget to stick on a stamp.",
+    "exampleTranslation": "Đừng quên dán tem nhé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "fill in a form",
+    "phonetic": "/ˌfɪl ɪn ə ˈfɔːrm/",
+    "definition": "to write the information needed in a form",
+    "translation": "điền vào mẫu đơn",
+    "exampleSentence": "Please fill in this form.",
+    "exampleTranslation": "Vui lòng điền vào mẫu đơn này.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "fill out a form",
+    "phonetic": "/ˌfɪl ˌaʊt ə ˈfɔːrm/",
+    "definition": "to write the information needed in a form; American English",
+    "translation": "điền mẫu đơn",
+    "exampleSentence": "I filled out the form at the desk.",
+    "exampleTranslation": "Tôi điền mẫu đơn ở quầy.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "sign a form",
+    "phonetic": "/ˌsaɪn ə ˈfɔːrm/",
+    "definition": "to write your name at the bottom of a form",
+    "translation": "ký vào đơn",
+    "exampleSentence": "Sign the form at the bottom.",
+    "exampleTranslation": "Ký vào đơn ở phía dưới.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "collect a parcel",
+    "phonetic": "/kəˌlekt ə ˈpɑːrsl/",
+    "definition": "to go and get a parcel from a place",
+    "translation": "nhận bưu kiện",
+    "exampleSentence": "I need to collect a parcel from the post office.",
+    "exampleTranslation": "Tôi cần đến bưu điện nhận một bưu kiện.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "queue at the post office",
+    "phonetic": "/ˌkjuː ət ðə ˈpoʊst ˌɑːfɪs/",
+    "definition": "to wait in a line at the post office",
+    "translation": "xếp hàng ở bưu điện",
+    "exampleSentence": "We queued at the post office for half an hour.",
+    "exampleTranslation": "Chúng tôi xếp hàng ở bưu điện nửa tiếng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "weigh a parcel",
+    "phonetic": "/ˌweɪ ə ˈpɑːrsl/",
+    "definition": "to find out how heavy a parcel is",
+    "translation": "cân bưu kiện",
+    "exampleSentence": "The clerk weighed the parcel.",
+    "exampleTranslation": "Nhân viên bưu điện cân bưu kiện.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "make a copy",
+    "phonetic": "/ˌmeɪk ə ˈkɑːpi/",
+    "definition": "to produce another paper with the same words",
+    "translation": "photo một bản",
+    "exampleSentence": "Could you make a copy of this page?",
+    "exampleTranslation": "Bạn photo giúp tôi trang này một bản được không?",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "print a document",
+    "phonetic": "/ˌprɪnt ə ˈdɑːkjumənt/",
+    "definition": "to make a paper copy of a computer file",
+    "translation": "in tài liệu",
+    "exampleSentence": "I need to print a document for the meeting.",
+    "exampleTranslation": "Tôi cần in một tài liệu cho cuộc họp.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "scan a document",
+    "phonetic": "/ˌskæn ə ˈdɑːkjumənt/",
+    "definition": "to put a paper into a machine to make a digital copy",
+    "translation": "quét tài liệu",
+    "exampleSentence": "I scanned the document and emailed it.",
+    "exampleTranslation": "Tôi quét tài liệu rồi gửi email.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "return a library book",
+    "phonetic": "/rɪˌtɜːrn ə ˈlaɪbreri ˌbʊk/",
+    "definition": "to take a book back to the library",
+    "translation": "trả sách thư viện",
+    "exampleSentence": "I must return a library book today.",
+    "exampleTranslation": "Hôm nay tôi phải trả sách thư viện.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "borrow a book",
+    "phonetic": "/ˌbɑːroʊ ə ˈbʊk/",
+    "definition": "to take a book from the library for a short time",
+    "translation": "mượn sách",
+    "exampleSentence": "You can borrow a book for two weeks.",
+    "exampleTranslation": "Bạn có thể mượn sách trong hai tuần.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "renew a book",
+    "phonetic": "/rɪˌnuː ə ˈbʊk/",
+    "definition": "to keep a library book for longer",
+    "translation": "gia hạn mượn sách",
+    "exampleSentence": "I renewed the book online.",
+    "exampleTranslation": "Tôi gia hạn mượn sách trên mạng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "collect a prescription",
+    "phonetic": "/kəˌlekt ə prɪˈskrɪpʃn/",
+    "definition": "to pick up medicine from the pharmacy",
+    "translation": "lấy thuốc theo toa",
+    "exampleSentence": "I need to collect a prescription.",
+    "exampleTranslation": "Tôi cần đi lấy thuốc theo toa.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "get your keys cut",
+    "phonetic": "/ˌɡet jər ˈkiːz ˌkʌt/",
+    "definition": "to have copies of your keys made",
+    "translation": "đi làm thêm chìa khóa",
+    "exampleSentence": "I went to get my keys cut.",
+    "exampleTranslation": "Tôi đi làm thêm chìa khóa.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "get your shoes repaired",
+    "phonetic": "/ˌɡet jər ˌʃuːz rɪˈperd/",
+    "definition": "to have your shoes mended",
+    "translation": "đem giày đi sửa",
+    "exampleSentence": "I got my shoes repaired yesterday.",
+    "exampleTranslation": "Hôm qua tôi đem giày đi sửa.",
+    "pos": "verb phrase"
+  }
+]

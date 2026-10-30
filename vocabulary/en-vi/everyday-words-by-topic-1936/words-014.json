@@ -1,0 +1,938 @@
+[
+  {
+    "word": "family",
+    "phonetic": "/ˈfæməli/",
+    "definition": "a group of people who are related, especially parents and children",
+    "translation": "gia đình",
+    "exampleSentence": "My family lives in Da Nang.",
+    "exampleTranslation": "Gia đình tôi sống ở Đà Nẵng.",
+    "pos": "noun"
+  },
+  {
+    "word": "parent",
+    "phonetic": "/ˈperənt/",
+    "definition": "your mother or father",
+    "translation": "bố hoặc mẹ, phụ huynh",
+    "exampleSentence": "My parents work in a bank.",
+    "exampleTranslation": "Bố mẹ tôi làm việc ở ngân hàng.",
+    "pos": "noun"
+  },
+  {
+    "word": "mother",
+    "phonetic": "/ˈmʌðər/",
+    "definition": "a female parent of a child",
+    "translation": "mẹ, má",
+    "exampleSentence": "My mother cooks dinner every day.",
+    "exampleTranslation": "Mẹ tôi nấu bữa tối mỗi ngày.",
+    "pos": "noun"
+  },
+  {
+    "word": "father",
+    "phonetic": "/ˈfɑːðər/",
+    "definition": "a male parent of a child",
+    "translation": "bố, ba, cha",
+    "exampleSentence": "My father drives a taxi.",
+    "exampleTranslation": "Bố tôi lái taxi.",
+    "pos": "noun"
+  },
+  {
+    "word": "mum",
+    "phonetic": "/mʌm/",
+    "definition": "mother (informal, British English)",
+    "translation": "mẹ, má",
+    "exampleSentence": "Mum is cooking dinner now.",
+    "exampleTranslation": "Mẹ đang nấu bữa tối.",
+    "pos": "noun"
+  },
+  {
+    "word": "mom",
+    "phonetic": "/mɑːm/",
+    "definition": "mother (informal, American English)",
+    "translation": "mẹ, má",
+    "exampleSentence": "My mom picks me up after school.",
+    "exampleTranslation": "Mẹ đón tôi sau giờ học.",
+    "pos": "noun"
+  },
+  {
+    "word": "dad",
+    "phonetic": "/dæd/",
+    "definition": "father (informal)",
+    "translation": "bố, ba",
+    "exampleSentence": "Dad is washing the car.",
+    "exampleTranslation": "Bố đang rửa xe.",
+    "pos": "noun"
+  },
+  {
+    "word": "son",
+    "phonetic": "/sʌn/",
+    "definition": "someone's male child",
+    "translation": "con trai",
+    "exampleSentence": "Their son is five years old.",
+    "exampleTranslation": "Con trai của họ năm tuổi.",
+    "pos": "noun"
+  },
+  {
+    "word": "daughter",
+    "phonetic": "/ˈdɔːtər/",
+    "definition": "someone's female child",
+    "translation": "con gái",
+    "exampleSentence": "Our daughter loves to draw.",
+    "exampleTranslation": "Con gái chúng tôi rất thích vẽ.",
+    "pos": "noun"
+  },
+  {
+    "word": "child",
+    "phonetic": "/tʃaɪld/",
+    "definition": "someone who is not yet an adult",
+    "translation": "đứa trẻ, trẻ em",
+    "exampleSentence": "The child is playing in the garden.",
+    "exampleTranslation": "Đứa trẻ đang chơi trong vườn.",
+    "pos": "noun"
+  },
+  {
+    "word": "children",
+    "phonetic": "/ˈtʃɪldrən/",
+    "definition": "more than one child",
+    "translation": "trẻ em, con cái",
+    "exampleSentence": "They have two children.",
+    "exampleTranslation": "Họ có hai con.",
+    "pos": "noun"
+  },
+  {
+    "word": "kid",
+    "phonetic": "/kɪd/",
+    "definition": "a child (informal)",
+    "translation": "đứa trẻ, trẻ con",
+    "exampleSentence": "The kids are playing outside.",
+    "exampleTranslation": "Bọn trẻ đang chơi ngoài sân.",
+    "pos": "noun"
+  },
+  {
+    "word": "baby",
+    "phonetic": "/ˈbeɪbi/",
+    "definition": "a very young child who cannot yet walk or talk",
+    "translation": "em bé, trẻ sơ sinh",
+    "exampleSentence": "The baby is sleeping.",
+    "exampleTranslation": "Em bé đang ngủ.",
+    "pos": "noun"
+  },
+  {
+    "word": "toddler",
+    "phonetic": "/ˈtɑːdlər/",
+    "definition": "a very young child who is just learning to walk",
+    "translation": "trẻ mới biết đi, trẻ tập đi",
+    "exampleSentence": "My toddler is learning to say new words.",
+    "exampleTranslation": "Con tôi đang tập nói những từ mới.",
+    "pos": "noun"
+  },
+  {
+    "word": "brother",
+    "phonetic": "/ˈbrʌðər/",
+    "definition": "a male who has the same parents as you",
+    "translation": "anh trai, em trai",
+    "exampleSentence": "I have one older brother.",
+    "exampleTranslation": "Tôi có một anh trai.",
+    "pos": "noun"
+  },
+  {
+    "word": "sister",
+    "phonetic": "/ˈsɪstər/",
+    "definition": "a girl or woman who has the same parents as you",
+    "translation": "chị gái, em gái",
+    "exampleSentence": "My sister is two years younger than me.",
+    "exampleTranslation": "Em gái tôi kém tôi hai tuổi.",
+    "pos": "noun"
+  },
+  {
+    "word": "sibling",
+    "phonetic": "/ˈsɪblɪŋ/",
+    "definition": "a brother or sister",
+    "translation": "anh chị em ruột",
+    "exampleSentence": "Do you have any siblings?",
+    "exampleTranslation": "Bạn có anh chị em ruột nào không?",
+    "pos": "noun"
+  },
+  {
+    "word": "twin",
+    "phonetic": "/twɪn/",
+    "definition": "one of two children born at the same time to the same mother",
+    "translation": "người sinh đôi, anh chị em sinh đôi",
+    "exampleSentence": "I have a twin brother.",
+    "exampleTranslation": "Tôi có một người anh em trai sinh đôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "only child",
+    "phonetic": "/ˈoʊnli tʃaɪld/",
+    "definition": "a child who has no brothers or sisters",
+    "translation": "con một",
+    "exampleSentence": "I am an only child.",
+    "exampleTranslation": "Tôi là con một.",
+    "pos": "noun"
+  },
+  {
+    "word": "eldest",
+    "phonetic": "/ˈeldɪst/",
+    "definition": "born first among brothers and sisters",
+    "translation": "lớn nhất, cả",
+    "exampleSentence": "My eldest brother lives in Canada.",
+    "exampleTranslation": "Anh cả của tôi sống ở Canada.",
+    "pos": "adjective"
+  },
+  {
+    "word": "elder",
+    "phonetic": "/ˈeldər/",
+    "definition": "older, used about brothers and sisters",
+    "translation": "lớn hơn, nhiều tuổi hơn",
+    "exampleSentence": "My elder sister is a nurse.",
+    "exampleTranslation": "Chị gái tôi là y tá.",
+    "pos": "adjective"
+  },
+  {
+    "word": "grandmother",
+    "phonetic": "/ˈɡrænˌmʌðər/",
+    "definition": "the mother of your mother or father",
+    "translation": "bà, bà nội, bà ngoại",
+    "exampleSentence": "My grandmother lives with us.",
+    "exampleTranslation": "Bà tôi sống cùng chúng tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "grandma",
+    "phonetic": "/ˈɡrænmɑː/",
+    "definition": "grandmother (informal)",
+    "translation": "bà",
+    "exampleSentence": "Grandma tells us stories at night.",
+    "exampleTranslation": "Bà kể chuyện cho chúng tôi nghe vào buổi tối.",
+    "pos": "noun"
+  },
+  {
+    "word": "grandfather",
+    "phonetic": "/ˈɡrændˌfɑːðər/",
+    "definition": "the father of your mother or father",
+    "translation": "ông, ông nội, ông ngoại",
+    "exampleSentence": "My grandfather is eighty years old.",
+    "exampleTranslation": "Ông tôi tám mươi tuổi.",
+    "pos": "noun"
+  },
+  {
+    "word": "grandpa",
+    "phonetic": "/ˈɡrænpɑː/",
+    "definition": "grandfather (informal)",
+    "translation": "ông",
+    "exampleSentence": "Grandpa goes fishing every Sunday.",
+    "exampleTranslation": "Ông đi câu cá vào mỗi Chủ nhật.",
+    "pos": "noun"
+  },
+  {
+    "word": "grandparent",
+    "phonetic": "/ˈɡrænˌperənt/",
+    "definition": "the mother or father of your mother or father",
+    "translation": "ông bà",
+    "exampleSentence": "I visit my grandparents every summer.",
+    "exampleTranslation": "Tôi về thăm ông bà mỗi mùa hè.",
+    "pos": "noun"
+  },
+  {
+    "word": "grandchild",
+    "phonetic": "/ˈɡræntʃaɪld/",
+    "definition": "the child of your son or daughter",
+    "translation": "cháu (của ông bà)",
+    "exampleSentence": "They have five grandchildren.",
+    "exampleTranslation": "Họ có năm đứa cháu.",
+    "pos": "noun"
+  },
+  {
+    "word": "grandson",
+    "phonetic": "/ˈɡrænsʌn/",
+    "definition": "the son of your son or daughter",
+    "translation": "cháu trai (của ông bà)",
+    "exampleSentence": "Their grandson is learning to swim.",
+    "exampleTranslation": "Cháu trai của họ đang học bơi.",
+    "pos": "noun"
+  },
+  {
+    "word": "granddaughter",
+    "phonetic": "/ˈɡrænˌdɔːtər/",
+    "definition": "the daughter of your son or daughter",
+    "translation": "cháu gái (của ông bà)",
+    "exampleSentence": "Their granddaughter often visits them.",
+    "exampleTranslation": "Cháu gái thường đến thăm ông bà.",
+    "pos": "noun"
+  },
+  {
+    "word": "uncle",
+    "phonetic": "/ˈʌŋkəl/",
+    "definition": "the brother of your mother or father",
+    "translation": "chú, bác, cậu",
+    "exampleSentence": "My uncle lives in Hue.",
+    "exampleTranslation": "Chú tôi sống ở Huế.",
+    "pos": "noun"
+  },
+  {
+    "word": "aunt",
+    "phonetic": "/ænt/",
+    "definition": "the sister of your mother or father",
+    "translation": "cô, dì, bác gái",
+    "exampleSentence": "My aunt makes the best cakes.",
+    "exampleTranslation": "Dì tôi làm bánh ngon nhất.",
+    "pos": "noun"
+  },
+  {
+    "word": "cousin",
+    "phonetic": "/ˈkʌzən/",
+    "definition": "the child of your uncle or aunt",
+    "translation": "anh chị em họ",
+    "exampleSentence": "I play games with my cousins on weekends.",
+    "exampleTranslation": "Tôi chơi game với các anh chị em họ vào cuối tuần.",
+    "pos": "noun"
+  },
+  {
+    "word": "nephew",
+    "phonetic": "/ˈnefjuː/",
+    "definition": "the son of your brother or sister",
+    "translation": "cháu trai (con của anh chị em)",
+    "exampleSentence": "My nephew is three years old.",
+    "exampleTranslation": "Cháu trai tôi ba tuổi.",
+    "pos": "noun"
+  },
+  {
+    "word": "niece",
+    "phonetic": "/niːs/",
+    "definition": "the daughter of your brother or sister",
+    "translation": "cháu gái (con của anh chị em)",
+    "exampleSentence": "My niece is learning to read.",
+    "exampleTranslation": "Cháu gái tôi đang tập đọc.",
+    "pos": "noun"
+  },
+  {
+    "word": "relative",
+    "phonetic": "/ˈrelətɪv/",
+    "definition": "a member of your family",
+    "translation": "họ hàng, người thân",
+    "exampleSentence": "Many of my relatives live in the countryside.",
+    "exampleTranslation": "Nhiều họ hàng của tôi sống ở quê.",
+    "pos": "noun"
+  },
+  {
+    "word": "in-laws",
+    "phonetic": "/ˈɪn lɔːz/",
+    "definition": "your relatives by marriage, such as your husband's or wife's parents",
+    "translation": "thông gia, nhà chồng hoặc nhà vợ",
+    "exampleSentence": "We have dinner with my in-laws on Sundays.",
+    "exampleTranslation": "Chủ nhật nào chúng tôi cũng ăn tối với nhà thông gia.",
+    "pos": "noun"
+  },
+  {
+    "word": "mother-in-law",
+    "phonetic": "/ˈmʌðər ɪn lɔː/",
+    "definition": "the mother of your husband or wife",
+    "translation": "mẹ chồng, mẹ vợ",
+    "exampleSentence": "My mother-in-law lives nearby.",
+    "exampleTranslation": "Mẹ chồng (mẹ vợ) tôi sống gần đây.",
+    "pos": "noun"
+  },
+  {
+    "word": "father-in-law",
+    "phonetic": "/ˈfɑːðər ɪn lɔː/",
+    "definition": "the father of your husband or wife",
+    "translation": "bố chồng, bố vợ",
+    "exampleSentence": "My father-in-law is a retired teacher.",
+    "exampleTranslation": "Bố chồng (bố vợ) tôi là giáo viên đã nghỉ hưu.",
+    "pos": "noun"
+  },
+  {
+    "word": "brother-in-law",
+    "phonetic": "/ˈbrʌðər ɪn lɔː/",
+    "definition": "the brother of your husband or wife, or the husband of your sister",
+    "translation": "anh rể, em rể, anh vợ",
+    "exampleSentence": "My brother-in-law works in Singapore.",
+    "exampleTranslation": "Anh rể tôi làm việc ở Singapore.",
+    "pos": "noun"
+  },
+  {
+    "word": "sister-in-law",
+    "phonetic": "/ˈsɪstər ɪn lɔː/",
+    "definition": "the sister of your husband or wife, or your brother's wife",
+    "translation": "chị dâu, em dâu, chị vợ",
+    "exampleSentence": "My sister-in-law is a doctor.",
+    "exampleTranslation": "Chị dâu tôi là bác sĩ.",
+    "pos": "noun"
+  },
+  {
+    "word": "stepmother",
+    "phonetic": "/ˈstepmʌðər/",
+    "definition": "a woman who is married to your father but is not your mother",
+    "translation": "mẹ kế, dì ghẻ",
+    "exampleSentence": "My stepmother is very kind.",
+    "exampleTranslation": "Mẹ kế của tôi rất tốt bụng.",
+    "pos": "noun"
+  },
+  {
+    "word": "stepfather",
+    "phonetic": "/ˈstepfɑːðər/",
+    "definition": "a man who is married to your mother but is not your father",
+    "translation": "bố dượng, cha dượng",
+    "exampleSentence": "My stepfather teaches music.",
+    "exampleTranslation": "Bố dượng tôi dạy nhạc.",
+    "pos": "noun"
+  },
+  {
+    "word": "stepsister",
+    "phonetic": "/ˈstepsɪstər/",
+    "definition": "the daughter of your stepmother or stepfather",
+    "translation": "chị kế, em kế (con gái của mẹ kế hoặc bố dượng)",
+    "exampleSentence": "My stepsister and I share a room.",
+    "exampleTranslation": "Tôi và chị kế ở chung một phòng.",
+    "pos": "noun"
+  },
+  {
+    "word": "stepbrother",
+    "phonetic": "/ˈstepbrʌðər/",
+    "definition": "the son of your stepmother or stepfather",
+    "translation": "anh kế, em kế (con trai của mẹ kế hoặc bố dượng)",
+    "exampleSentence": "My stepbrother plays football.",
+    "exampleTranslation": "Anh kế của tôi chơi bóng đá.",
+    "pos": "noun"
+  },
+  {
+    "word": "godmother",
+    "phonetic": "/ˈɡɑːdˌmʌðər/",
+    "definition": "a woman who promises to help a child grow up in the church",
+    "translation": "mẹ đỡ đầu",
+    "exampleSentence": "My godmother gave me a book.",
+    "exampleTranslation": "Mẹ đỡ đầu tặng tôi một cuốn sách.",
+    "pos": "noun"
+  },
+  {
+    "word": "godfather",
+    "phonetic": "/ˈɡɑːdˌfɑːðər/",
+    "definition": "a man who promises to help a child grow up in the church",
+    "translation": "bố đỡ đầu, cha đỡ đầu",
+    "exampleSentence": "My godfather lives in London.",
+    "exampleTranslation": "Bố đỡ đầu của tôi sống ở London.",
+    "pos": "noun"
+  },
+  {
+    "word": "ancestor",
+    "phonetic": "/ˈænsestər/",
+    "definition": "a member of your family who lived a long time ago",
+    "translation": "tổ tiên, ông bà tổ tiên",
+    "exampleSentence": "My ancestors came from the north.",
+    "exampleTranslation": "Tổ tiên tôi đến từ miền Bắc.",
+    "pos": "noun"
+  },
+  {
+    "word": "generation",
+    "phonetic": "/ˌdʒenəˈreɪʃən/",
+    "definition": "all the members of a family who are about the same age",
+    "translation": "thế hệ",
+    "exampleSentence": "Three generations live in this house.",
+    "exampleTranslation": "Ba thế hệ sống trong ngôi nhà này.",
+    "pos": "noun"
+  },
+  {
+    "word": "husband",
+    "phonetic": "/ˈhʌzbənd/",
+    "definition": "the man that a woman is married to",
+    "translation": "chồng",
+    "exampleSentence": "My husband works at night.",
+    "exampleTranslation": "Chồng tôi làm việc vào ban đêm.",
+    "pos": "noun"
+  },
+  {
+    "word": "wife",
+    "phonetic": "/waɪf/",
+    "definition": "the woman that a man is married to",
+    "translation": "vợ",
+    "exampleSentence": "My wife teaches English.",
+    "exampleTranslation": "Vợ tôi dạy tiếng Anh.",
+    "pos": "noun"
+  },
+  {
+    "word": "spouse",
+    "phonetic": "/spaʊs/",
+    "definition": "a husband or wife",
+    "translation": "vợ hoặc chồng, bạn đời",
+    "exampleSentence": "Please write your spouse's name here.",
+    "exampleTranslation": "Vui lòng ghi tên vợ hoặc chồng của bạn vào đây.",
+    "pos": "noun"
+  },
+  {
+    "word": "partner",
+    "phonetic": "/ˈpɑːrtnər/",
+    "definition": "one of two people who are married or live together as a couple",
+    "translation": "bạn đời, vợ hoặc chồng",
+    "exampleSentence": "I came with my partner.",
+    "exampleTranslation": "Tôi đến cùng bạn đời của tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "boyfriend",
+    "phonetic": "/ˈbɔɪfrend/",
+    "definition": "a man that you have a romantic relationship with",
+    "translation": "bạn trai, người yêu",
+    "exampleSentence": "I have dinner with my boyfriend on Fridays.",
+    "exampleTranslation": "Tôi ăn tối với bạn trai vào các tối thứ Sáu.",
+    "pos": "noun"
+  },
+  {
+    "word": "girlfriend",
+    "phonetic": "/ˈɡɜːrlfrend/",
+    "definition": "a girl or woman that you have a romantic relationship with",
+    "translation": "bạn gái, người yêu",
+    "exampleSentence": "Tom is meeting his girlfriend tonight.",
+    "exampleTranslation": "Tối nay Tom sẽ gặp bạn gái.",
+    "pos": "noun"
+  },
+  {
+    "word": "fiancé",
+    "phonetic": "/ˌfiːɑːnˈseɪ/",
+    "definition": "the man who a woman is going to marry",
+    "translation": "chồng sắp cưới, hôn phu",
+    "exampleSentence": "Anna introduced her fiancé to her parents.",
+    "exampleTranslation": "Anna giới thiệu chồng sắp cưới với bố mẹ.",
+    "pos": "noun"
+  },
+  {
+    "word": "couple",
+    "phonetic": "/ˈkʌpəl/",
+    "definition": "two people who are married or in a romantic relationship",
+    "translation": "cặp đôi, đôi vợ chồng",
+    "exampleSentence": "They are a happy couple.",
+    "exampleTranslation": "Họ là một cặp đôi hạnh phúc.",
+    "pos": "noun"
+  },
+  {
+    "word": "bride",
+    "phonetic": "/braɪd/",
+    "definition": "a woman at the time she gets married",
+    "translation": "cô dâu",
+    "exampleSentence": "The bride wore a white dress.",
+    "exampleTranslation": "Cô dâu mặc váy trắng.",
+    "pos": "noun"
+  },
+  {
+    "word": "groom",
+    "phonetic": "/ɡruːm/",
+    "definition": "a man at the time he gets married",
+    "translation": "chú rể",
+    "exampleSentence": "The groom looked nervous.",
+    "exampleTranslation": "Chú rể trông có vẻ hồi hộp.",
+    "pos": "noun"
+  },
+  {
+    "word": "wedding",
+    "phonetic": "/ˈwedɪŋ/",
+    "definition": "a ceremony in which two people get married",
+    "translation": "đám cưới, lễ cưới",
+    "exampleSentence": "We went to a wedding on Saturday.",
+    "exampleTranslation": "Thứ Bảy chúng tôi đi dự một đám cưới.",
+    "pos": "noun"
+  },
+  {
+    "word": "marriage",
+    "phonetic": "/ˈmærɪdʒ/",
+    "definition": "the relationship between two people who are married",
+    "translation": "hôn nhân, cuộc hôn nhân",
+    "exampleSentence": "They have a long and happy marriage.",
+    "exampleTranslation": "Họ có một cuộc hôn nhân lâu dài và hạnh phúc.",
+    "pos": "noun"
+  },
+  {
+    "word": "honeymoon",
+    "phonetic": "/ˈhʌnimuːn/",
+    "definition": "a holiday taken by two people who have just got married",
+    "translation": "tuần trăng mật, kỳ trăng mật",
+    "exampleSentence": "They went to Bali for their honeymoon.",
+    "exampleTranslation": "Họ đến Bali để hưởng tuần trăng mật.",
+    "pos": "noun"
+  },
+  {
+    "word": "married",
+    "phonetic": "/ˈmærid/",
+    "definition": "having a husband or a wife",
+    "translation": "đã kết hôn, đã có gia đình",
+    "exampleSentence": "They have been married for ten years.",
+    "exampleTranslation": "Họ đã kết hôn được mười năm.",
+    "pos": "adjective"
+  },
+  {
+    "word": "single",
+    "phonetic": "/ˈsɪŋɡəl/",
+    "definition": "not married, or not in a romantic relationship",
+    "translation": "độc thân",
+    "exampleSentence": "Are you married or single?",
+    "exampleTranslation": "Bạn đã kết hôn hay còn độc thân?",
+    "pos": "adjective"
+  },
+  {
+    "word": "divorced",
+    "phonetic": "/dəˈvɔːrst/",
+    "definition": "no longer married to your wife or husband",
+    "translation": "đã ly hôn, đã ly dị",
+    "exampleSentence": "My parents are divorced.",
+    "exampleTranslation": "Bố mẹ tôi đã ly hôn.",
+    "pos": "adjective"
+  },
+  {
+    "word": "engaged",
+    "phonetic": "/ɪnˈɡeɪdʒd/",
+    "definition": "having agreed to marry someone",
+    "translation": "đã đính hôn, đã đính ước",
+    "exampleSentence": "They got engaged last year.",
+    "exampleTranslation": "Họ đã đính hôn vào năm ngoái.",
+    "pos": "adjective"
+  },
+  {
+    "word": "widow",
+    "phonetic": "/ˈwɪdoʊ/",
+    "definition": "a woman whose husband has died",
+    "translation": "góa phụ, người phụ nữ góa chồng",
+    "exampleSentence": "The widow lives alone in a small house.",
+    "exampleTranslation": "Người góa phụ sống một mình trong một ngôi nhà nhỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "orphan",
+    "phonetic": "/ˈɔːrfən/",
+    "definition": "a child whose parents are both dead",
+    "translation": "trẻ mồ côi, cô nhi",
+    "exampleSentence": "The orphan was adopted by a kind family.",
+    "exampleTranslation": "Đứa trẻ mồ côi được một gia đình tốt bụng nhận nuôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "birthday",
+    "phonetic": "/ˈbɜːrθdeɪ/",
+    "definition": "the day each year when you celebrate being born",
+    "translation": "sinh nhật",
+    "exampleSentence": "Today is my birthday.",
+    "exampleTranslation": "Hôm nay là sinh nhật của tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "anniversary",
+    "phonetic": "/ˌænəˈvɜːrsəri/",
+    "definition": "a date that you remember because something important happened on it in an earlier year",
+    "translation": "ngày kỷ niệm",
+    "exampleSentence": "Today is our wedding anniversary.",
+    "exampleTranslation": "Hôm nay là kỷ niệm ngày cưới của chúng tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "funeral",
+    "phonetic": "/ˈfjuːnərəl/",
+    "definition": "a ceremony for burying or cremating a dead person",
+    "translation": "đám tang, tang lễ",
+    "exampleSentence": "Many people came to the funeral.",
+    "exampleTranslation": "Nhiều người đã đến dự đám tang.",
+    "pos": "noun"
+  },
+  {
+    "word": "be born",
+    "phonetic": "/bi bɔːrn/",
+    "definition": "to come out of your mother's body and start to live",
+    "translation": "được sinh ra, chào đời",
+    "exampleSentence": "I was born in Hue.",
+    "exampleTranslation": "Tôi sinh ra ở Huế.",
+    "pos": "phrase"
+  },
+  {
+    "word": "grow up",
+    "phonetic": "/ɡroʊ ʌp/",
+    "definition": "to change from a child into an adult",
+    "translation": "lớn lên, trưởng thành",
+    "exampleSentence": "I grew up in a small village.",
+    "exampleTranslation": "Tôi lớn lên ở một ngôi làng nhỏ.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "raise",
+    "phonetic": "/reɪz/",
+    "definition": "to look after a child until it is an adult",
+    "translation": "nuôi dạy, nuôi nấng",
+    "exampleSentence": "They raised three children on a farm.",
+    "exampleTranslation": "Họ nuôi dạy ba đứa con ở một trang trại.",
+    "pos": "verb"
+  },
+  {
+    "word": "look after",
+    "phonetic": "/lʊk ˈæftər/",
+    "definition": "to take care of someone",
+    "translation": "chăm sóc, trông nom",
+    "exampleSentence": "My grandmother looks after me.",
+    "exampleTranslation": "Bà tôi chăm sóc tôi.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "babysit",
+    "phonetic": "/ˈbeɪbisɪt/",
+    "definition": "to take care of children while their parents are out",
+    "translation": "trông trẻ, trông con",
+    "exampleSentence": "I babysit my neighbour's children on Fridays.",
+    "exampleTranslation": "Tôi trông con của hàng xóm vào các tối thứ Sáu.",
+    "pos": "verb"
+  },
+  {
+    "word": "adopt",
+    "phonetic": "/əˈdɑːpt/",
+    "definition": "to take someone else's child into your family and become its legal parent",
+    "translation": "nhận nuôi, nhận con nuôi",
+    "exampleSentence": "They want to adopt a child.",
+    "exampleTranslation": "Họ muốn nhận nuôi một đứa trẻ.",
+    "pos": "verb"
+  },
+  {
+    "word": "pregnant",
+    "phonetic": "/ˈpreɡnənt/",
+    "definition": "having a baby growing inside your body",
+    "translation": "có thai, mang thai, có bầu",
+    "exampleSentence": "My neighbour is pregnant.",
+    "exampleTranslation": "Hàng xóm của tôi đang mang thai.",
+    "pos": "adjective"
+  },
+  {
+    "word": "adult",
+    "phonetic": "/əˈdʌlt/",
+    "definition": "a fully grown person",
+    "translation": "người lớn, người trưởng thành",
+    "exampleSentence": "Children must come with an adult.",
+    "exampleTranslation": "Trẻ em phải đi cùng người lớn.",
+    "pos": "noun"
+  },
+  {
+    "word": "teenager",
+    "phonetic": "/ˈtiːneɪdʒər/",
+    "definition": "someone who is between 13 and 19 years old",
+    "translation": "thanh thiếu niên, tuổi teen",
+    "exampleSentence": "Many teenagers like pop music.",
+    "exampleTranslation": "Nhiều thanh thiếu niên thích nhạc pop.",
+    "pos": "noun"
+  },
+  {
+    "word": "man",
+    "phonetic": "/mæn/",
+    "definition": "an adult male person",
+    "translation": "đàn ông, người đàn ông",
+    "exampleSentence": "A man is waiting at the door.",
+    "exampleTranslation": "Có một người đàn ông đang đợi ở cửa.",
+    "pos": "noun"
+  },
+  {
+    "word": "woman",
+    "phonetic": "/ˈwʊmən/",
+    "definition": "an adult female person",
+    "translation": "phụ nữ, người phụ nữ",
+    "exampleSentence": "The woman next door is a doctor.",
+    "exampleTranslation": "Người phụ nữ nhà bên là bác sĩ.",
+    "pos": "noun"
+  },
+  {
+    "word": "boy",
+    "phonetic": "/bɔɪ/",
+    "definition": "a male child",
+    "translation": "con trai, cậu bé",
+    "exampleSentence": "The boy is riding a bike.",
+    "exampleTranslation": "Cậu bé đang đạp xe.",
+    "pos": "noun"
+  },
+  {
+    "word": "girl",
+    "phonetic": "/ɡɜːrl/",
+    "definition": "a female child",
+    "translation": "con gái, cô bé",
+    "exampleSentence": "The girl is reading a book.",
+    "exampleTranslation": "Cô bé đang đọc sách.",
+    "pos": "noun"
+  },
+  {
+    "word": "lady",
+    "phonetic": "/ˈleɪdi/",
+    "definition": "a polite word for a woman",
+    "translation": "quý bà, bà, người phụ nữ (cách nói lịch sự)",
+    "exampleSentence": "The lady at the desk can help you.",
+    "exampleTranslation": "Người phụ nữ ở quầy có thể giúp bạn.",
+    "pos": "noun"
+  },
+  {
+    "word": "gentleman",
+    "phonetic": "/ˈdʒentlmən/",
+    "definition": "a polite word for a man",
+    "translation": "quý ông, người đàn ông (cách nói lịch sự)",
+    "exampleSentence": "Ladies and gentlemen, please take your seats.",
+    "exampleTranslation": "Thưa quý ông quý bà, xin mời ngồi vào chỗ.",
+    "pos": "noun"
+  },
+  {
+    "word": "male",
+    "phonetic": "/meɪl/",
+    "definition": "relating to men or boys",
+    "translation": "nam, thuộc giới nam",
+    "exampleSentence": "Is your doctor male or female?",
+    "exampleTranslation": "Bác sĩ của bạn là nam hay nữ?",
+    "pos": "adjective"
+  },
+  {
+    "word": "female",
+    "phonetic": "/ˈfiːmeɪl/",
+    "definition": "relating to women or girls",
+    "translation": "nữ, thuộc giới nữ",
+    "exampleSentence": "Is your doctor male or female?",
+    "exampleTranslation": "Bác sĩ của bạn là nam hay nữ?",
+    "pos": "adjective"
+  },
+  {
+    "word": "old",
+    "phonetic": "/oʊld/",
+    "definition": "having lived for a long time",
+    "translation": "già, lớn tuổi",
+    "exampleSentence": "My grandfather is very old.",
+    "exampleTranslation": "Ông tôi đã rất già.",
+    "pos": "adjective"
+  },
+  {
+    "word": "young",
+    "phonetic": "/jʌŋ/",
+    "definition": "having lived for only a short time",
+    "translation": "trẻ, nhỏ tuổi",
+    "exampleSentence": "They have two young children.",
+    "exampleTranslation": "Họ có hai đứa con nhỏ.",
+    "pos": "adjective"
+  },
+  {
+    "word": "middle-aged",
+    "phonetic": "/ˌmɪdl ˈeɪdʒd/",
+    "definition": "between the ages of about 40 and 60",
+    "translation": "trung niên",
+    "exampleSentence": "A middle-aged man opened the door.",
+    "exampleTranslation": "Một người đàn ông trung niên ra mở cửa.",
+    "pos": "adjective"
+  },
+  {
+    "word": "elderly",
+    "phonetic": "/ˈeldərli/",
+    "definition": "a polite word for old",
+    "translation": "cao tuổi, lớn tuổi",
+    "exampleSentence": "We help our elderly neighbour.",
+    "exampleTranslation": "Chúng tôi giúp người hàng xóm lớn tuổi.",
+    "pos": "adjective"
+  },
+  {
+    "word": "person",
+    "phonetic": "/ˈpɜːrsən/",
+    "definition": "a human being",
+    "translation": "người",
+    "exampleSentence": "Sam is a very kind person.",
+    "exampleTranslation": "Sam là một người rất tốt bụng.",
+    "pos": "noun"
+  },
+  {
+    "word": "people",
+    "phonetic": "/ˈpiːpəl/",
+    "definition": "men, women and children",
+    "translation": "người, mọi người",
+    "exampleSentence": "Many people came to the party.",
+    "exampleTranslation": "Nhiều người đã đến dự tiệc.",
+    "pos": "noun"
+  },
+  {
+    "word": "friend",
+    "phonetic": "/frend/",
+    "definition": "someone you know well and like",
+    "translation": "bạn, bạn bè",
+    "exampleSentence": "I met a friend after school.",
+    "exampleTranslation": "Tôi gặp một người bạn sau giờ học.",
+    "pos": "noun"
+  },
+  {
+    "word": "best friend",
+    "phonetic": "/ˌbest ˈfrend/",
+    "definition": "the friend you like more than any other",
+    "translation": "bạn thân nhất, bạn thân",
+    "exampleSentence": "My best friend lives next door.",
+    "exampleTranslation": "Bạn thân nhất của tôi sống ở nhà bên.",
+    "pos": "noun"
+  },
+  {
+    "word": "neighbour",
+    "phonetic": "/ˈneɪbər/",
+    "definition": "someone who lives next to you or near you",
+    "translation": "hàng xóm, người hàng xóm",
+    "exampleSentence": "Our neighbour has a big dog.",
+    "exampleTranslation": "Hàng xóm nhà tôi có một con chó lớn.",
+    "pos": "noun"
+  },
+  {
+    "word": "guest",
+    "phonetic": "/ɡest/",
+    "definition": "someone you invite to your home or to an event",
+    "translation": "khách, khách mời",
+    "exampleSentence": "We have a guest for dinner tonight.",
+    "exampleTranslation": "Tối nay chúng tôi có khách đến ăn tối.",
+    "pos": "noun"
+  },
+  {
+    "word": "stranger",
+    "phonetic": "/ˈstreɪndʒər/",
+    "definition": "someone that you do not know",
+    "translation": "người lạ",
+    "exampleSentence": "Do not talk to strangers.",
+    "exampleTranslation": "Đừng nói chuyện với người lạ.",
+    "pos": "noun"
+  },
+  {
+    "word": "relationship",
+    "phonetic": "/rɪˈleɪʃənʃɪp/",
+    "definition": "the way two people feel about each other and behave towards each other",
+    "translation": "mối quan hệ",
+    "exampleSentence": "I have a good relationship with my parents.",
+    "exampleTranslation": "Tôi có mối quan hệ tốt với bố mẹ.",
+    "pos": "noun"
+  },
+  {
+    "word": "colleague",
+    "phonetic": "/ˈkɑːliːɡ/",
+    "definition": "someone you work with",
+    "translation": "đồng nghiệp",
+    "exampleSentence": "I had lunch with a colleague.",
+    "exampleTranslation": "Tôi ăn trưa với một đồng nghiệp.",
+    "pos": "noun"
+  },
+  {
+    "word": "classmate",
+    "phonetic": "/ˈklæsmeɪt/",
+    "definition": "a member of the same class at school",
+    "translation": "bạn cùng lớp",
+    "exampleSentence": "I study with my classmates.",
+    "exampleTranslation": "Tôi học cùng các bạn cùng lớp.",
+    "pos": "noun"
+  },
+  {
+    "word": "roommate",
+    "phonetic": "/ˈruːmˌmeɪt/",
+    "definition": "someone you share a room or apartment with",
+    "translation": "bạn cùng phòng",
+    "exampleSentence": "My roommate is very tidy.",
+    "exampleTranslation": "Bạn cùng phòng của tôi rất gọn gàng.",
+    "pos": "noun"
+  },
+  {
+    "word": "flatmate",
+    "phonetic": "/ˈflætmeɪt/",
+    "definition": "someone who shares a flat with you",
+    "translation": "bạn cùng nhà, người ở chung căn hộ",
+    "exampleSentence": "My flatmate cooks dinner on Mondays.",
+    "exampleTranslation": "Bạn cùng nhà tôi nấu bữa tối vào các ngày thứ Hai.",
+    "pos": "noun"
+  },
+  {
+    "word": "boss",
+    "phonetic": "/bɔːs/",
+    "definition": "the person who is in charge of you at work",
+    "translation": "sếp, cấp trên, ông chủ",
+    "exampleSentence": "My boss is very kind.",
+    "exampleTranslation": "Sếp tôi rất tốt bụng.",
+    "pos": "noun"
+  }
+]

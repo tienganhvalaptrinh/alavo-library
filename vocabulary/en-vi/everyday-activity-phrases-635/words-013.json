@@ -1,0 +1,191 @@
+[
+  {
+    "word": "reserve a table",
+    "phonetic": "/rɪˌzɜːrv ə ˈteɪbl/",
+    "definition": "to arrange for a table to be kept for you",
+    "translation": "đặt chỗ, giữ bàn",
+    "exampleSentence": "We reserved a table by the window.",
+    "exampleTranslation": "Chúng tôi đặt một bàn cạnh cửa sổ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "ask for a table",
+    "phonetic": "/ˌæsk fər ə ˈteɪbl/",
+    "definition": "to tell the waiter you want a table",
+    "translation": "xin một bàn",
+    "exampleSentence": "We asked for a table for two.",
+    "exampleTranslation": "Chúng tôi xin một bàn cho hai người.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "look at the menu",
+    "phonetic": "/ˌlʊk ət ðə ˈmenjuː/",
+    "definition": "to read the list of food and drinks",
+    "translation": "xem thực đơn",
+    "exampleSentence": "Let's look at the menu.",
+    "exampleTranslation": "Mình cùng xem thực đơn nhé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "order food",
+    "phonetic": "/ˌɔːrdər ˈfuːd/",
+    "definition": "to tell the waiter what food you want",
+    "translation": "gọi món",
+    "exampleSentence": "We ordered food and waited.",
+    "exampleTranslation": "Chúng tôi gọi món rồi ngồi chờ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "order a drink",
+    "phonetic": "/ˌɔːrdər ə ˈdrɪŋk/",
+    "definition": "to tell the waiter which drink you want",
+    "translation": "gọi đồ uống",
+    "exampleSentence": "I'll order a drink first.",
+    "exampleTranslation": "Tôi gọi đồ uống trước.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "take your order",
+    "phonetic": "/ˌteɪk jər ˈɔːrdər/",
+    "definition": "to write down what a customer wants to eat or drink",
+    "translation": "ghi món, nhận gọi món",
+    "exampleSentence": "May I take your order?",
+    "exampleTranslation": "Tôi ghi món cho quý khách nhé?",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "recommend a dish",
+    "phonetic": "/ˌrekəˌmend ə ˈdɪʃ/",
+    "definition": "to say which food is good to order",
+    "translation": "giới thiệu một món",
+    "exampleSentence": "Can you recommend a dish?",
+    "exampleTranslation": "Bạn có thể giới thiệu một món không?",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "ask for the bill",
+    "phonetic": "/ˌæsk fər ðə ˈbɪl/",
+    "definition": "to tell the waiter you want to pay",
+    "translation": "xin hóa đơn, gọi tính tiền",
+    "exampleSentence": "We asked for the bill and left.",
+    "exampleTranslation": "Chúng tôi gọi tính tiền rồi ra về.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "call the waiter",
+    "phonetic": "/ˌkɔːl ðə ˈweɪtər/",
+    "definition": "to ask the waiter to come to your table",
+    "translation": "gọi nhân viên phục vụ",
+    "exampleSentence": "Let's call the waiter.",
+    "exampleTranslation": "Mình gọi nhân viên phục vụ đi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "wait for the food",
+    "phonetic": "/ˌweɪt fər ðə ˈfuːd/",
+    "definition": "to wait until your meal is brought",
+    "translation": "chờ món ăn",
+    "exampleSentence": "We waited for the food for twenty minutes.",
+    "exampleTranslation": "Chúng tôi chờ món ăn hai mươi phút.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "send back",
+    "phonetic": "/ˌsend ˈbæk/",
+    "definition": "to return food to the kitchen because it is wrong",
+    "translation": "trả lại món",
+    "exampleSentence": "He sent the soup back because it was cold.",
+    "exampleTranslation": "Bạn ấy trả lại món súp vì nó nguội.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "get a takeaway",
+    "phonetic": "/ˌɡet ə ˈteɪkəweɪ/",
+    "definition": "to buy cooked food to eat at home",
+    "translation": "mua đồ ăn mang về",
+    "exampleSentence": "Let's get a takeaway tonight.",
+    "exampleTranslation": "Tối nay mình mua đồ ăn mang về nhé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "share a dish",
+    "phonetic": "/ˌʃer ə ˈdɪʃ/",
+    "definition": "to eat one dish together with other people",
+    "translation": "chia nhau một món",
+    "exampleSentence": "We shared a dish of noodles.",
+    "exampleTranslation": "Chúng tôi chia nhau một đĩa mì.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "try a dish",
+    "phonetic": "/ˌtraɪ ə ˈdɪʃ/",
+    "definition": "to eat a food for the first time",
+    "translation": "thử một món",
+    "exampleSentence": "I'd like to try a local dish.",
+    "exampleTranslation": "Tôi muốn thử một món địa phương.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "wipe your mouth",
+    "phonetic": "/ˌwaɪp jər ˈmaʊθ/",
+    "definition": "to clean your mouth with a napkin",
+    "translation": "lau miệng",
+    "exampleSentence": "He wiped his mouth with a napkin.",
+    "exampleTranslation": "Bạn ấy lau miệng bằng khăn giấy.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "use a napkin",
+    "phonetic": "/ˌjuːz ə ˈnæpkɪn/",
+    "definition": "to wipe your hands or mouth with a napkin",
+    "translation": "dùng khăn ăn",
+    "exampleSentence": "Use a napkin, please.",
+    "exampleTranslation": "Hãy dùng khăn ăn nhé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "use chopsticks",
+    "phonetic": "/ˌjuːz ˈtʃɑːpstɪks/",
+    "definition": "to eat with two thin sticks",
+    "translation": "dùng đũa",
+    "exampleSentence": "Can you use chopsticks?",
+    "exampleTranslation": "Bạn dùng đũa được không?",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "use a knife and fork",
+    "phonetic": "/ˌjuːz ə ˌnaɪf ən ˈfɔːrk/",
+    "definition": "to eat with a knife in one hand and a fork in the other",
+    "translation": "dùng dao và nĩa",
+    "exampleSentence": "We use a knife and fork to eat steak.",
+    "exampleTranslation": "Chúng tôi dùng dao và nĩa để ăn bít tết.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "say cheers",
+    "phonetic": "/ˌseɪ ˈtʃɪrz/",
+    "definition": "to say a word before drinking together",
+    "translation": "nâng ly, chúc nhau",
+    "exampleSentence": "We raised our glasses and said cheers.",
+    "exampleTranslation": "Chúng tôi nâng ly và cùng chúc nhau.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "raise a glass",
+    "phonetic": "/ˌreɪz ə ˈɡlæs/",
+    "definition": "to lift your glass to wish someone well",
+    "translation": "nâng ly",
+    "exampleSentence": "Let's raise a glass to the bride and groom.",
+    "exampleTranslation": "Nâng ly chúc mừng cô dâu chú rể nào.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "finish your plate",
+    "phonetic": "/ˌfɪnɪʃ jər ˈpleɪt/",
+    "definition": "to eat all the food on your plate",
+    "translation": "ăn hết đĩa",
+    "exampleSentence": "Finish your plate before you leave the table.",
+    "exampleTranslation": "Ăn hết đĩa rồi mới rời khỏi bàn.",
+    "pos": "verb phrase"
+  }
+]

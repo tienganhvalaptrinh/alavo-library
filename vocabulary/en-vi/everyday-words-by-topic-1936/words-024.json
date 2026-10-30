@@ -1,0 +1,776 @@
+[
+  {
+    "word": "sick",
+    "phonetic": "/sɪk/",
+    "definition": "suffering from an illness",
+    "translation": "ốm, bệnh",
+    "exampleSentence": "My mother is very sick.",
+    "exampleTranslation": "Mẹ tôi đang ốm nặng.",
+    "pos": "adjective"
+  },
+  {
+    "word": "ill",
+    "phonetic": "/ɪl/",
+    "definition": "not feeling well because of a disease",
+    "translation": "ốm, bị bệnh",
+    "exampleSentence": "I can't come to work because I'm ill.",
+    "exampleTranslation": "Tôi không đi làm được vì tôi bị ốm.",
+    "pos": "adjective"
+  },
+  {
+    "word": "healthy",
+    "phonetic": "/ˈhelθi/",
+    "definition": "strong and not likely to become ill",
+    "translation": "khỏe mạnh",
+    "exampleSentence": "Eating fruit keeps you healthy.",
+    "exampleTranslation": "Ăn trái cây giúp bạn khỏe mạnh.",
+    "pos": "adjective"
+  },
+  {
+    "word": "well",
+    "phonetic": "/wel/",
+    "definition": "in good health",
+    "translation": "khỏe, khỏe mạnh",
+    "exampleSentence": "I don't feel very well today.",
+    "exampleTranslation": "Hôm nay tôi thấy không khỏe lắm.",
+    "pos": "adjective"
+  },
+  {
+    "word": "better",
+    "phonetic": "/ˈbetər/",
+    "definition": "less ill or painful than before",
+    "translation": "khá hơn, đỡ hơn",
+    "exampleSentence": "I feel much better today.",
+    "exampleTranslation": "Hôm nay tôi thấy đỡ hơn nhiều.",
+    "pos": "adjective"
+  },
+  {
+    "word": "worse",
+    "phonetic": "/wɜːrs/",
+    "definition": "more ill than before",
+    "translation": "tệ hơn, nặng hơn",
+    "exampleSentence": "My cough is worse tonight.",
+    "exampleTranslation": "Tối nay cơn ho của tôi nặng hơn.",
+    "pos": "adjective"
+  },
+  {
+    "word": "get better",
+    "phonetic": "/ɡet ˈbetər/",
+    "definition": "to become well again after being ill",
+    "translation": "khỏi bệnh, khỏe lại",
+    "exampleSentence": "I hope you get better soon.",
+    "exampleTranslation": "Mong bạn mau khỏe lại.",
+    "pos": "phrase"
+  },
+  {
+    "word": "recover",
+    "phonetic": "/rɪˈkʌvər/",
+    "definition": "to get well again after an illness or accident",
+    "translation": "hồi phục, bình phục",
+    "exampleSentence": "Tom is slowly recovering from the flu.",
+    "exampleTranslation": "Tom đang dần hồi phục sau cơn cảm cúm.",
+    "pos": "verb"
+  },
+  {
+    "word": "health",
+    "phonetic": "/helθ/",
+    "definition": "the condition of your body and how healthy you are",
+    "translation": "sức khỏe",
+    "exampleSentence": "Your health is more important than money.",
+    "exampleTranslation": "Sức khỏe của bạn quan trọng hơn tiền bạc.",
+    "pos": "noun"
+  },
+  {
+    "word": "illness",
+    "phonetic": "/ˈɪlnəs/",
+    "definition": "a disease of the body or mind",
+    "translation": "bệnh, bệnh tật",
+    "exampleSentence": "Tom missed school because of a long illness.",
+    "exampleTranslation": "Tom nghỉ học vì bị ốm lâu ngày.",
+    "pos": "noun"
+  },
+  {
+    "word": "disease",
+    "phonetic": "/dɪˈziːz/",
+    "definition": "an illness that affects people, animals or plants",
+    "translation": "bệnh, căn bệnh",
+    "exampleSentence": "Washing your hands can stop many diseases.",
+    "exampleTranslation": "Rửa tay có thể ngăn nhiều loại bệnh.",
+    "pos": "noun"
+  },
+  {
+    "word": "symptom",
+    "phonetic": "/ˈsɪmptəm/",
+    "definition": "a sign in your body that shows you have an illness",
+    "translation": "triệu chứng",
+    "exampleSentence": "A cough is a common symptom of a cold.",
+    "exampleTranslation": "Ho là một triệu chứng thường gặp của bệnh cảm lạnh.",
+    "pos": "noun"
+  },
+  {
+    "word": "cold",
+    "phonetic": "/koʊld/",
+    "definition": "a common illness that gives you a runny nose and sore throat",
+    "translation": "cảm lạnh, cảm",
+    "exampleSentence": "I have a bad cold.",
+    "exampleTranslation": "Tôi bị cảm nặng.",
+    "pos": "noun"
+  },
+  {
+    "word": "flu",
+    "phonetic": "/fluː/",
+    "definition": "an illness that makes you feel tired and weak and gives you a cough",
+    "translation": "bệnh cúm, cảm cúm",
+    "exampleSentence": "Half of my class has the flu.",
+    "exampleTranslation": "Một nửa lớp tôi bị cúm.",
+    "pos": "noun"
+  },
+  {
+    "word": "fever",
+    "phonetic": "/ˈfiːvər/",
+    "definition": "an illness in which your body temperature is very high",
+    "translation": "sốt, cơn sốt",
+    "exampleSentence": "The child has a fever.",
+    "exampleTranslation": "Đứa bé đang bị sốt.",
+    "pos": "noun"
+  },
+  {
+    "word": "cough",
+    "phonetic": "/kɔːf/",
+    "definition": "an illness or a habit of coughing a lot",
+    "translation": "cơn ho, bệnh ho",
+    "exampleSentence": "I have a bad cough.",
+    "exampleTranslation": "Tôi bị ho nặng.",
+    "pos": "noun"
+  },
+  {
+    "word": "sore throat",
+    "phonetic": "/sɔːr θroʊt/",
+    "definition": "a throat that is painful, often because of a cold",
+    "translation": "đau họng",
+    "exampleSentence": "I have a sore throat.",
+    "exampleTranslation": "Tôi bị đau họng.",
+    "pos": "noun"
+  },
+  {
+    "word": "headache",
+    "phonetic": "/ˈhedeɪk/",
+    "definition": "a pain in your head",
+    "translation": "đau đầu, nhức đầu",
+    "exampleSentence": "I have a headache.",
+    "exampleTranslation": "Tôi bị đau đầu.",
+    "pos": "noun"
+  },
+  {
+    "word": "toothache",
+    "phonetic": "/ˈtuːθeɪk/",
+    "definition": "a pain in a tooth",
+    "translation": "đau răng",
+    "exampleSentence": "Toothache kept me awake all night.",
+    "exampleTranslation": "Cơn đau răng làm tôi thức cả đêm.",
+    "pos": "noun"
+  },
+  {
+    "word": "stomachache",
+    "phonetic": "/ˈstʌməkeɪk/",
+    "definition": "a pain in your stomach",
+    "translation": "đau bụng, đau dạ dày",
+    "exampleSentence": "I have a stomachache after lunch.",
+    "exampleTranslation": "Sau bữa trưa tôi bị đau bụng.",
+    "pos": "noun"
+  },
+  {
+    "word": "earache",
+    "phonetic": "/ˈɪreɪk/",
+    "definition": "a pain inside your ear",
+    "translation": "đau tai",
+    "exampleSentence": "My son has an earache.",
+    "exampleTranslation": "Con tôi bị đau tai.",
+    "pos": "noun"
+  },
+  {
+    "word": "backache",
+    "phonetic": "/ˈbækeɪk/",
+    "definition": "a pain in your back",
+    "translation": "đau lưng",
+    "exampleSentence": "Sitting all day gives me backache.",
+    "exampleTranslation": "Ngồi cả ngày làm tôi đau lưng.",
+    "pos": "noun"
+  },
+  {
+    "word": "pain",
+    "phonetic": "/peɪn/",
+    "definition": "the feeling you have when part of your body hurts",
+    "translation": "cơn đau, sự đau",
+    "exampleSentence": "I have a sharp pain in my knee.",
+    "exampleTranslation": "Tôi bị đau nhói ở đầu gối.",
+    "pos": "noun"
+  },
+  {
+    "word": "ache",
+    "phonetic": "/eɪk/",
+    "definition": "a continuous pain that is not sharp",
+    "translation": "cơn đau âm ỉ, nhức",
+    "exampleSentence": "I have an ache in my back.",
+    "exampleTranslation": "Tôi bị đau âm ỉ ở lưng.",
+    "pos": "noun"
+  },
+  {
+    "word": "sore",
+    "phonetic": "/sɔːr/",
+    "definition": "painful, especially because of an infection or too much use",
+    "translation": "đau, nhức, ê",
+    "exampleSentence": "My legs are sore after the long walk.",
+    "exampleTranslation": "Chân tôi đau nhức sau chuyến đi bộ dài.",
+    "pos": "adjective"
+  },
+  {
+    "word": "hurt",
+    "phonetic": "/hɜːrt/",
+    "definition": "to feel pain in a part of your body",
+    "translation": "đau, bị đau",
+    "exampleSentence": "My back hurts.",
+    "exampleTranslation": "Lưng tôi đau.",
+    "pos": "verb"
+  },
+  {
+    "word": "sprain",
+    "phonetic": "/spreɪn/",
+    "definition": "to hurt a joint by twisting it suddenly",
+    "translation": "bong gân, trật",
+    "exampleSentence": "I fell and sprained my ankle.",
+    "exampleTranslation": "Tôi bị ngã và bong gân mắt cá chân.",
+    "pos": "verb"
+  },
+  {
+    "word": "cut",
+    "phonetic": "/kʌt/",
+    "definition": "a wound made when something sharp cuts your skin",
+    "translation": "vết cắt, vết đứt",
+    "exampleSentence": "I have a small cut on my finger.",
+    "exampleTranslation": "Tôi có một vết cắt nhỏ trên ngón tay.",
+    "pos": "noun"
+  },
+  {
+    "word": "burn",
+    "phonetic": "/bɜːrn/",
+    "definition": "an injury caused by fire, heat or the sun",
+    "translation": "vết bỏng, bỏng",
+    "exampleSentence": "I have a burn on my hand.",
+    "exampleTranslation": "Tôi bị bỏng ở tay.",
+    "pos": "noun"
+  },
+  {
+    "word": "bruise",
+    "phonetic": "/bruːz/",
+    "definition": "a dark mark on your skin where you have been hit",
+    "translation": "vết bầm, vết thâm tím",
+    "exampleSentence": "I have a bruise on my leg.",
+    "exampleTranslation": "Chân tôi có một vết bầm.",
+    "pos": "noun"
+  },
+  {
+    "word": "wound",
+    "phonetic": "/wuːnd/",
+    "definition": "an injury to your body, such as a cut",
+    "translation": "vết thương",
+    "exampleSentence": "The nurse cleaned the wound.",
+    "exampleTranslation": "Y tá làm sạch vết thương.",
+    "pos": "noun"
+  },
+  {
+    "word": "injury",
+    "phonetic": "/ˈɪndʒəri/",
+    "definition": "damage to part of your body caused by an accident",
+    "translation": "chấn thương, vết thương",
+    "exampleSentence": "Tom has a leg injury.",
+    "exampleTranslation": "Tom bị chấn thương ở chân.",
+    "pos": "noun"
+  },
+  {
+    "word": "injured",
+    "phonetic": "/ˈɪndʒərd/",
+    "definition": "having a wound or damage to part of your body",
+    "translation": "bị thương",
+    "exampleSentence": "Three people were injured in the accident.",
+    "exampleTranslation": "Ba người bị thương trong vụ tai nạn.",
+    "pos": "adjective"
+  },
+  {
+    "word": "broken",
+    "phonetic": "/ˈbroʊkən/",
+    "definition": "cracked or in pieces after an accident",
+    "translation": "gãy, bị gãy",
+    "exampleSentence": "I have a broken leg.",
+    "exampleTranslation": "Tôi bị gãy chân.",
+    "pos": "adjective"
+  },
+  {
+    "word": "swollen",
+    "phonetic": "/ˈswoʊlən/",
+    "definition": "bigger than normal because of illness or injury",
+    "translation": "sưng, bị sưng",
+    "exampleSentence": "My ankle is swollen.",
+    "exampleTranslation": "Mắt cá chân của tôi bị sưng.",
+    "pos": "adjective"
+  },
+  {
+    "word": "rash",
+    "phonetic": "/ræʃ/",
+    "definition": "a lot of red spots on your skin",
+    "translation": "phát ban, mẩn đỏ",
+    "exampleSentence": "There is a red rash on my arm.",
+    "exampleTranslation": "Trên tay tôi có một vùng phát ban đỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "itch",
+    "phonetic": "/ɪtʃ/",
+    "definition": "to have an unpleasant feeling on your skin that makes you want to scratch",
+    "translation": "ngứa",
+    "exampleSentence": "My arm itches.",
+    "exampleTranslation": "Tay tôi bị ngứa.",
+    "pos": "verb"
+  },
+  {
+    "word": "bleed",
+    "phonetic": "/bliːd/",
+    "definition": "to lose blood from your body",
+    "translation": "chảy máu",
+    "exampleSentence": "My nose is bleeding.",
+    "exampleTranslation": "Tôi bị chảy máu mũi.",
+    "pos": "verb"
+  },
+  {
+    "word": "dizzy",
+    "phonetic": "/ˈdɪzi/",
+    "definition": "feeling unable to stand steadily",
+    "translation": "chóng mặt, choáng váng",
+    "exampleSentence": "I feel dizzy when I stand up.",
+    "exampleTranslation": "Tôi thấy chóng mặt khi đứng dậy.",
+    "pos": "adjective"
+  },
+  {
+    "word": "tired",
+    "phonetic": "/taɪrd/",
+    "definition": "feeling that you want to sleep or rest",
+    "translation": "mệt, mệt mỏi",
+    "exampleSentence": "I am too tired to go out.",
+    "exampleTranslation": "Tôi mệt quá nên không đi chơi được.",
+    "pos": "adjective"
+  },
+  {
+    "word": "faint",
+    "phonetic": "/feɪnt/",
+    "definition": "to suddenly become unconscious for a short time",
+    "translation": "ngất, ngất xỉu",
+    "exampleSentence": "Someone fainted in the hot room.",
+    "exampleTranslation": "Có người ngất xỉu trong căn phòng nóng.",
+    "pos": "verb"
+  },
+  {
+    "word": "sneeze",
+    "phonetic": "/sniːz/",
+    "definition": "to suddenly blow air out through your nose and mouth",
+    "translation": "hắt hơi, hắt xì",
+    "exampleSentence": "I sneeze a lot in spring.",
+    "exampleTranslation": "Tôi hắt hơi nhiều vào mùa xuân.",
+    "pos": "verb"
+  },
+  {
+    "word": "vomit",
+    "phonetic": "/ˈvɑːmɪt/",
+    "definition": "to bring food up from your stomach through your mouth",
+    "translation": "nôn, ói",
+    "exampleSentence": "The child vomited after dinner.",
+    "exampleTranslation": "Đứa bé nôn sau bữa tối.",
+    "pos": "verb"
+  },
+  {
+    "word": "diarrhoea",
+    "phonetic": "/ˌdaɪəˈrɪə/",
+    "definition": "an illness in which you often pass watery waste from your body",
+    "translation": "tiêu chảy, bệnh tiêu chảy",
+    "exampleSentence": "Bad water can cause diarrhoea.",
+    "exampleTranslation": "Nước bẩn có thể gây tiêu chảy.",
+    "pos": "noun"
+  },
+  {
+    "word": "allergy",
+    "phonetic": "/ˈælərdʒi/",
+    "definition": "a condition in which a substance makes you ill or gives you a rash",
+    "translation": "dị ứng",
+    "exampleSentence": "I have an allergy to peanuts.",
+    "exampleTranslation": "Tôi bị dị ứng đậu phộng.",
+    "pos": "noun"
+  },
+  {
+    "word": "infection",
+    "phonetic": "/ɪnˈfekʃən/",
+    "definition": "an illness caused by bacteria or a virus",
+    "translation": "nhiễm trùng, sự nhiễm trùng",
+    "exampleSentence": "I have an ear infection.",
+    "exampleTranslation": "Tôi bị nhiễm trùng tai.",
+    "pos": "noun"
+  },
+  {
+    "word": "virus",
+    "phonetic": "/ˈvaɪrəs/",
+    "definition": "a very small living thing that causes illness",
+    "translation": "vi-rút, vi rút",
+    "exampleSentence": "Many children caught the virus.",
+    "exampleTranslation": "Nhiều trẻ em bị nhiễm vi-rút.",
+    "pos": "noun"
+  },
+  {
+    "word": "germ",
+    "phonetic": "/dʒɜːrm/",
+    "definition": "a very small living thing that can make you ill",
+    "translation": "vi trùng, mầm bệnh",
+    "exampleSentence": "Wash your hands to kill germs.",
+    "exampleTranslation": "Hãy rửa tay để diệt vi trùng.",
+    "pos": "noun"
+  },
+  {
+    "word": "stress",
+    "phonetic": "/stres/",
+    "definition": "continuous worry that stops you from relaxing",
+    "translation": "căng thẳng, áp lực",
+    "exampleSentence": "Stress can give you headaches.",
+    "exampleTranslation": "Căng thẳng có thể làm bạn đau đầu.",
+    "pos": "noun"
+  },
+  {
+    "word": "rest",
+    "phonetic": "/rest/",
+    "definition": "a time when you relax or sleep and do nothing tiring",
+    "translation": "sự nghỉ ngơi",
+    "exampleSentence": "You look tired. Take a rest.",
+    "exampleTranslation": "Trông bạn mệt đấy. Nghỉ ngơi chút đi.",
+    "pos": "noun"
+  },
+  {
+    "word": "sleep",
+    "phonetic": "/sliːp/",
+    "definition": "to rest your mind and body, usually at night",
+    "translation": "ngủ",
+    "exampleSentence": "I sleep eight hours every night.",
+    "exampleTranslation": "Đêm nào tôi cũng ngủ tám tiếng.",
+    "pos": "verb"
+  },
+  {
+    "word": "patient",
+    "phonetic": "/ˈpeɪʃənt/",
+    "definition": "a person who is getting medical treatment",
+    "translation": "bệnh nhân",
+    "exampleSentence": "The doctor is with a patient.",
+    "exampleTranslation": "Bác sĩ đang khám cho một bệnh nhân.",
+    "pos": "noun"
+  },
+  {
+    "word": "clinic",
+    "phonetic": "/ˈklɪnɪk/",
+    "definition": "a place where people get medical treatment without staying overnight",
+    "translation": "phòng khám",
+    "exampleSentence": "The clinic opens at eight.",
+    "exampleTranslation": "Phòng khám mở cửa lúc tám giờ.",
+    "pos": "noun"
+  },
+  {
+    "word": "ward",
+    "phonetic": "/wɔːrd/",
+    "definition": "a large room in a hospital where patients stay",
+    "translation": "khoa, phòng bệnh",
+    "exampleSentence": "The nurse walked through the ward.",
+    "exampleTranslation": "Y tá đi qua phòng bệnh.",
+    "pos": "noun"
+  },
+  {
+    "word": "waiting room",
+    "phonetic": "/ˈweɪtɪŋ ruːm/",
+    "definition": "a room where people wait to see a doctor",
+    "translation": "phòng chờ",
+    "exampleSentence": "Please sit in the waiting room.",
+    "exampleTranslation": "Mời bạn ngồi ở phòng chờ.",
+    "pos": "noun"
+  },
+  {
+    "word": "chemist",
+    "phonetic": "/ˈkemɪst/",
+    "definition": "a shop where you can buy medicines",
+    "translation": "hiệu thuốc, nhà thuốc",
+    "exampleSentence": "I bought some tablets at the chemist.",
+    "exampleTranslation": "Tôi mua vài viên thuốc ở hiệu thuốc.",
+    "pos": "noun"
+  },
+  {
+    "word": "emergency",
+    "phonetic": "/ɪˈmɜːrdʒənsi/",
+    "definition": "a dangerous situation that needs action immediately",
+    "translation": "tình huống khẩn cấp, cấp cứu",
+    "exampleSentence": "Call this number in an emergency.",
+    "exampleTranslation": "Hãy gọi số này khi có trường hợp khẩn cấp.",
+    "pos": "noun"
+  },
+  {
+    "word": "accident",
+    "phonetic": "/ˈæksɪdənt/",
+    "definition": "an event in which someone is hurt or something is damaged",
+    "translation": "tai nạn",
+    "exampleSentence": "I had an accident at work.",
+    "exampleTranslation": "Tôi bị tai nạn ở chỗ làm.",
+    "pos": "noun"
+  },
+  {
+    "word": "first aid",
+    "phonetic": "/fɜːrst eɪd/",
+    "definition": "simple medical help given quickly to a hurt person",
+    "translation": "sơ cứu, cấp cứu ban đầu",
+    "exampleSentence": "I learned first aid at school.",
+    "exampleTranslation": "Tôi học sơ cứu ở trường.",
+    "pos": "noun"
+  },
+  {
+    "word": "medical",
+    "phonetic": "/ˈmedɪkəl/",
+    "definition": "connected with medicine and the treatment of illness",
+    "translation": "y tế, thuộc y khoa",
+    "exampleSentence": "You need medical help.",
+    "exampleTranslation": "Bạn cần được trợ giúp y tế.",
+    "pos": "adjective"
+  },
+  {
+    "word": "check-up",
+    "phonetic": "/ˈtʃekʌp/",
+    "definition": "a medical examination to make sure you are healthy",
+    "translation": "khám sức khỏe, kiểm tra sức khỏe",
+    "exampleSentence": "I have a check-up every year.",
+    "exampleTranslation": "Mỗi năm tôi đi khám sức khỏe một lần.",
+    "pos": "noun"
+  },
+  {
+    "word": "medicine",
+    "phonetic": "/ˈmedəsən/",
+    "definition": "a substance you take to treat an illness",
+    "translation": "thuốc",
+    "exampleSentence": "Take this medicine twice a day.",
+    "exampleTranslation": "Hãy uống thuốc này hai lần một ngày.",
+    "pos": "noun"
+  },
+  {
+    "word": "pill",
+    "phonetic": "/pɪl/",
+    "definition": "a small solid piece of medicine that you swallow",
+    "translation": "viên thuốc",
+    "exampleSentence": "I take a pill every morning.",
+    "exampleTranslation": "Sáng nào tôi cũng uống một viên thuốc.",
+    "pos": "noun"
+  },
+  {
+    "word": "painkiller",
+    "phonetic": "/ˈpeɪnˌkɪlər/",
+    "definition": "a medicine that reduces pain",
+    "translation": "thuốc giảm đau",
+    "exampleSentence": "I took a painkiller for my headache.",
+    "exampleTranslation": "Tôi uống thuốc giảm đau vì bị đau đầu.",
+    "pos": "noun"
+  },
+  {
+    "word": "antibiotics",
+    "phonetic": "/ˌæntɪbaɪˈɑːtɪks/",
+    "definition": "drugs that kill bacteria and cure infections",
+    "translation": "thuốc kháng sinh",
+    "exampleSentence": "The doctor gave me antibiotics.",
+    "exampleTranslation": "Bác sĩ cho tôi thuốc kháng sinh.",
+    "pos": "noun"
+  },
+  {
+    "word": "ointment",
+    "phonetic": "/ˈɔɪntmənt/",
+    "definition": "a soft cream you put on your skin to treat it",
+    "translation": "thuốc mỡ, thuốc bôi",
+    "exampleSentence": "Put this ointment on the rash.",
+    "exampleTranslation": "Hãy bôi thuốc mỡ này lên chỗ phát ban.",
+    "pos": "noun"
+  },
+  {
+    "word": "prescription",
+    "phonetic": "/prɪˈskrɪpʃən/",
+    "definition": "a paper on which a doctor writes what medicine you need",
+    "translation": "đơn thuốc",
+    "exampleSentence": "You need a prescription for this medicine.",
+    "exampleTranslation": "Bạn cần có đơn thuốc để mua loại thuốc này.",
+    "pos": "noun"
+  },
+  {
+    "word": "injection",
+    "phonetic": "/ɪnˈdʒekʃən/",
+    "definition": "an act of putting medicine into your body with a needle",
+    "translation": "mũi tiêm, sự tiêm",
+    "exampleSentence": "The nurse gave me an injection.",
+    "exampleTranslation": "Y tá tiêm cho tôi một mũi.",
+    "pos": "noun"
+  },
+  {
+    "word": "vaccine",
+    "phonetic": "/vækˈsiːn/",
+    "definition": "a substance that protects you from a disease",
+    "translation": "vắc-xin, thuốc chủng ngừa",
+    "exampleSentence": "Children get a vaccine against measles.",
+    "exampleTranslation": "Trẻ em được tiêm vắc-xin phòng bệnh sởi.",
+    "pos": "noun"
+  },
+  {
+    "word": "bandage",
+    "phonetic": "/ˈbændɪdʒ/",
+    "definition": "a long piece of cloth you tie around an injury",
+    "translation": "băng, băng gạc",
+    "exampleSentence": "The nurse put a bandage on my arm.",
+    "exampleTranslation": "Y tá quấn băng lên tay tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "plaster",
+    "phonetic": "/ˈplæstər/",
+    "definition": "a small piece of material you stick on your skin to cover a cut",
+    "translation": "băng cá nhân, miếng dán vết thương",
+    "exampleSentence": "I put a plaster on my finger.",
+    "exampleTranslation": "Tôi dán băng cá nhân lên ngón tay.",
+    "pos": "noun"
+  },
+  {
+    "word": "disinfectant",
+    "phonetic": "/ˌdɪsənˈfektənt/",
+    "definition": "a liquid that kills germs",
+    "translation": "thuốc sát trùng, chất khử trùng",
+    "exampleSentence": "Use disinfectant to clean the cut.",
+    "exampleTranslation": "Hãy dùng thuốc sát trùng để rửa vết cắt.",
+    "pos": "noun"
+  },
+  {
+    "word": "thermometer",
+    "phonetic": "/θərˈmɑːmɪtər/",
+    "definition": "a tool that measures how hot your body is",
+    "translation": "nhiệt kế",
+    "exampleSentence": "Put the thermometer under your tongue.",
+    "exampleTranslation": "Hãy đặt nhiệt kế dưới lưỡi.",
+    "pos": "noun"
+  },
+  {
+    "word": "blood pressure",
+    "phonetic": "/blʌd ˈpreʃər/",
+    "definition": "the force with which blood moves around your body",
+    "translation": "huyết áp",
+    "exampleSentence": "The nurse checked my blood pressure.",
+    "exampleTranslation": "Y tá đo huyết áp cho tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "x-ray",
+    "phonetic": "/ˈeks reɪ/",
+    "definition": "a photograph of the inside of your body",
+    "translation": "chụp X-quang, ảnh X-quang",
+    "exampleSentence": "The doctor took an X-ray of my arm.",
+    "exampleTranslation": "Bác sĩ chụp X-quang cánh tay cho tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "operation",
+    "phonetic": "/ˌɑːpəˈreɪʃən/",
+    "definition": "medical treatment in which a doctor cuts into your body",
+    "translation": "ca phẫu thuật, cuộc mổ",
+    "exampleSentence": "I need an operation on my knee.",
+    "exampleTranslation": "Tôi cần phẫu thuật đầu gối.",
+    "pos": "noun"
+  },
+  {
+    "word": "surgery",
+    "phonetic": "/ˈsɜːrdʒəri/",
+    "definition": "medical treatment in which a doctor cuts into your body",
+    "translation": "phẫu thuật",
+    "exampleSentence": "Tom had surgery on his leg.",
+    "exampleTranslation": "Tom đã phải phẫu thuật chân.",
+    "pos": "noun"
+  },
+  {
+    "word": "treat",
+    "phonetic": "/triːt/",
+    "definition": "to try to make an ill person well again",
+    "translation": "điều trị, chữa trị",
+    "exampleSentence": "Doctors treat sick people.",
+    "exampleTranslation": "Bác sĩ chữa trị cho người bệnh.",
+    "pos": "verb"
+  },
+  {
+    "word": "cure",
+    "phonetic": "/kjʊr/",
+    "definition": "to make an illness go away",
+    "translation": "chữa khỏi, chữa trị",
+    "exampleSentence": "Doctors can cure many diseases.",
+    "exampleTranslation": "Bác sĩ có thể chữa khỏi nhiều bệnh.",
+    "pos": "verb"
+  },
+  {
+    "word": "heal",
+    "phonetic": "/hiːl/",
+    "definition": "if a wound or injury heals, it becomes healthy again",
+    "translation": "lành, liền",
+    "exampleSentence": "My arm healed in six weeks.",
+    "exampleTranslation": "Tay tôi lành sau sáu tuần.",
+    "pos": "verb"
+  },
+  {
+    "word": "wheelchair",
+    "phonetic": "/ˈwiːltʃer/",
+    "definition": "a chair with wheels for people who cannot walk",
+    "translation": "xe lăn",
+    "exampleSentence": "My grandmother uses a wheelchair.",
+    "exampleTranslation": "Bà tôi dùng xe lăn.",
+    "pos": "noun"
+  },
+  {
+    "word": "crutches",
+    "phonetic": "/ˈkrʌtʃɪz/",
+    "definition": "two long sticks that help you walk when your leg is hurt",
+    "translation": "nạng, cặp nạng",
+    "exampleSentence": "Tom walked with crutches for a month.",
+    "exampleTranslation": "Tom chống nạng đi suốt một tháng.",
+    "pos": "noun"
+  },
+  {
+    "word": "deaf",
+    "phonetic": "/def/",
+    "definition": "not able to hear, or not able to hear well",
+    "translation": "điếc, khiếm thính",
+    "exampleSentence": "My grandfather is deaf in one ear.",
+    "exampleTranslation": "Ông tôi bị điếc một bên tai.",
+    "pos": "adjective"
+  },
+  {
+    "word": "disabled",
+    "phonetic": "/dɪsˈeɪbəld/",
+    "definition": "not able to use a part of your body fully",
+    "translation": "khuyết tật, tàn tật",
+    "exampleSentence": "The building has a ramp for disabled people.",
+    "exampleTranslation": "Tòa nhà có lối đi cho người khuyết tật.",
+    "pos": "adjective"
+  },
+  {
+    "word": "sick leave",
+    "phonetic": "/sɪk liːv/",
+    "definition": "time you are allowed to stay away from work when ill",
+    "translation": "nghỉ ốm, ngày nghỉ bệnh",
+    "exampleSentence": "I am on sick leave this week.",
+    "exampleTranslation": "Tuần này tôi nghỉ ốm.",
+    "pos": "noun"
+  },
+  {
+    "word": "insurance",
+    "phonetic": "/ɪnˈʃʊrəns/",
+    "definition": "an arrangement in which a company pays your costs if you get ill",
+    "translation": "bảo hiểm",
+    "exampleSentence": "Do you have health insurance?",
+    "exampleTranslation": "Bạn có bảo hiểm y tế không?",
+    "pos": "noun"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "word": "go jogging",
+    "phonetic": "/ˌɡoʊ ˈdʒɑːɡɪŋ/",
+    "definition": "to run slowly for exercise",
+    "translation": "đi chạy bộ",
+    "exampleSentence": "I go jogging in the park.",
+    "exampleTranslation": "Tôi đi chạy bộ trong công viên.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "go swimming",
+    "phonetic": "/ˌɡoʊ ˈswɪmɪŋ/",
+    "definition": "to go to the pool or sea to swim",
+    "translation": "đi bơi",
+    "exampleSentence": "We go swimming on Sundays.",
+    "exampleTranslation": "Chủ nhật chúng tôi đi bơi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "go cycling",
+    "phonetic": "/ˌɡoʊ ˈsaɪklɪŋ/",
+    "definition": "to ride a bike for fun or exercise",
+    "translation": "đi đạp xe",
+    "exampleSentence": "We go cycling by the river.",
+    "exampleTranslation": "Chúng tôi đi đạp xe dọc bờ sông.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "go hiking",
+    "phonetic": "/ˌɡoʊ ˈhaɪkɪŋ/",
+    "definition": "to walk a long way in the countryside",
+    "translation": "đi bộ đường dài",
+    "exampleSentence": "They go hiking in the mountains.",
+    "exampleTranslation": "Họ đi bộ đường dài trên núi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "warm up",
+    "phonetic": "/ˌwɔːrm ˈʌp/",
+    "definition": "to do light exercise before sport",
+    "translation": "khởi động",
+    "exampleSentence": "Warm up before you run.",
+    "exampleTranslation": "Hãy khởi động trước khi chạy.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "cool down",
+    "phonetic": "/ˌkuːl ˈdaʊn/",
+    "definition": "to do light exercise after sport",
+    "translation": "thả lỏng sau khi tập",
+    "exampleSentence": "Walk slowly to cool down.",
+    "exampleTranslation": "Hãy đi bộ chậm để thả lỏng cơ thể.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "stretch your legs",
+    "phonetic": "/ˌstretʃ jər ˈleɡz/",
+    "definition": "to move your legs by walking after sitting for a long time",
+    "translation": "duỗi chân, đi lại cho đỡ mỏi",
+    "exampleSentence": "Let's stop and stretch our legs.",
+    "exampleTranslation": "Mình dừng lại duỗi chân một chút nhé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "do push-ups",
+    "phonetic": "/ˌduː ˈpʊʃ ˌʌps/",
+    "definition": "to lift your body up and down with your arms",
+    "translation": "chống đẩy",
+    "exampleSentence": "I do twenty push-ups every day.",
+    "exampleTranslation": "Ngày nào tôi cũng chống đẩy hai mươi cái.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "do sit-ups",
+    "phonetic": "/ˌduː ˈsɪt ˌʌps/",
+    "definition": "to lift your upper body from lying to sitting again and again",
+    "translation": "gập bụng",
+    "exampleSentence": "He does fifty sit-ups.",
+    "exampleTranslation": "Bạn ấy gập bụng năm mươi cái.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "lift weights",
+    "phonetic": "/ˌlɪft ˈweɪts/",
+    "definition": "to lift heavy things to make your muscles strong",
+    "translation": "nâng tạ",
+    "exampleSentence": "He lifts weights at the gym.",
+    "exampleTranslation": "Bạn ấy nâng tạ ở phòng gym.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "play football",
+    "phonetic": "/ˌpleɪ ˈfʊtbɔːl/",
+    "definition": "to play the game of football",
+    "translation": "chơi bóng đá",
+    "exampleSentence": "We play football after school.",
+    "exampleTranslation": "Tan học chúng tôi chơi bóng đá.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "play basketball",
+    "phonetic": "/ˌpleɪ ˈbæskɪtbɔːl/",
+    "definition": "to play the game of basketball",
+    "translation": "chơi bóng rổ",
+    "exampleSentence": "He plays basketball on Saturdays.",
+    "exampleTranslation": "Thứ Bảy bạn ấy chơi bóng rổ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "play tennis",
+    "phonetic": "/ˌpleɪ ˈtenɪs/",
+    "definition": "to play the game of tennis",
+    "translation": "chơi quần vợt",
+    "exampleSentence": "They play tennis every weekend.",
+    "exampleTranslation": "Cuối tuần nào họ cũng chơi quần vợt.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "play badminton",
+    "phonetic": "/ˌpleɪ ˈbædmɪntən/",
+    "definition": "to play the game of badminton",
+    "translation": "chơi cầu lông",
+    "exampleSentence": "We play badminton in the evening.",
+    "exampleTranslation": "Buổi tối chúng tôi chơi cầu lông.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "join a club",
+    "phonetic": "/ˌdʒɔɪn ə ˈklʌb/",
+    "definition": "to become a member of a club",
+    "translation": "tham gia câu lạc bộ",
+    "exampleSentence": "I joined a running club.",
+    "exampleTranslation": "Tôi tham gia một câu lạc bộ chạy bộ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "join a gym",
+    "phonetic": "/ˌdʒɔɪn ə ˈdʒɪm/",
+    "definition": "to become a member of a gym",
+    "translation": "đăng ký phòng gym",
+    "exampleSentence": "I'm going to join a gym.",
+    "exampleTranslation": "Tôi định đăng ký một phòng gym.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "score a goal",
+    "phonetic": "/ˌskɔːr ə ˈɡoʊl/",
+    "definition": "to put the ball in the goal",
+    "translation": "ghi bàn",
+    "exampleSentence": "He scored a goal in the last minute.",
+    "exampleTranslation": "Bạn ấy ghi bàn ở phút cuối cùng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "win a match",
+    "phonetic": "/ˌwɪn ə ˈmætʃ/",
+    "definition": "to be the better team or player in a game",
+    "translation": "thắng một trận",
+    "exampleSentence": "Our team won the match.",
+    "exampleTranslation": "Đội của chúng tôi thắng trận đấu.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "lose a game",
+    "phonetic": "/ˌluːz ə ˈɡeɪm/",
+    "definition": "to not win a game",
+    "translation": "thua một trận",
+    "exampleSentence": "We lost the game by one point.",
+    "exampleTranslation": "Chúng tôi thua trận đó một điểm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "get out of breath",
+    "phonetic": "/ˌɡet ˌaʊt əv ˈbreθ/",
+    "definition": "to breathe hard after exercise",
+    "translation": "hụt hơi, thở dốc",
+    "exampleSentence": "I get out of breath on the stairs.",
+    "exampleTranslation": "Leo cầu thang là tôi bị hụt hơi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pull a muscle",
+    "phonetic": "/ˌpʊl ə ˈmʌsl/",
+    "definition": "to hurt a muscle by using it too hard",
+    "translation": "bị căng cơ",
+    "exampleSentence": "He pulled a muscle in his leg.",
+    "exampleTranslation": "Bạn ấy bị căng cơ ở chân.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "take a rest",
+    "phonetic": "/ˌteɪk ə ˈrest/",
+    "definition": "to stop and relax for a while",
+    "translation": "nghỉ ngơi một lát",
+    "exampleSentence": "Let's take a rest under the tree.",
+    "exampleTranslation": "Mình nghỉ một lát dưới gốc cây nhé.",
+    "pos": "verb phrase"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "word": "turn off the lights",
+    "phonetic": "/ˌtɜːrn ˌɔːf ðə ˈlaɪts/",
+    "definition": "to switch off the lights",
+    "translation": "tắt đèn",
+    "exampleSentence": "Turn off the lights when you leave.",
+    "exampleTranslation": "Nhớ tắt đèn khi ra khỏi phòng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "switch off the light",
+    "phonetic": "/ˌswɪtʃ ˌɔːf ðə ˈlaɪt/",
+    "definition": "to turn off a light with a switch",
+    "translation": "tắt đèn",
+    "exampleSentence": "Switch off the light and go to sleep.",
+    "exampleTranslation": "Tắt đèn rồi đi ngủ đi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "check the doors",
+    "phonetic": "/ˌtʃek ðə ˈdɔːrz/",
+    "definition": "to make sure the doors are locked",
+    "translation": "kiểm tra cửa",
+    "exampleSentence": "I check the doors before bed.",
+    "exampleTranslation": "Trước khi đi ngủ tôi kiểm tra cửa.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "close the curtains",
+    "phonetic": "/ˌkloʊz ðə ˈkɜːrtnz/",
+    "definition": "to pull the curtains across the window",
+    "translation": "kéo rèm cửa",
+    "exampleSentence": "Close the curtains. It's dark.",
+    "exampleTranslation": "Kéo rèm cửa lại. Trời tối rồi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "put on pyjamas",
+    "phonetic": "/ˌpʊt ɑːn pəˈdʒɑːməz/",
+    "definition": "to put on clothes for sleeping",
+    "translation": "mặc đồ ngủ",
+    "exampleSentence": "I put on pyjamas at nine.",
+    "exampleTranslation": "Chín giờ tôi mặc đồ ngủ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "get into bed",
+    "phonetic": "/ˌɡet ˌɪntu ˈbed/",
+    "definition": "to go into your bed",
+    "translation": "lên giường",
+    "exampleSentence": "The children get into bed at eight.",
+    "exampleTranslation": "Tám giờ bọn trẻ lên giường.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "get comfortable",
+    "phonetic": "/ˌɡet ˈkʌmftəbl/",
+    "definition": "to find a position that feels good",
+    "translation": "nằm cho thoải mái",
+    "exampleSentence": "I get comfortable and close my eyes.",
+    "exampleTranslation": "Tôi nằm cho thoải mái rồi nhắm mắt.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pull up the blanket",
+    "phonetic": "/ˌpʊl ˌʌp ðə ˈblæŋkɪt/",
+    "definition": "to move the blanket up to cover you",
+    "translation": "kéo chăn lên",
+    "exampleSentence": "She pulled up the blanket.",
+    "exampleTranslation": "Cô ấy kéo chăn lên.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "turn off the lamp",
+    "phonetic": "/ˌtɜːrn ˌɔːf ðə ˈlæmp/",
+    "definition": "to switch off the lamp by your bed",
+    "translation": "tắt đèn ngủ",
+    "exampleSentence": "I turn off the lamp and sleep.",
+    "exampleTranslation": "Tôi tắt đèn ngủ rồi đi ngủ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "read before bed",
+    "phonetic": "/ˌriːd bɪˌfɔːr ˈbed/",
+    "definition": "to read a book before you sleep",
+    "translation": "đọc sách trước khi ngủ",
+    "exampleSentence": "I read before bed every night.",
+    "exampleTranslation": "Đêm nào tôi cũng đọc sách trước khi ngủ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "say good night",
+    "phonetic": "/ˌseɪ ɡʊd ˈnaɪt/",
+    "definition": "to wish someone a good sleep",
+    "translation": "chúc ngủ ngon",
+    "exampleSentence": "We say good night to the kids.",
+    "exampleTranslation": "Chúng tôi chúc các con ngủ ngon.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "close your eyes",
+    "phonetic": "/ˌkloʊz jər ˈaɪz/",
+    "definition": "to shut your eyes",
+    "translation": "nhắm mắt",
+    "exampleSentence": "Close your eyes and relax.",
+    "exampleTranslation": "Nhắm mắt lại và thư giãn đi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "can't sleep",
+    "phonetic": "/ˌkænt ˈsliːp/",
+    "definition": "to be unable to fall asleep",
+    "translation": "không ngủ được",
+    "exampleSentence": "I can't sleep when it is hot.",
+    "exampleTranslation": "Trời nóng là tôi không ngủ được.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "toss and turn",
+    "phonetic": "/ˌtɔːs ən ˈtɜːrn/",
+    "definition": "to move around in bed because you cannot sleep",
+    "translation": "trằn trọc",
+    "exampleSentence": "I tossed and turned all night.",
+    "exampleTranslation": "Tôi trằn trọc cả đêm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "lie awake",
+    "phonetic": "/ˌlaɪ əˈweɪk/",
+    "definition": "to stay awake in bed",
+    "translation": "nằm thao thức",
+    "exampleSentence": "I lay awake thinking about work.",
+    "exampleTranslation": "Tôi nằm thao thức nghĩ về công việc.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "count sheep",
+    "phonetic": "/ˌkaʊnt ˈʃiːp/",
+    "definition": "to count in your mind to help you fall asleep",
+    "translation": "đếm cừu cho dễ ngủ",
+    "exampleSentence": "I counted sheep but I was still awake.",
+    "exampleTranslation": "Tôi đếm cừu mà vẫn không ngủ được.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "snore",
+    "phonetic": "/snɔːr/",
+    "definition": "to breathe noisily while you sleep",
+    "translation": "ngáy",
+    "exampleSentence": "My husband snores loudly.",
+    "exampleTranslation": "Chồng tôi ngáy rất to.",
+    "pos": "verb"
+  },
+  {
+    "word": "have a dream",
+    "phonetic": "/hæv ə ˈdriːm/",
+    "definition": "to see pictures and stories in your mind while you sleep",
+    "translation": "nằm mơ",
+    "exampleSentence": "I had a strange dream last night.",
+    "exampleTranslation": "Đêm qua tôi nằm mơ một giấc mơ lạ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "have a nightmare",
+    "phonetic": "/hæv ə ˈnaɪtmer/",
+    "definition": "to have a bad dream",
+    "translation": "gặp ác mộng",
+    "exampleSentence": "The child had a nightmare.",
+    "exampleTranslation": "Đứa trẻ gặp ác mộng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "talk in your sleep",
+    "phonetic": "/ˌtɔːk ɪn jər ˈsliːp/",
+    "definition": "to speak while you are asleep",
+    "translation": "nói mớ",
+    "exampleSentence": "She talks in her sleep.",
+    "exampleTranslation": "Cô ấy hay nói mớ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "wake up in the night",
+    "phonetic": "/ˌweɪk ˌʌp ɪn ðə ˈnaɪt/",
+    "definition": "to wake while it is still dark",
+    "translation": "thức giấc giữa đêm",
+    "exampleSentence": "The baby wakes up in the night.",
+    "exampleTranslation": "Em bé thức giấc giữa đêm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "go back to sleep",
+    "phonetic": "/ˌɡoʊ ˌbæk tə ˈsliːp/",
+    "definition": "to sleep again after waking",
+    "translation": "ngủ lại",
+    "exampleSentence": "I couldn't go back to sleep.",
+    "exampleTranslation": "Tôi không ngủ lại được.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "sleep badly",
+    "phonetic": "/ˌsliːp ˈbædli/",
+    "definition": "to not sleep well",
+    "translation": "ngủ không ngon",
+    "exampleSentence": "I slept badly last night.",
+    "exampleTranslation": "Tối qua tôi ngủ không ngon.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "go to bed early",
+    "phonetic": "/ˌɡoʊ tə ˌbed ˈɜːrli/",
+    "definition": "to go to bed before your usual time",
+    "translation": "đi ngủ sớm",
+    "exampleSentence": "I go to bed early on school nights.",
+    "exampleTranslation": "Những đêm có đi học tôi đi ngủ sớm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "go to bed late",
+    "phonetic": "/ˌɡoʊ tə ˌbed ˈleɪt/",
+    "definition": "to go to bed after your usual time",
+    "translation": "đi ngủ muộn",
+    "exampleSentence": "I go to bed late on weekends.",
+    "exampleTranslation": "Cuối tuần tôi đi ngủ muộn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "have an early night",
+    "phonetic": "/hæv ən ˌɜːrli ˈnaɪt/",
+    "definition": "to go to bed earlier than usual",
+    "translation": "đi ngủ sớm một hôm",
+    "exampleSentence": "I'm tired. I'll have an early night.",
+    "exampleTranslation": "Tôi mệt rồi. Tối nay tôi đi ngủ sớm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "sleep through the night",
+    "phonetic": "/ˌsliːp θruː ðə ˈnaɪt/",
+    "definition": "to sleep all night without waking",
+    "translation": "ngủ một mạch đến sáng",
+    "exampleSentence": "The baby sleeps through the night now.",
+    "exampleTranslation": "Giờ em bé ngủ một mạch đến sáng.",
+    "pos": "verb phrase"
+  }
+]

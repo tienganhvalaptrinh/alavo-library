@@ -1,0 +1,182 @@
+[
+  {
+    "word": "go to the supermarket",
+    "phonetic": "/ˌɡoʊ tə ðə ˈsuːpərmɑːrkɪt/",
+    "definition": "to go to a big shop that sells food and other goods",
+    "translation": "đi siêu thị",
+    "exampleSentence": "I go to the supermarket on Sunday morning.",
+    "exampleTranslation": "Sáng Chủ nhật tôi đi siêu thị.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "make a shopping list",
+    "phonetic": "/ˌmeɪk ə ˈʃɑːpɪŋ ˌlɪst/",
+    "definition": "to write down what you need to buy",
+    "translation": "lập danh sách mua sắm",
+    "exampleSentence": "I make a shopping list before I go out.",
+    "exampleTranslation": "Tôi lập danh sách mua sắm trước khi ra ngoài.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "push the trolley",
+    "phonetic": "/ˌpʊʃ ðə ˈtrɑːli/",
+    "definition": "to move the shopping trolley round the shop",
+    "translation": "đẩy xe đẩy hàng",
+    "exampleSentence": "My son likes to push the trolley.",
+    "exampleTranslation": "Con trai tôi thích đẩy xe đẩy hàng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "carry a basket",
+    "phonetic": "/ˌkæri ə ˈbæskɪt/",
+    "definition": "to hold a shopping basket while you shop",
+    "translation": "xách giỏ mua hàng",
+    "exampleSentence": "I only need a few things, so I carry a basket.",
+    "exampleTranslation": "Tôi chỉ cần mua ít đồ nên xách giỏ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "check the price",
+    "phonetic": "/ˌtʃek ðə ˈpraɪs/",
+    "definition": "to look at how much something costs",
+    "translation": "xem giá",
+    "exampleSentence": "I always check the price first.",
+    "exampleTranslation": "Lúc nào tôi cũng xem giá trước.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "look for a bargain",
+    "phonetic": "/ˌlʊk fər ə ˈbɑːrɡən/",
+    "definition": "to try to find something cheap and good",
+    "translation": "săn hàng giá hời",
+    "exampleSentence": "We look for a bargain at the market.",
+    "exampleTranslation": "Chúng tôi đi chợ để săn hàng giá hời.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "wait in the queue",
+    "phonetic": "/ˌweɪt ɪn ðə ˈkjuː/",
+    "definition": "to stand in a line and wait your turn",
+    "translation": "đứng chờ trong hàng",
+    "exampleSentence": "We waited in the queue for ten minutes.",
+    "exampleTranslation": "Chúng tôi đứng chờ trong hàng mười phút.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "stand in line",
+    "phonetic": "/ˌstænd ɪn ˈlaɪn/",
+    "definition": "to wait in a line for your turn; American English",
+    "translation": "xếp hàng chờ",
+    "exampleSentence": "People stand in line outside the shop.",
+    "exampleTranslation": "Mọi người xếp hàng bên ngoài cửa hàng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pay at the checkout",
+    "phonetic": "/ˌpeɪ ət ðə ˈtʃekaʊt/",
+    "definition": "to pay at the place in the shop where you give money",
+    "translation": "thanh toán ở quầy tính tiền",
+    "exampleSentence": "You pay at the checkout by the door.",
+    "exampleTranslation": "Bạn thanh toán ở quầy tính tiền gần cửa.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pack your bags",
+    "phonetic": "/ˌpæk jər ˈbæɡz/",
+    "definition": "to put the things you bought into bags",
+    "translation": "cho hàng vào túi",
+    "exampleSentence": "The cashier helped me pack my bags.",
+    "exampleTranslation": "Nhân viên thu ngân giúp tôi cho hàng vào túi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "bring your own bag",
+    "phonetic": "/ˌbrɪŋ jər ˌoʊn ˈbæɡ/",
+    "definition": "to take your own shopping bag to the shop",
+    "translation": "mang túi riêng đi mua sắm",
+    "exampleSentence": "Please bring your own bag to the market.",
+    "exampleTranslation": "Hãy mang túi riêng khi đi chợ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "use a coupon",
+    "phonetic": "/ˌjuːz ə ˈkuːpɑːn/",
+    "definition": "to use a small paper or code that gives you a lower price",
+    "translation": "dùng phiếu giảm giá",
+    "exampleSentence": "I used a coupon and saved five dollars.",
+    "exampleTranslation": "Tôi dùng phiếu giảm giá và tiết kiệm được năm đô.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "get a refund",
+    "phonetic": "/ˌɡet ə ˈriːfʌnd/",
+    "definition": "to get your money back for something you returned",
+    "translation": "được hoàn tiền",
+    "exampleSentence": "I got a refund for the broken lamp.",
+    "exampleTranslation": "Tôi được hoàn tiền cho chiếc đèn bị hỏng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "ask for a different size",
+    "phonetic": "/ˌæsk fər ə ˌdɪfrənt ˈsaɪz/",
+    "definition": "to ask the shop for a bigger or smaller size",
+    "translation": "hỏi size khác",
+    "exampleSentence": "Can I ask for a different size?",
+    "exampleTranslation": "Cho tôi hỏi size khác được không?",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "wrap a gift",
+    "phonetic": "/ˌræp ə ˈɡɪft/",
+    "definition": "to cover a present with paper",
+    "translation": "gói quà",
+    "exampleSentence": "The shop will wrap a gift for you.",
+    "exampleTranslation": "Cửa hàng sẽ gói quà giúp bạn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "shop online",
+    "phonetic": "/ˌʃɑːp ɑːnˈlaɪn/",
+    "definition": "to buy things on the internet",
+    "translation": "mua sắm trực tuyến",
+    "exampleSentence": "I shop online because it saves time.",
+    "exampleTranslation": "Tôi mua sắm trực tuyến vì tiết kiệm thời gian.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "track a parcel",
+    "phonetic": "/ˌtræk ə ˈpɑːrsl/",
+    "definition": "to follow where a parcel is on its way to you",
+    "translation": "theo dõi bưu kiện",
+    "exampleSentence": "You can track a parcel on the website.",
+    "exampleTranslation": "Bạn có thể theo dõi bưu kiện trên trang web.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "sign for a parcel",
+    "phonetic": "/ˌsaɪn fər ə ˈpɑːrsl/",
+    "definition": "to write your name to show you received a parcel",
+    "translation": "ký nhận bưu kiện",
+    "exampleSentence": "You need to sign for a parcel.",
+    "exampleTranslation": "Bạn cần ký nhận bưu kiện.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "window-shop",
+    "phonetic": "/ˈwɪndoʊ ˌʃɑːp/",
+    "definition": "to look at things in shop windows without buying",
+    "translation": "đi ngắm hàng, xem đồ không mua",
+    "exampleSentence": "We window-shop on the weekend.",
+    "exampleTranslation": "Cuối tuần chúng tôi đi ngắm hàng.",
+    "pos": "verb"
+  },
+  {
+    "word": "haggle",
+    "phonetic": "/ˈhæɡl/",
+    "definition": "to argue about a price to make it lower",
+    "translation": "mặc cả",
+    "exampleSentence": "You can haggle with the sellers at the market.",
+    "exampleTranslation": "Bạn có thể mặc cả với người bán ở chợ.",
+    "pos": "verb"
+  }
+]

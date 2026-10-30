@@ -1,0 +1,227 @@
+[
+  {
+    "word": "get out of bed",
+    "phonetic": "/ˌɡet ˌaʊt əv ˈbed/",
+    "definition": "to leave your bed after sleeping",
+    "translation": "ra khỏi giường",
+    "exampleSentence": "It is hard to get out of bed on cold mornings.",
+    "exampleTranslation": "Những buổi sáng lạnh rất khó ra khỏi giường.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "stretch",
+    "phonetic": "/stretʃ/",
+    "definition": "to push your arms or legs out to their full length",
+    "translation": "duỗi người, vươn vai",
+    "exampleSentence": "I stretch my arms when I get out of bed.",
+    "exampleTranslation": "Tôi vươn vai khi ra khỏi giường.",
+    "pos": "verb"
+  },
+  {
+    "word": "yawn",
+    "phonetic": "/jɔːn/",
+    "definition": "to open your mouth wide and breathe in because you are tired",
+    "translation": "ngáp",
+    "exampleSentence": "I yawn a lot in the morning.",
+    "exampleTranslation": "Buổi sáng tôi ngáp rất nhiều.",
+    "pos": "verb"
+  },
+  {
+    "word": "rub your eyes",
+    "phonetic": "/ˌrʌb jər ˈaɪz/",
+    "definition": "to press and move your hands on your eyes, often when sleepy",
+    "translation": "dụi mắt",
+    "exampleSentence": "The child rubbed her eyes and sat up.",
+    "exampleTranslation": "Đứa bé dụi mắt rồi ngồi dậy.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "turn off the alarm",
+    "phonetic": "/ˌtɜːrn ˌɔːf ði əˈlɑːrm/",
+    "definition": "to stop the alarm clock from ringing",
+    "translation": "tắt báo thức",
+    "exampleSentence": "I turn off the alarm and go back to sleep.",
+    "exampleTranslation": "Tôi tắt báo thức rồi ngủ tiếp.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "set the alarm",
+    "phonetic": "/ˌset ði əˈlɑːrm/",
+    "definition": "to choose the time when the alarm will ring",
+    "translation": "đặt báo thức",
+    "exampleSentence": "I set the alarm for six o'clock.",
+    "exampleTranslation": "Tôi đặt báo thức lúc sáu giờ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "hit the snooze button",
+    "phonetic": "/ˌhɪt ðə ˈsnuːz ˌbʌtn/",
+    "definition": "to press the button that lets you sleep a few more minutes",
+    "translation": "bấm báo lại, ngủ thêm vài phút",
+    "exampleSentence": "I always hit the snooze button twice.",
+    "exampleTranslation": "Lần nào tôi cũng bấm báo lại hai lần.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "open the curtains",
+    "phonetic": "/ˌoʊpən ðə ˈkɜːrtnz/",
+    "definition": "to pull the curtains apart to let light in",
+    "translation": "kéo rèm ra, mở rèm",
+    "exampleSentence": "She opens the curtains to let in the sun.",
+    "exampleTranslation": "Cô ấy mở rèm để đón ánh nắng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "draw the curtains",
+    "phonetic": "/ˌdrɔː ðə ˈkɜːrtnz/",
+    "definition": "to close the curtains by pulling them across a window",
+    "translation": "kéo rèm lại, đóng rèm",
+    "exampleSentence": "Please draw the curtains. The room is too bright.",
+    "exampleTranslation": "Làm ơn kéo rèm lại. Phòng sáng quá.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "check the time",
+    "phonetic": "/ˌtʃek ðə ˈtaɪm/",
+    "definition": "to look at a clock or watch to see what time it is",
+    "translation": "xem giờ, kiểm tra giờ",
+    "exampleSentence": "I check the time on my phone.",
+    "exampleTranslation": "Tôi xem giờ trên điện thoại.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "look in the mirror",
+    "phonetic": "/ˌlʊk ɪn ðə ˈmɪrər/",
+    "definition": "to look at yourself in a mirror",
+    "translation": "soi gương",
+    "exampleSentence": "He looks in the mirror before he leaves.",
+    "exampleTranslation": "Trước khi ra khỏi nhà, bạn ấy soi gương.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "go to the bathroom",
+    "phonetic": "/ˌɡoʊ tə ðə ˈbæθruːm/",
+    "definition": "to go to the toilet, or to the room with a toilet",
+    "translation": "đi vệ sinh, vào nhà tắm",
+    "exampleSentence": "I go to the bathroom as soon as I wake up.",
+    "exampleTranslation": "Tôi đi vệ sinh ngay khi thức dậy.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "brush your hair",
+    "phonetic": "/ˌbrʌʃ jər ˈher/",
+    "definition": "to make your hair tidy with a brush",
+    "translation": "chải tóc bằng bàn chải",
+    "exampleSentence": "She brushes her hair every morning.",
+    "exampleTranslation": "Sáng nào cô ấy cũng chải tóc.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "tie your hair back",
+    "phonetic": "/ˌtaɪ jər ˈher ˌbæk/",
+    "definition": "to fasten your hair behind your head",
+    "translation": "buộc tóc ra sau",
+    "exampleSentence": "I tie my hair back when I cook.",
+    "exampleTranslation": "Tôi buộc tóc ra sau khi nấu ăn.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "wash your face",
+    "phonetic": "/ˌwɑːʃ jər ˈfeɪs/",
+    "definition": "to clean your face with water and soap",
+    "translation": "rửa mặt",
+    "exampleSentence": "I wash my face with cold water.",
+    "exampleTranslation": "Tôi rửa mặt bằng nước lạnh.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "splash water on your face",
+    "phonetic": "/ˌsplæʃ ˈwɔːtər ɑːn jər ˈfeɪs/",
+    "definition": "to throw water lightly onto your face",
+    "translation": "vã nước lên mặt",
+    "exampleSentence": "I splash water on my face to wake up.",
+    "exampleTranslation": "Tôi vã nước lên mặt cho tỉnh ngủ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "dry your face",
+    "phonetic": "/ˌdraɪ jər ˈfeɪs/",
+    "definition": "to remove water from your face with a towel",
+    "translation": "lau khô mặt",
+    "exampleSentence": "Dry your face with a clean towel.",
+    "exampleTranslation": "Hãy lau khô mặt bằng khăn sạch.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "put on lotion",
+    "phonetic": "/ˌpʊt ɑːn ˈloʊʃn/",
+    "definition": "to rub a soft cream on your skin",
+    "translation": "thoa kem dưỡng da",
+    "exampleSentence": "I put on lotion after I shower.",
+    "exampleTranslation": "Tôi thoa kem dưỡng sau khi tắm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "put on sunscreen",
+    "phonetic": "/ˌpʊt ɑːn ˈsʌnskriːn/",
+    "definition": "to rub a cream on your skin to protect it from the sun",
+    "translation": "thoa kem chống nắng",
+    "exampleSentence": "Put on sunscreen before you go out.",
+    "exampleTranslation": "Hãy thoa kem chống nắng trước khi ra ngoài.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "take your vitamins",
+    "phonetic": "/ˌteɪk jər ˈvaɪtəmɪnz/",
+    "definition": "to swallow vitamin tablets",
+    "translation": "uống vitamin",
+    "exampleSentence": "I take my vitamins with breakfast.",
+    "exampleTranslation": "Tôi uống vitamin cùng bữa sáng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "weigh yourself",
+    "phonetic": "/ˌweɪ jərˈself/",
+    "definition": "to find out how heavy you are using scales",
+    "translation": "cân mình, tự cân",
+    "exampleSentence": "I weigh myself every Monday.",
+    "exampleTranslation": "Thứ Hai nào tôi cũng tự cân.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "check your phone",
+    "phonetic": "/ˌtʃek jər ˈfoʊn/",
+    "definition": "to look at your phone for messages or news",
+    "translation": "xem điện thoại",
+    "exampleSentence": "I check my phone as soon as I wake up.",
+    "exampleTranslation": "Tôi xem điện thoại ngay khi thức dậy.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "make a cup of coffee",
+    "phonetic": "/ˌmeɪk ə ˌkʌp əv ˈkɔːfi/",
+    "definition": "to prepare coffee in a cup",
+    "translation": "pha một tách cà phê",
+    "exampleSentence": "I make a cup of coffee before work.",
+    "exampleTranslation": "Tôi pha một tách cà phê trước khi đi làm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "leave the house",
+    "phonetic": "/ˌliːv ðə ˈhaʊs/",
+    "definition": "to go out of your home",
+    "translation": "ra khỏi nhà",
+    "exampleSentence": "We leave the house at seven thirty.",
+    "exampleTranslation": "Chúng tôi ra khỏi nhà lúc bảy rưỡi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "lock up",
+    "phonetic": "/ˌlɑːk ˈʌp/",
+    "definition": "to lock all the doors and windows of a building",
+    "translation": "khóa cửa nhà, khóa hết cửa",
+    "exampleSentence": "He locks up and walks to the bus stop.",
+    "exampleTranslation": "Bạn ấy khóa cửa rồi đi bộ ra trạm xe buýt.",
+    "pos": "verb phrase"
+  }
+]

@@ -1,0 +1,839 @@
+[
+  {
+    "word": "T-shirt",
+    "phonetic": "/ˈtiː ʃɜːrt/",
+    "definition": "a soft shirt with short sleeves and no collar",
+    "translation": "áo phông, áo thun",
+    "exampleSentence": "Lan was wearing jeans and a T-shirt.",
+    "exampleTranslation": "Lan đang mặc quần jean và áo phông.",
+    "pos": "noun"
+  },
+  {
+    "word": "shirt",
+    "phonetic": "/ʃɜːrt/",
+    "definition": "a piece of clothing with a collar and buttons down the front",
+    "translation": "áo sơ mi",
+    "exampleSentence": "I have to wear a shirt and tie to work.",
+    "exampleTranslation": "Tôi phải mặc áo sơ mi và thắt cà vạt đi làm.",
+    "pos": "noun"
+  },
+  {
+    "word": "blouse",
+    "phonetic": "/blaʊs/",
+    "definition": "a shirt for women",
+    "translation": "áo kiểu nữ, áo sơ mi nữ",
+    "exampleSentence": "Lan wore a white silk blouse.",
+    "exampleTranslation": "Lan mặc một chiếc áo kiểu lụa trắng.",
+    "pos": "noun"
+  },
+  {
+    "word": "sweater",
+    "phonetic": "/ˈswetər/",
+    "definition": "a warm piece of clothing with long sleeves, made of wool or cotton",
+    "translation": "áo len",
+    "exampleSentence": "Put on a sweater, it is cold.",
+    "exampleTranslation": "Mặc áo len vào đi, trời lạnh đấy.",
+    "pos": "noun"
+  },
+  {
+    "word": "jumper",
+    "phonetic": "/ˈdʒʌmpər/",
+    "definition": "a piece of clothing made of wool that covers the top half of your body",
+    "translation": "áo len chui đầu, áo len",
+    "exampleSentence": "My grandmother knitted me a blue jumper.",
+    "exampleTranslation": "Bà tôi đã đan cho tôi một chiếc áo len màu xanh.",
+    "pos": "noun"
+  },
+  {
+    "word": "hoodie",
+    "phonetic": "/ˈhʊdi/",
+    "definition": "a loose jacket or top made of soft material, with a hood",
+    "translation": "áo hoodie, áo nỉ có mũ",
+    "exampleSentence": "I wear a hoodie when it is cool.",
+    "exampleTranslation": "Tôi mặc áo hoodie khi trời mát.",
+    "pos": "noun"
+  },
+  {
+    "word": "cardigan",
+    "phonetic": "/ˈkɑːrdɪɡən/",
+    "definition": "a sweater that fastens at the front with buttons or a zip",
+    "translation": "áo len cài cúc, áo cardigan",
+    "exampleSentence": "Take a cardigan in case it gets cold.",
+    "exampleTranslation": "Hãy mang theo áo cardigan phòng khi trời lạnh.",
+    "pos": "noun"
+  },
+  {
+    "word": "jacket",
+    "phonetic": "/ˈdʒækɪt/",
+    "definition": "a short light coat",
+    "translation": "áo khoác ngắn, áo jacket",
+    "exampleSentence": "I left my jacket on the chair.",
+    "exampleTranslation": "Tôi để quên áo khoác trên ghế.",
+    "pos": "noun"
+  },
+  {
+    "word": "coat",
+    "phonetic": "/koʊt/",
+    "definition": "a piece of clothing with long sleeves that you wear over other clothes to keep warm",
+    "translation": "áo khoác dài, áo choàng",
+    "exampleSentence": "Put your coat on, it is cold outside.",
+    "exampleTranslation": "Mặc áo khoác vào đi, bên ngoài lạnh đấy.",
+    "pos": "noun"
+  },
+  {
+    "word": "raincoat",
+    "phonetic": "/ˈreɪnkoʊt/",
+    "definition": "a coat that you wear to keep off the rain",
+    "translation": "áo mưa",
+    "exampleSentence": "Take your raincoat, it might rain.",
+    "exampleTranslation": "Mang theo áo mưa đi, trời có thể mưa.",
+    "pos": "noun"
+  },
+  {
+    "word": "suit",
+    "phonetic": "/suːt/",
+    "definition": "a set of clothes of the same material, usually a jacket with trousers or a skirt",
+    "translation": "bộ com-lê, bộ vest",
+    "exampleSentence": "I wore a dark suit to the interview.",
+    "exampleTranslation": "Tôi mặc bộ com-lê tối màu đi phỏng vấn.",
+    "pos": "noun"
+  },
+  {
+    "word": "dress",
+    "phonetic": "/dres/",
+    "definition": "a piece of clothing for a woman or girl that covers the body and legs",
+    "translation": "váy liền, đầm",
+    "exampleSentence": "Lan wore a long red dress.",
+    "exampleTranslation": "Lan mặc một chiếc váy liền dài màu đỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "skirt",
+    "phonetic": "/skɜːrt/",
+    "definition": "a piece of clothing that hangs down from the waist, worn by women and girls",
+    "translation": "chân váy, váy",
+    "exampleSentence": "Your skirt is too short for school.",
+    "exampleTranslation": "Chân váy của bạn quá ngắn để mặc đi học.",
+    "pos": "noun"
+  },
+  {
+    "word": "trousers",
+    "phonetic": "/ˈtraʊzərz/",
+    "definition": "a piece of clothing that covers your legs and has a separate part for each leg",
+    "translation": "quần dài, quần tây",
+    "exampleSentence": "My trousers are too long.",
+    "exampleTranslation": "Quần của tôi dài quá.",
+    "pos": "noun"
+  },
+  {
+    "word": "pants",
+    "phonetic": "/pænts/",
+    "definition": "trousers",
+    "translation": "quần dài, quần",
+    "exampleSentence": "I wore dark blue pants and a white sweater.",
+    "exampleTranslation": "Tôi mặc quần dài xanh đậm và áo len trắng.",
+    "pos": "noun"
+  },
+  {
+    "word": "jeans",
+    "phonetic": "/dʒiːnz/",
+    "definition": "trousers made of denim, a strong blue cotton cloth",
+    "translation": "quần jean, quần bò",
+    "exampleSentence": "I wear jeans almost every day.",
+    "exampleTranslation": "Tôi mặc quần jean hầu như ngày nào.",
+    "pos": "noun"
+  },
+  {
+    "word": "shorts",
+    "phonetic": "/ʃɔːrts/",
+    "definition": "short trousers that end at or above the knees",
+    "translation": "quần short, quần đùi",
+    "exampleSentence": "It is hot, so I am wearing shorts.",
+    "exampleTranslation": "Trời nóng nên tôi mặc quần short.",
+    "pos": "noun"
+  },
+  {
+    "word": "leggings",
+    "phonetic": "/ˈleɡɪŋz/",
+    "definition": "tight trousers that stretch to fit the shape of your legs",
+    "translation": "quần legging, quần bó",
+    "exampleSentence": "I wear leggings to yoga class.",
+    "exampleTranslation": "Tôi mặc quần legging đi học yoga.",
+    "pos": "noun"
+  },
+  {
+    "word": "tights",
+    "phonetic": "/taɪts/",
+    "definition": "thin tight clothing that covers the feet and legs up to the waist",
+    "translation": "quần tất",
+    "exampleSentence": "I need black tights for the party.",
+    "exampleTranslation": "Tôi cần một chiếc quần tất đen cho buổi tiệc.",
+    "pos": "noun"
+  },
+  {
+    "word": "underwear",
+    "phonetic": "/ˈʌndərwer/",
+    "definition": "clothes that you wear next to your body under other clothes",
+    "translation": "đồ lót",
+    "exampleSentence": "Remember to pack clean underwear.",
+    "exampleTranslation": "Nhớ mang theo đồ lót sạch nhé.",
+    "pos": "noun"
+  },
+  {
+    "word": "underpants",
+    "phonetic": "/ˈʌndərpænts/",
+    "definition": "a short piece of underwear worn under trousers",
+    "translation": "quần lót",
+    "exampleSentence": "I bought three pairs of underpants.",
+    "exampleTranslation": "Tôi đã mua ba chiếc quần lót.",
+    "pos": "noun"
+  },
+  {
+    "word": "bra",
+    "phonetic": "/brɑː/",
+    "definition": "a piece of underwear that a woman wears to support her breasts",
+    "translation": "áo ngực, áo lót",
+    "exampleSentence": "I need to buy a new bra.",
+    "exampleTranslation": "Tôi cần mua một chiếc áo ngực mới.",
+    "pos": "noun"
+  },
+  {
+    "word": "sock",
+    "phonetic": "/sɑːk/",
+    "definition": "a soft piece of clothing that you wear on your foot inside a shoe",
+    "translation": "tất, vớ",
+    "exampleSentence": "I can not find my other sock.",
+    "exampleTranslation": "Tôi không tìm thấy chiếc tất còn lại.",
+    "pos": "noun"
+  },
+  {
+    "word": "pyjamas",
+    "phonetic": "/pəˈdʒɑːməz/",
+    "definition": "soft trousers and a top that you wear in bed",
+    "translation": "bộ đồ ngủ, đồ ngủ",
+    "exampleSentence": "The children are already in their pyjamas.",
+    "exampleTranslation": "Bọn trẻ đã mặc đồ ngủ rồi.",
+    "pos": "noun"
+  },
+  {
+    "word": "nightdress",
+    "phonetic": "/ˈnaɪtdres/",
+    "definition": "a thin dress that a woman wears in bed",
+    "translation": "váy ngủ",
+    "exampleSentence": "I sleep in a cotton nightdress.",
+    "exampleTranslation": "Tôi ngủ trong một chiếc váy ngủ bằng vải cotton.",
+    "pos": "noun"
+  },
+  {
+    "word": "dressing gown",
+    "phonetic": "/ˈdresɪŋ ɡaʊn/",
+    "definition": "a long loose coat that you wear at home over night clothes",
+    "translation": "áo choàng mặc ở nhà, áo choàng ngủ",
+    "exampleSentence": "I put on my dressing gown and made tea.",
+    "exampleTranslation": "Tôi khoác áo choàng ngủ vào rồi pha trà.",
+    "pos": "noun"
+  },
+  {
+    "word": "swimsuit",
+    "phonetic": "/ˈswɪmsuːt/",
+    "definition": "a piece of clothing that you wear for swimming",
+    "translation": "đồ bơi, áo tắm",
+    "exampleSentence": "Do not forget your swimsuit and towel.",
+    "exampleTranslation": "Đừng quên đồ bơi và khăn tắm nhé.",
+    "pos": "noun"
+  },
+  {
+    "word": "uniform",
+    "phonetic": "/ˈjuːnəfɔːrm/",
+    "definition": "special clothes worn by all the members of a group, such as a school",
+    "translation": "đồng phục",
+    "exampleSentence": "Tom was still wearing his school uniform.",
+    "exampleTranslation": "Tom vẫn đang mặc đồng phục học sinh.",
+    "pos": "noun"
+  },
+  {
+    "word": "tracksuit",
+    "phonetic": "/ˈtræksuːt/",
+    "definition": "loose trousers and a jacket that you wear for sport",
+    "translation": "bộ đồ thể thao",
+    "exampleSentence": "I wear a tracksuit when I run.",
+    "exampleTranslation": "Tôi mặc bộ đồ thể thao khi chạy bộ.",
+    "pos": "noun"
+  },
+  {
+    "word": "waistcoat",
+    "phonetic": "/ˈweskət/",
+    "definition": "a piece of clothing without sleeves, worn over a shirt",
+    "translation": "áo gi-lê",
+    "exampleSentence": "Tom wore a waistcoat under his jacket.",
+    "exampleTranslation": "Tom mặc áo gi-lê bên trong áo khoác.",
+    "pos": "noun"
+  },
+  {
+    "word": "overalls",
+    "phonetic": "/ˈoʊvərɔːlz/",
+    "definition": "one-piece clothes like a shirt and trousers, worn to protect other clothes",
+    "translation": "quần yếm, đồ bảo hộ",
+    "exampleSentence": "The workers wear blue overalls.",
+    "exampleTranslation": "Công nhân mặc đồ bảo hộ màu xanh.",
+    "pos": "noun"
+  },
+  {
+    "word": "wear",
+    "phonetic": "/wer/",
+    "definition": "to have clothes, shoes or jewellery on your body",
+    "translation": "mặc, đội, đeo",
+    "exampleSentence": "I do not wear a hat in summer.",
+    "exampleTranslation": "Mùa hè tôi không đội mũ.",
+    "pos": "verb"
+  },
+  {
+    "word": "put on",
+    "phonetic": "/pʊt ɑːn/",
+    "definition": "to put a piece of clothing on your body",
+    "translation": "mặc vào, đội vào, đeo vào",
+    "exampleSentence": "Put on your shoes, we are leaving.",
+    "exampleTranslation": "Xỏ giày vào đi, chúng ta sắp đi rồi.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "take off",
+    "phonetic": "/teɪk ɔːf/",
+    "definition": "to remove a piece of clothing",
+    "translation": "cởi ra, tháo ra",
+    "exampleSentence": "Please take off your shoes at the door.",
+    "exampleTranslation": "Xin hãy cởi giày ở cửa.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "try on",
+    "phonetic": "/traɪ ɑːn/",
+    "definition": "to put on clothes to see if they fit or look good",
+    "translation": "mặc thử, thử đồ",
+    "exampleSentence": "Can I try on this jacket?",
+    "exampleTranslation": "Tôi mặc thử chiếc áo khoác này được không?",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "fit",
+    "phonetic": "/fɪt/",
+    "definition": "if clothes fit, they are the right size for your body",
+    "translation": "vừa, vừa người",
+    "exampleSentence": "These jeans do not fit me.",
+    "exampleTranslation": "Chiếc quần jean này không vừa với tôi.",
+    "pos": "verb"
+  },
+  {
+    "word": "get dressed",
+    "phonetic": "/ɡet drest/",
+    "definition": "to put your clothes on",
+    "translation": "mặc quần áo",
+    "exampleSentence": "Get dressed, or we will be late.",
+    "exampleTranslation": "Mặc quần áo đi, không thì chúng ta sẽ muộn.",
+    "pos": "phrase"
+  },
+  {
+    "word": "undress",
+    "phonetic": "/ʌnˈdres/",
+    "definition": "to take off your clothes",
+    "translation": "cởi quần áo",
+    "exampleSentence": "I undressed and got into bed.",
+    "exampleTranslation": "Tôi cởi quần áo rồi lên giường.",
+    "pos": "verb"
+  },
+  {
+    "word": "match",
+    "phonetic": "/mætʃ/",
+    "definition": "to look good together because of a similar colour or pattern",
+    "translation": "hợp với, hợp màu với",
+    "exampleSentence": "Your socks do not match.",
+    "exampleTranslation": "Hai chiếc tất của bạn không giống nhau.",
+    "pos": "verb"
+  },
+  {
+    "word": "tight",
+    "phonetic": "/taɪt/",
+    "definition": "tight clothes fit your body very closely, often in an uncomfortable way",
+    "translation": "chật, bó",
+    "exampleSentence": "These shoes are too tight for me.",
+    "exampleTranslation": "Đôi giày này chật quá với tôi.",
+    "pos": "adjective"
+  },
+  {
+    "word": "loose",
+    "phonetic": "/luːs/",
+    "definition": "loose clothes are not tight on your body",
+    "translation": "rộng, lỏng",
+    "exampleSentence": "I like loose clothes in summer.",
+    "exampleTranslation": "Mùa hè tôi thích quần áo rộng.",
+    "pos": "adjective"
+  },
+  {
+    "word": "cotton",
+    "phonetic": "/ˈkɑːtn/",
+    "definition": "cloth or thread made from the cotton plant",
+    "translation": "vải cotton, vải bông",
+    "exampleSentence": "This is a white cotton shirt.",
+    "exampleTranslation": "Đây là một chiếc áo sơ mi cotton màu trắng.",
+    "pos": "noun"
+  },
+  {
+    "word": "silk",
+    "phonetic": "/sɪlk/",
+    "definition": "a thin smooth soft cloth made from thread produced by a silkworm",
+    "translation": "lụa, tơ lụa",
+    "exampleSentence": "My scarf is made of silk.",
+    "exampleTranslation": "Chiếc khăn của tôi làm bằng lụa.",
+    "pos": "noun"
+  },
+  {
+    "word": "wool",
+    "phonetic": "/wʊl/",
+    "definition": "material made from the soft thick hair of sheep",
+    "translation": "len, vải len",
+    "exampleSentence": "This sweater is made of wool.",
+    "exampleTranslation": "Chiếc áo này làm bằng len.",
+    "pos": "noun"
+  },
+  {
+    "word": "leather",
+    "phonetic": "/ˈleðər/",
+    "definition": "animal skin that is used to make shoes, bags and clothes",
+    "translation": "da, đồ da",
+    "exampleSentence": "I bought a black leather jacket.",
+    "exampleTranslation": "Tôi đã mua một chiếc áo khoác da màu đen.",
+    "pos": "noun"
+  },
+  {
+    "word": "denim",
+    "phonetic": "/ˈdenɪm/",
+    "definition": "a strong cotton cloth used to make jeans",
+    "translation": "vải denim, vải bò, vải jean",
+    "exampleSentence": "I wore a denim jacket.",
+    "exampleTranslation": "Tôi mặc một chiếc áo khoác denim.",
+    "pos": "noun"
+  },
+  {
+    "word": "sleeve",
+    "phonetic": "/sliːv/",
+    "definition": "the part of a piece of clothing that covers your arm",
+    "translation": "tay áo",
+    "exampleSentence": "This dress has long sleeves.",
+    "exampleTranslation": "Chiếc váy này có tay dài.",
+    "pos": "noun"
+  },
+  {
+    "word": "collar",
+    "phonetic": "/ˈkɑːlər/",
+    "definition": "the part of a shirt or coat that goes around your neck",
+    "translation": "cổ áo",
+    "exampleSentence": "My shirt has a white collar.",
+    "exampleTranslation": "Áo sơ mi của tôi có cổ màu trắng.",
+    "pos": "noun"
+  },
+  {
+    "word": "pocket",
+    "phonetic": "/ˈpɑːkɪt/",
+    "definition": "a small bag sewn into a coat or trousers for keys, money and so on",
+    "translation": "túi, túi áo, túi quần",
+    "exampleSentence": "I put my keys in my pocket.",
+    "exampleTranslation": "Tôi bỏ chìa khóa vào túi quần.",
+    "pos": "noun"
+  },
+  {
+    "word": "button",
+    "phonetic": "/ˈbʌtn/",
+    "definition": "a small round object on a shirt or coat that you pass through a hole to fasten it",
+    "translation": "cúc áo, khuy áo, nút áo",
+    "exampleSentence": "A button fell off my shirt.",
+    "exampleTranslation": "Một chiếc cúc áo của tôi bị rơi.",
+    "pos": "noun"
+  },
+  {
+    "word": "zip",
+    "phonetic": "/zɪp/",
+    "definition": "two lines of metal or plastic pieces that slide together to fasten clothes",
+    "translation": "khóa kéo, dây kéo",
+    "exampleSentence": "The zip on my skirt is broken.",
+    "exampleTranslation": "Khóa kéo của chân váy tôi bị hỏng.",
+    "pos": "noun"
+  },
+  {
+    "word": "size",
+    "phonetic": "/saɪz/",
+    "definition": "one of a set of standard measures for clothes and shoes",
+    "translation": "cỡ, kích cỡ, size",
+    "exampleSentence": "Do you have this shirt in a bigger size?",
+    "exampleTranslation": "Cửa hàng có chiếc áo này cỡ lớn hơn không?",
+    "pos": "noun"
+  },
+  {
+    "word": "fashion",
+    "phonetic": "/ˈfæʃən/",
+    "definition": "a style of clothes that is popular at a particular time",
+    "translation": "thời trang",
+    "exampleSentence": "I am very interested in fashion.",
+    "exampleTranslation": "Tôi rất quan tâm đến thời trang.",
+    "pos": "noun"
+  },
+  {
+    "word": "clothes",
+    "phonetic": "/kloʊðz/",
+    "definition": "the things that people wear to cover their body",
+    "translation": "quần áo",
+    "exampleSentence": "I need to buy some new clothes.",
+    "exampleTranslation": "Tôi cần mua quần áo mới.",
+    "pos": "noun"
+  },
+  {
+    "word": "costume",
+    "phonetic": "/ˈkɑːstuːm/",
+    "definition": "clothes worn to look like someone or something else, for example at a party",
+    "translation": "trang phục biểu diễn, đồ hóa trang",
+    "exampleSentence": "I wore a witch costume to the party.",
+    "exampleTranslation": "Tôi mặc đồ hóa trang phù thủy đến bữa tiệc.",
+    "pos": "noun"
+  },
+  {
+    "word": "blazer",
+    "phonetic": "/ˈbleɪzər/",
+    "definition": "a jacket, sometimes with the sign of a school or club on it",
+    "translation": "áo blazer",
+    "exampleSentence": "Tom wore a blue blazer to school.",
+    "exampleTranslation": "Tom mặc áo blazer xanh đi học.",
+    "pos": "noun"
+  },
+  {
+    "word": "polo shirt",
+    "phonetic": "/ˈpoʊloʊ ʃɜːrt/",
+    "definition": "a shirt with a collar and a few buttons at the neck, pulled on over the head",
+    "translation": "áo polo, áo thun có cổ",
+    "exampleSentence": "I bought a red polo shirt.",
+    "exampleTranslation": "Tôi đã mua một chiếc áo polo màu đỏ.",
+    "pos": "noun"
+  },
+  {
+    "word": "tank top",
+    "phonetic": "/ˈtæŋk tɑːp/",
+    "definition": "a piece of clothing like a T-shirt but with no sleeves",
+    "translation": "áo ba lỗ, áo tank top",
+    "exampleSentence": "I wear a tank top when it is hot.",
+    "exampleTranslation": "Tôi mặc áo ba lỗ khi trời nóng.",
+    "pos": "noun"
+  },
+  {
+    "word": "sweatshirt",
+    "phonetic": "/ˈswetʃɜːrt/",
+    "definition": "a loose warm piece of clothing for the top half of your body, worn for sport or relaxing",
+    "translation": "áo nỉ, áo sweatshirt",
+    "exampleSentence": "I put on a grey sweatshirt.",
+    "exampleTranslation": "Tôi mặc một chiếc áo nỉ màu xám.",
+    "pos": "noun"
+  },
+  {
+    "word": "scarf",
+    "phonetic": "/skɑːrf/",
+    "definition": "a piece of cloth that you wear around your neck or head to keep warm",
+    "translation": "khăn quàng, khăn choàng cổ",
+    "exampleSentence": "I wore a long wool scarf.",
+    "exampleTranslation": "Tôi quàng một chiếc khăn len dài.",
+    "pos": "noun"
+  },
+  {
+    "word": "glove",
+    "phonetic": "/ɡlʌv/",
+    "definition": "a piece of clothing that you wear on your hand to keep it warm",
+    "translation": "găng tay, bao tay",
+    "exampleSentence": "I lost one of my gloves.",
+    "exampleTranslation": "Tôi bị mất một chiếc găng tay.",
+    "pos": "noun"
+  },
+  {
+    "word": "hat",
+    "phonetic": "/hæt/",
+    "definition": "a piece of clothing that you wear on your head",
+    "translation": "mũ, nón",
+    "exampleSentence": "Lan was wearing a beautiful new hat.",
+    "exampleTranslation": "Lan đang đội một chiếc mũ mới rất đẹp.",
+    "pos": "noun"
+  },
+  {
+    "word": "cap",
+    "phonetic": "/kæp/",
+    "definition": "a flat hat with a curved part sticking out at the front",
+    "translation": "mũ lưỡi trai, nón lưỡi trai",
+    "exampleSentence": "Tom always wears a baseball cap.",
+    "exampleTranslation": "Tom lúc nào cũng đội mũ lưỡi trai.",
+    "pos": "noun"
+  },
+  {
+    "word": "tie",
+    "phonetic": "/taɪ/",
+    "definition": "a long narrow piece of cloth tied in a knot around the neck",
+    "translation": "cà vạt, ca-vát",
+    "exampleSentence": "I wear a shirt and tie at work.",
+    "exampleTranslation": "Tôi mặc áo sơ mi và thắt cà vạt đi làm.",
+    "pos": "noun"
+  },
+  {
+    "word": "bow tie",
+    "phonetic": "/ˈboʊ taɪ/",
+    "definition": "a short piece of cloth tied in the shape of a bow at the neck",
+    "translation": "nơ cổ, nơ bướm",
+    "exampleSentence": "Tom wore a black bow tie to the wedding.",
+    "exampleTranslation": "Tom thắt nơ đen đến đám cưới.",
+    "pos": "noun"
+  },
+  {
+    "word": "stripe",
+    "phonetic": "/straɪp/",
+    "definition": "a long line of colour, often one of several close together",
+    "translation": "sọc, đường sọc",
+    "exampleSentence": "I like shirts with blue and white stripes.",
+    "exampleTranslation": "Tôi thích áo sơ mi sọc xanh trắng.",
+    "pos": "noun"
+  },
+  {
+    "word": "pattern",
+    "phonetic": "/ˈpætərn/",
+    "definition": "a repeated arrangement of shapes or colours on cloth or other things",
+    "translation": "họa tiết, hoa văn",
+    "exampleSentence": "The curtains have a flower pattern.",
+    "exampleTranslation": "Rèm cửa có họa tiết hoa.",
+    "pos": "noun"
+  },
+  {
+    "word": "check",
+    "phonetic": "/tʃek/",
+    "definition": "a pattern of squares, especially on cloth",
+    "translation": "họa tiết ca rô, ô vuông",
+    "exampleSentence": "I like shirts with red and white checks.",
+    "exampleTranslation": "Tôi thích áo sơ mi ca rô đỏ trắng.",
+    "pos": "noun"
+  },
+  {
+    "word": "plain",
+    "phonetic": "/pleɪn/",
+    "definition": "without any pattern or decoration",
+    "translation": "trơn, không họa tiết",
+    "exampleSentence": "I prefer a plain white T-shirt.",
+    "exampleTranslation": "Tôi thích áo phông trắng trơn hơn.",
+    "pos": "adjective"
+  },
+  {
+    "word": "fashionable",
+    "phonetic": "/ˈfæʃənəbəl/",
+    "definition": "popular at the present time",
+    "translation": "hợp thời trang, thời thượng",
+    "exampleSentence": "Bright colours are very fashionable this year.",
+    "exampleTranslation": "Màu sáng rất hợp thời trang năm nay.",
+    "pos": "adjective"
+  },
+  {
+    "word": "old-fashioned",
+    "phonetic": "/ˌoʊld ˈfæʃənd/",
+    "definition": "not modern or fashionable any more",
+    "translation": "lỗi thời, cũ kỹ",
+    "exampleSentence": "Lan wears really old-fashioned clothes.",
+    "exampleTranslation": "Lan mặc quần áo rất lỗi thời.",
+    "pos": "adjective"
+  },
+  {
+    "word": "casual",
+    "phonetic": "/ˈkæʒuəl/",
+    "definition": "casual clothes are not formal and are comfortable to wear",
+    "translation": "thường ngày, thoải mái",
+    "exampleSentence": "Casual clothes are fine for the picnic.",
+    "exampleTranslation": "Mặc đồ thường ngày đi dã ngoại là được.",
+    "pos": "adjective"
+  },
+  {
+    "word": "formal",
+    "phonetic": "/ˈfɔːrməl/",
+    "definition": "formal clothes are worn for important or official events",
+    "translation": "trang trọng, lịch sự",
+    "exampleSentence": "I need formal clothes for the wedding.",
+    "exampleTranslation": "Tôi cần quần áo trang trọng cho đám cưới.",
+    "pos": "adjective"
+  },
+  {
+    "word": "fold",
+    "phonetic": "/foʊld/",
+    "definition": "to bend cloth or paper so that one part lies over another",
+    "translation": "gấp",
+    "exampleSentence": "Please fold your clothes and put them away.",
+    "exampleTranslation": "Hãy gấp quần áo lại rồi cất đi.",
+    "pos": "verb"
+  },
+  {
+    "word": "hang up",
+    "phonetic": "/hæŋ ʌp/",
+    "definition": "to hang clothes on a hook or hanger",
+    "translation": "treo lên, móc lên",
+    "exampleSentence": "Hang up your coat when you come in.",
+    "exampleTranslation": "Vào nhà thì treo áo khoác lên nhé.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "dry",
+    "phonetic": "/draɪ/",
+    "definition": "to make clothes or other things dry",
+    "translation": "làm khô, phơi khô",
+    "exampleSentence": "I dry my clothes outside in summer.",
+    "exampleTranslation": "Mùa hè tôi phơi quần áo ngoài trời.",
+    "pos": "verb"
+  },
+  {
+    "word": "stain",
+    "phonetic": "/steɪn/",
+    "definition": "a mark on clothes that is difficult to remove",
+    "translation": "vết bẩn, vết ố",
+    "exampleSentence": "There is a coffee stain on my shirt.",
+    "exampleTranslation": "Có một vết cà phê trên áo sơ mi của tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "label",
+    "phonetic": "/ˈleɪbəl/",
+    "definition": "a piece of cloth or paper on something that gives information about it",
+    "translation": "nhãn, mác",
+    "exampleSentence": "Read the label to see how to wash it.",
+    "exampleTranslation": "Hãy đọc nhãn để biết cách giặt.",
+    "pos": "noun"
+  },
+  {
+    "word": "fabric",
+    "phonetic": "/ˈfæbrɪk/",
+    "definition": "cloth used for making clothes and curtains",
+    "translation": "vải",
+    "exampleSentence": "This fabric feels soft and light.",
+    "exampleTranslation": "Loại vải này mềm và nhẹ.",
+    "pos": "noun"
+  },
+  {
+    "word": "material",
+    "phonetic": "/məˈtɪriəl/",
+    "definition": "cloth used for making clothes and curtains",
+    "translation": "vải, chất liệu",
+    "exampleSentence": "What material is this dress made of?",
+    "exampleTranslation": "Chiếc váy này làm bằng chất liệu gì?",
+    "pos": "noun"
+  },
+  {
+    "word": "outfit",
+    "phonetic": "/ˈaʊtfɪt/",
+    "definition": "a set of clothes worn together, especially for a special occasion",
+    "translation": "bộ quần áo, trang phục",
+    "exampleSentence": "I bought a new outfit for the party.",
+    "exampleTranslation": "Tôi đã mua một bộ đồ mới cho bữa tiệc.",
+    "pos": "noun"
+  },
+  {
+    "word": "bikini",
+    "phonetic": "/bəˈkiːni/",
+    "definition": "a two-piece set of clothes that women wear for swimming",
+    "translation": "bộ bikini, đồ bơi hai mảnh",
+    "exampleSentence": "I packed a bikini for the beach.",
+    "exampleTranslation": "Tôi đã đóng gói một bộ bikini để đi biển.",
+    "pos": "noun"
+  },
+  {
+    "word": "swimming trunks",
+    "phonetic": "/ˈswɪmɪŋ trʌŋks/",
+    "definition": "short trousers that men and boys wear for swimming",
+    "translation": "quần bơi",
+    "exampleSentence": "I forgot my swimming trunks.",
+    "exampleTranslation": "Tôi quên mang quần bơi rồi.",
+    "pos": "noun"
+  },
+  {
+    "word": "hood",
+    "phonetic": "/hʊd/",
+    "definition": "a part of a coat that you can pull up to cover your head",
+    "translation": "mũ trùm đầu, mũ áo",
+    "exampleSentence": "Put your hood up, it is raining.",
+    "exampleTranslation": "Đội mũ trùm đầu lên đi, trời đang mưa.",
+    "pos": "noun"
+  },
+  {
+    "word": "sew",
+    "phonetic": "/soʊ/",
+    "definition": "to use a needle and thread to make or repair clothes",
+    "translation": "may, khâu",
+    "exampleSentence": "Can you sew a button on this shirt?",
+    "exampleTranslation": "Bạn khâu giúp tôi một chiếc cúc lên áo này được không?",
+    "pos": "verb"
+  },
+  {
+    "word": "pair",
+    "phonetic": "/per/",
+    "definition": "two things of the same type that are used together, or an object with two parts",
+    "translation": "đôi, chiếc",
+    "exampleSentence": "I bought a new pair of jeans.",
+    "exampleTranslation": "Tôi đã mua một chiếc quần jean mới.",
+    "pos": "noun"
+  },
+  {
+    "word": "dress up",
+    "phonetic": "/dres ʌp/",
+    "definition": "to wear special or more formal clothes",
+    "translation": "ăn diện, mặc đồ đẹp, hóa trang",
+    "exampleSentence": "You do not have to dress up for the party.",
+    "exampleTranslation": "Bạn không cần phải ăn diện cho bữa tiệc đâu.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "stylish",
+    "phonetic": "/ˈstaɪlɪʃ/",
+    "definition": "attractive in a fashionable way",
+    "translation": "sành điệu, thời trang",
+    "exampleSentence": "You look very stylish in that jacket.",
+    "exampleTranslation": "Bạn trông rất sành điệu trong chiếc áo khoác đó.",
+    "pos": "adjective"
+  },
+  {
+    "word": "baggy",
+    "phonetic": "/ˈbæɡi/",
+    "definition": "baggy clothes are big and do not fit tightly",
+    "translation": "rộng thùng thình, rộng",
+    "exampleSentence": "I wore jeans and a baggy T-shirt.",
+    "exampleTranslation": "Tôi mặc quần jean và áo phông rộng thùng thình.",
+    "pos": "adjective"
+  },
+  {
+    "word": "smart",
+    "phonetic": "/smɑːrt/",
+    "definition": "wearing neat, attractive clothes and looking tidy",
+    "translation": "chỉnh tề, bảnh bao, lịch sự",
+    "exampleSentence": "You look very smart today.",
+    "exampleTranslation": "Hôm nay bạn trông rất chỉnh tề.",
+    "pos": "adjective"
+  },
+  {
+    "word": "sleeveless",
+    "phonetic": "/ˈsliːvləs/",
+    "definition": "a sleeveless shirt or dress has no sleeves",
+    "translation": "không tay, sát nách",
+    "exampleSentence": "I bought a sleeveless dress for summer.",
+    "exampleTranslation": "Tôi đã mua một chiếc váy sát nách cho mùa hè.",
+    "pos": "adjective"
+  },
+  {
+    "word": "sweatpants",
+    "phonetic": "/ˈswetpænts/",
+    "definition": "loose warm trousers worn for sport or relaxing",
+    "translation": "quần nỉ, quần thể thao",
+    "exampleSentence": "I relax at home in sweatpants.",
+    "exampleTranslation": "Tôi mặc quần nỉ khi thư giãn ở nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "robe",
+    "phonetic": "/roʊb/",
+    "definition": "a long loose piece of clothing worn over night clothes or after a bath",
+    "translation": "áo choàng tắm, áo choàng",
+    "exampleSentence": "I put on a robe after my bath.",
+    "exampleTranslation": "Tôi khoác áo choàng sau khi tắm.",
+    "pos": "noun"
+  }
+]

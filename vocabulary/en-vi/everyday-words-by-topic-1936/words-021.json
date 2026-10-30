@@ -1,0 +1,758 @@
+[
+  {
+    "word": "phone",
+    "phonetic": "/foʊn/",
+    "definition": "a telephone, or the device you use to make calls",
+    "translation": "điện thoại",
+    "exampleSentence": "Can I use your phone, please?",
+    "exampleTranslation": "Cho tôi mượn điện thoại của bạn được không?",
+    "pos": "noun"
+  },
+  {
+    "word": "mobile phone",
+    "phonetic": "/ˈmoʊbəl foʊn/",
+    "definition": "a phone you can carry and use anywhere",
+    "translation": "điện thoại di động",
+    "exampleSentence": "Please turn off your mobile phone in the theater.",
+    "exampleTranslation": "Vui lòng tắt điện thoại di động trong rạp hát.",
+    "pos": "noun"
+  },
+  {
+    "word": "smartphone",
+    "phonetic": "/ˈsmɑːrtfoʊn/",
+    "definition": "a mobile phone that can also run apps and use the internet",
+    "translation": "điện thoại thông minh, smartphone",
+    "exampleSentence": "I read the news on my smartphone.",
+    "exampleTranslation": "Tôi đọc tin tức trên điện thoại thông minh.",
+    "pos": "noun"
+  },
+  {
+    "word": "computer",
+    "phonetic": "/kəmˈpjuːtər/",
+    "definition": "an electronic machine that stores information and runs programs",
+    "translation": "máy tính, máy vi tính",
+    "exampleSentence": "I use a computer at work every day.",
+    "exampleTranslation": "Tôi dùng máy tính ở chỗ làm mỗi ngày.",
+    "pos": "noun"
+  },
+  {
+    "word": "laptop",
+    "phonetic": "/ˈlæptɑːp/",
+    "definition": "a small computer you can carry with you",
+    "translation": "máy tính xách tay, laptop",
+    "exampleSentence": "I take my laptop to the cafe.",
+    "exampleTranslation": "Tôi mang máy tính xách tay đến quán cà phê.",
+    "pos": "noun"
+  },
+  {
+    "word": "tablet",
+    "phonetic": "/ˈtæblɪt/",
+    "definition": "a flat computer with a touch screen and no keyboard",
+    "translation": "máy tính bảng",
+    "exampleSentence": "My little brother plays games on a tablet.",
+    "exampleTranslation": "Em trai tôi chơi game trên máy tính bảng.",
+    "pos": "noun"
+  },
+  {
+    "word": "camera",
+    "phonetic": "/ˈkæmərə/",
+    "definition": "a piece of equipment for taking photographs or films",
+    "translation": "máy ảnh, camera",
+    "exampleSentence": "I always take my camera on holiday.",
+    "exampleTranslation": "Tôi luôn mang máy ảnh theo khi đi nghỉ.",
+    "pos": "noun"
+  },
+  {
+    "word": "webcam",
+    "phonetic": "/ˈwebkæm/",
+    "definition": "a video camera that sends pictures over the internet",
+    "translation": "webcam, camera máy tính",
+    "exampleSentence": "My webcam is not working.",
+    "exampleTranslation": "Webcam của tôi không hoạt động.",
+    "pos": "noun"
+  },
+  {
+    "word": "headphones",
+    "phonetic": "/ˈhedfoʊnz/",
+    "definition": "equipment you wear over your ears to listen to music",
+    "translation": "tai nghe chụp tai, tai nghe",
+    "exampleSentence": "I listen to music with headphones on the bus.",
+    "exampleTranslation": "Tôi nghe nhạc bằng tai nghe trên xe buýt.",
+    "pos": "noun"
+  },
+  {
+    "word": "earphones",
+    "phonetic": "/ˈɪrfoʊnz/",
+    "definition": "small speakers you put in your ears to listen to sound",
+    "translation": "tai nghe nhét tai, tai nghe",
+    "exampleSentence": "I forgot my earphones at home.",
+    "exampleTranslation": "Tôi quên tai nghe ở nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "headset",
+    "phonetic": "/ˈhedset/",
+    "definition": "headphones with a microphone, used for calls or games",
+    "translation": "tai nghe có micro, headset",
+    "exampleSentence": "Sam wore a headset during the video meeting.",
+    "exampleTranslation": "Sam đeo tai nghe có micro trong cuộc họp video.",
+    "pos": "noun"
+  },
+  {
+    "word": "speaker",
+    "phonetic": "/ˈspiːkər/",
+    "definition": "the part of a radio or sound system that the sound comes out of",
+    "translation": "loa",
+    "exampleSentence": "The speaker on my phone is very loud.",
+    "exampleTranslation": "Loa điện thoại của tôi rất to.",
+    "pos": "noun"
+  },
+  {
+    "word": "microphone",
+    "phonetic": "/ˈmaɪkrəfoʊn/",
+    "definition": "equipment you speak into to record or make your voice louder",
+    "translation": "micro, mi-crô, máy thu âm",
+    "exampleSentence": "Please speak into the microphone.",
+    "exampleTranslation": "Vui lòng nói vào micro.",
+    "pos": "noun"
+  },
+  {
+    "word": "printer",
+    "phonetic": "/ˈprɪntər/",
+    "definition": "a machine that prints documents from a computer",
+    "translation": "máy in",
+    "exampleSentence": "The printer is out of paper.",
+    "exampleTranslation": "Máy in hết giấy rồi.",
+    "pos": "noun"
+  },
+  {
+    "word": "scanner",
+    "phonetic": "/ˈskænər/",
+    "definition": "a machine that copies a page onto a computer",
+    "translation": "máy quét, máy scan",
+    "exampleSentence": "I put the form on the scanner.",
+    "exampleTranslation": "Tôi đặt tờ đơn lên máy quét.",
+    "pos": "noun"
+  },
+  {
+    "word": "monitor",
+    "phonetic": "/ˈmɑːnɪtər/",
+    "definition": "the screen of a computer",
+    "translation": "màn hình máy tính, màn hình",
+    "exampleSentence": "I need a bigger monitor for work.",
+    "exampleTranslation": "Tôi cần một màn hình lớn hơn để làm việc.",
+    "pos": "noun"
+  },
+  {
+    "word": "screen",
+    "phonetic": "/skriːn/",
+    "definition": "the part of a TV or computer where you see pictures",
+    "translation": "màn hình",
+    "exampleSentence": "The screen on my phone is broken.",
+    "exampleTranslation": "Màn hình điện thoại của tôi bị vỡ.",
+    "pos": "noun"
+  },
+  {
+    "word": "touch screen",
+    "phonetic": "/tʌtʃ skriːn/",
+    "definition": "a screen you touch to control the device",
+    "translation": "màn hình cảm ứng",
+    "exampleSentence": "My phone has a touch screen.",
+    "exampleTranslation": "Điện thoại của tôi có màn hình cảm ứng.",
+    "pos": "noun"
+  },
+  {
+    "word": "keyboard",
+    "phonetic": "/ˈkiːbɔːrd/",
+    "definition": "a set of keys you press to type on a computer",
+    "translation": "bàn phím",
+    "exampleSentence": "This keyboard is easy to use.",
+    "exampleTranslation": "Bàn phím này dễ dùng.",
+    "pos": "noun"
+  },
+  {
+    "word": "charger",
+    "phonetic": "/ˈtʃɑːrdʒər/",
+    "definition": "a device that puts electricity into a battery",
+    "translation": "bộ sạc, cục sạc, sạc",
+    "exampleSentence": "Do you have a phone charger?",
+    "exampleTranslation": "Bạn có sạc điện thoại không?",
+    "pos": "noun"
+  },
+  {
+    "word": "cable",
+    "phonetic": "/ˈkeɪbəl/",
+    "definition": "a thick wire that carries electricity or signals",
+    "translation": "dây cáp, cáp",
+    "exampleSentence": "I need a longer cable for my laptop.",
+    "exampleTranslation": "Tôi cần một sợi cáp dài hơn cho máy tính xách tay.",
+    "pos": "noun"
+  },
+  {
+    "word": "USB",
+    "phonetic": "/ˌjuː es ˈbiː/",
+    "definition": "a system for connecting equipment to a computer",
+    "translation": "cổng USB, USB",
+    "exampleSentence": "Plug the camera into the USB port.",
+    "exampleTranslation": "Hãy cắm máy ảnh vào cổng USB.",
+    "pos": "noun"
+  },
+  {
+    "word": "memory card",
+    "phonetic": "/ˈmeməri kɑːrd/",
+    "definition": "a small card that stores photos and other data",
+    "translation": "thẻ nhớ",
+    "exampleSentence": "My camera needs a new memory card.",
+    "exampleTranslation": "Máy ảnh của tôi cần một thẻ nhớ mới.",
+    "pos": "noun"
+  },
+  {
+    "word": "hard drive",
+    "phonetic": "/hɑːrd draɪv/",
+    "definition": "the part of a computer where files and programs are stored",
+    "translation": "ổ cứng",
+    "exampleSentence": "My hard drive is almost full.",
+    "exampleTranslation": "Ổ cứng của tôi sắp đầy.",
+    "pos": "noun"
+  },
+  {
+    "word": "router",
+    "phonetic": "/ˈruːtər/",
+    "definition": "a device that connects your computers to the internet",
+    "translation": "bộ định tuyến, router, bộ phát wifi",
+    "exampleSentence": "Please restart the router.",
+    "exampleTranslation": "Làm ơn khởi động lại router.",
+    "pos": "noun"
+  },
+  {
+    "word": "modem",
+    "phonetic": "/ˈmoʊdəm/",
+    "definition": "a device that connects a computer to the internet",
+    "translation": "modem",
+    "exampleSentence": "The modem is next to the TV.",
+    "exampleTranslation": "Modem nằm cạnh ti vi.",
+    "pos": "noun"
+  },
+  {
+    "word": "robot",
+    "phonetic": "/ˈroʊbɑːt/",
+    "definition": "a machine that can move and do work like a person",
+    "translation": "rô-bốt, người máy",
+    "exampleSentence": "The robot cleans the floor for us.",
+    "exampleTranslation": "Con rô-bốt lau sàn nhà giúp chúng tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "drone",
+    "phonetic": "/droʊn/",
+    "definition": "an aircraft without a pilot that is controlled by radio",
+    "translation": "máy bay không người lái, drone, flycam",
+    "exampleSentence": "The drone took photos of the beach.",
+    "exampleTranslation": "Chiếc drone đã chụp ảnh bãi biển.",
+    "pos": "noun"
+  },
+  {
+    "word": "gadget",
+    "phonetic": "/ˈɡædʒɪt/",
+    "definition": "a small, useful machine or tool",
+    "translation": "thiết bị nhỏ, đồ công nghệ, gadget",
+    "exampleSentence": "I love new gadgets.",
+    "exampleTranslation": "Tôi rất thích những món đồ công nghệ mới.",
+    "pos": "noun"
+  },
+  {
+    "word": "device",
+    "phonetic": "/dɪˈvaɪs/",
+    "definition": "a machine or tool that does a special job",
+    "translation": "thiết bị",
+    "exampleSentence": "This device is easy to use.",
+    "exampleTranslation": "Thiết bị này rất dễ dùng.",
+    "pos": "noun"
+  },
+  {
+    "word": "machine",
+    "phonetic": "/məˈʃiːn/",
+    "definition": "a piece of equipment that uses power to do a job",
+    "translation": "máy, máy móc",
+    "exampleSentence": "The machine is not working today.",
+    "exampleTranslation": "Hôm nay cái máy không hoạt động.",
+    "pos": "noun"
+  },
+  {
+    "word": "invention",
+    "phonetic": "/ɪnˈvenʃən/",
+    "definition": "a useful machine or tool that someone has made for the first time",
+    "translation": "phát minh, sáng chế",
+    "exampleSentence": "The telephone was a great invention.",
+    "exampleTranslation": "Điện thoại là một phát minh tuyệt vời.",
+    "pos": "noun"
+  },
+  {
+    "word": "internet",
+    "phonetic": "/ˈɪntərnet/",
+    "definition": "the worldwide system of computers connected together",
+    "translation": "internet, mạng, mạng internet",
+    "exampleSentence": "I read the news on the internet.",
+    "exampleTranslation": "Tôi đọc tin tức trên mạng.",
+    "pos": "noun"
+  },
+  {
+    "word": "wi-fi",
+    "phonetic": "/ˈwaɪ faɪ/",
+    "definition": "a way to connect to the internet using radio signals, not wires",
+    "translation": "wifi, mạng không dây",
+    "exampleSentence": "Does this cafe have free wi-fi?",
+    "exampleTranslation": "Quán cà phê này có wifi miễn phí không?",
+    "pos": "noun"
+  },
+  {
+    "word": "network",
+    "phonetic": "/ˈnetwɜːrk/",
+    "definition": "a group of computers that are connected to each other",
+    "translation": "mạng máy tính, mạng",
+    "exampleSentence": "The office network is down.",
+    "exampleTranslation": "Mạng của văn phòng bị sập rồi.",
+    "pos": "noun"
+  },
+  {
+    "word": "website",
+    "phonetic": "/ˈwebsaɪt/",
+    "definition": "a place on the internet where you can find information",
+    "translation": "trang web, website",
+    "exampleSentence": "Visit our website for more information.",
+    "exampleTranslation": "Hãy truy cập trang web của chúng tôi để biết thêm thông tin.",
+    "pos": "noun"
+  },
+  {
+    "word": "webpage",
+    "phonetic": "/ˈwebpeɪdʒ/",
+    "definition": "all the information you see in one part of a website",
+    "translation": "trang web, trang mạng",
+    "exampleSentence": "This webpage is very slow to load.",
+    "exampleTranslation": "Trang web này tải rất chậm.",
+    "pos": "noun"
+  },
+  {
+    "word": "browser",
+    "phonetic": "/ˈbraʊzər/",
+    "definition": "a program that shows websites on your computer screen",
+    "translation": "trình duyệt, trình duyệt web",
+    "exampleSentence": "I use a different browser at home.",
+    "exampleTranslation": "Ở nhà tôi dùng một trình duyệt khác.",
+    "pos": "noun"
+  },
+  {
+    "word": "email",
+    "phonetic": "/ˈiː meɪl/",
+    "definition": "a message sent from one person to another by computer",
+    "translation": "email, thư điện tử",
+    "exampleSentence": "I will send you an email tonight.",
+    "exampleTranslation": "Tối nay tôi sẽ gửi email cho bạn.",
+    "pos": "noun"
+  },
+  {
+    "word": "app",
+    "phonetic": "/æp/",
+    "definition": "a computer program that does a particular job on a phone",
+    "translation": "ứng dụng, app",
+    "exampleSentence": "This app is free to download.",
+    "exampleTranslation": "Ứng dụng này được tải miễn phí.",
+    "pos": "noun"
+  },
+  {
+    "word": "software",
+    "phonetic": "/ˈsɔːftwer/",
+    "definition": "the programs that tell a computer what to do",
+    "translation": "phần mềm",
+    "exampleSentence": "I need to buy new software.",
+    "exampleTranslation": "Tôi cần mua phần mềm mới.",
+    "pos": "noun"
+  },
+  {
+    "word": "hardware",
+    "phonetic": "/ˈhɑːrdwer/",
+    "definition": "the machines and equipment of a computer, not its programs",
+    "translation": "phần cứng",
+    "exampleSentence": "The hardware in this laptop is very good.",
+    "exampleTranslation": "Phần cứng của chiếc laptop này rất tốt.",
+    "pos": "noun"
+  },
+  {
+    "word": "program",
+    "phonetic": "/ˈproʊɡræm/",
+    "definition": "a set of instructions that tells a computer what to do",
+    "translation": "chương trình, phần mềm",
+    "exampleSentence": "This program helps me write faster.",
+    "exampleTranslation": "Chương trình này giúp tôi viết nhanh hơn.",
+    "pos": "noun"
+  },
+  {
+    "word": "file",
+    "phonetic": "/faɪl/",
+    "definition": "information stored on a computer under a name",
+    "translation": "tệp, tập tin, file",
+    "exampleSentence": "I saved the file on my desktop.",
+    "exampleTranslation": "Tôi đã lưu tệp ở màn hình chính.",
+    "pos": "noun"
+  },
+  {
+    "word": "game",
+    "phonetic": "/ɡeɪm/",
+    "definition": "an activity you play for fun, with rules",
+    "translation": "trò chơi, game",
+    "exampleSentence": "The children played computer games all afternoon.",
+    "exampleTranslation": "Bọn trẻ chơi game trên máy tính cả buổi chiều.",
+    "pos": "noun"
+  },
+  {
+    "word": "video",
+    "phonetic": "/ˈvɪdioʊ/",
+    "definition": "a recording of a film, event or moving pictures",
+    "translation": "video, đoạn phim",
+    "exampleSentence": "I watched a funny video online.",
+    "exampleTranslation": "Tôi đã xem một video hài trên mạng.",
+    "pos": "noun"
+  },
+  {
+    "word": "photo",
+    "phonetic": "/ˈfoʊtoʊ/",
+    "definition": "a picture you take with a camera",
+    "translation": "ảnh, bức ảnh, tấm hình",
+    "exampleSentence": "Can you take a photo of us?",
+    "exampleTranslation": "Bạn chụp giúp chúng tôi một tấm ảnh được không?",
+    "pos": "noun"
+  },
+  {
+    "word": "photograph",
+    "phonetic": "/ˈfoʊtəɡræf/",
+    "definition": "a picture made with a camera",
+    "translation": "bức ảnh, tấm ảnh",
+    "exampleSentence": "This is a photograph of my family.",
+    "exampleTranslation": "Đây là bức ảnh gia đình tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "selfie",
+    "phonetic": "/ˈselfi/",
+    "definition": "a photo that you take of yourself",
+    "translation": "ảnh tự chụp, ảnh selfie",
+    "exampleSentence": "Let's take a selfie together.",
+    "exampleTranslation": "Chúng ta chụp ảnh selfie cùng nhau nhé.",
+    "pos": "noun"
+  },
+  {
+    "word": "screenshot",
+    "phonetic": "/ˈskriːnʃɑːt/",
+    "definition": "a picture of what is on your computer or phone screen",
+    "translation": "ảnh chụp màn hình",
+    "exampleSentence": "I took a screenshot of the message.",
+    "exampleTranslation": "Tôi đã chụp ảnh màn hình tin nhắn.",
+    "pos": "noun"
+  },
+  {
+    "word": "blog",
+    "phonetic": "/blɑːɡ/",
+    "definition": "a web page where a person writes about their life or interests",
+    "translation": "blog, nhật ký trực tuyến",
+    "exampleSentence": "Lan writes a travel blog.",
+    "exampleTranslation": "Lan viết một blog du lịch.",
+    "pos": "noun"
+  },
+  {
+    "word": "social media",
+    "phonetic": "/ˈsoʊʃəl ˈmiːdiə/",
+    "definition": "websites and apps where people share news, photos and videos",
+    "translation": "mạng xã hội",
+    "exampleSentence": "Many people use social media every day.",
+    "exampleTranslation": "Nhiều người dùng mạng xã hội mỗi ngày.",
+    "pos": "noun"
+  },
+  {
+    "word": "message",
+    "phonetic": "/ˈmesɪdʒ/",
+    "definition": "written or spoken information that you send to someone",
+    "translation": "tin nhắn, lời nhắn",
+    "exampleSentence": "I got a message from my friend.",
+    "exampleTranslation": "Tôi nhận được một tin nhắn từ bạn tôi.",
+    "pos": "noun"
+  },
+  {
+    "word": "text message",
+    "phonetic": "/tekst ˈmesɪdʒ/",
+    "definition": "a written message sent from one mobile phone to another",
+    "translation": "tin nhắn văn bản, tin nhắn",
+    "exampleSentence": "I will send you a text message.",
+    "exampleTranslation": "Tôi sẽ gửi cho bạn một tin nhắn.",
+    "pos": "noun"
+  },
+  {
+    "word": "voicemail",
+    "phonetic": "/ˈvɔɪsmeɪl/",
+    "definition": "a system that records messages when you cannot answer your phone",
+    "translation": "hộp thư thoại, thư thoại",
+    "exampleSentence": "I left you a voicemail this morning.",
+    "exampleTranslation": "Sáng nay tôi đã để lại thư thoại cho bạn.",
+    "pos": "noun"
+  },
+  {
+    "word": "signal",
+    "phonetic": "/ˈsɪɡnəl/",
+    "definition": "waves that carry sound or pictures to a phone, radio or TV",
+    "translation": "tín hiệu, sóng",
+    "exampleSentence": "I have no signal here.",
+    "exampleTranslation": "Ở đây tôi không có sóng.",
+    "pos": "noun"
+  },
+  {
+    "word": "icon",
+    "phonetic": "/ˈaɪkɑːn/",
+    "definition": "a small picture on a screen that you click to open something",
+    "translation": "biểu tượng, icon",
+    "exampleSentence": "Click on the icon to open the file.",
+    "exampleTranslation": "Hãy nhấp vào biểu tượng để mở tệp.",
+    "pos": "noun"
+  },
+  {
+    "word": "volume",
+    "phonetic": "/ˈvɑːljəm/",
+    "definition": "how loud the sound from a TV or radio is",
+    "translation": "âm lượng",
+    "exampleSentence": "Please turn the volume down.",
+    "exampleTranslation": "Làm ơn vặn âm lượng nhỏ xuống.",
+    "pos": "noun"
+  },
+  {
+    "word": "password",
+    "phonetic": "/ˈpæswɜːrd/",
+    "definition": "a secret word or numbers you type to use a computer or account",
+    "translation": "mật khẩu",
+    "exampleSentence": "Do not tell anyone your password.",
+    "exampleTranslation": "Đừng nói mật khẩu của bạn cho ai.",
+    "pos": "noun"
+  },
+  {
+    "word": "download",
+    "phonetic": "/ˈdaʊnloʊd/",
+    "definition": "to copy files or programs from the internet to your computer",
+    "translation": "tải xuống, tải về",
+    "exampleSentence": "You can download the app for free.",
+    "exampleTranslation": "Bạn có thể tải ứng dụng này về miễn phí.",
+    "pos": "verb"
+  },
+  {
+    "word": "upload",
+    "phonetic": "/ʌpˈloʊd/",
+    "definition": "to send files from your computer to the internet",
+    "translation": "tải lên, đăng tải",
+    "exampleSentence": "I uploaded the photos to my blog.",
+    "exampleTranslation": "Tôi đã tải những bức ảnh lên blog.",
+    "pos": "verb"
+  },
+  {
+    "word": "install",
+    "phonetic": "/ɪnˈstɔːl/",
+    "definition": "to put a program on a computer so that it is ready to use",
+    "translation": "cài đặt, cài",
+    "exampleSentence": "I need to install a new program.",
+    "exampleTranslation": "Tôi cần cài một chương trình mới.",
+    "pos": "verb"
+  },
+  {
+    "word": "update",
+    "phonetic": "/ʌpˈdeɪt/",
+    "definition": "to add the newest information or changes to something",
+    "translation": "cập nhật",
+    "exampleSentence": "Please update the app.",
+    "exampleTranslation": "Hãy cập nhật ứng dụng.",
+    "pos": "verb"
+  },
+  {
+    "word": "click",
+    "phonetic": "/klɪk/",
+    "definition": "to press a button on a computer mouse",
+    "translation": "nhấp chuột, bấm, nhấp",
+    "exampleSentence": "Click on the link to start.",
+    "exampleTranslation": "Hãy nhấp vào liên kết để bắt đầu.",
+    "pos": "verb"
+  },
+  {
+    "word": "type",
+    "phonetic": "/taɪp/",
+    "definition": "to write something using a computer keyboard",
+    "translation": "gõ, đánh máy",
+    "exampleSentence": "I can type very fast.",
+    "exampleTranslation": "Tôi có thể gõ rất nhanh.",
+    "pos": "verb"
+  },
+  {
+    "word": "print",
+    "phonetic": "/prɪnt/",
+    "definition": "to make words or pictures on paper using a printer",
+    "translation": "in",
+    "exampleSentence": "Can you print this page for me?",
+    "exampleTranslation": "Bạn in giúp tôi trang này được không?",
+    "pos": "verb"
+  },
+  {
+    "word": "delete",
+    "phonetic": "/dɪˈliːt/",
+    "definition": "to remove something stored on a computer or phone",
+    "translation": "xóa, xoá",
+    "exampleSentence": "I deleted the old photos.",
+    "exampleTranslation": "Tôi đã xóa những bức ảnh cũ.",
+    "pos": "verb"
+  },
+  {
+    "word": "search",
+    "phonetic": "/sɜːrtʃ/",
+    "definition": "to use a computer to find information",
+    "translation": "tìm kiếm, tra cứu",
+    "exampleSentence": "I searched the web for cheap flights.",
+    "exampleTranslation": "Tôi đã tìm kiếm chuyến bay giá rẻ trên mạng.",
+    "pos": "verb"
+  },
+  {
+    "word": "connect",
+    "phonetic": "/kəˈnekt/",
+    "definition": "to join a device to a computer network or power supply",
+    "translation": "kết nối, nối",
+    "exampleSentence": "I cannot connect to the internet.",
+    "exampleTranslation": "Tôi không thể kết nối với internet.",
+    "pos": "verb"
+  },
+  {
+    "word": "plug in",
+    "phonetic": "/plʌɡ ɪn/",
+    "definition": "to connect a machine to the electricity supply",
+    "translation": "cắm vào, cắm điện",
+    "exampleSentence": "Please plug in the printer.",
+    "exampleTranslation": "Làm ơn cắm máy in vào điện.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "charge",
+    "phonetic": "/tʃɑːrdʒ/",
+    "definition": "to put electricity into a battery",
+    "translation": "sạc, sạc pin",
+    "exampleSentence": "I need to charge my phone.",
+    "exampleTranslation": "Tôi cần sạc điện thoại.",
+    "pos": "verb"
+  },
+  {
+    "word": "turn on",
+    "phonetic": "/tɜːrn ɑːn/",
+    "definition": "to make a machine start working by pressing a button",
+    "translation": "bật, mở",
+    "exampleSentence": "Turn on the computer, please.",
+    "exampleTranslation": "Làm ơn bật máy tính lên.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "turn off",
+    "phonetic": "/tɜːrn ɔːf/",
+    "definition": "to make a machine stop working by pressing a button",
+    "translation": "tắt",
+    "exampleSentence": "Please turn off your phone.",
+    "exampleTranslation": "Vui lòng tắt điện thoại của bạn.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "switch on",
+    "phonetic": "/swɪtʃ ɑːn/",
+    "definition": "to make a machine or light work using a switch",
+    "translation": "bật, bật lên",
+    "exampleSentence": "Switch on the light, please.",
+    "exampleTranslation": "Làm ơn bật đèn lên.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "switch off",
+    "phonetic": "/swɪtʃ ɔːf/",
+    "definition": "to make a machine or light stop working using a switch",
+    "translation": "tắt, tắt đi",
+    "exampleSentence": "Don't forget to switch off the TV.",
+    "exampleTranslation": "Đừng quên tắt ti vi.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "text",
+    "phonetic": "/tekst/",
+    "definition": "to send someone a written message on a mobile phone",
+    "translation": "nhắn tin",
+    "exampleSentence": "I will text you when I arrive.",
+    "exampleTranslation": "Tôi sẽ nhắn tin cho bạn khi tôi đến nơi.",
+    "pos": "verb"
+  },
+  {
+    "word": "call",
+    "phonetic": "/kɔːl/",
+    "definition": "to telephone someone",
+    "translation": "gọi điện, gọi điện thoại, gọi",
+    "exampleSentence": "I will call you tomorrow.",
+    "exampleTranslation": "Ngày mai tôi sẽ gọi điện cho bạn.",
+    "pos": "verb"
+  },
+  {
+    "word": "dial",
+    "phonetic": "/ˈdaɪəl/",
+    "definition": "to press the buttons on a phone to call a number",
+    "translation": "bấm số, quay số",
+    "exampleSentence": "I dialed the wrong number.",
+    "exampleTranslation": "Tôi đã bấm nhầm số.",
+    "pos": "verb"
+  },
+  {
+    "word": "chat",
+    "phonetic": "/tʃæt/",
+    "definition": "to talk to people on the internet by typing",
+    "translation": "trò chuyện, chat",
+    "exampleSentence": "I chat with my friends online every night.",
+    "exampleTranslation": "Tối nào tôi cũng chat với bạn bè trên mạng.",
+    "pos": "verb"
+  },
+  {
+    "word": "sign up",
+    "phonetic": "/saɪn ʌp/",
+    "definition": "to put your name on a list because you want to join something",
+    "translation": "đăng ký",
+    "exampleSentence": "Sign up for the free course today.",
+    "exampleTranslation": "Hãy đăng ký khóa học miễn phí ngay hôm nay.",
+    "pos": "phrasal verb"
+  },
+  {
+    "word": "digital",
+    "phonetic": "/ˈdɪdʒətl/",
+    "definition": "using numbers to record or send information electronically",
+    "translation": "kỹ thuật số, số",
+    "exampleSentence": "I bought a digital camera.",
+    "exampleTranslation": "Tôi đã mua một chiếc máy ảnh kỹ thuật số.",
+    "pos": "adjective"
+  },
+  {
+    "word": "electronic",
+    "phonetic": "/ɪˌlekˈtrɑːnɪk/",
+    "definition": "using electricity that passes through computer chips",
+    "translation": "điện tử",
+    "exampleSentence": "This shop sells electronic equipment.",
+    "exampleTranslation": "Cửa hàng này bán thiết bị điện tử.",
+    "pos": "adjective"
+  },
+  {
+    "word": "online",
+    "phonetic": "/ˈɑːnlaɪn/",
+    "definition": "connected to the internet, or available on the internet",
+    "translation": "trực tuyến, trên mạng",
+    "exampleSentence": "I like to shop online.",
+    "exampleTranslation": "Tôi thích mua sắm trực tuyến.",
+    "pos": "adjective"
+  },
+  {
+    "word": "offline",
+    "phonetic": "/ˌɔːfˈlaɪn/",
+    "definition": "not connected to the internet",
+    "translation": "ngoại tuyến, không có mạng",
+    "exampleSentence": "I work offline most of the day.",
+    "exampleTranslation": "Tôi làm việc không cần mạng gần như cả ngày.",
+    "pos": "adverb"
+  }
+]

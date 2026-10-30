@@ -1,0 +1,893 @@
+[
+  {
+    "word": "second",
+    "phonetic": "/ˈsekənd/",
+    "definition": "a unit of time; there are 60 in a minute",
+    "translation": "giây",
+    "exampleSentence": "Wait here for ten seconds.",
+    "exampleTranslation": "Hãy đợi ở đây mười giây.",
+    "pos": "noun"
+  },
+  {
+    "word": "minute",
+    "phonetic": "/ˈmɪnət/",
+    "definition": "a unit of time; there are 60 in an hour",
+    "translation": "phút",
+    "exampleSentence": "It takes ten minutes to walk to school.",
+    "exampleTranslation": "Đi bộ đến trường mất mười phút.",
+    "pos": "noun"
+  },
+  {
+    "word": "hour",
+    "phonetic": "/aʊr/",
+    "definition": "a unit of time; there are 60 minutes in one",
+    "translation": "giờ, tiếng",
+    "exampleSentence": "The class lasts two hours.",
+    "exampleTranslation": "Lớp học kéo dài hai tiếng.",
+    "pos": "noun"
+  },
+  {
+    "word": "day",
+    "phonetic": "/deɪ/",
+    "definition": "a period of 24 hours",
+    "translation": "ngày",
+    "exampleSentence": "We spent three days in Da Nang.",
+    "exampleTranslation": "Chúng tôi đã ở Đà Nẵng ba ngày.",
+    "pos": "noun"
+  },
+  {
+    "word": "night",
+    "phonetic": "/naɪt/",
+    "definition": "the dark part of the day when most people sleep",
+    "translation": "đêm, buổi tối",
+    "exampleSentence": "It was a cold night.",
+    "exampleTranslation": "Đó là một đêm lạnh.",
+    "pos": "noun"
+  },
+  {
+    "word": "week",
+    "phonetic": "/wiːk/",
+    "definition": "a period of seven days",
+    "translation": "tuần",
+    "exampleSentence": "I go to the gym twice a week.",
+    "exampleTranslation": "Tôi đến phòng tập hai lần một tuần.",
+    "pos": "noun"
+  },
+  {
+    "word": "month",
+    "phonetic": "/mʌnθ/",
+    "definition": "one of the 12 named periods of a year",
+    "translation": "tháng",
+    "exampleSentence": "My sister is coming home next month.",
+    "exampleTranslation": "Tháng sau chị tôi sẽ về nhà.",
+    "pos": "noun"
+  },
+  {
+    "word": "year",
+    "phonetic": "/jɪr/",
+    "definition": "a period of 12 months or about 365 days",
+    "translation": "năm",
+    "exampleSentence": "I arrived here two years ago.",
+    "exampleTranslation": "Tôi đến đây cách đây hai năm.",
+    "pos": "noun"
+  },
+  {
+    "word": "decade",
+    "phonetic": "/ˈdekeɪd/",
+    "definition": "a period of 10 years",
+    "translation": "thập kỷ, thập niên",
+    "exampleSentence": "This town has changed a lot in the last decade.",
+    "exampleTranslation": "Thị trấn này đã thay đổi nhiều trong thập kỷ qua.",
+    "pos": "noun"
+  },
+  {
+    "word": "century",
+    "phonetic": "/ˈsentʃəri/",
+    "definition": "a period of 100 years",
+    "translation": "thế kỷ",
+    "exampleSentence": "The church was built in the 13th century.",
+    "exampleTranslation": "Nhà thờ được xây vào thế kỷ 13.",
+    "pos": "noun"
+  },
+  {
+    "word": "morning",
+    "phonetic": "/ˈmɔːrnɪŋ/",
+    "definition": "the early part of the day, before noon",
+    "translation": "buổi sáng",
+    "exampleSentence": "I drink coffee every morning.",
+    "exampleTranslation": "Sáng nào tôi cũng uống cà phê.",
+    "pos": "noun"
+  },
+  {
+    "word": "afternoon",
+    "phonetic": "/ˌæftərˈnuːn/",
+    "definition": "the part of the day between noon and evening",
+    "translation": "buổi chiều",
+    "exampleSentence": "We have a meeting on Thursday afternoon.",
+    "exampleTranslation": "Chúng tôi có cuộc họp vào chiều thứ Năm.",
+    "pos": "noun"
+  },
+  {
+    "word": "evening",
+    "phonetic": "/ˈiːvnɪŋ/",
+    "definition": "the early part of the night before you go to bed",
+    "translation": "buổi tối",
+    "exampleSentence": "I do my homework in the evening.",
+    "exampleTranslation": "Tôi làm bài tập vào buổi tối.",
+    "pos": "noun"
+  },
+  {
+    "word": "midnight",
+    "phonetic": "/ˈmɪdnaɪt/",
+    "definition": "12 o'clock at night",
+    "translation": "nửa đêm, 12 giờ đêm",
+    "exampleSentence": "The train arrives at midnight.",
+    "exampleTranslation": "Tàu đến lúc nửa đêm.",
+    "pos": "noun"
+  },
+  {
+    "word": "noon",
+    "phonetic": "/nuːn/",
+    "definition": "12 o'clock in the daytime",
+    "translation": "buổi trưa, 12 giờ trưa",
+    "exampleSentence": "We left home at noon.",
+    "exampleTranslation": "Chúng tôi rời nhà lúc 12 giờ trưa.",
+    "pos": "noun"
+  },
+  {
+    "word": "midday",
+    "phonetic": "/ˈmɪddeɪ/",
+    "definition": "the middle of the day, around 12 o'clock",
+    "translation": "giữa trưa, buổi trưa",
+    "exampleSentence": "I am meeting my friend at midday.",
+    "exampleTranslation": "Tôi sẽ gặp bạn tôi vào buổi trưa.",
+    "pos": "noun"
+  },
+  {
+    "word": "dawn",
+    "phonetic": "/dɔːn/",
+    "definition": "the time when light first appears in the morning",
+    "translation": "bình minh, rạng sáng",
+    "exampleSentence": "The boats set off at dawn.",
+    "exampleTranslation": "Những chiếc thuyền ra khơi lúc rạng sáng.",
+    "pos": "noun"
+  },
+  {
+    "word": "today",
+    "phonetic": "/təˈdeɪ/",
+    "definition": "on the day that is happening now",
+    "translation": "hôm nay",
+    "exampleSentence": "I am very busy today.",
+    "exampleTranslation": "Hôm nay tôi rất bận.",
+    "pos": "adverb"
+  },
+  {
+    "word": "yesterday",
+    "phonetic": "/ˈjestərdeɪ/",
+    "definition": "on the day before today",
+    "translation": "hôm qua",
+    "exampleSentence": "What did you do yesterday?",
+    "exampleTranslation": "Hôm qua bạn đã làm gì?",
+    "pos": "adverb"
+  },
+  {
+    "word": "tomorrow",
+    "phonetic": "/təˈmɔːroʊ/",
+    "definition": "on the day after today",
+    "translation": "ngày mai",
+    "exampleSentence": "Our class has a test tomorrow.",
+    "exampleTranslation": "Ngày mai lớp chúng tôi có bài kiểm tra.",
+    "pos": "adverb"
+  },
+  {
+    "word": "tonight",
+    "phonetic": "/təˈnaɪt/",
+    "definition": "during the night of this day",
+    "translation": "tối nay, đêm nay",
+    "exampleSentence": "I want to go to bed early tonight.",
+    "exampleTranslation": "Tối nay tôi muốn đi ngủ sớm.",
+    "pos": "adverb"
+  },
+  {
+    "word": "now",
+    "phonetic": "/naʊ/",
+    "definition": "at this time",
+    "translation": "bây giờ, hiện giờ",
+    "exampleSentence": "We now live in the city centre.",
+    "exampleTranslation": "Bây giờ chúng tôi sống ở trung tâm thành phố.",
+    "pos": "adverb"
+  },
+  {
+    "word": "then",
+    "phonetic": "/ðen/",
+    "definition": "at a particular time in the past or future",
+    "translation": "lúc đó, khi đó",
+    "exampleSentence": "I was a student then.",
+    "exampleTranslation": "Lúc đó tôi còn là sinh viên.",
+    "pos": "adverb"
+  },
+  {
+    "word": "soon",
+    "phonetic": "/suːn/",
+    "definition": "in a short time from now",
+    "translation": "sớm, chẳng bao lâu nữa",
+    "exampleSentence": "It will be dark soon.",
+    "exampleTranslation": "Trời sẽ tối sớm thôi.",
+    "pos": "adverb"
+  },
+  {
+    "word": "later",
+    "phonetic": "/ˈleɪtər/",
+    "definition": "after the present time or the time you are talking about",
+    "translation": "sau, lát nữa",
+    "exampleSentence": "I will see you later.",
+    "exampleTranslation": "Lát nữa tôi sẽ gặp bạn.",
+    "pos": "adverb"
+  },
+  {
+    "word": "early",
+    "phonetic": "/ˈɜːrli/",
+    "definition": "before the usual or expected time",
+    "translation": "sớm",
+    "exampleSentence": "The bus was ten minutes early.",
+    "exampleTranslation": "Xe buýt đến sớm mười phút.",
+    "pos": "adjective"
+  },
+  {
+    "word": "late",
+    "phonetic": "/leɪt/",
+    "definition": "after the expected or arranged time",
+    "translation": "muộn, trễ",
+    "exampleSentence": "Sorry I am late.",
+    "exampleTranslation": "Xin lỗi, tôi đến trễ.",
+    "pos": "adjective"
+  },
+  {
+    "word": "on time",
+    "phonetic": "/ɑːn taɪm/",
+    "definition": "at the correct time or the time that was arranged",
+    "translation": "đúng giờ",
+    "exampleSentence": "The bus arrived on time.",
+    "exampleTranslation": "Xe buýt đã đến đúng giờ.",
+    "pos": "phrase"
+  },
+  {
+    "word": "always",
+    "phonetic": "/ˈɔːlweɪz/",
+    "definition": "every time or at all times",
+    "translation": "luôn luôn, lúc nào cũng",
+    "exampleSentence": "I always eat breakfast at home.",
+    "exampleTranslation": "Tôi luôn ăn sáng ở nhà.",
+    "pos": "adverb"
+  },
+  {
+    "word": "never",
+    "phonetic": "/ˈnevər/",
+    "definition": "not at any time",
+    "translation": "không bao giờ, chưa bao giờ",
+    "exampleSentence": "I have never been to Hanoi.",
+    "exampleTranslation": "Tôi chưa bao giờ đến Hà Nội.",
+    "pos": "adverb"
+  },
+  {
+    "word": "sometimes",
+    "phonetic": "/ˈsʌmtaɪmz/",
+    "definition": "on some occasions but not always",
+    "translation": "đôi khi, thỉnh thoảng",
+    "exampleSentence": "I sometimes walk to work.",
+    "exampleTranslation": "Thỉnh thoảng tôi đi bộ đi làm.",
+    "pos": "adverb"
+  },
+  {
+    "word": "often",
+    "phonetic": "/ˈɔːfən/",
+    "definition": "regularly or many times",
+    "translation": "thường, hay",
+    "exampleSentence": "We often eat out on Fridays.",
+    "exampleTranslation": "Chúng tôi thường đi ăn ngoài vào thứ Sáu.",
+    "pos": "adverb"
+  },
+  {
+    "word": "usually",
+    "phonetic": "/ˈjuːʒuəli/",
+    "definition": "on most occasions",
+    "translation": "thường thường, thông thường",
+    "exampleSentence": "I usually get up at six.",
+    "exampleTranslation": "Tôi thường thức dậy lúc sáu giờ.",
+    "pos": "adverb"
+  },
+  {
+    "word": "daily",
+    "phonetic": "/ˈdeɪli/",
+    "definition": "happening or done every day",
+    "translation": "hằng ngày",
+    "exampleSentence": "There are daily flights to Singapore.",
+    "exampleTranslation": "Có các chuyến bay hằng ngày đến Singapore.",
+    "pos": "adjective"
+  },
+  {
+    "word": "weekly",
+    "phonetic": "/ˈwiːkli/",
+    "definition": "happening or done every week",
+    "translation": "hằng tuần",
+    "exampleSentence": "We have a weekly meeting on Monday.",
+    "exampleTranslation": "Chúng tôi có cuộc họp hằng tuần vào thứ Hai.",
+    "pos": "adjective"
+  },
+  {
+    "word": "monthly",
+    "phonetic": "/ˈmʌnθli/",
+    "definition": "happening once a month",
+    "translation": "hằng tháng",
+    "exampleSentence": "I pay my monthly bill online.",
+    "exampleTranslation": "Tôi thanh toán hóa đơn hằng tháng trực tuyến.",
+    "pos": "adjective"
+  },
+  {
+    "word": "yearly",
+    "phonetic": "/ˈjɪrli/",
+    "definition": "happening every year or once a year",
+    "translation": "hằng năm",
+    "exampleSentence": "We have a yearly check-up at work.",
+    "exampleTranslation": "Chúng tôi khám sức khỏe hằng năm ở chỗ làm.",
+    "pos": "adjective"
+  },
+  {
+    "word": "weekend",
+    "phonetic": "/ˈwiːkend/",
+    "definition": "Saturday and Sunday",
+    "translation": "cuối tuần",
+    "exampleSentence": "Are you doing anything this weekend?",
+    "exampleTranslation": "Cuối tuần này bạn có làm gì không?",
+    "pos": "noun"
+  },
+  {
+    "word": "weekday",
+    "phonetic": "/ˈwiːkdeɪ/",
+    "definition": "any day except Saturday and Sunday",
+    "translation": "ngày thường, ngày trong tuần",
+    "exampleSentence": "The shop is closed on weekdays.",
+    "exampleTranslation": "Cửa hàng đóng cửa vào các ngày trong tuần.",
+    "pos": "noun"
+  },
+  {
+    "word": "Monday",
+    "phonetic": "/ˈmʌndi/",
+    "definition": "the day between Sunday and Tuesday",
+    "translation": "thứ Hai",
+    "exampleSentence": "It was raining on Monday.",
+    "exampleTranslation": "Hôm thứ Hai trời mưa.",
+    "pos": "noun"
+  },
+  {
+    "word": "Tuesday",
+    "phonetic": "/ˈtuːzdi/",
+    "definition": "the day between Monday and Wednesday",
+    "translation": "thứ Ba",
+    "exampleSentence": "The sale starts on Tuesday.",
+    "exampleTranslation": "Đợt giảm giá bắt đầu vào thứ Ba.",
+    "pos": "noun"
+  },
+  {
+    "word": "Wednesday",
+    "phonetic": "/ˈwenzdi/",
+    "definition": "the day between Tuesday and Thursday",
+    "translation": "thứ Tư",
+    "exampleSentence": "I have an English class on Wednesday.",
+    "exampleTranslation": "Tôi có lớp tiếng Anh vào thứ Tư.",
+    "pos": "noun"
+  },
+  {
+    "word": "Thursday",
+    "phonetic": "/ˈθɜːrzdi/",
+    "definition": "the day between Wednesday and Friday",
+    "translation": "thứ Năm",
+    "exampleSentence": "We are going to the market on Thursday.",
+    "exampleTranslation": "Chúng tôi sẽ đi chợ vào thứ Năm.",
+    "pos": "noun"
+  },
+  {
+    "word": "Friday",
+    "phonetic": "/ˈfraɪdi/",
+    "definition": "the day between Thursday and Saturday",
+    "translation": "thứ Sáu",
+    "exampleSentence": "My birthday is on Friday.",
+    "exampleTranslation": "Sinh nhật tôi vào thứ Sáu.",
+    "pos": "noun"
+  },
+  {
+    "word": "Saturday",
+    "phonetic": "/ˈsætərdi/",
+    "definition": "the day between Friday and Sunday",
+    "translation": "thứ Bảy",
+    "exampleSentence": "We went for a picnic on Saturday.",
+    "exampleTranslation": "Chúng tôi đã đi dã ngoại vào thứ Bảy.",
+    "pos": "noun"
+  },
+  {
+    "word": "Sunday",
+    "phonetic": "/ˈsʌndi/",
+    "definition": "the day between Saturday and Monday",
+    "translation": "Chủ nhật",
+    "exampleSentence": "We visit our grandparents on Sunday.",
+    "exampleTranslation": "Chúng tôi thăm ông bà vào Chủ nhật.",
+    "pos": "noun"
+  },
+  {
+    "word": "January",
+    "phonetic": "/ˈdʒænjueri/",
+    "definition": "the first month of the year",
+    "translation": "tháng Một, tháng giêng",
+    "exampleSentence": "It is very cold in January.",
+    "exampleTranslation": "Tháng Một trời rất lạnh.",
+    "pos": "noun"
+  },
+  {
+    "word": "February",
+    "phonetic": "/ˈfebjueri/",
+    "definition": "the second month of the year",
+    "translation": "tháng Hai",
+    "exampleSentence": "My sister was born in February.",
+    "exampleTranslation": "Chị tôi sinh vào tháng Hai.",
+    "pos": "noun"
+  },
+  {
+    "word": "March",
+    "phonetic": "/mɑːrtʃ/",
+    "definition": "the third month of the year",
+    "translation": "tháng Ba",
+    "exampleSentence": "The school year ends in March.",
+    "exampleTranslation": "Năm học kết thúc vào tháng Ba.",
+    "pos": "noun"
+  },
+  {
+    "word": "April",
+    "phonetic": "/ˈeɪprəl/",
+    "definition": "the fourth month of the year",
+    "translation": "tháng Tư",
+    "exampleSentence": "We are going to Cuba next April.",
+    "exampleTranslation": "Tháng Tư năm sau chúng tôi sẽ đi Cuba.",
+    "pos": "noun"
+  },
+  {
+    "word": "May",
+    "phonetic": "/meɪ/",
+    "definition": "the fifth month of the year",
+    "translation": "tháng Năm",
+    "exampleSentence": "My birthday is in May.",
+    "exampleTranslation": "Sinh nhật tôi vào tháng Năm.",
+    "pos": "noun"
+  },
+  {
+    "word": "June",
+    "phonetic": "/dʒuːn/",
+    "definition": "the sixth month of the year",
+    "translation": "tháng Sáu",
+    "exampleSentence": "I finished school last June.",
+    "exampleTranslation": "Tôi tốt nghiệp vào tháng Sáu năm ngoái.",
+    "pos": "noun"
+  },
+  {
+    "word": "July",
+    "phonetic": "/dʒʊˈlaɪ/",
+    "definition": "the seventh month of the year",
+    "translation": "tháng Bảy",
+    "exampleSentence": "We often travel in July.",
+    "exampleTranslation": "Chúng tôi thường đi du lịch vào tháng Bảy.",
+    "pos": "noun"
+  },
+  {
+    "word": "August",
+    "phonetic": "/ˈɔːɡəst/",
+    "definition": "the eighth month of the year",
+    "translation": "tháng Tám",
+    "exampleSentence": "I was there last August.",
+    "exampleTranslation": "Tháng Tám năm ngoái tôi đã ở đó.",
+    "pos": "noun"
+  },
+  {
+    "word": "September",
+    "phonetic": "/sepˈtembər/",
+    "definition": "the ninth month of the year",
+    "translation": "tháng Chín",
+    "exampleSentence": "School starts in September.",
+    "exampleTranslation": "Năm học bắt đầu vào tháng Chín.",
+    "pos": "noun"
+  },
+  {
+    "word": "October",
+    "phonetic": "/ɑːkˈtoʊbər/",
+    "definition": "the tenth month of the year",
+    "translation": "tháng Mười",
+    "exampleSentence": "We moved here last October.",
+    "exampleTranslation": "Chúng tôi chuyển đến đây vào tháng Mười năm ngoái.",
+    "pos": "noun"
+  },
+  {
+    "word": "November",
+    "phonetic": "/noʊˈvembər/",
+    "definition": "the 11th month of the year",
+    "translation": "tháng Mười Một",
+    "exampleSentence": "It gets cold in November.",
+    "exampleTranslation": "Tháng Mười Một trời trở lạnh.",
+    "pos": "noun"
+  },
+  {
+    "word": "December",
+    "phonetic": "/dɪˈsembər/",
+    "definition": "the 12th month of the year",
+    "translation": "tháng Mười Hai",
+    "exampleSentence": "We go home in December.",
+    "exampleTranslation": "Tháng Mười Hai chúng tôi về quê.",
+    "pos": "noun"
+  },
+  {
+    "word": "alarm",
+    "phonetic": "/əˈlɑːrm/",
+    "definition": "an alarm clock",
+    "translation": "đồng hồ báo thức, chuông báo thức",
+    "exampleSentence": "I set the alarm for six o'clock.",
+    "exampleTranslation": "Tôi đặt chuông báo thức lúc sáu giờ.",
+    "pos": "noun"
+  },
+  {
+    "word": "stopwatch",
+    "phonetic": "/ˈstɑːpwɑːtʃ/",
+    "definition": "a watch that measures how long something takes",
+    "translation": "đồng hồ bấm giờ",
+    "exampleSentence": "The coach used a stopwatch to time the race.",
+    "exampleTranslation": "Huấn luyện viên dùng đồng hồ bấm giờ để tính giờ cuộc đua.",
+    "pos": "noun"
+  },
+  {
+    "word": "minute hand",
+    "phonetic": "/ˈmɪnət hænd/",
+    "definition": "the long hand on a clock that shows the minutes",
+    "translation": "kim phút",
+    "exampleSentence": "The minute hand points to twelve at one o'clock.",
+    "exampleTranslation": "Lúc một giờ, kim phút chỉ số mười hai.",
+    "pos": "noun"
+  },
+  {
+    "word": "o'clock",
+    "phonetic": "/əˈklɑːk/",
+    "definition": "used after a number to say the exact hour",
+    "translation": "giờ (đúng)",
+    "exampleSentence": "The film starts at eight o'clock.",
+    "exampleTranslation": "Bộ phim bắt đầu lúc tám giờ.",
+    "pos": "adverb"
+  },
+  {
+    "word": "half past",
+    "phonetic": "/hæf pæst/",
+    "definition": "30 minutes after a particular hour",
+    "translation": "(giờ) rưỡi, ba mươi phút",
+    "exampleSentence": "It is half past six.",
+    "exampleTranslation": "Bây giờ là sáu giờ rưỡi.",
+    "pos": "phrase"
+  },
+  {
+    "word": "quarter past",
+    "phonetic": "/ˈkwɔːrtər pæst/",
+    "definition": "15 minutes after a particular hour",
+    "translation": "(giờ) mười lăm phút",
+    "exampleSentence": "I will meet you at a quarter past ten.",
+    "exampleTranslation": "Tôi sẽ gặp bạn lúc mười giờ mười lăm.",
+    "pos": "phrase"
+  },
+  {
+    "word": "quarter to",
+    "phonetic": "/ˈkwɔːrtər tuː/",
+    "definition": "15 minutes before a particular hour",
+    "translation": "(giờ) kém mười lăm phút",
+    "exampleSentence": "The train leaves at a quarter to nine.",
+    "exampleTranslation": "Tàu rời ga lúc chín giờ kém mười lăm.",
+    "pos": "phrase"
+  },
+  {
+    "word": "a.m.",
+    "phonetic": "/ˌeɪ ˈem/",
+    "definition": "used after a time between midnight and noon",
+    "translation": "giờ sáng (từ nửa đêm đến trưa)",
+    "exampleSentence": "The shop opens at 9 a.m.",
+    "exampleTranslation": "Cửa hàng mở cửa lúc 9 giờ sáng.",
+    "pos": "adverb"
+  },
+  {
+    "word": "p.m.",
+    "phonetic": "/ˌpiː ˈem/",
+    "definition": "used after a time between noon and midnight",
+    "translation": "giờ chiều, giờ tối (từ trưa đến nửa đêm)",
+    "exampleSentence": "The meeting starts at 2.30 p.m.",
+    "exampleTranslation": "Cuộc họp bắt đầu lúc 2 giờ 30 chiều.",
+    "pos": "adverb"
+  },
+  {
+    "word": "time",
+    "phonetic": "/taɪm/",
+    "definition": "the hour and minute shown on a clock",
+    "translation": "giờ, thời gian",
+    "exampleSentence": "What time is it?",
+    "exampleTranslation": "Mấy giờ rồi?",
+    "pos": "noun"
+  },
+  {
+    "word": "moment",
+    "phonetic": "/ˈmoʊmənt/",
+    "definition": "a very short period of time",
+    "translation": "lúc, chốc lát",
+    "exampleSentence": "Wait a moment, please.",
+    "exampleTranslation": "Xin chờ một chút.",
+    "pos": "noun"
+  },
+  {
+    "word": "period",
+    "phonetic": "/ˈpɪriəd/",
+    "definition": "a length of time with a beginning and an end",
+    "translation": "khoảng thời gian, giai đoạn",
+    "exampleSentence": "The shop is closed for a short period.",
+    "exampleTranslation": "Cửa hàng đóng cửa trong một thời gian ngắn.",
+    "pos": "noun"
+  },
+  {
+    "word": "era",
+    "phonetic": "/ˈɪrə/",
+    "definition": "a long period of time known for particular events or qualities",
+    "translation": "thời đại, kỷ nguyên",
+    "exampleSentence": "We live in an era of fast technology.",
+    "exampleTranslation": "Chúng ta sống trong thời đại công nghệ phát triển nhanh.",
+    "pos": "noun"
+  },
+  {
+    "word": "lifetime",
+    "phonetic": "/ˈlaɪftaɪm/",
+    "definition": "the period of time during which someone is alive",
+    "translation": "cuộc đời, đời người",
+    "exampleSentence": "Many things change in a lifetime.",
+    "exampleTranslation": "Nhiều thứ thay đổi trong một đời người.",
+    "pos": "noun"
+  },
+  {
+    "word": "past",
+    "phonetic": "/pæst/",
+    "definition": "the time before the present",
+    "translation": "quá khứ",
+    "exampleSentence": "The lake was smaller in the past.",
+    "exampleTranslation": "Trước đây cái hồ nhỏ hơn.",
+    "pos": "noun"
+  },
+  {
+    "word": "future",
+    "phonetic": "/ˈfjuːtʃər/",
+    "definition": "the time after the present",
+    "translation": "tương lai",
+    "exampleSentence": "What are your plans for the future?",
+    "exampleTranslation": "Kế hoạch của bạn cho tương lai là gì?",
+    "pos": "noun"
+  },
+  {
+    "word": "last",
+    "phonetic": "/læst/",
+    "definition": "most recent, before now",
+    "translation": "vừa qua, trước, cuối cùng (kỳ trước)",
+    "exampleSentence": "I saw my cousin last week.",
+    "exampleTranslation": "Tuần trước tôi đã gặp anh họ.",
+    "pos": "determiner"
+  },
+  {
+    "word": "next",
+    "phonetic": "/nekst/",
+    "definition": "coming after the present one",
+    "translation": "tiếp theo, sau, tới",
+    "exampleSentence": "The next bus is at ten.",
+    "exampleTranslation": "Chuyến xe buýt tiếp theo lúc mười giờ.",
+    "pos": "determiner"
+  },
+  {
+    "word": "every",
+    "phonetic": "/ˈevri/",
+    "definition": "used to say how often something happens",
+    "translation": "mỗi, mọi, hằng",
+    "exampleSentence": "We have lunch together every day.",
+    "exampleTranslation": "Chúng tôi ăn trưa cùng nhau mỗi ngày.",
+    "pos": "determiner"
+  },
+  {
+    "word": "before",
+    "phonetic": "/bɪˈfɔːr/",
+    "definition": "earlier than something or someone",
+    "translation": "trước, trước khi",
+    "exampleSentence": "Please call me before noon.",
+    "exampleTranslation": "Hãy gọi cho tôi trước buổi trưa nhé.",
+    "pos": "preposition"
+  },
+  {
+    "word": "after",
+    "phonetic": "/ˈæftər/",
+    "definition": "when something has happened or a time has passed",
+    "translation": "sau, sau khi",
+    "exampleSentence": "Let us go for a walk after dinner.",
+    "exampleTranslation": "Chúng ta đi dạo sau bữa tối nhé.",
+    "pos": "preposition"
+  },
+  {
+    "word": "during",
+    "phonetic": "/ˈdʊrɪŋ/",
+    "definition": "from the beginning to the end of a period of time",
+    "translation": "trong suốt, trong lúc",
+    "exampleSentence": "I worked as a waiter during the summer.",
+    "exampleTranslation": "Tôi làm phục vụ trong suốt mùa hè.",
+    "pos": "preposition"
+  },
+  {
+    "word": "until",
+    "phonetic": "/ʌnˈtɪl/",
+    "definition": "continuing up to a particular time, then stopping",
+    "translation": "cho đến, đến tận",
+    "exampleSentence": "The shop is open until nine.",
+    "exampleTranslation": "Cửa hàng mở cửa đến chín giờ.",
+    "pos": "preposition"
+  },
+  {
+    "word": "since",
+    "phonetic": "/sɪns/",
+    "definition": "from a time in the past until now",
+    "translation": "kể từ, từ khi",
+    "exampleSentence": "We have been waiting since two o'clock.",
+    "exampleTranslation": "Chúng tôi đã đợi từ hai giờ.",
+    "pos": "preposition"
+  },
+  {
+    "word": "ago",
+    "phonetic": "/əˈɡoʊ/",
+    "definition": "used to show how long before now something happened",
+    "translation": "trước đây, cách đây",
+    "exampleSentence": "My grandfather died ten years ago.",
+    "exampleTranslation": "Ông tôi mất cách đây mười năm.",
+    "pos": "adverb"
+  },
+  {
+    "word": "already",
+    "phonetic": "/ɔːlˈredi/",
+    "definition": "before now or before the time expected",
+    "translation": "đã, rồi",
+    "exampleSentence": "I have already eaten lunch.",
+    "exampleTranslation": "Tôi đã ăn trưa rồi.",
+    "pos": "adverb"
+  },
+  {
+    "word": "yet",
+    "phonetic": "/jet/",
+    "definition": "used in questions and negatives about something expected",
+    "translation": "chưa, đã ... chưa",
+    "exampleSentence": "I have not finished yet.",
+    "exampleTranslation": "Tôi vẫn chưa xong.",
+    "pos": "adverb"
+  },
+  {
+    "word": "still",
+    "phonetic": "/stɪl/",
+    "definition": "continuing to be the same as before",
+    "translation": "vẫn, vẫn còn",
+    "exampleSentence": "My grandparents still live in the village.",
+    "exampleTranslation": "Ông bà tôi vẫn sống ở làng.",
+    "pos": "adverb"
+  },
+  {
+    "word": "once",
+    "phonetic": "/wʌns/",
+    "definition": "on one occasion only",
+    "translation": "một lần",
+    "exampleSentence": "I have only met Lan once.",
+    "exampleTranslation": "Tôi mới gặp Lan có một lần.",
+    "pos": "adverb"
+  },
+  {
+    "word": "twice",
+    "phonetic": "/twaɪs/",
+    "definition": "two times",
+    "translation": "hai lần",
+    "exampleSentence": "I call my parents twice a week.",
+    "exampleTranslation": "Tôi gọi điện cho bố mẹ hai lần một tuần.",
+    "pos": "adverb"
+  },
+  {
+    "word": "recently",
+    "phonetic": "/ˈriːsəntli/",
+    "definition": "not long ago",
+    "translation": "gần đây, mới đây",
+    "exampleSentence": "I have recently moved to a new house.",
+    "exampleTranslation": "Gần đây tôi mới chuyển sang nhà mới.",
+    "pos": "adverb"
+  },
+  {
+    "word": "nowadays",
+    "phonetic": "/ˈnaʊədeɪz/",
+    "definition": "now, compared with the past",
+    "translation": "ngày nay, bây giờ",
+    "exampleSentence": "Nowadays most people have a smartphone.",
+    "exampleTranslation": "Ngày nay hầu hết mọi người đều có điện thoại thông minh.",
+    "pos": "adverb"
+  },
+  {
+    "word": "diary",
+    "phonetic": "/ˈdaɪri/",
+    "definition": "a book with a space for each day where you write plans",
+    "translation": "sổ tay ghi lịch, nhật ký",
+    "exampleSentence": "Did you write the meeting in your diary?",
+    "exampleTranslation": "Bạn đã ghi cuộc họp vào sổ chưa?",
+    "pos": "noun"
+  },
+  {
+    "word": "schedule",
+    "phonetic": "/ˈskedʒʊl/",
+    "definition": "a plan of what you will do and when",
+    "translation": "lịch trình, thời gian biểu",
+    "exampleSentence": "I have a busy schedule this week.",
+    "exampleTranslation": "Tuần này tôi có lịch trình rất bận.",
+    "pos": "noun"
+  },
+  {
+    "word": "appointment",
+    "phonetic": "/əˈpɔɪntmənt/",
+    "definition": "an arrangement to meet at an agreed time and place",
+    "translation": "cuộc hẹn",
+    "exampleSentence": "I have a dentist appointment at three.",
+    "exampleTranslation": "Tôi có hẹn với nha sĩ lúc ba giờ.",
+    "pos": "noun"
+  },
+  {
+    "word": "deadline",
+    "phonetic": "/ˈdedlaɪn/",
+    "definition": "the date or time by which you must finish something",
+    "translation": "hạn chót, thời hạn",
+    "exampleSentence": "The deadline for the homework is Friday.",
+    "exampleTranslation": "Hạn nộp bài tập về nhà là thứ Sáu.",
+    "pos": "noun"
+  },
+  {
+    "word": "festival",
+    "phonetic": "/ˈfestəvəl/",
+    "definition": "a special occasion when people celebrate something",
+    "translation": "lễ hội, ngày hội",
+    "exampleSentence": "The town has a music festival every summer.",
+    "exampleTranslation": "Thị trấn có một lễ hội âm nhạc vào mỗi mùa hè.",
+    "pos": "noun"
+  },
+  {
+    "word": "New Year",
+    "phonetic": "/nuː jɪr/",
+    "definition": "the time when people celebrate the start of a new year",
+    "translation": "Năm mới, Tết",
+    "exampleSentence": "We always go home for New Year.",
+    "exampleTranslation": "Dịp Năm mới chúng tôi luôn về quê.",
+    "pos": "noun"
+  },
+  {
+    "word": "Christmas",
+    "phonetic": "/ˈkrɪsməs/",
+    "definition": "the time around December 25th when people celebrate the birth of Christ",
+    "translation": "Giáng sinh, Noel",
+    "exampleSentence": "We see our family at Christmas.",
+    "exampleTranslation": "Chúng tôi gặp gia đình vào dịp Giáng sinh.",
+    "pos": "noun"
+  },
+  {
+    "word": "Easter",
+    "phonetic": "/ˈiːstər/",
+    "definition": "a Christian holy day in March or April",
+    "translation": "lễ Phục sinh",
+    "exampleSentence": "We usually go away at Easter.",
+    "exampleTranslation": "Chúng tôi thường đi xa vào dịp lễ Phục sinh.",
+    "pos": "noun"
+  },
+  {
+    "word": "leap year",
+    "phonetic": "/liːp jɪr/",
+    "definition": "a year with 366 days, which comes every four years",
+    "translation": "năm nhuận",
+    "exampleSentence": "This year is a leap year.",
+    "exampleTranslation": "Năm nay là năm nhuận.",
+    "pos": "noun"
+  }
+]

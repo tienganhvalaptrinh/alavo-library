@@ -1,0 +1,218 @@
+[
+  {
+    "word": "make breakfast",
+    "phonetic": "/ˌmeɪk ˈbrekfəst/",
+    "definition": "to prepare the first meal of the day",
+    "translation": "làm bữa sáng, nấu bữa sáng",
+    "exampleSentence": "My dad makes breakfast on weekends.",
+    "exampleTranslation": "Cuối tuần bố tôi làm bữa sáng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "make toast",
+    "phonetic": "/ˌmeɪk ˈtoʊst/",
+    "definition": "to heat slices of bread until they are brown",
+    "translation": "nướng bánh mì",
+    "exampleSentence": "I make toast and eggs for breakfast.",
+    "exampleTranslation": "Tôi nướng bánh mì và làm trứng cho bữa sáng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "make a sandwich",
+    "phonetic": "/ˌmeɪk ə ˈsænwɪtʃ/",
+    "definition": "to put food between two slices of bread",
+    "translation": "làm bánh mì kẹp",
+    "exampleSentence": "She makes a sandwich for lunch.",
+    "exampleTranslation": "Cô ấy làm một chiếc bánh mì kẹp cho bữa trưa.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "make a cup of tea",
+    "phonetic": "/ˌmeɪk ə ˌkʌp əv ˈtiː/",
+    "definition": "to prepare tea in a cup",
+    "translation": "pha một tách trà",
+    "exampleSentence": "Let me make a cup of tea.",
+    "exampleTranslation": "Để tôi pha một tách trà nhé.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "make coffee",
+    "phonetic": "/ˌmeɪk ˈkɔːfi/",
+    "definition": "to prepare coffee to drink",
+    "translation": "pha cà phê",
+    "exampleSentence": "I make coffee every morning.",
+    "exampleTranslation": "Sáng nào tôi cũng pha cà phê.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pour a glass of juice",
+    "phonetic": "/ˌpɔːr ə ˌɡlæs əv ˈdʒuːs/",
+    "definition": "to let juice flow from a bottle into a glass",
+    "translation": "rót một ly nước ép",
+    "exampleSentence": "He poured a glass of juice for his sister.",
+    "exampleTranslation": "Bạn ấy rót cho em gái một ly nước ép.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pour milk",
+    "phonetic": "/ˌpɔːr ˈmɪlk/",
+    "definition": "to let milk flow from a bottle or box into a cup or bowl",
+    "translation": "rót sữa",
+    "exampleSentence": "I pour milk on my cereal.",
+    "exampleTranslation": "Tôi rót sữa vào bát ngũ cốc.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pour cereal",
+    "phonetic": "/ˌpɔːr ˈsɪriəl/",
+    "definition": "to put breakfast cereal into a bowl",
+    "translation": "đổ ngũ cốc ra bát",
+    "exampleSentence": "The kids pour cereal into their bowls.",
+    "exampleTranslation": "Bọn trẻ đổ ngũ cốc ra bát.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "boil an egg",
+    "phonetic": "/ˌbɔɪl ən ˈeɡ/",
+    "definition": "to cook an egg in hot water",
+    "translation": "luộc trứng",
+    "exampleSentence": "It takes ten minutes to boil an egg.",
+    "exampleTranslation": "Luộc một quả trứng mất mười phút.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "butter the bread",
+    "phonetic": "/ˌbʌtər ðə ˈbred/",
+    "definition": "to spread butter on bread",
+    "translation": "phết bơ lên bánh mì",
+    "exampleSentence": "I butter the bread and add some cheese.",
+    "exampleTranslation": "Tôi phết bơ lên bánh mì rồi thêm ít phô mai.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "spread jam",
+    "phonetic": "/ˌspred ˈdʒæm/",
+    "definition": "to put jam on bread in a thin layer",
+    "translation": "phết mứt",
+    "exampleSentence": "She spreads jam on her toast.",
+    "exampleTranslation": "Cô ấy phết mứt lên bánh mì nướng.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "lay the table",
+    "phonetic": "/ˌleɪ ðə ˈteɪbl/",
+    "definition": "to put plates, forks and knives on the table; British English",
+    "translation": "dọn bàn ăn, bày bàn",
+    "exampleSentence": "I lay the table while Mum cooks.",
+    "exampleTranslation": "Tôi dọn bàn ăn trong lúc mẹ nấu.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "wipe the table",
+    "phonetic": "/ˌwaɪp ðə ˈteɪbl/",
+    "definition": "to clean the table with a cloth",
+    "translation": "lau bàn",
+    "exampleSentence": "Wipe the table with a damp cloth.",
+    "exampleTranslation": "Hãy lau bàn bằng khăn ẩm.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pass the salt",
+    "phonetic": "/ˌpæs ðə ˈsɔːlt/",
+    "definition": "to give the salt to someone at the table",
+    "translation": "chuyền lọ muối",
+    "exampleSentence": "Could you pass the salt, please?",
+    "exampleTranslation": "Bạn chuyền giúp tôi lọ muối được không?",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "eat up",
+    "phonetic": "/ˌiːt ˈʌp/",
+    "definition": "to eat all the food on your plate",
+    "translation": "ăn hết",
+    "exampleSentence": "Eat up your vegetables.",
+    "exampleTranslation": "Ăn hết rau của con đi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "finish your meal",
+    "phonetic": "/ˌfɪnɪʃ jər ˈmiːl/",
+    "definition": "to eat all of your food",
+    "translation": "ăn xong bữa",
+    "exampleSentence": "Finish your meal before you watch TV.",
+    "exampleTranslation": "Ăn xong bữa rồi mới được xem tivi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "have seconds",
+    "phonetic": "/hæv ˈsekəndz/",
+    "definition": "to take a second helping of food",
+    "translation": "ăn thêm một suất nữa",
+    "exampleSentence": "He had seconds because the soup was so good.",
+    "exampleTranslation": "Bạn ấy ăn thêm một bát vì món súp rất ngon.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "dry the dishes",
+    "phonetic": "/ˌdraɪ ðə ˈdɪʃɪz/",
+    "definition": "to remove water from the plates and glasses with a cloth",
+    "translation": "lau khô bát đĩa",
+    "exampleSentence": "I wash and my brother dries the dishes.",
+    "exampleTranslation": "Tôi rửa còn em trai lau khô bát đĩa.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "put away the dishes",
+    "phonetic": "/ˌpʊt əˌweɪ ðə ˈdɪʃɪz/",
+    "definition": "to put clean plates and glasses back in the cupboard",
+    "translation": "cất bát đĩa",
+    "exampleSentence": "Please put away the dishes when they are dry.",
+    "exampleTranslation": "Hãy cất bát đĩa khi chúng đã khô.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "pack a lunch",
+    "phonetic": "/ˌpæk ə ˈlʌntʃ/",
+    "definition": "to put food in a bag or box to eat later",
+    "translation": "chuẩn bị cơm mang theo",
+    "exampleSentence": "I pack a lunch for my son every morning.",
+    "exampleTranslation": "Sáng nào tôi cũng chuẩn bị cơm trưa cho con trai.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "heat up leftovers",
+    "phonetic": "/ˌhiːt ˌʌp ˈleftoʊvərz/",
+    "definition": "to make food from an earlier meal hot again",
+    "translation": "hâm nóng đồ ăn thừa",
+    "exampleSentence": "We heat up leftovers for lunch.",
+    "exampleTranslation": "Chúng tôi hâm nóng đồ ăn thừa cho bữa trưa.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "order takeaway",
+    "phonetic": "/ˌɔːrdər ˈteɪkəweɪ/",
+    "definition": "to ask a restaurant to prepare food that you take home",
+    "translation": "gọi đồ ăn mang về",
+    "exampleSentence": "I'm too tired to cook. Let's order takeaway.",
+    "exampleTranslation": "Tôi mệt quá không nấu nổi. Mình gọi đồ ăn mang về đi.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "skip breakfast",
+    "phonetic": "/ˌskɪp ˈbrekfəst/",
+    "definition": "to not eat breakfast",
+    "translation": "bỏ bữa sáng",
+    "exampleSentence": "I sometimes skip breakfast when I am late.",
+    "exampleTranslation": "Đôi khi tôi bỏ bữa sáng khi bị trễ giờ.",
+    "pos": "verb phrase"
+  },
+  {
+    "word": "eat in",
+    "phonetic": "/ˌiːt ˈɪn/",
+    "definition": "to have a meal at home",
+    "translation": "ăn ở nhà",
+    "exampleSentence": "We usually eat in during the week.",
+    "exampleTranslation": "Trong tuần chúng tôi thường ăn ở nhà.",
+    "pos": "verb phrase"
+  }
+]
